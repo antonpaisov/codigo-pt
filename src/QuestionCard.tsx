@@ -52,6 +52,7 @@ export default function QuestionCard({ q, lang, t, selected, reveal, onSelect }:
             >
               <span className="letter">{LETTERS[i]}</span>
               <Bi pt={o} tr={tr?.o[i]} />
+              {reveal && i === selected && <span className="yours">{t.yourAnswer}</span>}
             </button>
           )
         })}
@@ -63,8 +64,14 @@ export default function QuestionCard({ q, lang, t, selected, reveal, onSelect }:
               {selected === q.ans ? t.right : `${t.wrong} ${LETTERS[q.ans]})`}
             </p>
           )}
-          {tr && <p>{tr.x}</p>}
-          {!tr && <p>{q.en.x}</p>}
+          {selected !== null && selected !== q.ans && (tr ?? q.en).w?.[selected] && (
+            <p className="why-wrong">
+              <b>{LETTERS[selected]})</b> {(tr ?? q.en).w![selected]}
+            </p>
+          )}
+          <p>
+            <b>{LETTERS[q.ans]})</b> {(tr ?? q.en).x}
+          </p>
           {q.conf === 'low' && <p className="warn">⚠️ {t.lowConf}</p>}
           <a className="report" href={reportUrl(q)} target="_blank" rel="noreferrer">
             {t.report}

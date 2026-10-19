@@ -19,7 +19,11 @@ etc. If the text is fully self-contained you may skip the image.
   "categories": ["AM", "A", "B", "C", "D"],
   "topic": "safe_driving",
   "en": { "q": "...", "options": ["...", "..."], "explanation": "..." },
-  "uk": { "q": "...", "options": ["...", "..."], "explanation": "..." }
+  "uk": { "q": "...", "options": ["...", "..."], "explanation": "..." },
+  "why_wrong": {
+    "b": { "en": "...", "uk": "..." },
+    "c": { "en": "...", "uk": "..." }
+  }
 }
 ```
 
@@ -49,6 +53,10 @@ etc. If the text is fully self-contained you may skip the image.
   `explanation`: 1–3 short sentences on why the correct answer is right (cite the rule
   or reasoning; mention the image if it matters). Ukrainian explanation = translation of
   the English one.
+- `why_wrong`: ONLY for questions with 3 or more options (omit it for 2-option
+  questions). One entry per WRONG option key: one short sentence saying why a
+  learner who picked it is mistaken (the misconception or the rule it breaks), in
+  English and Ukrainian. Don't just restate "this is not the correct answer".
 
 ## Glossary (use consistently)
 

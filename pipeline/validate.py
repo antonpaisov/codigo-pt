@@ -45,6 +45,11 @@ def validate(chunk):
                 errs.append(f"{q['id']}: {lang} missing q/explanation")
             if len(t.get("options") or []) != len(keys):
                 errs.append(f"{q['id']}: {lang} has {len(t.get('options') or [])} options, expected {len(keys)}")
+        wrong_keys = [k for k in keys if k != o.get("answer")]
+        ww = o.get("why_wrong") or {}
+        if len(keys) >= 3 and (sorted(ww) != sorted(wrong_keys)
+                               or any(not (ww[k] or {}).get("en") or not (ww[k] or {}).get("uk") for k in ww)):
+            errs.append(f"{q['id']}: why_wrong must have en+uk for exactly {wrong_keys}, got {sorted(ww)}")
     extra = set(by_id) - {q["id"] for q in src}
     if extra:
         errs.append(f"{chunk}: unexpected ids {sorted(extra)}")

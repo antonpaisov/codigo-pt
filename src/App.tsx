@@ -288,6 +288,7 @@ function Exam({ pool, maxErrors, minutes, settings, t, record, onExit }: {
   const [answers, setAnswers] = useState<(number | null)[]>(() => pool.map(() => null))
   const [done, setDone] = useState(false)
   const [showTr, setShowTr] = useState(false)
+  const [onlyMistakes, setOnlyMistakes] = useState(true)
   const [deadline] = useState(() => Date.now() + minutes * 60_000)
   const [now, setNow] = useState(() => Date.now())
 
@@ -313,6 +314,11 @@ function Exam({ pool, maxErrors, minutes, settings, t, record, onExit }: {
   if (done) {
     const errors = pool.filter((q, k) => answers[k] !== q.ans).length
     const passed = errors <= maxErrors
+    // mistakes first, keeping exam order within each group
+    const order = pool
+      .map((q, k) => ({ q, k, ok: answers[k] === q.ans }))
+      .sort((a, b) => Number(a.ok) - Number(b.ok))
+      .filter((x) => !onlyMistakes || !x.ok)
     return (
       <main>
         <TopBar title={t.review} onExit={onExit} t={t} showTr={showTr} setShowTr={setShowTr} lang={settings.lang} />
@@ -320,8 +326,13 @@ function Exam({ pool, maxErrors, minutes, settings, t, record, onExit }: {
           <h2>{passed ? t.passed : t.failed}</h2>
           <p>{errors} {t.errors} ({maxErrors} {t.allowed}) · {pool.length - errors}/{pool.length}</p>
           {left === 0 && <p>{t.timeUp}</p>}
+          {errors > 0 && errors < pool.length && (
+            <label className="only-mistakes">
+              <input type="checkbox" checked={onlyMistakes} onChange={(e) => setOnlyMistakes(e.target.checked)} /> {t.onlyMistakes}
+            </label>
+          )}
         </section>
-        {pool.map((q, k) => (
+        {order.map(({ q, k }) => (
           <div key={q.id} className={answers[k] === q.ans ? 'review-ok' : 'review-bad'}>
             <p className="review-num">#{k + 1} {answers[k] === null && `· ${t.unanswered}`}</p>
             <QuestionCard q={q} lang={showTr ? settings.lang : 'none'} t={t} selected={answers[k]} reveal />

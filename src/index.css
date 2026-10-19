@@ -121,3 +121,8 @@ button.next { display: block; width: 100%; margin-top: 12px; text-align: center;
 .review-num { font-weight: 600; margin: 16px 0 6px; color: var(--muted); }
 .review-bad .review-num { color: var(--bad); }
 .preset { width: 100%; }
+.option .yours { font-size: .75rem; font-weight: 600; color: var(--muted); white-space: nowrap; align-self: center; }
+.why-wrong { color: var(--bad); }
+.why-wrong b, .explain p b { margin-right: 4px; }
+.only-mistakes { display: inline-flex; gap: 6px; align-items: center; font-size: .9rem; color: var(--muted); }
+.only-mistakes input { padding: 0; }

@@ -29,6 +29,11 @@ for q in pt:
         "en": {"q": o["en"]["q"], "o": o["en"]["options"], "x": o["en"]["explanation"]},
         "uk": {"q": o["uk"]["q"], "o": o["uk"]["options"], "x": o["uk"]["explanation"]},
     })
+    keys = [x["key"] for x in q["options"]]
+    if o.get("why_wrong"):
+        # index-aligned with options; null for the correct one / missing notes
+        for lang in ("en", "uk"):
+            out[-1][lang]["w"] = [(o["why_wrong"].get(k) or {}).get(lang) for k in keys]
 
 dest = ROOT / "public/data/questions.json"
 dest.parent.mkdir(parents=True, exist_ok=True)

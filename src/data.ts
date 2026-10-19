@@ -9,8 +9,9 @@ export interface Question {
   ans: number
   conf: 'high' | 'medium' | 'low'
   pt: { q: string; o: string[] }
-  en: { q: string; o: string[]; x: string }
-  uk: { q: string; o: string[]; x: string }
+  /** w: per-option note on why that (wrong) option is wrong; only for 3+ option questions */
+  en: { q: string; o: string[]; x: string; w?: (string | null)[] }
+  uk: { q: string; o: string[]; x: string; w?: (string | null)[] }
 }
 
 export const CATEGORIES: { id: Category; label: string }[] = [

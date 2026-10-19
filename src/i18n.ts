@@ -41,6 +41,7 @@ const STRINGS = {
     unanswered: 'not answered',
     custom: 'Custom (exam settings below)',
     specificOnly: 'Category-specific questions',
+    onlyMistakes: 'Show only my mistakes',
   },
   uk: {
     title: 'Тренажер Código',
@@ -82,6 +83,7 @@ const STRINGS = {
     unanswered: 'без відповіді',
     custom: 'Власний (налаштування нижче)',
     specificOnly: 'Лише питання цієї категорії',
+    onlyMistakes: 'Показати лише помилки',
   },
 }
 
