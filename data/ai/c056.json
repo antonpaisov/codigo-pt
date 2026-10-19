@@ -409,7 +409,7 @@
  {
   "id": "g12-0309",
   "answer": "b",
-  "confidence": "medium",
+  "confidence": "low",
   "categories": [
    "AM",
    "A",
@@ -425,7 +425,7 @@
     "A dangerous bend to the left is approaching.",
     "I have priority at the next T-junction or crossroads."
    ],
-   "explanation": "The triangular danger sign with a bent arrow warns of a dangerous bend; here the road ahead turns to the left."
+   "explanation": "The triangular sign with a bent arrow warns of a dangerous bend. Note: the photo actually shows a bend to the RIGHT, but the official options only offer 'bend to the left', so this is the intended answer — a likely error in the IMT database."
   },
   "uk": {
    "q": "Побачивши дорожній знак, я повинен знати, що:",
@@ -434,7 +434,7 @@
     "Наближається небезпечний поворот ліворуч.",
     "Я маю перевагу на найближчому примиканні або перехресті."
    ],
-   "explanation": "Трикутний попереджувальний знак із зігнутою стрілкою попереджає про небезпечний поворот; тут дорога попереду повертає ліворуч."
+   "explanation": "Трикутний знак із вигнутою стрілкою попереджає про небезпечний поворот. Увага: на фото насправді поворот ПРАВОРУЧ, але серед офіційних варіантів є лише «поворот ліворуч», тож це очікувана відповідь — ймовірна помилка в базі IMT."
   },
   "why_wrong": {
    "a": {

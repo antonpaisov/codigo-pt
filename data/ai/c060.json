@@ -2909,8 +2909,8 @@
  },
  {
   "id": "g14-0071",
-  "answer": "b",
-  "confidence": "high",
+  "answer": "c",
+  "confidence": "medium",
   "categories": [
    "AM",
    "A",
@@ -2927,7 +2927,7 @@
     "Of heavy traffic.",
     "That the road is blocked by crashed vehicles."
    ],
-   "explanation": "The triangles show a skidding car, the sign for a slippery road."
+   "explanation": "The triangle shows vehicles bunched one behind another, the sign warning of a stretch with heavy traffic (likely queues)."
   },
   "uk": {
    "q": "Трикутний дорожній знак використовують, щоб попередити водіїв:",
@@ -2937,20 +2937,20 @@
     "Про інтенсивний рух.",
     "Про те, що дорогу перекрито транспортом після аварії."
    ],
-   "explanation": "На трикутниках зображено автомобіль, що заносить, — знак слизької дороги."
+   "explanation": "Трикутник зображує транспортні засоби, що скупчилися один за одним, — знак попереджає про ділянку з інтенсивним рухом (можливі затори)."
   },
   "why_wrong": {
    "a": {
-    "en": "'Other dangers' uses an exclamation mark, not a skidding car.",
-    "uk": "«Інша небезпека» позначається знаком оклику, а не автомобілем у заносі."
+    "en": "Various/other dangers are shown by an exclamation mark, not vehicles.",
+    "uk": "Інші небезпеки позначаються знаком оклику, а не транспортними засобами."
    },
-   "c": {
-    "en": "There is no danger triangle for heavy traffic with this symbol.",
-    "uk": "Попереджувального знака про інтенсивний рух із таким символом немає."
+   "b": {
+    "en": "The slippery-road sign shows a single car skidding with wavy tracks, not a queue of vehicles.",
+    "uk": "Знак слизької дороги показує один автомобіль у заносі зі звивистими слідами, а не чергу транспорту."
    },
    "d": {
-    "en": "An accident blockage is not what the skidding-car symbol represents.",
-    "uk": "Символ автомобіля в заносі не означає перекриття дороги після аварії."
+    "en": "The sign is a permanent warning of traffic volume, not of an accident blocking the road.",
+    "uk": "Знак постійно попереджає про інтенсивність руху, а не про аварію, що перекрила дорогу."
    }
   }
  },

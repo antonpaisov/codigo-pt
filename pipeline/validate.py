@@ -13,9 +13,14 @@ TOPICS = {"signs", "priority", "speed", "manoeuvres", "stopping_parking", "light
           "safe_driving", "vehicle", "passengers_cargo", "legal", "accidents", "environment"}
 
 
-def validate(chunk):
-    src = json.loads((ROOT / "data/chunks" / f"{chunk}.json").read_text())
-    out_path = ROOT / "data/ai" / f"{chunk}.json"
+def validate(chunk, recheck=False):
+    if recheck:
+        ids = set(json.loads((ROOT / "data/recheck" / f"{chunk}.json").read_text()))
+        src = [q for q in json.loads((ROOT / "data/questions_pt.json").read_text()) if q["id"] in ids]
+        out_path = ROOT / "data/ai" / f"recheck_{chunk}.json"
+    else:
+        src = json.loads((ROOT / "data/chunks" / f"{chunk}.json").read_text())
+        out_path = ROOT / "data/ai" / f"{chunk}.json"
     if not out_path.exists():
         return [f"{chunk}: output missing"]
     try:
@@ -61,6 +66,12 @@ def main():
         chunks = sorted(p.stem for p in (ROOT / "data/chunks").glob("*.json"))
         bad = [c for c in chunks if validate(c)]
         print(f"{len(chunks) - len(bad)}/{len(chunks)} chunks valid; not valid: {' '.join(bad) or '-'}")
+        return
+    if sys.argv[1] == "--recheck":
+        errs = validate(sys.argv[2], recheck=True)
+        for e in errs[:40]:
+            print(e)
+        print(f"recheck {sys.argv[2]}: {'OK' if not errs else f'{len(errs)} errors'}")
         return
     errs = validate(sys.argv[1])
     for e in errs[:40]:

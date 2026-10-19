@@ -84,7 +84,7 @@ def main(raw_dir, img_dir, out_json):
                         min(b[0] for b in band), min(b[1] for b in band),
                         max(b[2] for b in band), max(b[3] for b in band),
                     )
-                    pix = page.get_pixmap(clip=rect, dpi=150)
+                    pix = page.get_pixmap(clip=rect, dpi=270)
                     image = f"{qid}.jpg"
                     pix.save(img_dir / image, jpg_quality=72)
                 opts = [{"key": o["key"], "pt": clean(o["text"])} for o in q["options"]]

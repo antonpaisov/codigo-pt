@@ -20,6 +20,15 @@ for p in sorted((ROOT / "data/ai").glob("c*.json")):
     for o in json.loads(p.read_text()):
         ai[o["id"]] = o
 
+# re-check pass overrides (see pipeline/RECHECK_INSTRUCTIONS.md)
+for p in sorted((ROOT / "data/ai").glob("recheck_*.json")):
+    batch = p.stem.removeprefix("recheck_")
+    if validate(batch, recheck=True):
+        print(f"skipping {p.name}: not valid (yet)")
+        continue
+    for o in json.loads(p.read_text()):
+        ai[o["id"]] = o
+
 out = []
 for q in pt:
     o = ai.get(q["id"])

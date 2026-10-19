@@ -1,0 +1,3219 @@
+[
+ {
+  "id": "g11-0139",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "This sign indicates that there is a risk of:",
+   "options": [
+    "Rocks falling from the cliff.",
+    "Uneven road surface.",
+    "Loose chippings being thrown up."
+   ],
+   "explanation": "The danger triangle showing a car throwing up small stones warns of loose gravel that may be projected by tyres."
+  },
+  "uk": {
+   "q": "Цей знак вказує на ризик:",
+   "options": [
+    "Падіння каміння зі схилу.",
+    "Нерівностей покриття.",
+    "Викидання гравію."
+   ],
+   "explanation": "Попереджувальний трикутник з автомобілем, з-під коліс якого летять камінці, попереджає про гравій, що може викидатися шинами."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Falling rocks are shown by stones falling from a slope, not from a car.",
+    "uk": "Падіння каміння позначається каменями, що падають зі схилу, а не з-під автомобіля."
+   },
+   "b": {
+    "en": "An uneven road is shown by a bumpy road profile, not a car throwing stones.",
+    "uk": "Нерівна дорога позначається хвилястим профілем, а не автомобілем, що кидає камінці."
+   }
+  }
+ },
+ {
+  "id": "g11-0140",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "When riding a two-wheeled motorcycle, correct simultaneous use of both brakes when braking is likely to:",
+   "options": [
+    "Avoid risky situations, because it reduces weight transfer.",
+    "Increase weight transfer to the front of the vehicle, which results in safer braking.",
+    "Concentrate all the weight at the rear of the vehicle, which results in safer braking."
+   ],
+   "explanation": "Using both brakes together spreads the braking effort over both wheels, reducing sudden weight transfer and making braking more stable."
+  },
+  "uk": {
+   "q": "Під час керування двоколісним мотоциклом правильне одночасне використання обох гальм під час гальмування здатне:",
+   "options": [
+    "Запобігти ризикованим ситуаціям, бо зменшує перенесення маси.",
+    "Збільшити перенесення маси на передню частину, що робить гальмування безпечнішим.",
+    "Зосередити всю масу на задній частині, що робить гальмування безпечнішим."
+   ],
+   "explanation": "Одночасне використання обох гальм розподіляє гальмівне зусилля між колесами, зменшує різке перенесення маси й робить гальмування стабільнішим."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "More weight transfer to the front destabilises the bike; it is not what makes braking safer.",
+    "uk": "Більше перенесення маси вперед дестабілізує мотоцикл; не це робить гальмування безпечнішим."
+   },
+   "c": {
+    "en": "Braking always shifts weight forward, not to the rear.",
+    "uk": "Гальмування завжди переносить масу вперед, а не назад."
+   }
+  }
+ },
+ {
+  "id": "g11-0141",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "priority",
+  "en": {
+   "q": "At the crossroads I must:",
+   "options": [
+    "Give way to vehicles from the right.",
+    "Give way to all vehicles.",
+    "Continue at moderate speed."
+   ],
+   "explanation": "The crossroads danger sign gives no priority; the general rule applies, so I must give way to vehicles coming from the right."
+  },
+  "uk": {
+   "q": "На перехресті я маю:",
+   "options": [
+    "Поступитися дорогою транспорту, що наближається справа.",
+    "Поступитися дорогою всім транспортним засобам.",
+    "Продовжувати рух з помірною швидкістю."
+   ],
+   "explanation": "Знак «перехрестя» не дає пріоритету; діє загальне правило, тож я маю поступитися транспорту справа."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Giving way to everyone would apply with a give-way or STOP sign, which is not the case.",
+    "uk": "Поступатися всім треба при знаку «поступитися» чи STOP, а тут їх немає."
+   },
+   "c": {
+    "en": "Moderate speed is needed, but it doesn't remove the duty to yield to the right.",
+    "uk": "Помірна швидкість потрібна, але не скасовує обов'язку поступитися справа."
+   }
+  }
+ },
+ {
+  "id": "g11-0142",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "D"
+  ],
+  "topic": "passengers_cargo",
+  "en": {
+   "q": "If a passenger falls inside the bus in which he is travelling, the driver must:",
+   "options": [
+    "Carry on, since the other passengers will give the injured passenger the necessary help;",
+    "Stop the vehicle and ensure the injured passenger receives proper assistance, if warranted;",
+    "Carry on and take the passenger wherever he considers most convenient."
+   ],
+   "explanation": "The driver is responsible for passengers' safety and must stop and make sure an injured passenger is properly assisted."
+  },
+  "uk": {
+   "q": "Якщо пасажир падає в салоні автобуса, яким він їде, водій має:",
+   "options": [
+    "Продовжувати рух, бо інші пасажири нададуть потерпілому необхідну допомогу;",
+    "Зупинити транспортний засіб і подбати, щоб потерпілому пасажиру надали належну допомогу, якщо це потрібно;",
+    "Продовжувати рух і довезти пасажира туди, куди той вважає зручнішим."
+   ],
+   "explanation": "Водій відповідає за безпеку пасажирів і має зупинитися та подбати, щоб потерпілому надали належну допомогу."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The driver cannot hand his responsibility to other passengers.",
+    "uk": "Водій не може перекласти свою відповідальність на інших пасажирів."
+   },
+   "c": {
+    "en": "An injured passenger may need help now; the driver must stop and assess.",
+    "uk": "Потерпілому може знадобитися допомога негайно; водій має зупинитися й оцінити стан."
+   }
+  }
+ },
+ {
+  "id": "g11-0143",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "priority",
+  "en": {
+   "q": "The car on the right is coming out of a private road. I should:",
+   "options": [
+    "Slow down and give way to it.",
+    "Continue, while watching that driver's behaviour.",
+    "Continue, sounding the horn continuously."
+   ],
+   "explanation": "A driver leaving a private road must give way, so I have priority; still, I should watch what he does in case he pulls out."
+  },
+  "uk": {
+   "q": "Автомобіль праворуч виїжджає з приватної дороги. Я маю:",
+   "options": [
+    "Знизити швидкість і поступитися йому дорогою.",
+    "Продовжувати рух, стежачи за поведінкою того водія.",
+    "Продовжувати рух, безперервно сигналячи."
+   ],
+   "explanation": "Водій, що виїжджає з приватної дороги, має поступитися, тож перевага в мене; проте слід стежити, чи він не виїде."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Vehicles leaving private roads give way, even when coming from the right.",
+    "uk": "Транспорт, що виїжджає з приватних доріг, поступається навіть справа."
+   },
+   "c": {
+    "en": "Continuous horn use is not allowed and is unnecessary here.",
+    "uk": "Безперервне сигналення заборонене й тут непотрібне."
+   }
+  }
+ },
+ {
+  "id": "g11-0144",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "C"
+  ],
+  "topic": "passengers_cargo",
+  "en": {
+   "q": "A driver carrying a liquid load in a heavy vehicle who notices a leak of the liquid should:",
+   "options": [
+    "Carry on, as long as the liquid is not likely to endanger public health;",
+    "Stop the vehicle as soon as possible and arrange the necessary repairs;",
+    "Carry on, as long as he doesn't use a motorway and the spilled substance is not a danger to public health."
+   ],
+   "explanation": "A load must not spill onto the road; on noticing a leak the driver must stop as soon as possible and have it fixed."
+  },
+  "uk": {
+   "q": "Водій, що перевозить рідкий вантаж важким автомобілем і помічає витік, має:",
+   "options": [
+    "Продовжувати рух, якщо рідина не становить небезпеки для здоров'я населення;",
+    "Якнайшвидше зупинити транспортний засіб і вжити заходів для ремонту;",
+    "Продовжувати рух, якщо не користується автомагістраллю й розлита речовина не небезпечна для здоров'я."
+   ],
+   "explanation": "Вантаж не повинен розливатися на дорогу; помітивши витік, водій має якнайшвидше зупинитися й усунути несправність."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Any spill can make the road slippery or polluted; it must stop.",
+    "uk": "Будь-який розлив може зробити дорогу слизькою чи забрудненою; треба зупинитися."
+   },
+   "c": {
+    "en": "Avoiding motorways doesn't make spilling the load acceptable.",
+    "uk": "Уникання автомагістралей не робить розлив вантажу допустимим."
+   }
+  }
+ },
+ {
+  "id": "g11-0145",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "priority",
+  "en": {
+   "q": "In this situation, I should:",
+   "options": [
+    "Stop.",
+    "Give way.",
+    "Continue."
+   ],
+   "explanation": "The police car on the left side road is not using its emergency signals, so it has no special priority; coming from my left, it must give way and I may continue."
+  },
+  "uk": {
+   "q": "У цій ситуації я маю:",
+   "options": [
+    "Зупинитися.",
+    "Поступитися дорогою.",
+    "Продовжувати рух."
+   ],
+   "explanation": "Поліцейський автомобіль на бічній дорозі ліворуч не використовує спецсигналів, тож не має особливої переваги; він наближається зліва й має поступитися, а я можу продовжувати рух."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Nothing here requires me to stop.",
+    "uk": "Ніщо тут не вимагає від мене зупинки."
+   },
+   "b": {
+    "en": "A police car without emergency signals has no priority over me.",
+    "uk": "Поліцейський автомобіль без спецсигналів не має переваги наді мною."
+   }
+  }
+ },
+ {
+  "id": "g11-0146",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "accidents",
+  "en": {
+   "q": "Faced with this accident, which I don't know how it happened and where there are no victims, I should:",
+   "options": [
+    "Give my opinion about the position of the vehicles.",
+    "Stop to show solidarity with those involved.",
+    "Continue."
+   ],
+   "explanation": "With no injuries and help not needed, stopping only adds to congestion and danger; I should carry on carefully."
+  },
+  "uk": {
+   "q": "Побачивши цю ДТП, обставин якої я не знаю і в якій немає постраждалих, я маю:",
+   "options": [
+    "Висловити свою думку щодо розташування транспортних засобів.",
+    "Зупинитися з солідарності з учасниками.",
+    "Продовжувати рух."
+   ],
+   "explanation": "Коли постраждалих немає й допомога не потрібна, зупинка лише збільшує затор і небезпеку; слід обережно продовжувати рух."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Not having witnessed it, my opinion is of no use and may mislead.",
+    "uk": "Не бачивши події, моя думка марна й може ввести в оману."
+   },
+   "b": {
+    "en": "Stopping without need obstructs traffic and can cause further accidents.",
+    "uk": "Зупинка без потреби заважає руху й може спричинити нові ДТП."
+   }
+  }
+ },
+ {
+  "id": "g11-0147",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "In this situation, faced with the yellow light, I should:",
+   "options": [
+    "Reduce speed and obey the colour of the traffic light.",
+    "Speed up, if I can get through before the red light.",
+    "Proceed with particular caution because the light warns of a danger."
+   ],
+   "explanation": "A steady yellow light means stop if you can do so safely; here there is enough distance, so slow down and obey the light."
+  },
+  "uk": {
+   "q": "У цій ситуації, перед жовтим сигналом, я маю:",
+   "options": [
+    "Знизити швидкість і виконувати вимогу сигналу світлофора.",
+    "Прискоритися, якщо встигаю проїхати до червоного.",
+    "Рухатися з особливою обережністю, бо сигнал попереджає про небезпеку."
+   ],
+   "explanation": "Постійний жовтий сигнал означає зупинку, якщо це можна зробити безпечно; тут відстані достатньо, тож слід сповільнитися й виконувати сигнал."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Accelerating to beat the red is dangerous and against the rule.",
+    "uk": "Прискорення, щоб встигнути до червоного, небезпечне й суперечить правилу."
+   },
+   "c": {
+    "en": "That is the meaning of flashing yellow, not steady yellow.",
+    "uk": "Це значення миготливого жовтого, а не постійного."
+   }
+  }
+ },
+ {
+  "id": "g11-0148",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "I am about to take a sharp bend. I should:",
+   "options": [
+    "Brake hard, so as to take the bend at low speed.",
+    "Reduce speed so as to take the bend safely.",
+    "Continue without special precautions, as there are no signs."
+   ],
+   "explanation": "Speed should be reduced progressively before the bend so it can be taken safely; signs or not, speed must suit the road."
+  },
+  "uk": {
+   "q": "Я збираюся проходити крутий поворот. Я маю:",
+   "options": [
+    "Різко загальмувати, щоб пройти поворот на низькій швидкості.",
+    "Знизити швидкість, щоб безпечно пройти поворот.",
+    "Продовжувати рух без особливих заходів, бо знаків немає."
+   ],
+   "explanation": "Швидкість слід поступово знизити перед поворотом, щоб пройти його безпечно; незалежно від знаків, швидкість має відповідати дорозі."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Hard braking can cause a skid; slow down gradually before the bend.",
+    "uk": "Різке гальмування може спричинити занос; знижуйте швидкість поступово перед поворотом."
+   },
+   "c": {
+    "en": "Lack of signs does not remove the duty to adapt speed to a sharp bend.",
+    "uk": "Відсутність знаків не скасовує обов'язку пристосувати швидкість до крутого повороту."
+   }
+  }
+ },
+ {
+  "id": "g11-0149",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "In this situation I have to change lanes. I should:",
+   "options": [
+    "Use the horn to warn drivers in the left lane.",
+    "Indicate left and wait for the right moment.",
+    "Go ahead, because I am coming from the right of the drivers in the left lane."
+   ],
+   "explanation": "The warning triangle blocks my lane; I must signal left and change lane only when it is safe, giving way to traffic already in that lane."
+  },
+  "uk": {
+   "q": "У цій ситуації мені потрібно змінити смугу руху. Я маю:",
+   "options": [
+    "Подати звуковий сигнал, щоб попередити водіїв лівої смуги.",
+    "Увімкнути покажчик повороту ліворуч і дочекатися слушного моменту.",
+    "Рухатися, бо я праворуч від водіїв лівої смуги."
+   ],
+   "explanation": "Знак аварійної зупинки перекриває мою смугу; слід увімкнути лівий покажчик і перестроїтися лише тоді, коли це безпечно, пропустивши транспорт на тій смузі."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The horn doesn't give the right to change lanes.",
+    "uk": "Звуковий сигнал не дає права перестроюватися."
+   },
+   "c": {
+    "en": "The right-hand priority rule applies at junctions, not to lane changes.",
+    "uk": "Правило «перешкоди справа» діє на перехрестях, а не під час перестроювання."
+   }
+  }
+ },
+ {
+  "id": "g11-0150",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The main function of fuses is:",
+   "options": [
+    "To increase the current in the electrical circuit;",
+    "To protect high-voltage electrical circuits;",
+    "To protect the electrical system in the event of a short circuit."
+   ],
+   "explanation": "A fuse blows when current is excessive, e.g. in a short circuit, protecting the wiring and components."
+  },
+  "uk": {
+   "q": "Головна функція запобіжників:",
+   "options": [
+    "Збільшувати силу струму в електричному колі;",
+    "Захищати високовольтні електричні кола;",
+    "Захищати електрообладнання в разі короткого замикання."
+   ],
+   "explanation": "Запобіжник перегорає при надмірному струмі, наприклад під час короткого замикання, захищаючи проводку й прилади."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Fuses limit current; they never increase it.",
+    "uk": "Запобіжники обмежують струм, а не збільшують його."
+   },
+   "b": {
+    "en": "Vehicle fuses protect the low-voltage circuits, not specifically high-voltage ones.",
+    "uk": "Запобіжники автомобіля захищають низьковольтні кола, а не саме високовольтні."
+   }
+  }
+ },
+ {
+  "id": "g11-0151",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "Fuses are used to:",
+   "options": [
+    "Connect the various circuits;",
+    "Intensify the electric current;",
+    "Protect the electrical circuits."
+   ],
+   "explanation": "Fuses protect the electrical circuits by breaking the circuit when the current is too high."
+  },
+  "uk": {
+   "q": "Запобіжники слугують для того, щоб:",
+   "options": [
+    "З'єднувати різні кола;",
+    "Посилювати електричний струм;",
+    "Захищати електричні кола."
+   ],
+   "explanation": "Запобіжники захищають електричні кола, розриваючи їх, коли струм надто великий."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Connections are made by wiring and connectors, not fuses.",
+    "uk": "З'єднання виконують дроти й роз'єми, а не запобіжники."
+   },
+   "b": {
+    "en": "A fuse does not amplify current; it cuts it off when excessive.",
+    "uk": "Запобіжник не посилює струм, а розриває коло при надмірному струмі."
+   }
+  }
+ },
+ {
+  "id": "g11-0152",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "A motorcyclist's boots should, if possible:",
+   "options": [
+    "Protect the ankles and feet.",
+    "Have laces for greater safety.",
+    "Protect only the feet."
+   ],
+   "explanation": "Motorcycle boots should cover and protect both feet and ankles, which are frequently injured in falls."
+  },
+  "uk": {
+   "q": "Черевики мотоцикліста мають, по можливості:",
+   "options": [
+    "Захищати щиколотки й стопи.",
+    "Мати шнурки для більшої безпеки.",
+    "Захищати лише стопи."
+   ],
+   "explanation": "Мотоботи мають закривати й захищати стопи та щиколотки, які часто травмуються під час падінь."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Laces can get caught in the controls; they don't add safety.",
+    "uk": "Шнурки можуть зачепитися за органи керування; вони не додають безпеки."
+   },
+   "c": {
+    "en": "Ankles are also vulnerable and need protection.",
+    "uk": "Щиколотки також вразливі й потребують захисту."
+   }
+  }
+ },
+ {
+  "id": "g11-0153",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "In this situation, I should:",
+   "options": [
+    "Moderate my speed and anticipate the pedestrian's behaviour.",
+    "Go ahead quickly, because the pedestrian is standing still.",
+    "Protest by using the horn."
+   ],
+   "explanation": "A pedestrian waiting by the crossing may step out at any moment; slow down and be ready to give way."
+  },
+  "uk": {
+   "q": "У цій ситуації я маю:",
+   "options": [
+    "Знизити швидкість і передбачити поведінку пішохода.",
+    "Швидко проїхати, бо пішохід стоїть.",
+    "Висловити протест звуковим сигналом."
+   ],
+   "explanation": "Пішохід, що чекає біля переходу, може будь-якої миті вийти на дорогу; слід сповільнитися й бути готовим поступитися."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "A standing pedestrian may start crossing; speeding up is dangerous.",
+    "uk": "Пішохід, що стоїть, може почати переходити; прискорюватися небезпечно."
+   },
+   "c": {
+    "en": "The horn is not a means of protest and may startle the pedestrian.",
+    "uk": "Звуковий сигнал — не засіб протесту й може налякати пішохода."
+   }
+  }
+ },
+ {
+  "id": "g11-0154",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The danger sign indicates:",
+   "options": [
+    "The location of a pedestrian crossing.",
+    "A stretch of road with a hump in the surface.",
+    "Low hard shoulders on the road."
+   ],
+   "explanation": "The triangle with a raised bump symbol warns of a hump (speed bump) in the road surface."
+  },
+  "uk": {
+   "q": "Попереджувальний знак вказує на:",
+   "options": [
+    "Місце пішохідного переходу.",
+    "Ділянку дороги зі штучною нерівністю на покритті.",
+    "Низькі узбіччя на дорозі."
+   ],
+   "explanation": "Трикутник із символом горба попереджає про штучну нерівність (лежачого поліцейського) на покритті."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The pedestrian crossing is shown by the separate blue sign.",
+    "uk": "Пішохідний перехід позначає окремий синій знак."
+   },
+   "c": {
+    "en": "Low shoulders have a different symbol showing the road edge dropping.",
+    "uk": "Низькі узбіччя мають інший символ — край дороги з перепадом."
+   }
+  }
+ },
+ {
+  "id": "g11-0155",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "What does the vertical sign tell me?",
+   "options": [
+    "A place frequented by riders of two-wheeled vehicles.",
+    "Obligation to give way to cyclists.",
+    "Approach to a place often used by cyclists."
+   ],
+   "explanation": "The danger triangle with a bicycle warns of a place where cyclists frequently cross or enter the road."
+  },
+  "uk": {
+   "q": "Що повідомляє мені вертикальний знак?",
+   "options": [
+    "Місце, де часто перебувають водії двоколісних транспортних засобів.",
+    "Обов'язок поступитися дорогою велосипедистам.",
+    "Наближення до місця, яким часто користуються велосипедисти."
+   ],
+   "explanation": "Попереджувальний трикутник із велосипедом попереджає про місце, де велосипедисти часто перетинають дорогу чи виїжджають на неї."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The symbol is specifically a bicycle, not any two-wheeled vehicle.",
+    "uk": "Символ — саме велосипед, а не будь-який двоколісний транспорт."
+   },
+   "b": {
+    "en": "A danger sign warns; it doesn't impose a duty to give way.",
+    "uk": "Попереджувальний знак попереджає, а не встановлює обов'язок поступитися."
+   }
+  }
+ },
+ {
+  "id": "g11-0156",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The triangular vertical sign indicates:",
+   "options": [
+    "A grade-separated pedestrian crossing.",
+    "Road narrowing with the shape shown on the sign.",
+    "Approach to a hump in the road surface."
+   ],
+   "explanation": "The triangle with a bump symbol warns of a hump in the road surface ahead."
+  },
+  "uk": {
+   "q": "Трикутний вертикальний знак вказує на:",
+   "options": [
+    "Пішохідний перехід у різних рівнях.",
+    "Звуження дороги відповідно до зображення на знаку.",
+    "Наближення до штучної нерівності на покритті."
+   ],
+   "explanation": "Трикутник із символом горба попереджає про штучну нерівність на покритті попереду."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The overpass in the image is not what the triangle indicates.",
+    "uk": "Надземний перехід на зображенні — не те, що позначає трикутник."
+   },
+   "b": {
+    "en": "Narrowing signs show converging road edges, not a bump.",
+    "uk": "Знаки звуження показують краї дороги, що сходяться, а не горб."
+   }
+  }
+ },
+ {
+  "id": "g11-0157",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "This sign tells drivers:",
+   "options": [
+    "Mandatory track for horse riders.",
+    "Approach to a place frequented by horse riders.",
+    "Approach to an equestrian centre."
+   ],
+   "explanation": "The danger triangle with a horse rider warns of a place often frequented by riders."
+  },
+  "uk": {
+   "q": "Цей знак повідомляє водіям:",
+   "options": [
+    "Обов'язкова доріжка для вершників.",
+    "Наближення до місця, де часто бувають вершники.",
+    "Наближення до кінного центру."
+   ],
+   "explanation": "Попереджувальний трикутник із вершником попереджає про місце, де часто бувають вершники."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "A mandatory track is a round blue sign.",
+    "uk": "Обов'язкова доріжка позначається круглим синім знаком."
+   },
+   "c": {
+    "en": "The sign warns of riders on the road, not of a specific facility.",
+    "uk": "Знак попереджає про вершників на дорозі, а не про конкретний об'єкт."
+   }
+  }
+ },
+ {
+  "id": "g11-0158",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The vertical sign tells drivers:",
+   "options": [
+    "Approach to a nature reserve.",
+    "That the road may be crossed by wild animals.",
+    "Approach to a nature park."
+   ],
+   "explanation": "The triangle with a deer warns that wild animals may cross the road."
+  },
+  "uk": {
+   "q": "Вертикальний знак повідомляє водіям:",
+   "options": [
+    "Наближення до заповідника.",
+    "Що дорогу можуть перетинати дикі тварини.",
+    "Наближення до природного парку."
+   ],
+   "explanation": "Трикутник з оленем попереджає, що дорогу можуть перетинати дикі тварини."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Reserves are shown by information signs, not danger triangles.",
+    "uk": "Заповідники позначаються інформаційними знаками, а не попереджувальними."
+   },
+   "c": {
+    "en": "The sign warns of animals crossing, not of a park.",
+    "uk": "Знак попереджає про перехід тварин, а не про парк."
+   }
+  }
+ },
+ {
+  "id": "g11-0159",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The vertical sign on this road indicates:",
+   "options": [
+    "A place where parking on the hard shoulder is allowed.",
+    "Driving on a road reserved for motor vehicles.",
+    "Approach to a stretch of road with heavy traffic."
+   ],
+   "explanation": "The danger triangle with queuing cars warns of a stretch where traffic is heavy and queues may form."
+  },
+  "uk": {
+   "q": "Вертикальний знак на цій дорозі вказує на:",
+   "options": [
+    "Місце, де дозволено стоянку на узбіччі.",
+    "Рух дорогою, призначеною для автомобілів.",
+    "Наближення до ділянки з інтенсивним рухом."
+   ],
+   "explanation": "Попереджувальний трикутник з автомобілями в черзі попереджає про ділянку з інтенсивним рухом і можливими заторами."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Parking is indicated by blue information signs, not a danger triangle.",
+    "uk": "Стоянка позначається синіми інформаційними знаками, а не трикутником."
+   },
+   "b": {
+    "en": "A road for motor vehicles is a blue rectangular sign, not a triangle.",
+    "uk": "Дорога для автомобілів позначається синім прямокутним знаком, а не трикутником."
+   }
+  }
+ },
+ {
+  "id": "g11-0160",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "What does the vertical sign tell drivers?",
+   "options": [
+    "It advises driving in the centre of the carriageway.",
+    "Low hard shoulders on both sides of the carriageway.",
+    "Approach to a hump in the road surface."
+   ],
+   "explanation": "The triangle with a bump symbol warns of a hump in the road surface ahead."
+  },
+  "uk": {
+   "q": "Що повідомляє вертикальний знак водіям?",
+   "options": [
+    "Радить рухатися посередині проїзної частини.",
+    "Низькі узбіччя з обох боків проїзної частини.",
+    "Наближення до штучної нерівності на покритті."
+   ],
+   "explanation": "Трикутник із символом горба попереджає про штучну нерівність на покритті попереду."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Danger signs do not advise lane position.",
+    "uk": "Попереджувальні знаки не радять положення на дорозі."
+   },
+   "b": {
+    "en": "Low shoulders have a different symbol.",
+    "uk": "Низькі узбіччя мають інший символ."
+   }
+  }
+ },
+ {
+  "id": "g11-0161",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "In this situation I should stop:",
+   "options": [
+    "At least two metres from the vehicle in front.",
+    "No more than two metres from the vehicle in front.",
+    "Close to the vehicle in front, in a safe position."
+   ],
+   "explanation": "When queuing at the light, stop close to the vehicle ahead to save space, but leaving a safe margin; the law sets no fixed distance."
+  },
+  "uk": {
+   "q": "У цій ситуації я маю зупинитися:",
+   "options": [
+    "Щонайменше за два метри від транспортного засобу попереду.",
+    "Не далі ніж за два метри від транспортного засобу попереду.",
+    "Близько до транспортного засобу попереду, у безпечному положенні."
+   ],
+   "explanation": "Стоячи в черзі на світлофорі, слід зупинитися близько до транспорту попереду, щоб заощадити місце, але з безпечним запасом; фіксованої відстані закон не встановлює."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "There is no legal minimum of two metres.",
+    "uk": "Законного мінімуму в два метри немає."
+   },
+   "b": {
+    "en": "There is no legal maximum of two metres either.",
+    "uk": "Законного максимуму в два метри також немає."
+   }
+  }
+ },
+ {
+  "id": "g11-0162",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "With this sign, the following may not travel:",
+   "options": [
+    "Goods vehicles.",
+    "Light cars.",
+    "Quadricycles."
+   ],
+   "explanation": "The blue sign with a car marks a road reserved for cars and motorcycles; quadricycles are not cars, so they are excluded."
+  },
+  "uk": {
+   "q": "За цього знака не можуть рухатися:",
+   "options": [
+    "Вантажні автомобілі.",
+    "Легкові автомобілі.",
+    "Квадрицикли."
+   ],
+   "explanation": "Синій знак з автомобілем позначає дорогу для автомобілів і мотоциклів; квадрицикли не є автомобілями, тож їм рух заборонено."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Goods vehicles are automobiles and may use this road.",
+    "uk": "Вантажні автомобілі — це автомобілі, і вони можуть тут рухатися."
+   },
+   "b": {
+    "en": "Light cars are precisely the vehicles this road is for.",
+    "uk": "Легкові автомобілі — саме ті, для кого ця дорога."
+   }
+  }
+ },
+ {
+  "id": "g11-0163",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "Aquaplaning is, as a rule, caused by:",
+   "options": [
+    "Water.",
+    "Oil on the road.",
+    "Any substance between the tyre and the road surface."
+   ],
+   "explanation": "Aquaplaning happens when a layer of water builds up between tyre and road, so the tyre loses contact with the surface."
+  },
+  "uk": {
+   "q": "Аквапланінг, як правило, спричиняє:",
+   "options": [
+    "Вода.",
+    "Олива на дорозі.",
+    "Будь-яка речовина між шиною й покриттям."
+   ],
+   "explanation": "Аквапланінг виникає, коли між шиною й дорогою утворюється шар води й шина втрачає контакт з покриттям."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Oil makes the road slippery, but aquaplaning specifically refers to water.",
+    "uk": "Олива робить дорогу слизькою, але аквапланінг стосується саме води."
+   },
+   "c": {
+    "en": "Aquaplaning is a water phenomenon, not caused by any substance.",
+    "uk": "Аквапланінг — явище, пов'язане з водою, а не з будь-якою речовиною."
+   }
+  }
+ },
+ {
+  "id": "g11-0164",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "A motorcycle rider should wear:",
+   "options": [
+    "Preferably boots with protection to avoid foot injuries.",
+    "Waterproof boots, but only in winter because of rain and cold.",
+    "Any type of boots as long as they have reflectors."
+   ],
+   "explanation": "Protective motorcycle boots reduce foot and ankle injuries in a fall and should be worn all year round."
+  },
+  "uk": {
+   "q": "Водій мотоцикла має носити:",
+   "options": [
+    "Переважно черевики із захистом, щоб уникнути травм ніг.",
+    "Водонепроникні черевики, але лише взимку через дощ і холод.",
+    "Будь-які черевики, якщо на них є світловідбивачі."
+   ],
+   "explanation": "Захисні мотоботи зменшують травми стоп і щиколоток під час падіння й мають використовуватися цілий рік."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Protection is needed all year, not just in winter.",
+    "uk": "Захист потрібен цілий рік, а не лише взимку."
+   },
+   "c": {
+    "en": "Reflectors help visibility but give no impact protection.",
+    "uk": "Світловідбивачі покращують помітність, але не захищають від ударів."
+   }
+  }
+ },
+ {
+  "id": "g11-0165",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "B",
+   "C"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The prohibition sign does not allow the movement of:",
+   "options": [
+    "All heavy vehicles.",
+    "Light and heavy goods vehicles.",
+    "Any light vehicle."
+   ],
+   "explanation": "The red-ringed sign with a lorry bans goods vehicles; with no weight shown, it applies to both light and heavy goods vehicles."
+  },
+  "uk": {
+   "q": "Заборонний знак не дозволяє рух:",
+   "options": [
+    "Усіх важких автомобілів.",
+    "Легких і важких вантажних автомобілів.",
+    "Будь-яких легкових автомобілів."
+   ],
+   "explanation": "Знак із червоною облямівкою та вантажівкою забороняє рух вантажних автомобілів; без зазначеної маси він стосується і легких, і важких вантажних."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Heavy passenger vehicles (buses) are not covered by this goods-vehicle sign.",
+    "uk": "Важкі пасажирські (автобуси) не підпадають під цей знак для вантажних."
+   },
+   "c": {
+    "en": "Light passenger cars are not banned; only goods vehicles.",
+    "uk": "Легкові пасажирські автомобілі не заборонені — лише вантажні."
+   }
+  }
+ },
+ {
+  "id": "g11-0166",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "The space between the two information signs on the right of the road is for stopping or parking:",
+   "options": [
+    "Only the vehicle of the disabled resident.",
+    "Vehicles adapted for disabled people.",
+    "Any vehicle."
+   ],
+   "explanation": "The blue 'P' with a wheelchair symbol reserves the space for vehicles used by disabled people; with no registration plate shown, it is not for one specific resident."
+  },
+  "uk": {
+   "q": "Простір між двома інформаційними знаками праворуч на дорозі призначений для зупинки чи стоянки:",
+   "options": [
+    "Лише автомобіля мешканця з інвалідністю.",
+    "Транспортних засобів, пристосованих для людей з інвалідністю.",
+    "Будь-якого транспортного засобу."
+   ],
+   "explanation": "Синій знак «P» із символом інвалідного візка резервує місце для транспорту людей з інвалідністю; номер не вказано, тож це не місце конкретного мешканця."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "A personal space would show the specific vehicle's registration on a panel.",
+    "uk": "Особисте місце мало б табличку з номером конкретного автомобіля."
+   },
+   "c": {
+    "en": "The wheelchair symbol reserves the space; other vehicles may not use it.",
+    "uk": "Символ візка резервує місце; іншим транспортним засобам ним користуватися не можна."
+   }
+  }
+ },
+ {
+  "id": "g11-0167",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "legal",
+  "en": {
+   "q": "In which of these situations can the vehicle be seized?",
+   "options": [
+    "When no third-party liability insurance has been taken out.",
+    "When its driver commits any offence.",
+    "When the number plate is not lit."
+   ],
+   "explanation": "Driving without compulsory civil liability insurance is one of the cases where the vehicle can be seized."
+  },
+  "uk": {
+   "q": "У якій із цих ситуацій транспортний засіб може бути вилучений?",
+   "options": [
+    "Коли не укладено договір страхування цивільної відповідальності.",
+    "Коли водій вчиняє будь-яке порушення.",
+    "Коли номерний знак не освітлений."
+   ],
+   "explanation": "Керування без обов'язкового страхування цивільної відповідальності — один із випадків, коли транспортний засіб може бути вилучений."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Seizure applies only in specific cases, not for any offence.",
+    "uk": "Вилучення застосовується лише в окремих випадках, а не за будь-яке порушення."
+   },
+   "c": {
+    "en": "An unlit plate is a minor fault punished by a fine, not seizure.",
+    "uk": "Неосвітлений номер — дрібне порушення, що карається штрафом, а не вилученням."
+   }
+  }
+ },
+ {
+  "id": "g11-0168",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "accidents",
+  "en": {
+   "q": "The telephone available on this road should be used:",
+   "options": [
+    "In the event of an accident or breakdown.",
+    "In any situation.",
+    "When there is a traffic jam."
+   ],
+   "explanation": "SOS telephones are for emergencies such as accidents or breakdowns."
+  },
+  "uk": {
+   "q": "Телефон, наявний на цій дорозі, слід використовувати:",
+   "options": [
+    "У разі ДТП або поломки.",
+    "У будь-якій ситуації.",
+    "Коли є затор."
+   ],
+   "explanation": "Телефони SOS призначені для надзвичайних ситуацій, як-от ДТП чи поломки."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "SOS phones are for emergencies only, not general use.",
+    "uk": "Телефони SOS — лише для надзвичайних ситуацій, а не для загального користування."
+   },
+   "c": {
+    "en": "A traffic jam alone is not an emergency.",
+    "uk": "Затор сам по собі не є надзвичайною ситуацією."
+   }
+  }
+ },
+ {
+  "id": "g11-0169",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "In this situation, in which case can I be considered to be driving too fast?",
+   "options": [
+    "When I reach a speed close to 90 km/h.",
+    "When I cannot stop the vehicle within the clear, visible space ahead of me.",
+    "When I cannot see the width of the carriageway for at least 50 metres."
+   ],
+   "explanation": "Speed is excessive whenever the driver cannot stop within the clear, visible distance ahead, regardless of the limit."
+  },
+  "uk": {
+   "q": "У цій ситуації, у якому випадку можна вважати, що я рухаюся з надмірною швидкістю?",
+   "options": [
+    "Коли досягну швидкості близько 90 км/год.",
+    "Коли не зможу зупинити транспортний засіб у межах вільного й видимого простору попереду.",
+    "Коли не бачитиму ширини проїзної частини щонайменше на 50 метрів."
+   ],
+   "explanation": "Швидкість надмірна, коли водій не може зупинитися в межах вільної видимої відстані попереду, незалежно від обмеження."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Being within the legal limit doesn't mean the speed is appropriate.",
+    "uk": "Рух у межах обмеження не означає, що швидкість доречна."
+   },
+   "c": {
+    "en": "The criterion is stopping distance, not a fixed 50 m of visible width.",
+    "uk": "Критерій — гальмівний шлях, а не фіксовані 50 м видимої ширини."
+   }
+  }
+ },
+ {
+  "id": "g11-0170",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "lights",
+  "en": {
+   "q": "When should hazard warning lights be used?",
+   "options": [
+    "Whenever the driver is unsure about which way to go.",
+    "Whenever the driver wants to signal the intention to perform a manoeuvre.",
+    "When the vehicle is a danger to other road users."
+   ],
+   "explanation": "Hazard lights warn others that the vehicle is a particular hazard, e.g. stopped after a breakdown or slowing suddenly."
+  },
+  "uk": {
+   "q": "Коли слід вмикати аварійну світлову сигналізацію?",
+   "options": [
+    "Коли водій не визначився з напрямком руху.",
+    "Коли водій хоче повідомити про намір виконати маневр.",
+    "Коли транспортний засіб становить небезпеку для інших учасників руху."
+   ],
+   "explanation": "Аварійна сигналізація попереджає інших, що транспортний засіб становить особливу небезпеку, наприклад стоїть після поломки чи різко сповільнюється."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Indecision is not a reason for hazard lights; decide and signal properly.",
+    "uk": "Нерішучість — не причина вмикати аварійку; слід визначитися й правильно сигналізувати."
+   },
+   "b": {
+    "en": "Manoeuvres are signalled with the direction indicators.",
+    "uk": "Маневри позначаються покажчиками повороту."
+   }
+  }
+ },
+ {
+  "id": "g11-0171",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "priority",
+  "en": {
+   "q": "When is the vehicle approaching from my right obliged to give way to me?",
+   "options": [
+    "Under no circumstances.",
+    "When it is on a main road.",
+    "When it is leaving a car park."
+   ],
+   "explanation": "Vehicles leaving car parks, private property or petrol stations must give way, even if coming from the right."
+  },
+  "uk": {
+   "q": "Коли транспортний засіб, що наближається справа, зобов'язаний поступитися мені дорогою?",
+   "options": [
+    "За жодних обставин.",
+    "Коли він рухається головною дорогою.",
+    "Коли він виїжджає з парковки."
+   ],
+   "explanation": "Транспорт, що виїжджає з парковок, приватної території чи АЗС, має поступитися, навіть якщо він справа."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "There are exceptions, such as leaving a car park or a give-way sign.",
+    "uk": "Є винятки, як-от виїзд з парковки чи знак «поступитися»."
+   },
+   "b": {
+    "en": "If he is on the main road, it's me who must give way.",
+    "uk": "Якщо він на головній дорозі, поступатися маю я."
+   }
+  }
+ },
+ {
+  "id": "g11-0172",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "When cornering on a motorcycle I should know that:",
+   "options": [
+    "The lower the speed, the greater the lean of the motorcycle should be.",
+    "The higher the speed, the greater the lean of the motorcycle should be.",
+    "The higher the speed, the smaller the lean of the motorcycle should be."
+   ],
+   "explanation": "Higher speed means more centrifugal force, which must be balanced by a greater lean angle."
+  },
+  "uk": {
+   "q": "Проходячи поворот на мотоциклі, я маю знати, що:",
+   "options": [
+    "Чим менша швидкість, тим більшим має бути нахил мотоцикла.",
+    "Чим більша швидкість, тим більшим має бути нахил мотоцикла.",
+    "Чим більша швидкість, тим меншим має бути нахил мотоцикла."
+   ],
+   "explanation": "Більша швидкість означає більшу відцентрову силу, яку треба компенсувати більшим кутом нахилу."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "At low speed little lean is needed; leaning a lot would make the bike fall.",
+    "uk": "На малій швидкості потрібен малий нахил; великий нахил призведе до падіння."
+   },
+   "c": {
+    "en": "Less lean at higher speed would push the bike out of the bend.",
+    "uk": "Менший нахил на більшій швидкості винесе мотоцикл з повороту."
+   }
+  }
+ },
+ {
+  "id": "g11-0173",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "Four-stroke engines fitted to some motorcycles must have at least:",
+   "options": [
+    "Two valves per cylinder.",
+    "Three valves per cylinder.",
+    "Four valves per cylinder."
+   ],
+   "explanation": "A four-stroke engine needs at least one intake and one exhaust valve per cylinder, i.e. two."
+  },
+  "uk": {
+   "q": "Чотиритактні двигуни деяких мотоциклів мають мати щонайменше:",
+   "options": [
+    "Два клапани на циліндр.",
+    "Три клапани на циліндр.",
+    "Чотири клапани на циліндр."
+   ],
+   "explanation": "Чотиритактному двигуну потрібен щонайменше один впускний і один випускний клапан на циліндр, тобто два."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Three valves exist but are not the minimum.",
+    "uk": "Три клапани бувають, але це не мінімум."
+   },
+   "c": {
+    "en": "Four valves are common but more than the minimum.",
+    "uk": "Чотири клапани поширені, але це більше за мінімум."
+   }
+  }
+ },
+ {
+  "id": "g11-0174",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "What does the vertical sign tell drivers?",
+   "options": [
+    "The length of the stretch with two lanes in the same direction.",
+    "That they may not drive less than 70 metres from the vehicle in front.",
+    "That in 70 metres they will find a road where traffic is prohibited."
+   ],
+   "explanation": "This sign requires a minimum distance of 70 m from the vehicle ahead."
+  },
+  "uk": {
+   "q": "Що повідомляє вертикальний знак водіям?",
+   "options": [
+    "Протяжність ділянки з двома смугами в одному напрямку.",
+    "Що не можна рухатися ближче ніж за 70 метрів від транспортного засобу попереду.",
+    "Що через 70 метрів буде дорога, де рух заборонено."
+   ],
+   "explanation": "Цей знак вимагає мінімальної дистанції 70 м до транспорту попереду."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The sign is about following distance, not lane layout.",
+    "uk": "Знак стосується дистанції, а не схеми смуг."
+   },
+   "c": {
+    "en": "70 m is the minimum gap, not a distance to a ban.",
+    "uk": "70 м — мінімальна дистанція, а не відстань до заборони."
+   }
+  }
+ },
+ {
+  "id": "g11-0175",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "At this place it is common to find:",
+   "options": [
+    "Crosswinds.",
+    "A slippery surface.",
+    "Reduced road grip."
+   ],
+   "explanation": "The triangle with a windsock warns of strong crosswinds."
+  },
+  "uk": {
+   "q": "У цьому місці часто бувають:",
+   "options": [
+    "Бічний вітер.",
+    "Слизьке покриття.",
+    "Знижене зчеплення з дорогою."
+   ],
+   "explanation": "Трикутник із вітровказом попереджає про сильний боковий вітер."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "A slippery surface has the skidding-car symbol.",
+    "uk": "Слизьке покриття позначається автомобілем, що заносить."
+   },
+   "c": {
+    "en": "Reduced grip is not what the windsock symbol means.",
+    "uk": "Вітровказ не означає зниженого зчеплення."
+   }
+  }
+ },
+ {
+  "id": "g11-0176",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "D"
+  ],
+  "topic": "passengers_cargo",
+  "en": {
+   "q": "The driver of an urban-service heavy passenger vehicle must ensure:",
+   "options": [
+    "That passengers hold on with both hands and that the central aisle grab poles are kept free;",
+    "That visibility through the transparent area of the front door is maintained;",
+    "That the transparent area of the rear door is kept clear."
+   ],
+   "explanation": "The driver needs a clear view through the glazed front door to see passengers and the kerb when stopping and moving off."
+  },
+  "uk": {
+   "q": "Водій важкого пасажирського автомобіля міського сполучення має забезпечити:",
+   "options": [
+    "Щоб пасажири трималися обома руками, а поручні в центральному проході залишалися вільними;",
+    "Збереження видимості через прозору частину передніх дверей;",
+    "Щоб прозора частина задніх дверей залишалася вільною."
+   ],
+   "explanation": "Водієві потрібен вільний огляд через засклені передні двері, щоб бачити пасажирів і бордюр під час зупинки й рушання."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Poles are for holding; requiring both hands and empty poles makes no sense.",
+    "uk": "Поручні для того, щоб триматися; вимагати обох рук і вільних поручнів безглуздо."
+   },
+   "c": {
+    "en": "The driver's direct view is through the front door, not the rear one.",
+    "uk": "Прямий огляд водія — через передні двері, а не задні."
+   }
+  }
+ },
+ {
+  "id": "g11-0177",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "B",
+   "C"
+  ],
+  "topic": "passengers_cargo",
+  "en": {
+   "q": "One of the precautions to consider when transporting any goods is:",
+   "options": [
+    "The safety of all road users.",
+    "Special authorisation for transporting goods.",
+    "That the load does not exceed the vehicle's height."
+   ],
+   "explanation": "Any load must be carried so as not to endanger anyone: properly secured, not obstructing view and not falling."
+  },
+  "uk": {
+   "q": "Одним із заходів обережності під час перевезення будь-якого вантажу є:",
+   "options": [
+    "Безпека всіх учасників руху.",
+    "Спеціальний дозвіл на перевезення вантажів.",
+    "Щоб вантаж не перевищував висоти транспортного засобу."
+   ],
+   "explanation": "Будь-який вантаж слід перевозити так, щоб він нікому не загрожував: надійно закріпленим, без обмеження огляду й без падіння."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Special authorisation is needed only for certain loads, not for any goods.",
+    "uk": "Спеціальний дозвіл потрібен лише для окремих вантажів, а не для будь-яких."
+   },
+   "c": {
+    "en": "Loads may exceed vehicle height within legal limits; safety is the key.",
+    "uk": "Вантаж може перевищувати висоту автомобіля в межах закону; головне — безпека."
+   }
+  }
+ },
+ {
+  "id": "g11-0178",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The blue-background vertical sign tells me:",
+   "options": [
+    "That there is a bend to the right ahead.",
+    "The destinations of the next exit.",
+    "That the nearest town is Pero Negro."
+   ],
+   "explanation": "It is an advance exit sign listing the destinations (Sobral, Ericeira, Pero Negro…) served by the exit 2000 m ahead."
+  },
+  "uk": {
+   "q": "Вертикальний знак на синьому тлі повідомляє мені:",
+   "options": [
+    "Що попереду поворот праворуч.",
+    "Напрямки наступного з'їзду.",
+    "Що найближчий населений пункт — Перу-Негру."
+   ],
+   "explanation": "Це попередній покажчик з'їзду з переліком напрямків (Sobral, Ericeira, Pero Negro…) для з'їзду через 2000 м."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The diagonal arrow shows an exit, not a bend.",
+    "uk": "Діагональна стрілка вказує на з'їзд, а не на поворот дороги."
+   },
+   "c": {
+    "en": "The sign lists destinations; it doesn't say which is nearest.",
+    "uk": "Знак перелічує напрямки, а не вказує, який найближчий."
+   }
+  }
+ },
+ {
+  "id": "g11-0179",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "Before starting to turn left, I must make sure:",
+   "options": [
+    "That it causes no danger or hindrance to traffic.",
+    "That the manoeuvre is done at the highest possible speed.",
+    "That the manoeuvre is done as far to the left of the carriageway as possible."
+   ],
+   "explanation": "Any manoeuvre may only be started after checking it will not endanger or hinder other road users."
+  },
+  "uk": {
+   "q": "Перед початком повороту ліворуч я маю переконатися:",
+   "options": [
+    "Що це не створить небезпеки чи перешкод для руху.",
+    "Що маневр буде виконано з максимально можливою швидкістю.",
+    "Що маневр буде виконано якомога лівіше на проїзній частині."
+   ],
+   "explanation": "Будь-який маневр можна починати лише переконавшись, що він не створить небезпеки чи перешкод іншим."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Turns must be made at a moderate speed, not as fast as possible.",
+    "uk": "Повороти виконують з помірною швидкістю, а не якомога швидше."
+   },
+   "c": {
+    "en": "On a two-way road you move towards the centre line, not the far left.",
+    "uk": "На дорозі з двостороннім рухом слід зміщуватися до осьової, а не на крайній лівий бік."
+   }
+  }
+ },
+ {
+  "id": "g11-0180",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "From the vertical sign on the road, I know:",
+   "options": [
+    "That I am approaching a place with a moving bridge.",
+    "That the road ends at a quay or cliff edge.",
+    "That the moving bridge is raised and traffic is temporarily stopped."
+   ],
+   "explanation": "The triangle with a lifting-bridge symbol warns of an approaching moving bridge; it says nothing about its current state."
+  },
+  "uk": {
+   "q": "Із вертикального знака на дорозі я знаю:",
+   "options": [
+    "Що наближаюся до місця з розвідним мостом.",
+    "Що дорога закінчується причалом чи урвищем.",
+    "Що розвідний міст піднятий і рух тимчасово припинено."
+   ],
+   "explanation": "Трикутник із символом розвідного мосту попереджає про наближення до розвідного мосту; про його поточний стан знак нічого не каже."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "The quay/cliff sign shows a car falling into water, not a bridge.",
+    "uk": "Знак причалу/урвища показує автомобіль, що падає у воду, а не міст."
+   },
+   "c": {
+    "en": "A danger sign is permanent; it doesn't show whether the bridge is up.",
+    "uk": "Попереджувальний знак постійний і не показує, чи міст піднятий."
+   }
+  }
+ },
+ {
+  "id": "g11-0181",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The blue-background sign tells me:",
+   "options": [
+    "Dead-end road.",
+    "One-way traffic.",
+    "That the road changes from one-way to two-way."
+   ],
+   "explanation": "The blue square with a white 'T' shape with a red bar marks a dead end (no through road)."
+  },
+  "uk": {
+   "q": "Знак на синьому тлі повідомляє мені:",
+   "options": [
+    "Дорога без наскрізного проїзду (тупик).",
+    "Односторонній рух.",
+    "Що дорога переходить з одностороннього на двосторонній рух."
+   ],
+   "explanation": "Синій квадрат із білою Т-подібною фігурою з червоною смугою позначає тупик."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "One-way traffic is shown by a straight white arrow.",
+    "uk": "Односторонній рух позначається прямою білою стрілкою."
+   },
+   "c": {
+    "en": "Two-way traffic is shown by opposing arrows.",
+    "uk": "Двосторонній рух позначається зустрічними стрілками."
+   }
+  }
+ },
+ {
+  "id": "g11-0182",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "What does the vertical sign tell drivers?",
+   "options": [
+    "A stretch of road where unaccompanied animals may be found.",
+    "Hunting zone signs.",
+    "That the road may be crossed by wild animals."
+   ],
+   "explanation": "The triangle with a deer warns that wild animals may cross the road."
+  },
+  "uk": {
+   "q": "Що повідомляє вертикальний знак водіям?",
+   "options": [
+    "Ділянку дороги, де можуть траплятися тварини без погонича.",
+    "Позначення мисливської зони.",
+    "Що дорогу можуть перетинати дикі тварини."
+   ],
+   "explanation": "Трикутник з оленем попереджає, що дорогу можуть перетинати дикі тварини."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Domestic animals are shown by a cow, not a deer.",
+    "uk": "Свійські тварини позначаються коровою, а не оленем."
+   },
+   "b": {
+    "en": "Hunting zones are not marked with this road danger sign.",
+    "uk": "Мисливські зони не позначаються цим дорожнім знаком."
+   }
+  }
+ },
+ {
+  "id": "g11-0183",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "Faced with this sign I should know:",
+   "options": [
+    "That I have no priority at the next T-junction.",
+    "That I have priority at the next T-junction.",
+    "That the road ahead of me is a dead end."
+   ],
+   "explanation": "The blue sign with a 'T' and red bar means the road ahead has no exit (dead end)."
+  },
+  "uk": {
+   "q": "Перед цим знаком я маю знати:",
+   "options": [
+    "Що не маю переваги на наступному примиканні.",
+    "Що маю перевагу на наступному примиканні.",
+    "Що дорога попереду не має виїзду."
+   ],
+   "explanation": "Синій знак із Т-подібною фігурою й червоною смугою означає, що дорога попереду не має виїзду (тупик)."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "This is an information sign, not a priority sign.",
+    "uk": "Це інформаційний знак, а не знак пріоритету."
+   },
+   "b": {
+    "en": "Priority at a junction is shown by a red triangle, not this blue sign.",
+    "uk": "Перевага на примиканні позначається червоним трикутником, а не цим синім знаком."
+   }
+  }
+ },
+ {
+  "id": "g11-0184",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The sign on this road tells drivers:",
+   "options": [
+    "That the moving bridge is raised.",
+    "Approach to a moving bridge.",
+    "That the road has no exit for vehicles."
+   ],
+   "explanation": "The danger triangle with a lifting-bridge symbol warns of a moving bridge ahead."
+  },
+  "uk": {
+   "q": "Знак на цій дорозі повідомляє водіям:",
+   "options": [
+    "Що розвідний міст піднятий.",
+    "Наближення до розвідного мосту.",
+    "Що дорога не має виїзду для транспорту."
+   ],
+   "explanation": "Попереджувальний трикутник із символом розвідного мосту попереджає про розвідний міст попереду."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The sign is permanent and doesn't show the bridge's current state.",
+    "uk": "Знак постійний і не показує поточного стану мосту."
+   },
+   "c": {
+    "en": "Dead ends are shown by a blue 'T' sign.",
+    "uk": "Тупик позначається синім знаком із літерою «Т»."
+   }
+  }
+ },
+ {
+  "id": "g11-0185",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The blue-background sign on my right tells me:",
+   "options": [
+    "The possible mandatory directions.",
+    "That I am only allowed to go straight on.",
+    "That I am only allowed to turn left."
+   ],
+   "explanation": "The blue round sign with arrows straight and to the right means I must go either straight on or turn right."
+  },
+  "uk": {
+   "q": "Знак на синьому тлі праворуч від мене повідомляє:",
+   "options": [
+    "Можливі обов'язкові напрямки руху.",
+    "Що мені дозволено лише рухатися прямо.",
+    "Що мені дозволено лише повернути ліворуч."
+   ],
+   "explanation": "Синій круглий знак зі стрілками прямо й праворуч означає, що рухатися можна лише прямо або праворуч."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "The sign also shows an arrow to the right.",
+    "uk": "На знаку також є стрілка праворуч."
+   },
+   "c": {
+    "en": "There is no left arrow; turning left is not allowed.",
+    "uk": "Стрілки ліворуч немає; повертати ліворуч не можна."
+   }
+  }
+ },
+ {
+  "id": "g11-0186",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "What do the yellow road markings mean?",
+   "options": [
+    "That I may stop and park only for loading and unloading.",
+    "That I may never stop or park in this place.",
+    "That I may only stop to pick up or drop off passengers."
+   ],
+   "explanation": "The yellow box with diagonal lines along the kerb marks an area where stopping and parking are prohibited."
+  },
+  "uk": {
+   "q": "Що означає жовта дорожня розмітка?",
+   "options": [
+    "Що я можу зупинятися й ставати на стоянку лише для навантаження й розвантаження.",
+    "Що в цьому місці я ніколи не можу зупинятися чи ставати на стоянку.",
+    "Що я можу зупинятися лише для посадки чи висадки пасажирів."
+   ],
+   "explanation": "Жовтий прямокутник із діагональними лініями біля бордюру позначає зону, де зупинка й стоянка заборонені."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "No loading exception is indicated by these markings.",
+    "uk": "Ця розмітка не вказує на виняток для навантаження."
+   },
+   "c": {
+    "en": "The marking allows no stopping at all, even for passengers.",
+    "uk": "Розмітка не дозволяє зупинки взагалі, навіть для пасажирів."
+   }
+  }
+ },
+ {
+  "id": "g11-0187",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "When overtaking the heavy vehicle, what behaviour should I expect from its driver?",
+   "options": [
+    "That he reduces his speed.",
+    "That he keeps his speed and moves as far to the right as possible.",
+    "That he increases his speed."
+   ],
+   "explanation": "A driver being overtaken must keep to the right and must not speed up."
+  },
+  "uk": {
+   "q": "Обганяючи важкий автомобіль, якої поведінки я маю очікувати від його водія?",
+   "options": [
+    "Що він знизить швидкість.",
+    "Що він збереже швидкість і зміститься якомога правіше.",
+    "Що він збільшить швидкість."
+   ],
+   "explanation": "Водій, якого обганяють, має триматися правіше й не збільшувати швидкість."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "He is not required to slow down, only not to accelerate.",
+    "uk": "Він не зобов'язаний сповільнюватися — лише не прискорюватися."
+   },
+   "c": {
+    "en": "Speeding up while being overtaken is prohibited.",
+    "uk": "Збільшувати швидкість, коли тебе обганяють, заборонено."
+   }
+  }
+ },
+ {
+  "id": "g11-0188",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The series of pairs of white transverse lines on the road surface tell drivers:",
+   "options": [
+    "The width of the road.",
+    "The number of lanes in the same direction.",
+    "That they should reduce speed."
+   ],
+   "explanation": "Transverse speed-reduction lines create an effect of increasing speed and warn drivers to slow down."
+  },
+  "uk": {
+   "q": "Послідовність пар білих поперечних ліній на покритті вказує водіям:",
+   "options": [
+    "Ширину дороги.",
+    "Кількість смуг в одному напрямку.",
+    "Що слід знизити швидкість."
+   ],
+   "explanation": "Поперечні лінії зниження швидкості створюють ефект прискорення й попереджають водіїв про необхідність сповільнитися."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Road width is shown by edge lines, not transverse lines.",
+    "uk": "Ширину дороги показують крайові лінії, а не поперечні."
+   },
+   "b": {
+    "en": "Lanes are shown by longitudinal lines.",
+    "uk": "Смуги позначаються поздовжніми лініями."
+   }
+  }
+ },
+ {
+  "id": "g11-0189",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "When overtaking this heavy vehicle I should be aware of:",
+   "options": [
+    "The instability caused by air displacement.",
+    "That I may never exceed the maximum speed of 120 km/h.",
+    "That I should ride as far left as possible, even if I touch the edge line."
+   ],
+   "explanation": "Passing a large truck exposes a motorcycle to turbulence and gusts that can destabilise it."
+  },
+  "uk": {
+   "q": "Обганяючи цей важкий автомобіль, я маю зважати на:",
+   "options": [
+    "Нестабільність через рух повітря.",
+    "Те, що ніколи не можу перевищувати максимальну швидкість 120 км/год.",
+    "Те, що маю рухатися якомога лівіше, навіть наїжджаючи на крайову лінію."
+   ],
+   "explanation": "Обгін великої вантажівки піддає мотоцикл турбулентності й поривам, що можуть його дестабілізувати."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "The speed limit applies, but the specific danger here is air turbulence.",
+    "uk": "Обмеження швидкості діє, але специфічна небезпека тут — турбулентність."
+   },
+   "c": {
+    "en": "Riding on the edge line is not required and reduces your safety margin.",
+    "uk": "Їзда по крайовій лінії не потрібна й зменшує запас безпеки."
+   }
+  }
+ },
+ {
+  "id": "g11-0190",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The traffic light on this road tells me:",
+   "options": [
+    "That I am only allowed to turn right.",
+    "Passage allowed.",
+    "That I must stop before reaching the area controlled by the signal."
+   ],
+   "explanation": "The light is green, which means traffic may proceed."
+  },
+  "uk": {
+   "q": "Світлофор на цій дорозі повідомляє мені:",
+   "options": [
+    "Що мені дозволено лише повернути праворуч.",
+    "Проїзд дозволено.",
+    "Що я маю зупинитися до зони дії сигналу."
+   ],
+   "explanation": "Горить зелений сигнал, що означає дозвіл на рух."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "A full green light doesn't restrict direction; only an arrow would.",
+    "uk": "Повний зелений не обмежує напрямку — це робила б лише стрілка."
+   },
+   "c": {
+    "en": "Stopping is required by red, not green.",
+    "uk": "Зупинки вимагає червоний, а не зелений сигнал."
+   }
+  }
+ },
+ {
+  "id": "g11-0191",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "lights",
+  "en": {
+   "q": "The vertical sign on this public road tells me:",
+   "options": [
+    "That I must drive with dipped headlights on.",
+    "That I am no longer required to drive with dipped headlights on.",
+    "That I should use high beams only when meeting other vehicles."
+   ],
+   "explanation": "The blue sign with a headlight symbol crossed by a red bar marks the end of the obligation to use dipped beams."
+  },
+  "uk": {
+   "q": "Вертикальний знак на цій дорозі повідомляє мені:",
+   "options": [
+    "Що я маю рухатися з увімкненим ближнім світлом.",
+    "Що я більше не зобов'язаний рухатися з увімкненим ближнім світлом.",
+    "Що дальнє світло слід вмикати лише при зустрічному роз'їзді."
+   ],
+   "explanation": "Синій знак із символом фари, перекресленим червоною смугою, позначає кінець обов'язку вмикати ближнє світло."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "That would be the sign without the red bar.",
+    "uk": "Таке значення має знак без червоної смуги."
+   },
+   "c": {
+    "en": "High beams must be switched off when meeting vehicles, not on.",
+    "uk": "Дальнє світло при зустрічному роз'їзді треба вимикати, а не вмикати."
+   }
+  }
+ },
+ {
+  "id": "g11-0192",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "The vertical signs inform me:",
+   "options": [
+    "That I may park parallel to the road, on the pavement.",
+    "That there is a restricted car park on the right of the road.",
+    "That on the right there is a car park authorised for all motor vehicles."
+   ],
+   "explanation": "The 'P' sign with a panel showing a car with the kerb indicates parking authorised parallel to the road with the vehicle on the pavement."
+  },
+  "uk": {
+   "q": "Вертикальні знаки повідомляють мені:",
+   "options": [
+    "Що можу ставати на стоянку паралельно дорозі на тротуарі.",
+    "Що праворуч від дороги є стоянка з обмеженим доступом.",
+    "Що праворуч є стоянка, дозволена для всіх автомобілів."
+   ],
+   "explanation": "Знак «P» із табличкою, на якій автомобіль і бордюр, означає дозвіл стоянки паралельно дорозі із заїздом на тротуар."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "No panel restricts the users of this parking area.",
+    "uk": "Немає таблички, що обмежувала б користувачів цієї стоянки."
+   },
+   "c": {
+    "en": "The panel specifies the manner of parking (on the pavement), not a general car park.",
+    "uk": "Табличка визначає спосіб стоянки (на тротуарі), а не загальну стоянку."
+   }
+  }
+ },
+ {
+  "id": "g11-0193",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "priority",
+  "en": {
+   "q": "Drivers must give way to cyclists:",
+   "options": [
+    "Crossing the carriageway at marked crossings.",
+    "Leaving a car park.",
+    "Entering a roundabout."
+   ],
+   "explanation": "Drivers must give way to cyclists crossing at marked cycle crossings."
+  },
+  "uk": {
+   "q": "Водії мають поступатися дорогою велосипедистам:",
+   "options": [
+    "Які перетинають проїзну частину позначеними переїздами.",
+    "Які виїжджають з парковки.",
+    "Які в'їжджають на кільцеву розв'язку."
+   ],
+   "explanation": "Водії мають поступатися велосипедистам, що перетинають дорогу позначеними велосипедними переїздами."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Anyone leaving a car park, cyclists included, must give way.",
+    "uk": "Будь-хто, хто виїжджає з парковки, зокрема велосипедисти, має поступитися."
+   },
+   "c": {
+    "en": "Vehicles entering a roundabout give way to those already on it.",
+    "uk": "Транспорт, що в'їжджає на кільцеву розв'язку, поступається тим, хто вже на ній."
+   }
+  }
+ },
+ {
+  "id": "g11-0194",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The reference IC 17 on the signs indicates:",
+   "options": [
+    "That I am on complementary route no. 17.",
+    "That there are 17 km to the start of the A1.",
+    "That I am at km 17 of the road I am on."
+   ],
+   "explanation": "'IC' stands for Itinerário Complementar; IC 17 identifies the road (CRIL)."
+  },
+  "uk": {
+   "q": "Позначення IC 17 на знаках вказує:",
+   "options": [
+    "Що я на додатковому маршруті № 17.",
+    "Що до початку A1 залишилося 17 км.",
+    "Що я на 17-му кілометрі дороги, якою їду."
+   ],
+   "explanation": "«IC» означає Itinerário Complementar (додатковий маршрут); IC 17 — це номер дороги (CRIL)."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "17 is the road number, not a distance.",
+    "uk": "17 — номер дороги, а не відстань."
+   },
+   "c": {
+    "en": "Kilometre posts are separate markers, not the IC code.",
+    "uk": "Кілометрові позначки — окремі знаки, а не код IC."
+   }
+  }
+ },
+ {
+  "id": "g11-0195",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "What does the vertical sign tell me?",
+   "options": [
+    "That in the zone I am entering the minimum permitted speed is 40 km/h.",
+    "That in the zone I am in it is advisable to drive at 40 km/h.",
+    "That in the zone I am entering the maximum speed is limited to 40 km/h."
+   ],
+   "explanation": "The 'zona' sign with a red-ringed 40 sets a maximum speed of 40 km/h throughout the zone being entered."
+  },
+  "uk": {
+   "q": "Що повідомляє вертикальний знак?",
+   "options": [
+    "Що в зоні, куди я в'їжджаю, мінімальна дозволена швидкість — 40 км/год.",
+    "Що в зоні, де я перебуваю, рекомендується рухатися зі швидкістю 40 км/год.",
+    "Що в зоні, куди я в'їжджаю, максимальну швидкість обмежено до 40 км/год."
+   ],
+   "explanation": "Знак «zona» з числом 40 у червоному колі встановлює максимальну швидкість 40 км/год у всій зоні, куди в'їжджають."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "A minimum speed would be on a blue disc.",
+    "uk": "Мінімальна швидкість позначалася б на синьому колі."
+   },
+   "b": {
+    "en": "Recommended speeds are on square blue signs; this is a mandatory limit.",
+    "uk": "Рекомендовані швидкості — на квадратних синіх знаках; тут обов'язкове обмеження."
+   }
+  }
+ },
+ {
+  "id": "g11-0196",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The road markings in my lane tell me:",
+   "options": [
+    "That I should reduce the speed of my vehicle.",
+    "The safety distance I should keep from vehicles ahead.",
+    "That I should not enter the area covered by the marking if traffic is likely to make me stop inside it."
+   ],
+   "explanation": "The transverse white lines across my lane are speed-reduction markings warning me to slow down before the junction."
+  },
+  "uk": {
+   "q": "Дорожня розмітка на моїй смузі вказує мені:",
+   "options": [
+    "Що я маю знизити швидкість свого транспортного засобу.",
+    "Безпечну дистанцію, яку слід тримати до транспорту попереду.",
+    "Що не слід в'їжджати в позначену зону, якщо через інтенсивний рух доведеться зупинитися в ній."
+   ],
+   "explanation": "Білі поперечні лінії на моїй смузі — розмітка зниження швидкості, що попереджає сповільнитися перед перехрестям."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Distance markings are chevrons, not transverse bars.",
+    "uk": "Розмітка дистанції — це шеврони, а не поперечні смуги."
+   },
+   "c": {
+    "en": "That is the meaning of a yellow box-junction marking.",
+    "uk": "Таке значення має жовта сітчаста розмітка перехрестя."
+   }
+  }
+ },
+ {
+  "id": "g11-0197",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "A motorcycle rider should use a protective helmet:",
+   "options": [
+    "Of a loose model, to breathe properly, but properly fastened.",
+    "That fits the head snugly so it doesn't move while riding.",
+    "That does not affect his vision by more than 30%."
+   ],
+   "explanation": "A helmet must fit snugly and be fastened; a loose helmet can move or come off in a crash."
+  },
+  "uk": {
+   "q": "Водій мотоцикла має використовувати захисний шолом:",
+   "options": [
+    "Вільної моделі, щоб нормально дихати, але належно застебнутий.",
+    "Що щільно прилягає до голови, щоб не хитався під час руху.",
+    "Що не погіршує зір більш ніж на 30%."
+   ],
+   "explanation": "Шолом має щільно прилягати й бути застебнутим; вільний шолом може зміститися чи злетіти під час аварії."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "A loose helmet gives poor protection even when fastened.",
+    "uk": "Вільний шолом погано захищає навіть застебнутим."
+   },
+   "c": {
+    "en": "A helmet should not restrict vision; 30% would be dangerous.",
+    "uk": "Шолом не повинен обмежувати зір; 30% було б небезпечно."
+   }
+  }
+ },
+ {
+  "id": "g11-0198",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The transverse stop line indicates:",
+   "options": [
+    "The obligation to stop my vehicle on top of the marking.",
+    "The stopping point imposed by the traffic light.",
+    "That it may not be crossed regardless of the traffic light."
+   ],
+   "explanation": "At traffic lights, the transverse stop line shows where to stop when the light requires it."
+  },
+  "uk": {
+   "q": "Поперечна стоп-лінія вказує:",
+   "options": [
+    "Обов'язок зупинити транспортний засіб на самій розмітці.",
+    "Місце зупинки, яку вимагає світлофор.",
+    "Що її не можна перетинати незалежно від сигналу світлофора."
+   ],
+   "explanation": "На світлофорі поперечна стоп-лінія показує, де зупинитися, коли цього вимагає сигнал."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "You stop before the line, not on top of it.",
+    "uk": "Зупинятися слід перед лінією, а не на ній."
+   },
+   "c": {
+    "en": "On green you may cross it; it applies when the light requires stopping.",
+    "uk": "На зелений її можна перетинати; вона діє, коли сигнал вимагає зупинки."
+   }
+  }
+ },
+ {
+  "id": "g11-0199",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "priority",
+  "en": {
+   "q": "I must not enter a level crossing:",
+   "options": [
+    "If there is no barrier.",
+    "When instructions from railway staff prohibit it.",
+    "That is not signposted."
+   ],
+   "explanation": "Drivers must obey railway agents' instructions; if they forbid entering, you must not cross."
+  },
+  "uk": {
+   "q": "Я не повинен в'їжджати на залізничний переїзд:",
+   "options": [
+    "Якщо немає шлагбаума.",
+    "Коли це забороняють вказівки працівників залізниці.",
+    "Який не позначений."
+   ],
+   "explanation": "Водії мають виконувати вказівки працівників залізниці; якщо вони забороняють в'їзд, перетинати переїзд не можна."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Unguarded crossings may be used, with extra care.",
+    "uk": "Переїздами без шлагбаума можна користуватися з особливою обережністю."
+   },
+   "c": {
+    "en": "Lack of signs doesn't forbid crossing; it calls for caution.",
+    "uk": "Відсутність знаків не забороняє перетин, але вимагає обережності."
+   }
+  }
+ },
+ {
+  "id": "g11-0200",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The lane-allocation vertical sign indicates:",
+   "options": [
+    "The removal of a lane with an obligation to give way",
+    "Approach to a T-junction.",
+    "That in my direction there will now be two lanes."
+   ],
+   "explanation": "The green sign shows the right lane ending and merging into the left one with a give-way triangle: the lane ends and its traffic must yield."
+  },
+  "uk": {
+   "q": "Вертикальний знак розподілу смуг вказує:",
+   "options": [
+    "Зникнення смуги руху з обов'язком поступитися дорогою",
+    "Наближення до примикання доріг.",
+    "Що в моєму напрямку тепер буде дві смуги."
+   ],
+   "explanation": "Зелений знак показує, що права смуга закінчується й зливається з лівою, із трикутником «поступитися»: смуга зникає, і її транспорт має поступитися."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "The sign shows lanes merging, not a junction.",
+    "uk": "Знак показує злиття смуг, а не примикання."
+   },
+   "c": {
+    "en": "Lanes are being reduced, not added.",
+    "uk": "Кількість смуг зменшується, а не збільшується."
+   }
+  }
+ },
+ {
+  "id": "g11-0201",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "Practising defensive driving in many situations means:",
+   "options": [
+    "That the driver gives up his rights in order to avoid an accident.",
+    "That the driver speeds up to be the first to go.",
+    "That the driver doesn't give way, because he always has the right to proceed."
+   ],
+   "explanation": "Defensive drivers are willing to give up their priority when needed to avoid a collision caused by others' mistakes."
+  },
+  "uk": {
+   "q": "Практика захисного водіння в багатьох ситуаціях означає:",
+   "options": [
+    "Що водій відмовляється від своїх прав, щоб уникнути ДТП.",
+    "Що водій прискорюється, щоб проїхати першим.",
+    "Що водій не поступається, бо завжди має право рухатися."
+   ],
+   "explanation": "Захисний водій готовий відмовитися від своєї переваги, коли це потрібно, щоб уникнути зіткнення через помилки інших."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Racing to go first is aggressive, not defensive driving.",
+    "uk": "Гонитва за першістю — агресивне, а не захисне водіння."
+   },
+   "c": {
+    "en": "Insisting on your rights regardless of danger causes accidents.",
+    "uk": "Наполягання на своїх правах попри небезпеку спричиняє ДТП."
+   }
+  }
+ },
+ {
+  "id": "g11-0202",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The sign indicates:",
+   "options": [
+    "A place overflown at low altitude, 200 metres ahead.",
+    "An airstrip 200 metres long.",
+    "That the place where I am driving is overflown at low altitude."
+   ],
+   "explanation": "The aeroplane danger sign with a '200 m' panel warns of low-flying aircraft 200 m ahead."
+  },
+  "uk": {
+   "q": "Знак вказує:",
+   "options": [
+    "Місце, над яким низько пролітають літаки, через 200 метрів.",
+    "Злітну смугу довжиною 200 метрів.",
+    "Що над місцем, де я рухаюся, низько пролітають літаки."
+   ],
+   "explanation": "Попереджувальний знак із літаком і табличкою «200 m» попереджає про низько летючі літаки за 200 м попереду."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "The panel gives the distance to the danger, not a length.",
+    "uk": "Табличка вказує відстань до небезпеки, а не протяжність."
+   },
+   "c": {
+    "en": "The danger starts 200 m ahead, not at the sign itself.",
+    "uk": "Небезпека починається через 200 м, а не біля самого знака."
+   }
+  }
+ },
+ {
+  "id": "g11-0203",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The full-face helmet worn by a motorcyclist provides:",
+   "options": [
+    "Greater protection for the rider.",
+    "Prevention of visor fogging.",
+    "Higher speed for the rider."
+   ],
+   "explanation": "A full-face helmet also covers the chin and face, giving the best protection in a crash."
+  },
+  "uk": {
+   "q": "Інтегральний шолом мотоцикліста забезпечує:",
+   "options": [
+    "Кращий захист водія.",
+    "Запобігання запотіванню візора.",
+    "Можливість досягати більшої швидкості."
+   ],
+   "explanation": "Інтегральний шолом закриває також підборіддя й обличчя, забезпечуючи найкращий захист під час аварії."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Fogging is prevented by ventilation, not by the full-face design.",
+    "uk": "Запотіванню запобігає вентиляція, а не інтегральна конструкція."
+   },
+   "c": {
+    "en": "Helmets are for protection, not for going faster.",
+    "uk": "Шолом — для захисту, а не для більшої швидкості."
+   }
+  }
+ },
+ {
+  "id": "g11-0204",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "Using an approved helmet provides:",
+   "options": [
+    "Increased passive safety.",
+    "Increased active safety.",
+    "Higher speed for the motorcyclist."
+   ],
+   "explanation": "A helmet reduces injuries once an accident happens, which is passive safety."
+  },
+  "uk": {
+   "q": "Використання сертифікованого шолома забезпечує:",
+   "options": [
+    "Підвищення пасивної безпеки.",
+    "Підвищення активної безпеки.",
+    "Можливість досягати більшої швидкості."
+   ],
+   "explanation": "Шолом зменшує травми, коли ДТП уже сталася, — це пасивна безпека."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Active safety prevents accidents (brakes, tyres); a helmet doesn't.",
+    "uk": "Активна безпека запобігає ДТП (гальма, шини); шолом цього не робить."
+   },
+   "c": {
+    "en": "Helmets don't make you faster.",
+    "uk": "Шолом не робить вас швидшим."
+   }
+  }
+ },
+ {
+  "id": "g11-0205",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "A motorcyclist's helmet should provide:",
+   "options": [
+    "Good protection against noise.",
+    "Effective protection in the event of an accident.",
+    "The possibility of fastening it while riding."
+   ],
+   "explanation": "The main purpose of a helmet is to protect the head effectively in a crash."
+  },
+  "uk": {
+   "q": "Шолом мотоцикліста має забезпечувати:",
+   "options": [
+    "Добрий захист від шуму.",
+    "Ефективний захист у разі ДТП.",
+    "Можливість застібати його під час руху."
+   ],
+   "explanation": "Головне призначення шолома — ефективно захищати голову під час аварії."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Noise reduction is secondary; protection in a crash is the purpose.",
+    "uk": "Зниження шуму другорядне; мета — захист під час аварії."
+   },
+   "c": {
+    "en": "A helmet must be fastened before riding, never while moving.",
+    "uk": "Шолом слід застібати до початку руху, а не під час нього."
+   }
+  }
+ },
+ {
+  "id": "g11-0206",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "When a motorcycle's front shock absorbers are worn out, the rider notices:",
+   "options": [
+    "Easier braking.",
+    "Instability when cornering.",
+    "That the motorcycle drifts off its line."
+   ],
+   "explanation": "Worn front suspension no longer damps movement, making the bike unstable, especially in bends."
+  },
+  "uk": {
+   "q": "Коли передні амортизатори мотоцикла несправні, водій помічає:",
+   "options": [
+    "Легше гальмування.",
+    "Нестабільність у поворотах.",
+    "Що мотоцикл відхиляється від траєкторії."
+   ],
+   "explanation": "Зношена передня підвіска вже не гасить коливань, і мотоцикл стає нестабільним, особливо в поворотах."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Worn shocks make braking worse (more dive), not easier.",
+    "uk": "Зношені амортизатори погіршують гальмування (більший «клювок»), а не полегшують."
+   },
+   "c": {
+    "en": "Pulling to one side is more typical of tyre or alignment faults.",
+    "uk": "Відхилення вбік характерніше для несправностей шин чи геометрії."
+   }
+  }
+ },
+ {
+  "id": "g11-0207",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "For the lubrication circuit and system to work fully, it is necessary that:",
+   "options": [
+    "The oil level is as recommended by the manufacturer.",
+    "There is so much oil that it overflows a little, ensuring it reaches every part of the engine.",
+    "The oil is slightly below the minimum mark, to avoid overpressure."
+   ],
+   "explanation": "The engine lubricates properly only with the oil level between the minimum and maximum marks recommended by the manufacturer."
+  },
+  "uk": {
+   "q": "Щоб система змащування працювала повноцінно, потрібно, щоб:",
+   "options": [
+    "Рівень оливи відповідав рекомендації виробника.",
+    "Оливи було стільки, щоб вона трохи переливалася, гарантуючи її надходження до всіх частин двигуна.",
+    "Олива була трохи нижче мінімальної позначки, щоб уникнути надмірного тиску."
+   ],
+   "explanation": "Двигун змащується належно лише тоді, коли рівень оливи між мінімальною й максимальною позначками, рекомендованими виробником."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Overfilling causes foaming, leaks and damage.",
+    "uk": "Надлишок оливи спричиняє піну, витоки й пошкодження."
+   },
+   "c": {
+    "en": "Too little oil causes poor lubrication and engine wear.",
+    "uk": "Нестача оливи погіршує змащування й зношує двигун."
+   }
+  }
+ },
+ {
+  "id": "g11-0208",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The triangular sign indicates:",
+   "options": [
+    "That I am approaching a tunnel.",
+    "That in the tunnel it is mandatory to drive with dipped beams on.",
+    "That traffic becomes two-way."
+   ],
+   "explanation": "The triangle with two opposing arrows warns that traffic becomes two-way ahead (here, in the tunnel)."
+  },
+  "uk": {
+   "q": "Трикутний знак вказує:",
+   "options": [
+    "Що я наближаюся до тунелю.",
+    "Що в тунелі обов'язково рухатися з увімкненим ближнім світлом.",
+    "Що рух стає двостороннім."
+   ],
+   "explanation": "Трикутник із двома зустрічними стрілками попереджає, що попереду (тут — у тунелі) рух стає двостороннім."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "A tunnel warning has a tunnel symbol, not two arrows.",
+    "uk": "Попередження про тунель має символ тунелю, а не дві стрілки."
+   },
+   "b": {
+    "en": "The dipped-beams instruction is the separate 'acenda médios' panel.",
+    "uk": "Вказівка про ближнє світло — окрема табличка «acenda médios»."
+   }
+  }
+ },
+ {
+  "id": "g11-0209",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The triangular sign indicates:",
+   "options": [
+    "Mandatory directions.",
+    "Approach to a narrow passage.",
+    "That traffic becomes two-way."
+   ],
+   "explanation": "The danger triangle with two opposing arrows warns that two-way traffic begins."
+  },
+  "uk": {
+   "q": "Трикутний знак вказує:",
+   "options": [
+    "Обов'язкові напрямки руху.",
+    "Наближення до вузького проїзду.",
+    "Що рух стає двостороннім."
+   ],
+   "explanation": "Попереджувальний трикутник із двома зустрічними стрілками попереджає про початок двостороннього руху."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Mandatory directions are round blue signs.",
+    "uk": "Обов'язкові напрямки — круглі сині знаки."
+   },
+   "b": {
+    "en": "A narrowing is shown by converging road edges.",
+    "uk": "Звуження позначається краями дороги, що сходяться."
+   }
+  }
+ },
+ {
+  "id": "g11-0210",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The vertical sign on this public road tells me:",
+   "options": [
+    "That I have priority at the narrowing of the carriageway.",
+    "That I must give way at the narrowing of the carriageway.",
+    "That traffic becomes two-way."
+   ],
+   "explanation": "The blue square with a white arrow (mine) and a red arrow (oncoming) gives me priority over oncoming traffic at the narrowing."
+  },
+  "uk": {
+   "q": "Вертикальний знак на цій дорозі повідомляє мені:",
+   "options": [
+    "Що я маю перевагу у звуженні проїзної частини.",
+    "Що я маю поступитися дорогою у звуженні проїзної частини.",
+    "Що рух стає двостороннім."
+   ],
+   "explanation": "Синій квадрат із білою стрілкою (моєю) і червоною (зустрічною) дає мені перевагу над зустрічним рухом у звуженні."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Giving way is the round red-ringed version, not this blue square.",
+    "uk": "Обов'язок поступитися — круглий знак з червоною облямівкою, а не цей синій квадрат."
+   },
+   "c": {
+    "en": "Two-way traffic warning is a red triangle.",
+    "uk": "Попередження про двосторонній рух — червоний трикутник."
+   }
+  }
+ },
+ {
+  "id": "g11-0211",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The danger sign tells me:",
+   "options": [
+    "The road narrows as shown on the sign.",
+    "Approach to a dangerous bend to the right.",
+    "That traffic is two-way."
+   ],
+   "explanation": "The triangle with converging lines warns of a road narrowing in the shape shown."
+  },
+  "uk": {
+   "q": "Попереджувальний знак повідомляє мені:",
+   "options": [
+    "Звуження дороги відповідно до зображення на знаку.",
+    "Наближення до небезпечного повороту праворуч.",
+    "Що рух двосторонній."
+   ],
+   "explanation": "Трикутник зі збіжними лініями попереджає про звуження дороги у показаний спосіб."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "A bend is shown by a curved arrow.",
+    "uk": "Поворот позначається вигнутою стрілкою."
+   },
+   "c": {
+    "en": "Two-way traffic is shown by opposing arrows.",
+    "uk": "Двосторонній рух позначається зустрічними стрілками."
+   }
+  }
+ },
+ {
+  "id": "g11-0212",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The vertical sign tells drivers:",
+   "options": [
+    "No stopping or parking.",
+    "No entry.",
+    "That traffic is two-way."
+   ],
+   "explanation": "The red disc with a white horizontal bar is the 'no entry' sign."
+  },
+  "uk": {
+   "q": "Вертикальний знак повідомляє водіям:",
+   "options": [
+    "Зупинку й стоянку заборонено.",
+    "В'їзд заборонено.",
+    "Що рух двосторонній."
+   ],
+   "explanation": "Червоне коло з білою горизонтальною смугою — знак «в'їзд заборонено»."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "No stopping is a blue disc with a red X.",
+    "uk": "Заборона зупинки — синє коло з червоним хрестом."
+   },
+   "c": {
+    "en": "Two-way traffic is shown by opposing arrows.",
+    "uk": "Двосторонній рух позначається зустрічними стрілками."
+   }
+  }
+ },
+ {
+  "id": "g11-0213",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The sign on the public road tells me:",
+   "options": [
+    "That I may turn right at the next T-junction.",
+    "T-junction with a road without priority.",
+    "That traffic is two-way."
+   ],
+   "explanation": "The triangle with a thick line and a thinner side branch shows a junction with a road without priority: I have priority."
+  },
+  "uk": {
+   "q": "Знак на дорозі повідомляє мені:",
+   "options": [
+    "Що можу повернути праворуч на наступному примиканні.",
+    "Примикання дороги без пріоритету.",
+    "Що рух двосторонній."
+   ],
+   "explanation": "Трикутник із товстою лінією й тоншим бічним відгалуженням показує примикання дороги без пріоритету: перевага в мене."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The sign is about priority, not permission to turn.",
+    "uk": "Знак стосується пріоритету, а не дозволу на поворот."
+   },
+   "c": {
+    "en": "Two-way traffic has a different symbol.",
+    "uk": "Двосторонній рух має інший символ."
+   }
+  }
+ },
+ {
+  "id": "g11-0214",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "D"
+  ],
+  "topic": "passengers_cargo",
+  "en": {
+   "q": "The driver of a long-distance 'express' coach is responsible for ensuring:",
+   "options": [
+    "The safety of all passengers and especially those standing;",
+    "That standing passengers do not impair the mirrors' function;",
+    "That the transport is carried out in perfect conditions of safety and comfort."
+   ],
+   "explanation": "On express long-distance coaches passengers travel seated; the driver must ensure a safe and comfortable journey."
+  },
+  "uk": {
+   "q": "На водія автобуса експрес-сполучення далекого прямування покладається відповідальність забезпечити:",
+   "options": [
+    "Безпеку перевезення всіх пасажирів і особливо тих, що стоять;",
+    "Щоб пасажири, які стоять, не заважали роботі дзеркал;",
+    "Щоб перевезення відбувалося в ідеальних умовах безпеки й комфорту."
+   ],
+   "explanation": "В автобусах експрес-сполучення пасажири їдуть сидячи; водій має забезпечити безпечну й комфортну поїздку."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Long-distance express coaches don't carry standing passengers.",
+    "uk": "Автобуси експрес-сполучення не перевозять пасажирів стоячи."
+   },
+   "b": {
+    "en": "Standing passengers are not carried on these coaches.",
+    "uk": "У таких автобусах пасажирів стоячи не перевозять."
+   }
+  }
+ },
+ {
+  "id": "g11-0215",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "C"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The manual differential lock fitted to some 6x4 and 4x4 vehicles, when activated, generally allows:",
+   "options": [
+    "In fast/sporty driving, greater control of the vehicle in bends and on muddy ground;",
+    "Greater safety whenever the surface has very little grip, both in a straight line and in bends;",
+    "The vehicle to move in a straight line whenever the wheels spin for lack of grip."
+   ],
+   "explanation": "Locking the differential makes the wheels turn together so the vehicle can get moving in a straight line when a wheel spins; it should not be used in bends."
+  },
+  "uk": {
+   "q": "Ручне блокування диференціала на деяких автомобілях 6x4 і 4x4 після увімкнення, як правило, дає змогу:",
+   "options": [
+    "Під час швидкої/спортивної їзди краще контролювати автомобіль у поворотах і на болотистому ґрунті;",
+    "Підвищити безпеку, коли покриття має дуже слабке зчеплення, як на прямій, так і в поворотах;",
+    "Рухатися по прямій, коли через брак зчеплення колеса буксують."
+   ],
+   "explanation": "Блокування диференціала змушує колеса обертатися разом, щоб автомобіль міг рушити по прямій, коли колесо буксує; у поворотах його не використовують."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "A locked differential hinders cornering and is not for fast driving.",
+    "uk": "Заблокований диференціал заважає проходженню поворотів і не призначений для швидкої їзди."
+   },
+   "b": {
+    "en": "It should not be used in bends, as it prevents the wheels turning at different speeds.",
+    "uk": "У поворотах його не вмикають, бо колеса не можуть обертатися з різною швидкістю."
+   }
+  }
+ },
+ {
+  "id": "g11-0216",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "priority",
+  "en": {
+   "q": "What should I expect from the driver approaching on my right?",
+   "options": [
+    "That he gives way to me, stopping if necessary.",
+    "That he goes first.",
+    "That he stops and gives way to me."
+   ],
+   "explanation": "The vehicle on the right faces a STOP sign, so it must stop and then give way to me."
+  },
+  "uk": {
+   "q": "Чого мені очікувати від водія, що наближається справа?",
+   "options": [
+    "Що він поступиться мені, зупинившись за потреби.",
+    "Що він проїде першим.",
+    "Що він зупиниться й поступиться мені."
+   ],
+   "explanation": "Перед транспортним засобом праворуч знак STOP, тож він має зупинитися, а потім поступитися мені."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "With a STOP sign, stopping is always compulsory, not just 'if necessary'.",
+    "uk": "За знака STOP зупинка обов'язкова завжди, а не лише «за потреби»."
+   },
+   "b": {
+    "en": "The STOP sign removes his right-hand priority.",
+    "uk": "Знак STOP позбавляє його переваги правої руки."
+   }
+  }
+ },
+ {
+  "id": "g11-0217",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "All drivers must keep a distance between their vehicle and the one in front:",
+   "options": [
+    "Of no less than 30 metres.",
+    "Of no less than 50 metres, if outside a built-up area.",
+    "That allows them to stop the vehicle in the clear, visible space."
+   ],
+   "explanation": "The Code sets no fixed figure: the distance must be enough to avoid a collision if the vehicle ahead stops suddenly."
+  },
+  "uk": {
+   "q": "Усі водії мають тримати між своїм і попереднім транспортним засобом дистанцію:",
+   "options": [
+    "Не менше 30 метрів.",
+    "Не менше 50 метрів поза населеним пунктом.",
+    "Яка дає змогу зупинитися у вільному й видимому просторі."
+   ],
+   "explanation": "Кодекс не встановлює фіксованого числа: дистанція має бути достатньою, щоб уникнути зіткнення в разі раптової зупинки транспорту попереду."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "There is no general fixed 30 m rule; it depends on speed and conditions.",
+    "uk": "Загального правила 30 м немає; дистанція залежить від швидкості й умов."
+   },
+   "b": {
+    "en": "The 50 m rule only applies to specific vehicles (e.g. heavy ones), not to all drivers.",
+    "uk": "Правило 50 м стосується лише певного транспорту (наприклад, важкого), а не всіх."
+   }
+  }
+ },
+ {
+  "id": "g11-0218",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The continuous longitudinal line in the centre of the carriageway indicates:",
+   "options": [
+    "The duty to drive to its left.",
+    "No driving on or crossing it.",
+    "That it may be driven on or crossed to perform manoeuvres."
+   ],
+   "explanation": "A continuous centre line must not be driven on or crossed."
+  },
+  "uk": {
+   "q": "Суцільна поздовжня лінія посередині проїзної частини вказує:",
+   "options": [
+    "Обов'язок рухатися ліворуч від неї.",
+    "Заборону наїжджати на неї чи перетинати її.",
+    "Що її можна наїжджати чи перетинати для виконання маневрів."
+   ],
+   "explanation": "Суцільну осьову лінію не можна наїжджати чи перетинати."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "In Portugal traffic keeps to the right of the line.",
+    "uk": "У Португалії рух — праворуч від лінії."
+   },
+   "c": {
+    "en": "Manoeuvres don't permit crossing a continuous line.",
+    "uk": "Маневри не дозволяють перетинати суцільну лінію."
+   }
+  }
+ }
+]
