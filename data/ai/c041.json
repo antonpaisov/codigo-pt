@@ -1,0 +1,3174 @@
+[
+ {
+  "id": "g09-0299",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "May I make a U-turn here?",
+   "options": [
+    "No, because visibility is clearly reduced.",
+    "Yes, quickly and without hindering other road users.",
+    "No."
+   ],
+   "explanation": "This is a busy multi-lane urban road with heavy traffic; a U-turn here would endanger and hinder other traffic, so it is not allowed."
+  },
+  "uk": {
+   "q": "Чи можу я тут виконати розворот?",
+   "options": [
+    "Ні, тому що видимість явно обмежена.",
+    "Так, швидко і не створюючи перешкод іншим учасникам руху.",
+    "Ні."
+   ],
+   "explanation": "Це жвава багатосмугова міська дорога з інтенсивним рухом; розворот тут створив би небезпеку й перешкоди іншим, тому він не дозволений."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Visibility in the picture is good; the reason is the traffic and road layout, not poor visibility.",
+    "uk": "Видимість на фото добра; причина — інтенсивний рух і будова дороги, а не погана видимість."
+   },
+   "b": {
+    "en": "Doing it quickly does not make a U-turn legal where it would endanger heavy traffic.",
+    "uk": "Швидкість виконання не робить розворот законним там, де він небезпечний для інтенсивного руху."
+   }
+  }
+ },
+ {
+  "id": "g09-0300",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "May I park here?",
+   "options": [
+    "Yes, as long as there are no signs to the contrary.",
+    "Yes.",
+    "No."
+   ],
+   "explanation": "The street is very narrow; a parked vehicle would block the passage of other vehicles and pedestrians, which is forbidden."
+  },
+  "uk": {
+   "q": "Чи можу я тут поставити автомобіль на стоянку?",
+   "options": [
+    "Так, якщо немає знаків, що це забороняють.",
+    "Так.",
+    "Ні."
+   ],
+   "explanation": "Вулиця дуже вузька; припаркований автомобіль перекрив би проїзд іншим транспортним засобам і пішоходам, що заборонено."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Parking is forbidden here by general rules even without a sign, because it would block the narrow street.",
+    "uk": "Стоянка тут заборонена загальними правилами навіть без знака, бо вона перекрила б вузьку вулицю."
+   },
+   "b": {
+    "en": "A parked car would leave no room for traffic to pass in such a narrow street.",
+    "uk": "На такій вузькій вулиці припаркований автомобіль не залишив би місця для проїзду."
+   }
+  }
+ },
+ {
+  "id": "g09-0301",
+  "answer": "c",
+  "confidence": "low",
+  "categories": [
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "Is this driver committing an offence?",
+   "options": [
+    "Yes, because he is making a U-turn.",
+    "Yes, because he is reversing.",
+    "No."
+   ],
+   "explanation": "The driver is carrying out a short reversing manoeuvre in a low-traffic area with good visibility, which is allowed when done safely."
+  },
+  "uk": {
+   "q": "Чи порушує цей водій правила?",
+   "options": [
+    "Так, тому що він виконує розворот.",
+    "Так, тому що він рухається заднім ходом.",
+    "Ні."
+   ],
+   "explanation": "Водій виконує короткий маневр заднім ходом у місці з малим рухом і доброю видимістю, що дозволено, якщо це безпечно."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "A U-turn is not forbidden as such; it is only banned in specific places or where it is unsafe.",
+    "uk": "Розворот сам по собі не заборонений; його забороняють лише в певних місцях або коли він небезпечний."
+   },
+   "b": {
+    "en": "Reversing is a permitted manoeuvre when done over a short distance and without danger.",
+    "uk": "Рух заднім ходом дозволений, якщо він виконується на коротку відстань і без небезпеки."
+   }
+  }
+ },
+ {
+  "id": "g09-0302",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "Is it always permitted to go ahead on a green traffic light?",
+   "options": [
+    "Yes, because that is what the signal indicates.",
+    "No, because as a precaution I must always stop at a green light.",
+    "No."
+   ],
+   "explanation": "A green light allows you to proceed, but you must not enter if the junction is blocked (e.g. queuing traffic) or if pedestrians or other road users are still crossing."
+  },
+  "uk": {
+   "q": "Чи завжди дозволено рухатися на зелений сигнал світлофора?",
+   "options": [
+    "Так, тому що це вказує сигнал.",
+    "Ні, тому що з обережності я повинен завжди зупинятися на зелений сигнал.",
+    "Ні."
+   ],
+   "explanation": "Зелений сигнал дозволяє рух, але не можна виїжджати, якщо перехрестя заблоковане (наприклад, затор) або якщо пішоходи чи інші учасники руху ще перетинають дорогу."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Green permits movement, but it does not override the duty to avoid blocking the junction or endangering others.",
+    "uk": "Зелений дозволяє рух, але не скасовує обов'язку не блокувати перехрестя й не створювати небезпеки іншим."
+   },
+   "b": {
+    "en": "There is no rule to stop at every green light; stopping without reason would itself be dangerous.",
+    "uk": "Немає правила зупинятися на кожен зелений сигнал; безпричинна зупинка сама була б небезпечною."
+   }
+  }
+ },
+ {
+  "id": "g09-0303",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "Is this rider behaving correctly?",
+   "options": [
+    "Yes, because he is wearing a protective helmet.",
+    "Yes, because he is in a place with little traffic.",
+    "No."
+   ],
+   "explanation": "The young rider has a helmet but no proper protective clothing and is riding carelessly; a helmet alone is not enough for safe riding, and low traffic is no excuse."
+  },
+  "uk": {
+   "q": "Чи правильно діє цей водій?",
+   "options": [
+    "Так, тому що він має захисний шолом.",
+    "Так, тому що він перебуває в місці з малим рухом.",
+    "Ні."
+   ],
+   "explanation": "Молодий водій має шолом, але не має належного захисного одягу і їде необережно; одного шолома недостатньо для безпечної їзди, а малий рух не є виправданням."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "A helmet is required but does not make the rest of his behaviour and lack of protective gear correct.",
+    "uk": "Шолом обов'язковий, але він не робить правильною решту поведінки та відсутність захисного спорядження."
+   },
+   "b": {
+    "en": "Rules and safe behaviour apply regardless of how much traffic there is.",
+    "uk": "Правила й безпечна поведінка діють незалежно від інтенсивності руху."
+   }
+  }
+ },
+ {
+  "id": "g09-0304",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "On motorcycles, does a noisy exhaust always mean extra power?",
+   "options": [
+    "Yes, as long as the noise produced exceeds the legal limits.",
+    "Yes, since the noisier it is, the more powerful the vehicle.",
+    "No."
+   ],
+   "explanation": "Noise is not a measure of power; a noisy or modified exhaust often reduces engine efficiency and is illegal if it exceeds the noise limits."
+  },
+  "uk": {
+   "q": "Чи завжди гучний глушник на мотоциклі означає збільшення потужності?",
+   "options": [
+    "Так, якщо створений шум перевищує встановлені законом межі.",
+    "Так, оскільки чим гучніше, тим потужніший транспортний засіб.",
+    "Ні."
+   ],
+   "explanation": "Шум не є мірою потужності; гучний або змінений глушник часто знижує ефективність двигуна і є незаконним, якщо перевищує норми шуму."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Exceeding legal noise limits is an offence, not a source of power.",
+    "uk": "Перевищення допустимого рівня шуму — це порушення, а не джерело потужності."
+   },
+   "b": {
+    "en": "Loudness and power are not linked; a louder exhaust can even reduce performance.",
+    "uk": "Гучність і потужність не пов'язані; гучніший глушник може навіть погіршити характеристики."
+   }
+  }
+ },
+ {
+  "id": "g09-0305",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "Do you think wearing boots is important when riding a motorcycle?",
+   "options": [
+    "Yes.",
+    "Yes, but only in winter.",
+    "No."
+   ],
+   "explanation": "Boots protect the feet and ankles in a fall and help with control of the pedals, so they are important all year round."
+  },
+  "uk": {
+   "q": "Чи вважаєте ви важливим носіння черевиків (чобіт) під час керування мотоциклом?",
+   "options": [
+    "Так.",
+    "Так, але тільки взимку.",
+    "Ні."
+   ],
+   "explanation": "Мотоциклетні черевики захищають ступні й щиколотки при падінні та допомагають керувати педалями, тому вони важливі цілий рік."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Boots are mainly for protection in falls, which can happen in any season.",
+    "uk": "Черевики насамперед захищають при падінні, яке може статися в будь-яку пору року."
+   },
+   "c": {
+    "en": "Feet and ankles are very exposed in a fall and need protection.",
+    "uk": "Ступні й щиколотки дуже вразливі при падінні і потребують захисту."
+   }
+  }
+ },
+ {
+  "id": "g09-0306",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "Do all protective helmet fastening systems offer the same level of safety?",
+   "options": [
+    "Yes.",
+    "Yes, as long as they are used properly.",
+    "No."
+   ],
+   "explanation": "Fastening systems differ (e.g. double-D ring, quick-release buckles) and offer different levels of security; the double-D ring is generally considered the safest."
+  },
+  "uk": {
+   "q": "Чи всі системи застібання захисних шоломів забезпечують однаковий рівень безпеки?",
+   "options": [
+    "Так.",
+    "Так, якщо ними правильно користуватися.",
+    "Ні."
+   ],
+   "explanation": "Системи застібання різні (наприклад, подвійне D-кільце, швидкороз'ємні пряжки) і мають різний рівень надійності; подвійне D-кільце зазвичай вважається найбезпечнішим."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Different fastening designs hold the helmet with different reliability.",
+    "uk": "Різні конструкції застібок утримують шолом з різною надійністю."
+   },
+   "b": {
+    "en": "Correct use matters, but it does not make different systems equally safe.",
+    "uk": "Правильне користування важливе, але воно не робить різні системи однаково безпечними."
+   }
+  }
+ },
+ {
+  "id": "g09-0307",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "In summer a motorcyclist should not wear a full-face (closed) helmet. Do you agree with this statement?",
+   "options": [
+    "Yes, although full-face helmets are more comfortable.",
+    "Yes, because of the heat.",
+    "No."
+   ],
+   "explanation": "A full-face helmet gives the best protection, including for the face and jaw, and should be worn all year; heat is not a reason to reduce protection."
+  },
+  "uk": {
+   "q": "Влітку мотоцикліст не повинен користуватися інтегральним (закритим) шоломом. Чи згодні ви з цим твердженням?",
+   "options": [
+    "Так, хоча інтегральні шоломи зручніші.",
+    "Так, через спеку.",
+    "Ні."
+   ],
+   "explanation": "Інтегральний шолом забезпечує найкращий захист, зокрема обличчя і щелепи, і його слід носити цілий рік; спека не є причиною зменшувати захист."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "There is no reason to avoid a full-face helmet in summer; comfort is not the issue.",
+    "uk": "Немає причин відмовлятися від інтегрального шолома влітку; справа не в зручності."
+   },
+   "b": {
+    "en": "Heat does not justify reducing protection; accidents are just as dangerous in summer.",
+    "uk": "Спека не виправдовує зменшення захисту; аварії влітку так само небезпечні."
+   }
+  }
+ },
+ {
+  "id": "g09-0308",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "A protective helmet does not lose its strength and impact-absorbing properties over time. Do you agree with this statement?",
+   "options": [
+    "Yes.",
+    "Yes, but only if the helmet is little used.",
+    "No."
+   ],
+   "explanation": "Helmet materials age (sun, sweat, temperature) and lose their protective properties, so helmets should be replaced after some years or after any impact."
+  },
+  "uk": {
+   "q": "Захисний шолом з часом не втрачає своїх властивостей міцності та поглинання удару. Чи згодні ви з цим твердженням?",
+   "options": [
+    "Так.",
+    "Так, але лише якщо шоломом мало користуються.",
+    "Ні."
+   ],
+   "explanation": "Матеріали шолома старіють (сонце, піт, температура) і втрачають захисні властивості, тому шолом слід замінювати через кілька років або після будь-якого удару."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Helmet materials degrade with age, so protection decreases over time.",
+    "uk": "Матеріали шолома з віком деградують, тож захист з часом зменшується."
+   },
+   "b": {
+    "en": "Even a little-used helmet ages and loses protective properties.",
+    "uk": "Навіть шолом, яким мало користуються, старіє і втрачає захисні властивості."
+   }
+  }
+ },
+ {
+  "id": "g09-0309",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "legal",
+  "en": {
+   "q": "Does the Highway Code penalise incorrect use of the protective helmet?",
+   "options": [
+    "Yes.",
+    "No, only not wearing a helmet is penalised.",
+    "No."
+   ],
+   "explanation": "The Code requires the helmet to be approved and properly fitted and fastened; wearing it incorrectly (e.g. unfastened) is an offence just like not wearing one."
+  },
+  "uk": {
+   "q": "Чи карає Кодекс дорожнього руху неправильне використання захисного шолома?",
+   "options": [
+    "Так.",
+    "Ні, карається лише невикористання шолома.",
+    "Ні."
+   ],
+   "explanation": "Кодекс вимагає, щоб шолом був сертифікований і правильно припасований та застебнутий; неправильне носіння (наприклад, незастебнутий) є порушенням так само, як і його відсутність."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "The law requires correct use (fastened and fitted), not just having a helmet on.",
+    "uk": "Закон вимагає правильного використання (застебнутий і припасований), а не просто наявності шолома на голові."
+   },
+   "c": {
+    "en": "Incorrect helmet use is explicitly an offence under the Code.",
+    "uk": "Неправильне використання шолома прямо є порушенням за Кодексом."
+   }
+  }
+ },
+ {
+  "id": "g09-0310",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "In an accident, a full-face (closed) helmet protects a motorcyclist better. Do you agree with this statement?",
+   "options": [
+    "Yes, but only in winter.",
+    "Yes.",
+    "No."
+   ],
+   "explanation": "A full-face helmet also protects the face and jaw, which are often hit in accidents, so it gives the best protection in any season."
+  },
+  "uk": {
+   "q": "У разі аварії інтегральний (закритий) шолом краще захищає водія мотоцикла. Чи згодні ви з цим твердженням?",
+   "options": [
+    "Так, але тільки взимку.",
+    "Так.",
+    "Ні."
+   ],
+   "explanation": "Інтегральний шолом захищає також обличчя і щелепу, які часто травмуються в аваріях, тому він дає найкращий захист у будь-яку пору року."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The protective advantage of a full-face helmet does not depend on the season.",
+    "uk": "Захисна перевага інтегрального шолома не залежить від пори року."
+   },
+   "c": {
+    "en": "Open helmets leave the face and jaw unprotected, so they protect less.",
+    "uk": "Відкриті шоломи не захищають обличчя і щелепу, тому захищають гірше."
+   }
+  }
+ },
+ {
+  "id": "g09-0311",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "Does a full-face (closed) helmet contribute more to the passive safety of a motorcyclist?",
+   "options": [
+    "Yes.",
+    "No, a full-face helmet contributes only to the rider's active safety.",
+    "No."
+   ],
+   "explanation": "Passive safety reduces injuries when an accident happens; a full-face helmet protects the head and face better in a crash, so it increases passive safety."
+  },
+  "uk": {
+   "q": "Чи сприяє інтегральний (закритий) шолом більшою мірою пасивній безпеці водія мотоцикла?",
+   "options": [
+    "Так.",
+    "Ні, інтегральний шолом сприяє лише активній безпеці водія.",
+    "Ні."
+   ],
+   "explanation": "Пасивна безпека зменшує травми, коли аварія вже сталася; інтегральний шолом краще захищає голову й обличчя при зіткненні, тож підвищує пасивну безпеку."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "A helmet's main role is protection during a crash, which is passive safety, not active safety.",
+    "uk": "Основна роль шолома — захист під час аварії, тобто пасивна, а не активна безпека."
+   },
+   "c": {
+    "en": "A full-face helmet covers more of the head and face, so it does give more passive protection.",
+    "uk": "Інтегральний шолом закриває більшу частину голови й обличчя, тому дає більший пасивний захист."
+   }
+  }
+ },
+ {
+  "id": "g09-0312",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "Gloves are active safety equipment that a motorcyclist should always wear. Do you agree with this statement?",
+   "options": [
+    "Yes.",
+    "No, gloves should be worn for the motorcyclist's comfort.",
+    "No."
+   ],
+   "explanation": "Gloves should always be worn, but they are passive safety equipment: their main role is to protect the hands in a fall, so the statement is wrong."
+  },
+  "uk": {
+   "q": "Рукавички — це засіб активної безпеки, яким мотоцикліст повинен завжди користуватися. Чи згодні ви з цим твердженням?",
+   "options": [
+    "Так.",
+    "Ні, рукавички слід носити для зручності мотоцикліста.",
+    "Ні."
+   ],
+   "explanation": "Рукавички треба носити завжди, але це засіб пасивної безпеки: їхня основна роль — захистити руки при падінні, тому твердження хибне."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Gloves protect in a crash, so they are passive, not active, safety equipment.",
+    "uk": "Рукавички захищають під час аварії, тож це засіб пасивної, а не активної безпеки."
+   },
+   "b": {
+    "en": "Gloves are worn mainly for protection, not just comfort.",
+    "uk": "Рукавички носять насамперед для захисту, а не лише для зручності."
+   }
+  }
+ },
+ {
+  "id": "g09-0313",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B"
+  ],
+  "topic": "passengers_cargo",
+  "en": {
+   "q": "Must passengers of a quadricycle wear a protective helmet?",
+   "options": [
+    "Yes, if it has no rigid body.",
+    "No, except on heavy quadricycles.",
+    "No."
+   ],
+   "explanation": "Drivers and passengers of motorcycles, tricycles and quadricycles must wear an approved helmet unless the vehicle has a rigid body (closed bodywork) with seat belts."
+  },
+  "uk": {
+   "q": "Чи зобов'язані пасажири квадрицикла користуватися захисним шоломом?",
+   "options": [
+    "Так, якщо він не має жорсткого кузова.",
+    "Ні, за винятком важких квадрициклів.",
+    "Ні."
+   ],
+   "explanation": "Водії та пасажири мотоциклів, трициклів і квадрициклів мусять носити сертифікований шолом, якщо транспортний засіб не має жорсткого (закритого) кузова з ременями безпеки."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "The helmet obligation depends on whether there is a rigid body, not on light/heavy category.",
+    "uk": "Обов'язок носити шолом залежить від наявності жорсткого кузова, а не від того, легкий чи важкий квадрицикл."
+   },
+   "c": {
+    "en": "Without a rigid body, quadricycle passengers are as exposed as motorcycle passengers and must wear helmets.",
+    "uk": "Без жорсткого кузова пасажири квадрицикла так само незахищені, як пасажири мотоцикла, і мусять носити шолом."
+   }
+  }
+ },
+ {
+  "id": "g09-0314",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "The rider and the passenger of a motorcycle should wear protective boots. Do you agree with this statement?",
+   "options": [
+    "Yes.",
+    "No, only the rider should wear boots.",
+    "No."
+   ],
+   "explanation": "The passenger is exposed to the same risks in a fall as the rider, so both should wear protective boots."
+  },
+  "uk": {
+   "q": "Водій і пасажир мотоцикла повинні носити захисні черевики. Чи згодні ви з цим твердженням?",
+   "options": [
+    "Так.",
+    "Ні, лише водій повинен носити черевики.",
+    "Ні."
+   ],
+   "explanation": "Пасажир при падінні наражається на ті самі ризики, що й водій, тому обидва повинні носити захисні черевики."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "The passenger can be injured in the same way in a fall and needs the same protection.",
+    "uk": "Пасажир може так само травмуватися при падінні і потребує такого самого захисту."
+   },
+   "c": {
+    "en": "Feet are vulnerable in a fall; boots are recommended for everyone on the motorcycle.",
+    "uk": "Ступні вразливі при падінні; черевики рекомендовані всім, хто їде на мотоциклі."
+   }
+  }
+ },
+ {
+  "id": "g09-0315",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "Does wearing a back (spine) protector contribute to a motorcyclist's safety?",
+   "options": [
+    "Yes, it increases active safety.",
+    "Yes, it increases passive safety.",
+    "No."
+   ],
+   "explanation": "A spine protector reduces injuries in a fall or crash, which is passive safety."
+  },
+  "uk": {
+   "q": "Чи сприяє використання захисту хребта безпеці мотоцикліста?",
+   "options": [
+    "Так, сприяє підвищенню активної безпеки.",
+    "Так, сприяє підвищенню пасивної безпеки.",
+    "Ні."
+   ],
+   "explanation": "Захист хребта зменшує травми при падінні чи зіткненні, тобто це пасивна безпека."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Active safety helps avoid accidents; a spine protector only acts once a crash happens.",
+    "uk": "Активна безпека допомагає уникнути аварії; захист хребта діє лише тоді, коли аварія вже сталася."
+   },
+   "c": {
+    "en": "A spine protector can prevent serious back injuries, so it clearly helps.",
+    "uk": "Захист хребта може запобігти серйозним травмам спини, тож він безперечно допомагає."
+   }
+  }
+ },
+ {
+  "id": "g09-0316",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "Motorcyclists who carry passengers should not wear a kidney (abdominal) belt. Do you agree with this statement?",
+   "options": [
+    "Yes.",
+    "Yes, because it makes carrying passengers difficult.",
+    "No."
+   ],
+   "explanation": "A kidney belt supports the lower back and abdomen and is useful whether or not you carry a passenger; it does not hinder carrying one."
+  },
+  "uk": {
+   "q": "Мотоциклісти, які перевозять пасажирів, не повинні користуватися поясом для попереку (абдомінальним поясом). Чи згодні ви з цим твердженням?",
+   "options": [
+    "Так.",
+    "Так, тому що це заважає перевезенню пасажирів.",
+    "Ні."
+   ],
+   "explanation": "Пояс підтримує поперек і живіт і корисний незалежно від того, чи везете ви пасажира; він не заважає його перевезенню."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "There is no reason to stop using a kidney belt when carrying a passenger.",
+    "uk": "Немає причин відмовлятися від пояса, коли везете пасажира."
+   },
+   "b": {
+    "en": "The belt does not interfere with the passenger; it only protects the rider.",
+    "uk": "Пояс не заважає пасажирові; він лише захищає водія."
+   }
+  }
+ },
+ {
+  "id": "g09-0317",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "For protection and safety, a motorcyclist should preferably ride on top of the broken line. Do you agree with this statement?",
+   "options": [
+    "Yes.",
+    "Yes, because grip on the road surface is better.",
+    "No."
+   ],
+   "explanation": "Road paint is slippery, especially when wet, and riding on the line puts you between lanes where other drivers do not expect you; ride within your lane, away from the markings."
+  },
+  "uk": {
+   "q": "Для власного захисту та безпеки водій мотоцикла повинен їхати переважно по переривчастій лінії. Чи згодні ви з цим твердженням?",
+   "options": [
+    "Так.",
+    "Так, тому що зчеплення з покриттям більше.",
+    "Ні."
+   ],
+   "explanation": "Дорожня фарба слизька, особливо в мокру погоду, а їзда по лінії ставить вас між смугами, де інші водії вас не очікують; їдьте в межах своєї смуги, подалі від розмітки."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Riding on the line is less safe: paint is slippery and you are between lanes.",
+    "uk": "Їзда по лінії менш безпечна: фарба слизька, і ви опиняєтеся між смугами."
+   },
+   "b": {
+    "en": "Painted markings give less grip than asphalt, not more.",
+    "uk": "Фарбована розмітка дає менше зчеплення, ніж асфальт, а не більше."
+   }
+  }
+ },
+ {
+  "id": "g09-0318",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "In this situation, should I choose to ride close to the centre line of the carriageway?",
+   "options": [
+    "Yes, since there are no other vehicles on the road.",
+    "Yes, to widen my field of vision.",
+    "No."
+   ],
+   "explanation": "On a two-way road you must keep to the right, as close to the right edge as is safe; riding near the centre line exposes you to oncoming traffic, even if none is visible now."
+  },
+  "uk": {
+   "q": "У цій ситуації чи слід мені їхати біля осі проїзної частини?",
+   "options": [
+    "Так, оскільки немає інших транспортних засобів.",
+    "Так, щоб розширити поле огляду.",
+    "Ні."
+   ],
+   "explanation": "На дорозі з двостороннім рухом треба триматися правого боку, якомога ближче до правого краю, наскільки це безпечно; їзда біля осі наражає на зустрічний транспорт, навіть якщо його зараз не видно."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The keep-right rule applies even when the road looks empty; oncoming vehicles can appear suddenly.",
+    "uk": "Правило правого боку діє навіть на порожній дорозі; зустрічні машини можуть з'явитися раптово."
+   },
+   "b": {
+    "en": "A slightly wider view does not justify riding near oncoming traffic on a straight, clear road.",
+    "uk": "Трохи кращий огляд не виправдовує їзду біля зустрічного руху на прямій відкритій дорозі."
+   }
+  }
+ },
+ {
+  "id": "g09-0319",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "From the characteristics of this public road, can I say that I am on a motorway?",
+   "options": [
+    "Yes, because motorcycles may use it.",
+    "Yes, it is a road for fast traffic.",
+    "No."
+   ],
+   "explanation": "The road has a single carriageway with traffic in both directions (an oncoming lorry), whereas motorways have separate carriageways for each direction and are signposted as such."
+  },
+  "uk": {
+   "q": "Чи можу я за характеристиками цієї дороги стверджувати, що їду автомагістраллю?",
+   "options": [
+    "Так, тому що нею можуть рухатися мотоцикли.",
+    "Так, це дорога для швидкісного руху.",
+    "Ні."
+   ],
+   "explanation": "Дорога має одну проїзну частину з рухом в обох напрямках (зустрічна вантажівка), тоді як автомагістралі мають окремі проїзні частини для кожного напрямку і позначаються відповідним знаком."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Motorcycles may use almost any road, so that does not identify a motorway.",
+    "uk": "Мотоцикли можуть їздити майже будь-якою дорогою, тож це не ознака автомагістралі."
+   },
+   "b": {
+    "en": "A two-way single carriageway is not a motorway, however fast the traffic.",
+    "uk": "Однопроїзна дорога з двостороннім рухом не є автомагістраллю, хоч би яким швидким був рух."
+   }
+  }
+ },
+ {
+  "id": "g09-0320",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "On this public road, am I required to moderate the motorcycle's speed?",
+   "options": [
+    "Yes, because the road is in a poor state of repair.",
+    "No, because I am riding outside a built-up area.",
+    "No."
+   ],
+   "explanation": "The road is narrow, without markings and with a worn, patched surface; the law requires especially moderate speed on roads in poor condition."
+  },
+  "uk": {
+   "q": "Чи зобов'язаний я на цій дорозі знизити швидкість мотоцикла?",
+   "options": [
+    "Так, тому що дорога в поганому стані.",
+    "Ні, тому що я їду поза населеним пунктом.",
+    "Ні."
+   ],
+   "explanation": "Дорога вузька, без розмітки, з потертим і латаним покриттям; закон вимагає особливо помірної швидкості на дорогах у поганому стані."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "The duty to moderate speed for road conditions applies outside built-up areas too.",
+    "uk": "Обов'язок знижувати швидкість через стан дороги діє і поза населеними пунктами."
+   },
+   "c": {
+    "en": "A narrow road with a degraded surface clearly calls for reduced speed.",
+    "uk": "Вузька дорога з пошкодженим покриттям явно вимагає зниження швидкості."
+   }
+  }
+ },
+ {
+  "id": "g09-0321",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "legal",
+  "en": {
+   "q": "Is only agricultural vehicle traffic allowed on a rural track?",
+   "options": [
+    "Yes.",
+    "No, because it is a road intended exclusively for drivers living in that locality.",
+    "No."
+   ],
+   "explanation": "Rural tracks are public roads open to all traffic unless signs restrict it; they are not reserved for agricultural vehicles or for residents."
+  },
+  "uk": {
+   "q": "Чи дозволено на сільській дорозі рух лише сільськогосподарської техніки?",
+   "options": [
+    "Так.",
+    "Ні, тому що це дорога, призначена виключно для водіїв, які проживають у цьому населеному пункті.",
+    "Ні."
+   ],
+   "explanation": "Сільські дороги є дорогами загального користування, відкритими для всього транспорту, якщо знаки не обмежують рух; вони не зарезервовані для сільгосптехніки чи місцевих мешканців."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Rural tracks are open to other vehicles too unless a sign says otherwise.",
+    "uk": "Сільські дороги відкриті й для інших транспортних засобів, якщо знак не вказує інше."
+   },
+   "b": {
+    "en": "There is no rule reserving rural tracks for local residents.",
+    "uk": "Немає правила, яке резервує сільські дороги для місцевих мешканців."
+   }
+  }
+ },
+ {
+  "id": "g09-0322",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "legal",
+  "en": {
+   "q": "May motorcycles travel on a rural track?",
+   "options": [
+    "Yes.",
+    "Yes, but they must have the main beam (high beam) on.",
+    "No."
+   ],
+   "explanation": "Rural tracks are open to motorcycles like any other vehicle, unless signs say otherwise; normal lighting rules apply."
+  },
+  "uk": {
+   "q": "Чи можуть мотоцикли рухатися сільською дорогою?",
+   "options": [
+    "Так.",
+    "Так, але з увімкненим дальнім світлом.",
+    "Ні."
+   ],
+   "explanation": "Сільські дороги відкриті для мотоциклів, як і для інших транспортних засобів, якщо знаки не вказують інше; діють звичайні правила освітлення."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "There is no special obligation to use main beam on rural tracks; it could dazzle others.",
+    "uk": "Немає особливого обов'язку вмикати дальнє світло на сільських дорогах; воно може засліпити інших."
+   },
+   "c": {
+    "en": "Motorcycles are not banned from rural tracks.",
+    "uk": "Мотоциклам не заборонено їздити сільськими дорогами."
+   }
+  }
+ },
+ {
+  "id": "g09-0323",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "priority",
+  "en": {
+   "q": "As a general rule, when riding here I have priority over all vehicles coming from my right. Do you agree with this statement?",
+   "options": [
+    "Yes, but I must moderate my speed especially.",
+    "Yes, and I am not obliged to moderate my speed.",
+    "No."
+   ],
+   "explanation": "The general rule is the opposite: at junctions you must give way to vehicles approaching from your right."
+  },
+  "uk": {
+   "q": "Як правило, рухаючись тут, я маю перевагу перед усіма транспортними засобами, що наближаються праворуч. Чи згодні ви з цим твердженням?",
+   "options": [
+    "Так, але маю особливо знизити швидкість.",
+    "Так, і я не зобов'язаний знижувати швидкість.",
+    "Ні."
+   ],
+   "explanation": "Загальне правило протилежне: на перехрестях треба поступитися дорогою транспортним засобам, що наближаються праворуч."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Moderating speed is right, but the priority claim is wrong: vehicles from the right have priority.",
+    "uk": "Знизити швидкість — правильно, але твердження про перевагу хибне: перевагу мають ті, хто праворуч."
+   },
+   "b": {
+    "en": "You do not have priority over traffic from the right, and you must slow down at junctions.",
+    "uk": "Ви не маєте переваги над транспортом праворуч і мусите знижувати швидкість на перехрестях."
+   }
+  }
+ },
+ {
+  "id": "g09-0324",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "lights",
+  "en": {
+   "q": "Must a motorcyclist always ride with the dipped headlights on at the front and the position (tail) lights on at the rear?",
+   "options": [
+    "Yes.",
+    "No, except when visibility is insufficient.",
+    "No."
+   ],
+   "explanation": "The Code requires motorcycles and mopeds to ride with dipped headlights (and rear lights) on at all times, day and night, to be more visible."
+  },
+  "uk": {
+   "q": "Чи повинен водій мотоцикла завжди їхати з увімкненим ближнім світлом спереду і габаритними вогнями ззаду?",
+   "options": [
+    "Так.",
+    "Ні, за винятком випадків недостатньої видимості.",
+    "Ні."
+   ],
+   "explanation": "Кодекс вимагає, щоб мотоцикли і мопеди завжди, вдень і вночі, їхали з увімкненим ближнім світлом (і задніми вогнями), щоб бути помітнішими."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "For motorcycles the rule applies at all times, not only in poor visibility.",
+    "uk": "Для мотоциклів правило діє завжди, а не лише при поганій видимості."
+   },
+   "c": {
+    "en": "Motorcycles are legally required to keep dipped beams on even in daylight.",
+    "uk": "Мотоцикли за законом мусять тримати ближнє світло увімкненим навіть удень."
+   }
+  }
+ },
+ {
+  "id": "g09-0325",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "D"
+  ],
+  "topic": "passengers_cargo",
+  "en": {
+   "q": "When driving a bus, is it correct to start opening the doors moments before the vehicle comes to a stop?",
+   "options": [
+    "Yes;",
+    "Yes, as long as the driver is a highly experienced professional;",
+    "No."
+   ],
+   "explanation": "Doors must only be opened when the bus is completely stopped, otherwise passengers may fall or try to get on or off while it is moving."
+  },
+  "uk": {
+   "q": "Чи правильно при керуванні автобусом починати відкривати двері за мить до повної зупинки транспортного засобу?",
+   "options": [
+    "Так;",
+    "Так, якщо водій — професіонал з великим досвідом;",
+    "Ні."
+   ],
+   "explanation": "Двері можна відкривати лише після повної зупинки автобуса, інакше пасажири можуть впасти або спробувати зайти чи вийти під час руху."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Opening doors while moving puts passengers at risk of falling.",
+    "uk": "Відкриття дверей під час руху створює ризик падіння пасажирів."
+   },
+   "b": {
+    "en": "Experience does not remove the danger to passengers of opening doors before stopping.",
+    "uk": "Досвід не усуває небезпеки для пасажирів від відкриття дверей до зупинки."
+   }
+  }
+ },
+ {
+  "id": "g09-0326",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "D"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "When driving buses, is keeping the recommended safety distance a factor of significant importance?",
+   "options": [
+    "Yes, since it can avoid sudden braking;",
+    "Yes, except on urban routes;",
+    "No."
+   ],
+   "explanation": "A proper safety distance lets the driver brake smoothly, avoiding sudden braking that can make standing passengers fall."
+  },
+  "uk": {
+   "q": "Чи має дотримання рекомендованої безпечної дистанції важливе значення при керуванні автобусами?",
+   "options": [
+    "Так, оскільки це дозволяє уникнути різкого гальмування;",
+    "Так, окрім міських маршрутів;",
+    "Ні."
+   ],
+   "explanation": "Належна дистанція дозволяє водієві гальмувати плавно, уникаючи різкого гальмування, через яке можуть падати пасажири, що стоять."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Urban routes have many standing passengers and frequent stops, so distance matters there too.",
+    "uk": "На міських маршрутах багато пасажирів стоять і часті зупинки, тож дистанція там теж важлива."
+   },
+   "c": {
+    "en": "Without a safety distance the driver may have to brake hard, endangering passengers.",
+    "uk": "Без безпечної дистанції водієві доведеться різко гальмувати, що небезпечно для пасажирів."
+   }
+  }
+ },
+ {
+  "id": "g09-0327",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "Must speed limiters fitted to heavy vehicles be sealed?",
+   "options": [
+    "No, only those fitted to light vehicles;",
+    "Yes;",
+    "No."
+   ],
+   "explanation": "Speed limiters on heavy vehicles must be sealed to prevent tampering with their setting."
+  },
+  "uk": {
+   "q": "Чи повинні обмежувачі швидкості, встановлені на важких автомобілях, бути опломбовані?",
+   "options": [
+    "Ні, лише ті, що встановлені на легкових автомобілях;",
+    "Так;",
+    "Ні."
+   ],
+   "explanation": "Обмежувачі швидкості на важких автомобілях повинні бути опломбовані, щоб унеможливити втручання в їхнє налаштування."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Mandatory speed limiters (and their seals) apply to heavy vehicles, not light cars.",
+    "uk": "Обов'язкові обмежувачі швидкості (та їх пломбування) стосуються важких, а не легкових автомобілів."
+   },
+   "c": {
+    "en": "Without a seal the limiter could be tampered with, so sealing is required.",
+    "uk": "Без пломби в обмежувач можна було б втрутитися, тому пломбування обов'язкове."
+   }
+  }
+ },
+ {
+  "id": "g09-0328",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "On heavy vehicles, is it permitted to use speed limiters different from the approved model?",
+   "options": [
+    "Yes;",
+    "Yes, as long as they work properly;",
+    "No."
+   ],
+   "explanation": "Only speed limiters of an approved type may be installed on heavy vehicles."
+  },
+  "uk": {
+   "q": "Чи дозволено на важких автомобілях використовувати обмежувачі швидкості, відмінні від затвердженої моделі?",
+   "options": [
+    "Так;",
+    "Так, якщо вони справно працюють;",
+    "Ні."
+   ],
+   "explanation": "На важких автомобілях можна встановлювати лише обмежувачі швидкості затвердженого типу."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Speed limiters must be of an officially approved model.",
+    "uk": "Обмежувачі швидкості мають бути офіційно затвердженої моделі."
+   },
+   "b": {
+    "en": "Working properly is not enough; the device must also be type-approved.",
+    "uk": "Справної роботи недостатньо; пристрій також має бути затвердженого типу."
+   }
+  }
+ },
+ {
+  "id": "g09-0329",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "On heavy vehicles, is it permitted to use speed limiters that are faulty?",
+   "options": [
+    "Yes, as long as the fault does not last more than 5 days;",
+    "Yes, as long as the fault does not last more than 3 days;",
+    "No."
+   ],
+   "explanation": "The speed limiter must be in working order; a vehicle with a faulty limiter is not allowed to operate normally and must have it repaired."
+  },
+  "uk": {
+   "q": "Чи дозволено на важких автомобілях використовувати несправні обмежувачі швидкості?",
+   "options": [
+    "Так, якщо несправність триває не більше 5 днів;",
+    "Так, якщо несправність триває не більше 3 днів;",
+    "Ні."
+   ],
+   "explanation": "Обмежувач швидкості має бути справним; автомобіль із несправним обмежувачем не може нормально експлуатуватися і має бути відремонтований."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "There is no 5-day tolerance for driving with a faulty limiter.",
+    "uk": "Немає 5-денного допуску для їзди з несправним обмежувачем."
+   },
+   "b": {
+    "en": "There is no 3-day tolerance either; the limiter must work.",
+    "uk": "3-денного допуску теж немає; обмежувач має працювати."
+   }
+  }
+ },
+ {
+  "id": "g09-0330",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "Can drinking significant amounts of alcohol reduce the driver's field of vision?",
+   "options": [
+    "No, since that effect occurs only with drugs and medicines;",
+    "Yes;",
+    "No."
+   ],
+   "explanation": "Alcohol narrows the field of vision (tunnel vision), so the driver notices less of what happens at the sides."
+  },
+  "uk": {
+   "q": "Чи може вживання значної кількості алкоголю спричинити звуження поля зору водія?",
+   "options": [
+    "Ні, оскільки цей ефект властивий лише наркотикам і ліками;",
+    "Так;",
+    "Ні."
+   ],
+   "explanation": "Алкоголь звужує поле зору («тунельний зір»), тому водій менше помічає те, що відбувається з боків."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Alcohol also narrows the field of vision; it is not an effect exclusive to drugs or medicines.",
+    "uk": "Алкоголь теж звужує поле зору; цей ефект не властивий лише наркотикам чи ліками."
+   },
+   "c": {
+    "en": "Reduced field of vision is a well-known effect of alcohol.",
+    "uk": "Звуження поля зору — добре відомий ефект алкоголю."
+   }
+  }
+ },
+ {
+  "id": "g09-0331",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "In this situation, am I allowed to continue driving?",
+   "options": [
+    "Yes, if the traffic lights do not change.",
+    "No, because the green light for pedestrians is on.",
+    "No. I must stop."
+   ],
+   "explanation": "The traffic light ahead shows red, which requires me to stop before the stop line."
+  },
+  "uk": {
+   "q": "Чи дозволено мені в цій ситуації продовжити рух?",
+   "options": [
+    "Так, якщо сигнали світлофора не зміняться.",
+    "Ні, тому що для пішоходів горить зелений.",
+    "Ні. Я повинен зупинитися."
+   ],
+   "explanation": "Світлофор попереду показує червоний сигнал, який зобов'язує зупинитися перед стоп-лінією."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The light is already red, so I may not proceed.",
+    "uk": "Світлофор уже червоний, тож рухатися не можна."
+   },
+   "b": {
+    "en": "Stopping is right, but the reason is my own red light, not a pedestrian signal.",
+    "uk": "Зупинитися правильно, але причина — мій червоний сигнал, а не пішохідний світлофор."
+   }
+  }
+ },
+ {
+  "id": "g09-0332",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "Is a U-turn permitted here and, if so, how should I proceed?",
+   "options": [
+    "Yes, it is permitted and I must move in good time and as far as possible towards the left edge of the carriageway.",
+    "Yes, it is permitted and I must move in good time and as far as possible towards the centre line of the carriageway.",
+    "No. I must continue and give up the manoeuvre because I am close to a bend."
+   ],
+   "explanation": "U-turns are forbidden on or near bends, where visibility is insufficient; there is a bend just ahead."
+  },
+  "uk": {
+   "q": "Чи дозволено тут розвертатися, і якщо так, то як я повинен діяти?",
+   "options": [
+    "Так, дозволено, і я повинен завчасно, наскільки можливо, наблизитися до лівого краю проїзної частини.",
+    "Так, дозволено, і я повинен завчасно, наскільки можливо, наблизитися до осі проїзної частини.",
+    "Ні. Я повинен продовжити рух і відмовитися від маневру, бо я поблизу повороту."
+   ],
+   "explanation": "Розворот заборонено на поворотах і поблизу них, де видимість недостатня; попереду поворот дороги."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "A U-turn is not allowed so close to a bend, whatever the positioning.",
+    "uk": "Розворот так близько до повороту не дозволений, незалежно від положення на дорозі."
+   },
+   "b": {
+    "en": "The positioning is irrelevant: the bend ahead makes the U-turn forbidden.",
+    "uk": "Положення не має значення: поворот попереду робить розворот забороненим."
+   }
+  }
+ },
+ {
+  "id": "g09-0333",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "May a tricycle with an engine over 50 cm3 use the public road I am about to enter?",
+   "options": [
+    "Yes, and it may not exceed a maximum speed of 90 km/h.",
+    "Yes, and it may not exceed a maximum speed of 100 km/h.",
+    "No. Tricycles are prohibited."
+   ],
+   "explanation": "The blue sign shows an expressway (motor vehicles only); tricycles over 50 cm3 may use it with a speed limit of 90 km/h (100 km/h is their motorway limit)."
+  },
+  "uk": {
+   "q": "Чи може трицикл з робочим об'ємом двигуна понад 50 см3 рухатися дорогою, на яку я виїжджаю?",
+   "options": [
+    "Так, не перевищуючи максимальну швидкість 90 км/год.",
+    "Так, не перевищуючи максимальну швидкість 100 км/год.",
+    "Ні. Рух трициклів заборонено."
+   ],
+   "explanation": "Синій знак позначає дорогу для автомобілів і мотоциклів; трицикли понад 50 см3 можуть нею рухатися з обмеженням 90 км/год (100 км/год — їхній ліміт на автомагістралі)."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "100 km/h is the tricycle limit on motorways, not on expressways.",
+    "uk": "100 км/год — ліміт для трициклів на автомагістралях, а не на дорогах для автомобілів і мотоциклів."
+   },
+   "c": {
+    "en": "Only low-powered vehicles (e.g. up to 50 cm3) are banned; larger tricycles are allowed.",
+    "uk": "Заборонено лише малопотужні транспортні засоби (наприклад, до 50 см3); більші трицикли дозволені."
+   }
+  }
+ },
+ {
+  "id": "g09-0334",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "priority",
+  "en": {
+   "q": "We are at the same distance from the place where passing each other is possible. Should the other driver reverse?",
+   "options": [
+    "Yes, always, because he is going downhill.",
+    "Yes, because the manoeuvre is easier for him.",
+    "No. I must reverse because I am going uphill and the manoeuvre is clearly easier for me."
+   ],
+   "explanation": "On a steep road where vehicles cannot pass, the vehicle going downhill must reverse, unless it is clearly easier for the one going uphill; at equal distances that exception does not apply."
+  },
+  "uk": {
+   "q": "Ми перебуваємо на однаковій відстані від місця, де можна роз'їхатися. Чи повинен інший водій здати назад?",
+   "options": [
+    "Так, завжди, тому що він їде вниз.",
+    "Так, тому що маневр для нього легший.",
+    "Ні. Я повинен здати назад, тому що їду вгору і маневр для мене явно легший."
+   ],
+   "explanation": "На крутій дорозі, де неможливо роз'їхатися, назад має здавати той, хто спускається, якщо тільки це не явно легше для того, хто піднімається; за однакових відстаней цей виняток не діє."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Nothing shows it is easier for him; the rule is based on him going downhill.",
+    "uk": "Ніщо не вказує, що йому легше; правило ґрунтується на тому, що він спускається."
+   },
+   "c": {
+    "en": "At equal distances, reversing uphill is not clearly easier, so the descending driver reverses.",
+    "uk": "За однакових відстаней здавати назад угору не явно легше, тож назад здає той, хто спускається."
+   }
+  }
+ },
+ {
+  "id": "g09-0335",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "A driver has drunk too much alcohol. Can he drive without problems?",
+   "options": [
+    "Yes, after sleeping for an hour the effect of the alcohol disappears.",
+    "Yes, drinking strong coffee makes the effect of the alcohol pass.",
+    "No. It is not possible to recover quickly enough to drive safely."
+   ],
+   "explanation": "The body eliminates alcohol slowly (roughly 0.1–0.15 g/l per hour); sleep or coffee do not speed this up."
+  },
+  "uk": {
+   "q": "Водій вжив надмірну кількість алкоголю. Чи може він керувати без проблем?",
+   "options": [
+    "Так, після години сну дія алкоголю зникає.",
+    "Так, міцна кава знімає дію алкоголю.",
+    "Ні. Неможливо швидко відновитися для безпечного керування."
+   ],
+   "explanation": "Організм виводить алкоголь повільно (приблизно 0,1–0,15 г/л на годину); сон чи кава цього не прискорюють."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "One hour of sleep does not eliminate a large amount of alcohol from the blood.",
+    "uk": "Година сну не виводить велику кількість алкоголю з крові."
+   },
+   "b": {
+    "en": "Coffee may make you feel more alert but does not lower your blood alcohol.",
+    "uk": "Кава може додати бадьорості, але не знижує вміст алкоголю в крові."
+   }
+  }
+ },
+ {
+  "id": "g09-0336",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The vertical sign indicates that a compulsory pedestrian path is nearby. Do you agree with this statement?",
+   "options": [
+    "Yes, and I must moderate my speed.",
+    "No. The sign indicates the obligation to go in the direction shown by the arrow.",
+    "No. The sign indicates that I am riding next to a compulsory cycle track."
+   ],
+   "explanation": "A round blue sign with a white arrow is a mandatory sign: you must follow the direction indicated by the arrow (straight ahead)."
+  },
+  "uk": {
+   "q": "Цей дорожній знак вказує на наближення до обов'язкової доріжки для пішоходів. Чи згодні ви з цим твердженням?",
+   "options": [
+    "Так, і я повинен знизити швидкість.",
+    "Ні. Знак вказує на обов'язок рухатися в напрямку, показаному стрілкою.",
+    "Ні. Знак вказує, що я рухаюся поруч з обов'язковою велодоріжкою."
+   ],
+   "explanation": "Круглий синій знак з білою стрілкою — наказовий: рухатися слід лише в напрямку, вказаному стрілкою (прямо)."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "A pedestrian path sign shows a pedestrian symbol, not an arrow.",
+    "uk": "Знак пішохідної доріжки містить символ пішохода, а не стрілку."
+   },
+   "c": {
+    "en": "A cycle track sign shows a bicycle, not an arrow.",
+    "uk": "Знак велодоріжки містить зображення велосипеда, а не стрілку."
+   }
+  }
+ },
+ {
+  "id": "g09-0337",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "To start crossing the level crossing, is it enough to obey the signs present?",
+   "options": [
+    "No. Besides the signs, special care is needed here.",
+    "Yes.",
+    "No. Because there are no signs relating to the level crossing."
+   ],
+   "explanation": "At level crossings you must, in addition to obeying signs and signals, take special care and make sure no train is approaching and that you can clear the crossing."
+  },
+  "uk": {
+   "q": "Чи достатньо для початку перетину залізничного переїзду дотримуватися наявних знаків?",
+   "options": [
+    "Ні. Крім знаків, у цьому місці необхідна особлива обережність.",
+    "Так.",
+    "Ні. Тому що немає знаків, що стосуються залізничного переїзду."
+   ],
+   "explanation": "На залізничних переїздах, окрім дотримання знаків і сигналів, слід бути особливо уважним і переконатися, що потяг не наближається і що ви зможете повністю проїхати переїзд."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Signals can fail or be misread; the driver must also check for trains and clear space.",
+    "uk": "Сигналізація може не спрацювати або бути неправильно сприйнята; водій має сам перевірити, чи немає потяга і чи є місце за переїздом."
+   },
+   "c": {
+    "en": "There are level crossing signs here (e.g. the STOP sign and panels).",
+    "uk": "Тут є знаки залізничного переїзду (наприклад, знак STOP і таблички)."
+   }
+  }
+ },
+ {
+  "id": "g09-0338",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "A driver who, when checked, shows a blood alcohol level of 0.5 g/l or more and does not undergo further tests is prevented from driving:",
+   "options": [
+    "For the next 24 hours.",
+    "For the next 12 hours.",
+    "For the next 18 hours."
+   ],
+   "explanation": "The Code bans the driver from driving for 12 hours, unless a new test before then shows a level below the legal limit."
+  },
+  "uk": {
+   "q": "Водій, у якого під час перевірки виявлено вміст алкоголю в крові 0,5 г/л або більше і який не проходить повторних аналізів, не має права керувати:",
+   "options": [
+    "Протягом наступних 24 годин.",
+    "Протягом наступних 12 годин.",
+    "Протягом наступних 18 годин."
+   ],
+   "explanation": "Кодекс забороняє водієві керувати протягом 12 годин, якщо тільки до цього нова перевірка не покаже рівень нижче допустимого."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "24 hours is longer than the legal period, which is 12 hours.",
+    "uk": "24 години — довше за встановлений законом строк, який становить 12 годин."
+   },
+   "c": {
+    "en": "18 hours is not the period set by law; it is 12 hours.",
+    "uk": "18 годин — не встановлений законом строк; він становить 12 годин."
+   }
+  }
+ },
+ {
+  "id": "g09-0339",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "I must drive at an especially moderate speed:",
+   "options": [
+    "On secondary roads.",
+    "On roads lined with buildings.",
+    "On motorways and expressways."
+   ],
+   "explanation": "The Code lists roads lined with buildings among the places where speed must be especially moderate, since pedestrians and vehicles can appear suddenly."
+  },
+  "uk": {
+   "q": "Я повинен рухатися з особливо помірною швидкістю:",
+   "options": [
+    "На другорядних дорогах.",
+    "На дорогах, уздовж яких стоять будівлі.",
+    "На автомагістралях і дорогах для автомобілів і мотоциклів."
+   ],
+   "explanation": "Кодекс відносить дороги, обабіч яких стоять будівлі, до місць, де швидкість має бути особливо помірною, бо пішоходи й транспорт можуть з'явитися раптово."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Secondary roads as such are not on the list of places requiring especially moderate speed.",
+    "uk": "Другорядні дороги як такі не входять до переліку місць, що вимагають особливо помірної швидкості."
+   },
+   "c": {
+    "en": "Motorways and expressways are designed for higher speeds and have no such general requirement.",
+    "uk": "Автомагістралі та дороги для автомобілів і мотоциклів розраховані на вищу швидкість, і такої загальної вимоги для них немає."
+   }
+  }
+ },
+ {
+  "id": "g09-0340",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "B"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "Where are light vehicles towing a trailer forbidden from exceeding a maximum speed of 80 km/h?",
+   "options": [
+    "On motorways.",
+    "On expressways (motor vehicles only).",
+    "On roads outside built-up areas."
+   ],
+   "explanation": "Light vehicles with a trailer are limited to 80 km/h on expressways (100 km/h on motorways and 70 km/h on other roads outside built-up areas)."
+  },
+  "uk": {
+   "q": "Де легковим автомобілям з причепом заборонено рухатися з максимальною швидкістю понад 80 км/год?",
+   "options": [
+    "На автомагістралях.",
+    "На дорогах для автомобілів і мотоциклів.",
+    "На дорогах поза населеними пунктами."
+   ],
+   "explanation": "Легкові автомобілі з причепом обмежені 80 км/год на дорогах для автомобілів і мотоциклів (100 км/год на автомагістралях і 70 км/год на інших дорогах поза населеними пунктами)."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "On motorways the limit for cars with a trailer is 100 km/h, not 80.",
+    "uk": "На автомагістралях ліміт для автомобілів з причепом — 100 км/год, а не 80."
+   },
+   "c": {
+    "en": "On ordinary roads outside built-up areas the limit is lower: 70 km/h.",
+    "uk": "На звичайних дорогах поза населеними пунктами ліміт нижчий — 70 км/год."
+   }
+  }
+ },
+ {
+  "id": "g09-0341",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "As a general rule, given the signs shown in the picture, where can a greater variety of road users be expected?",
+   "options": [
+    "On motorways.",
+    "On expressways (motor vehicles only).",
+    "In built-up areas."
+   ],
+   "explanation": "The motorway and expressway signs mark roads reserved for motor vehicles; in built-up areas (the locality name sign) you find pedestrians, cyclists, mopeds and all kinds of vehicles."
+  },
+  "uk": {
+   "q": "Як правило, з огляду на знаки на зображенні, де можна очікувати більшої різноманітності учасників руху?",
+   "options": [
+    "На автомагістралях.",
+    "На дорогах для автомобілів і мотоциклів.",
+    "У населених пунктах."
+   ],
+   "explanation": "Знаки автомагістралі та дороги для автомобілів і мотоциклів позначають дороги лише для моторного транспорту; у населених пунктах (знак з назвою) трапляються пішоходи, велосипедисти, мопеди та всі види транспорту."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Motorways are restricted to certain motor vehicles; pedestrians and cyclists are banned.",
+    "uk": "Автомагістралі доступні лише певним моторним транспортним засобам; пішоходам і велосипедистам туди заборонено."
+   },
+   "b": {
+    "en": "Expressways are reserved for cars and motorcycles, so there is little variety of users.",
+    "uk": "Дороги для автомобілів і мотоциклів зарезервовані для цих транспортних засобів, тож різноманітність учасників мала."
+   }
+  }
+ },
+ {
+  "id": "g09-0342",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "With good visibility, where are stopping and parking prohibited?",
+   "options": [
+    "Less than 30 metres from mandatory signs.",
+    "Less than 30 metres from any give-way sign.",
+    "On the central islands of roundabouts."
+   ],
+   "explanation": "Stopping and parking are forbidden in roundabouts, including their central islands, regardless of visibility."
+  },
+  "uk": {
+   "q": "За доброї видимості де заборонено зупинку і стоянку?",
+   "options": [
+    "Ближче ніж 30 метрів від наказових знаків.",
+    "Ближче ніж 30 метрів від будь-якого знака «поступитися дорогою».",
+    "На центральних острівцях кільцевих розв'язок."
+   ],
+   "explanation": "Зупинка і стоянка заборонені на кільцевих розв'язках, зокрема на їхніх центральних острівцях, незалежно від видимості."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "There is no general 30-metre ban near mandatory signs.",
+    "uk": "Загальної заборони в межах 30 метрів від наказових знаків немає."
+   },
+   "b": {
+    "en": "There is no 30-metre ban around give-way signs; distance rules near signs relate to hiding them from view.",
+    "uk": "Заборони в межах 30 метрів від знаків «поступитися дорогою» немає; правила щодо відстані до знаків стосуються того, щоб не закривати їх."
+   }
+  }
+ },
+ {
+  "id": "g09-0343",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "Speed must be especially moderate:",
+   "options": [
+    "Only on steep descents.",
+    "Only on bridges, tunnels and level crossings.",
+    "In shared zones (coexistence zones)."
+   ],
+   "explanation": "Shared zones, where pedestrians may use the whole road, are among the places requiring especially moderate speed; the other options are wrong because of the word 'only'."
+  },
+  "uk": {
+   "q": "Швидкість має бути особливо помірною:",
+   "options": [
+    "Лише на крутих спусках.",
+    "Лише на мостах, у тунелях і на залізничних переїздах.",
+    "У зонах спільного руху (житлових зонах)."
+   ],
+   "explanation": "Зони спільного руху, де пішоходи можуть користуватися всією дорогою, входять до місць, де потрібна особливо помірна швидкість; інші варіанти хибні через слово «лише»."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Steep descents are one such place, but not the only one.",
+    "uk": "Круті спуски — одне з таких місць, але не єдине."
+   },
+   "b": {
+    "en": "Bridges, tunnels and level crossings are included, but the list is much longer.",
+    "uk": "Мости, тунелі й переїзди входять до переліку, але він значно ширший."
+   }
+  }
+ },
+ {
+  "id": "g09-0344",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "Drinking alcohol can cause a false state of euphoria and confidence in the driver, which leads him to:",
+   "options": [
+    "Drive more safely.",
+    "Overestimate his abilities and underestimate the risk of an accident.",
+    "Need less time to react."
+   ],
+   "explanation": "Alcohol gives false self-confidence, so the driver takes more risks while his real abilities are reduced."
+  },
+  "uk": {
+   "q": "Вживання алкоголю може викликати у водія хибний стан ейфорії та впевненості, що призводить до того, що він:",
+   "options": [
+    "Керує безпечніше.",
+    "Переоцінює свої можливості та недооцінює ризик аварії.",
+    "Потребує менше часу на реакцію."
+   ],
+   "explanation": "Алкоголь дає хибну самовпевненість, тож водій ризикує більше, хоча його реальні можливості знижені."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Alcohol makes driving less safe, not more.",
+    "uk": "Алкоголь робить керування менш, а не більш безпечним."
+   },
+   "c": {
+    "en": "Alcohol increases reaction time; it never shortens it.",
+    "uk": "Алкоголь збільшує час реакції, а не скорочує його."
+   }
+  }
+ },
+ {
+  "id": "g09-0345",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "legal",
+  "en": {
+   "q": "If the result of the alcohol counter-test differs from that of the first alcohol test, which one prevails?",
+   "options": [
+    "The counter-test result prevails over the initial test.",
+    "The initial test result prevails over the counter-test.",
+    "Neither, and the driver must undergo a new test to break the tie."
+   ],
+   "explanation": "By law, the result of the counter-test (contraprova) prevails over the result of the initial test."
+  },
+  "uk": {
+   "q": "Якщо результат контрольного аналізу на алкоголь відрізняється від результату першої перевірки, який із них має перевагу?",
+   "options": [
+    "Результат контрольного аналізу має перевагу над первинною перевіркою.",
+    "Результат первинної перевірки має перевагу над контрольним аналізом.",
+    "Жоден, і водій має пройти нову перевірку для остаточного рішення."
+   ],
+   "explanation": "За законом результат контрольного аналізу (contraprova) має перевагу над результатом первинної перевірки."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "The counter-test exists precisely to confirm or correct the initial result, so it prevails.",
+    "uk": "Контрольний аналіз існує саме для підтвердження або виправлення первинного результату, тож переважає він."
+   },
+   "c": {
+    "en": "There is no tie-break test; the counter-test is decisive.",
+    "uk": "Додаткової перевірки для вирішення немає; вирішальним є контрольний аналіз."
+   }
+  }
+ },
+ {
+  "id": "g09-0346",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The green warning light marked N on the instrument panel, when lit, tells the driver that:",
+   "options": [
+    "The battery is charging correctly.",
+    "A turn signal is on.",
+    "No gear is selected in the gearbox."
+   ],
+   "explanation": "N stands for Neutral: the light shows that the gearbox is in neutral (common on motorcycles)."
+  },
+  "uk": {
+   "q": "Зелена контрольна лампа з літерою N на панелі приладів, коли світиться, повідомляє водія, що:",
+   "options": [
+    "Акумулятор заряджається правильно.",
+    "Увімкнено покажчик повороту.",
+    "У коробці передач не вибрано жодної передачі."
+   ],
+   "explanation": "N означає Neutral (нейтраль): лампа показує, що коробка передач у нейтральному положенні (типово для мотоциклів)."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Battery charging is shown by a (usually red) battery symbol, which goes out when charging is fine.",
+    "uk": "Зарядку акумулятора показує символ батареї (зазвичай червоний), який гасне, коли все гаразд."
+   },
+   "b": {
+    "en": "Turn signals are shown by flashing green arrows, not the letter N.",
+    "uk": "Покажчики повороту показують блимаючі зелені стрілки, а не літера N."
+   }
+  }
+ },
+ {
+  "id": "g09-0347",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "After a trip, the lubrication system warning light comes on. What is the most likely cause?",
+   "options": [
+    "Lack of oil in the sump;",
+    "Oil too dark;",
+    "Oil level above normal."
+   ],
+   "explanation": "The oil warning light indicates low oil pressure, most often caused by too little oil in the engine."
+  },
+  "uk": {
+   "q": "Після поїздки засвічується контрольна лампа системи змащення. Яка найбільш імовірна причина?",
+   "options": [
+    "Нестача оливи в картері;",
+    "Олива занадто темна;",
+    "Рівень оливи вищий за норму."
+   ],
+   "explanation": "Лампа оливи сигналізує про низький тиск оливи, найчастіше через її нестачу в двигуні."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Dark oil is normal with use and does not trigger the pressure warning light.",
+    "uk": "Темна олива — нормальне явище з часом і не вмикає лампу тиску."
+   },
+   "c": {
+    "en": "Too much oil does not lower pressure, so it would not light the warning lamp.",
+    "uk": "Надлишок оливи не знижує тиск, тож лампа від цього не засвітиться."
+   }
+  }
+ },
+ {
+  "id": "g09-0348",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "How does the influence of alcohol affect driving?",
+   "options": [
+    "By reducing the driver's ability to react.",
+    "By reducing the time the eyes fixate on objects.",
+    "By increasing the ability to perceive speeds and distances."
+   ],
+   "explanation": "Alcohol slows reactions and impairs coordination, so the driver responds later and less accurately."
+  },
+  "uk": {
+   "q": "У чому проявляється вплив алкоголю на керування транспортним засобом?",
+   "options": [
+    "У зниженні здатності водія реагувати.",
+    "У скороченні часу фіксації погляду на об'єктах.",
+    "У підвищенні здатності сприймати швидкості й відстані."
+   ],
+   "explanation": "Алкоголь уповільнює реакцію і погіршує координацію, тож водій реагує пізніше і менш точно."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Alcohol actually makes the eyes linger longer on objects, slowing visual scanning.",
+    "uk": "Алкоголь насправді змушує погляд довше затримуватися на об'єктах, уповільнюючи огляд."
+   },
+   "c": {
+    "en": "Alcohol worsens, not improves, the judgement of speeds and distances.",
+    "uk": "Алкоголь погіршує, а не покращує оцінку швидкостей і відстаней."
+   }
+  }
+ },
+ {
+  "id": "g09-0349",
+  "answer": "b",
+  "confidence": "low",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "legal",
+  "en": {
+   "q": "If a vehicle fails a compulsory periodic inspection, the re-inspection must be carried out:",
+   "options": [
+    "At the inspection centre where the previous inspection was done;",
+    "At any inspection centre;",
+    "At the inspection centre in the area where the driver lives."
+   ],
+   "explanation": "Under current rules the re-inspection (within 30 days) can be done at any inspection centre; older rules tied it to the same centre, so this answer is uncertain."
+  },
+  "uk": {
+   "q": "У разі непроходження обов'язкового періодичного техогляду повторний огляд слід пройти:",
+   "options": [
+    "У центрі техогляду, де проводився попередній огляд;",
+    "У будь-якому центрі техогляду;",
+    "У центрі техогляду за місцем проживання водія."
+   ],
+   "explanation": "За чинними правилами повторний огляд (протягом 30 днів) можна пройти в будь-якому центрі техогляду; раніше правила прив'язували його до того самого центру, тож відповідь непевна."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The re-inspection is not restricted to the same centre under current rules.",
+    "uk": "За чинними правилами повторний огляд не обмежений тим самим центром."
+   },
+   "c": {
+    "en": "There is no rule tying inspections to the driver's area of residence.",
+    "uk": "Немає правила, яке прив'язує техогляд до місця проживання водія."
+   }
+  }
+ },
+ {
+  "id": "g09-0350",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "When riding a motorcycle, where should the feet be placed?",
+   "options": [
+    "On the footrests, as far as possible from the engine.",
+    "On the footrests, as close as possible to the engine.",
+    "In the centre of the footrests."
+   ],
+   "explanation": "Keeping the feet on the footrests close to the bike (engine) keeps legs tucked in, gives better control and avoids catching the feet on obstacles."
+  },
+  "uk": {
+   "q": "Куди слід ставити ноги під час керування мотоциклом?",
+   "options": [
+    "На підніжки, якомога далі від двигуна.",
+    "На підніжки, якомога ближче до двигуна.",
+    "На середину підніжок."
+   ],
+   "explanation": "Ноги на підніжках близько до мотоцикла (двигуна) тримають їх притиснутими, дають кращий контроль і не дають зачепитися за перешкоди."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Feet far out from the bike can catch on obstacles and reduce control.",
+    "uk": "Ноги, відставлені від мотоцикла, можуть зачепитися за перешкоди і погіршують контроль."
+   },
+   "c": {
+    "en": "The recommended position is with the feet tucked in close to the engine, not merely centred.",
+    "uk": "Рекомендовано тримати ноги притиснутими ближче до двигуна, а не просто посередині підніжки."
+   }
+  }
+ },
+ {
+  "id": "g09-0351",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "C"
+  ],
+  "topic": "passengers_cargo",
+  "en": {
+   "q": "For a vehicle's maximum load to be well distributed, the load's centre of gravity must be located:",
+   "options": [
+    "Over the rear axle of the vehicle;",
+    "In the centre of the vehicle's load area;",
+    "In the centre of the rear wheels of the vehicle."
+   ],
+   "explanation": "A load centred in the cargo area spreads the weight evenly across the axles, keeping the vehicle stable and steering effective."
+  },
+  "uk": {
+   "q": "Щоб максимальне навантаження транспортного засобу було добре розподілене, центр ваги вантажу повинен бути розташований:",
+   "options": [
+    "Над задньою віссю транспортного засобу;",
+    "У центрі вантажного кузова транспортного засобу;",
+    "У центрі задніх коліс транспортного засобу."
+   ],
+   "explanation": "Вантаж, розміщений по центру кузова, рівномірно розподіляє вагу між осями, зберігаючи стійкість і керованість."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Concentrating weight over the rear axle can overload it and lighten the front, harming steering.",
+    "uk": "Зосередження ваги над задньою віссю може її перевантажити й розвантажити передню, погіршуючи керування."
+   },
+   "c": {
+    "en": "Placing the load at the rear wheels overloads the rear and unbalances the vehicle.",
+    "uk": "Розміщення вантажу біля задніх коліс перевантажує задню частину і порушує баланс."
+   }
+  }
+ },
+ {
+  "id": "g09-0352",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "lights",
+  "en": {
+   "q": "The driver must switch from main beam to dipped beam:",
+   "options": [
+    "When entering a motorway.",
+    "When crossing a level crossing.",
+    "When meeting other vehicles."
+   ],
+   "explanation": "Main beam must be switched to dipped beam when meeting oncoming vehicles (and when following closely) so as not to dazzle other drivers."
+  },
+  "uk": {
+   "q": "Водій зобов'язаний перемкнути дальнє світло на ближнє:",
+   "options": [
+    "При в'їзді на автомагістраль.",
+    "При перетині залізничного переїзду.",
+    "При зустрічному роз'їзді з іншими транспортними засобами."
+   ],
+   "explanation": "Дальнє світло треба перемикати на ближнє при зустрічі з іншими транспортними засобами (і при русі слідом за ними), щоб не засліпити інших водіїв."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Entering a motorway does not by itself require dipping the headlights.",
+    "uk": "В'їзд на автомагістраль сам по собі не вимагає перемикання на ближнє світло."
+   },
+   "b": {
+    "en": "There is no general rule to dip the lights at a level crossing; the obligation is about not dazzling others.",
+    "uk": "Немає загального правила перемикати світло на переїзді; обов'язок пов'язаний з тим, щоб не засліплювати інших."
+   }
+  }
+ },
+ {
+  "id": "g09-0353",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "As a general rule, the oil level should be checked:",
+   "options": [
+    "Before setting off, with the engine running.",
+    "Before setting off, with the engine cold.",
+    "At the end of each trip, with the engine still hot."
+   ],
+   "explanation": "With a cold, stopped engine (on level ground) all the oil has drained back into the sump, so the dipstick reading is accurate."
+  },
+  "uk": {
+   "q": "Як правило, рівень оливи слід перевіряти:",
+   "options": [
+    "Перед початком руху, з працюючим двигуном.",
+    "Перед початком руху, на холодному двигуні.",
+    "Наприкінці кожної поїздки, поки двигун ще гарячий."
+   ],
+   "explanation": "На холодному заглушеному двигуні (на рівній поверхні) вся олива стікає в картер, тож показ щупа точний."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "With the engine running, oil is circulating and the dipstick reading is false (and it is unsafe).",
+    "uk": "При працюючому двигуні олива циркулює, і показ щупа неправильний (до того ж це небезпечно)."
+   },
+   "c": {
+    "en": "Right after a trip much of the oil is still in the engine, so the level reads low.",
+    "uk": "Одразу після поїздки значна частина оливи ще в двигуні, тож рівень здається заниженим."
+   }
+  }
+ },
+ {
+  "id": "g09-0354",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "This information sign should be placed:",
+   "options": [
+    "At the places where drivers start travelling on a motorway.",
+    "At the start of an expressway (motor vehicles only).",
+    "At the start of a motorway and of an expressway."
+   ],
+   "explanation": "The sign shown is the motorway sign, placed where drivers begin travelling on a motorway (start and entry slip roads)."
+  },
+  "uk": {
+   "q": "Цей інформаційний знак має бути встановлений:",
+   "options": [
+    "У місцях, де водії починають рух автомагістраллю.",
+    "На початку дороги для автомобілів і мотоциклів.",
+    "На початку автомагістралі та дороги для автомобілів і мотоциклів."
+   ],
+   "explanation": "На фото — знак «автомагістраль», який встановлюють там, де водії починають рух автомагістраллю (на її початку та на в'їздах)."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Expressways have their own sign (a car symbol), different from the motorway sign.",
+    "uk": "Дороги для автомобілів і мотоциклів мають власний знак (символ автомобіля), відмінний від знака автомагістралі."
+   },
+   "c": {
+    "en": "This sign marks motorways only; expressways use a different sign.",
+    "uk": "Цей знак позначає лише автомагістралі; для доріг для автомобілів і мотоциклів є інший знак."
+   }
+  }
+ },
+ {
+  "id": "g09-0355",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "Tyre wear is greater:",
+   "options": [
+    "In winter;",
+    "In summer;",
+    "In winter, because of adverse weather conditions."
+   ],
+   "explanation": "High road and air temperatures in summer soften the rubber and heat the tyres, so they wear faster."
+  },
+  "uk": {
+   "q": "Знос шин більший:",
+   "options": [
+    "Взимку;",
+    "Влітку;",
+    "Взимку, через несприятливі погодні умови."
+   ],
+   "explanation": "Висока температура дороги й повітря влітку розм'якшує гуму й нагріває шини, тож вони зношуються швидше."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Cold weather keeps tyres cooler, which reduces wear.",
+    "uk": "Холодна погода тримає шини прохолоднішими, що зменшує знос."
+   },
+   "c": {
+    "en": "Bad weather reduces grip but does not make tyres wear faster; heat does.",
+    "uk": "Негода зменшує зчеплення, але не прискорює знос шин; це робить спека."
+   }
+  }
+ },
+ {
+  "id": "g09-0356",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "This sign indicates that:",
+   "options": [
+    "On the main route (IP) I am travelling on there is an exit in 150 metres.",
+    "On the motorway I am travelling on the road narrows in 150 metres.",
+    "On the complementary route (IC) I am travelling on there is an exit in 150 metres."
+   ],
+   "explanation": "The bars on a green background are exit countdown markers; green is the colour used on main routes (IP)."
+  },
+  "uk": {
+   "q": "Цей знак вказує, що:",
+   "options": [
+    "На головному маршруті (IP), яким я їду, через 150 метрів є з'їзд.",
+    "На автомагістралі, якою я їду, через 150 метрів звуження дороги.",
+    "На додатковому маршруті (IC), яким я їду, через 150 метрів є з'їзд."
+   ],
+   "explanation": "Смуги на зеленому фоні — знаки наближення до з'їзду; зелений колір використовують на головних маршрутах (IP)."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Motorway signs are blue, and these bars announce an exit, not a narrowing.",
+    "uk": "Знаки автомагістралей сині, а ці смуги вказують на з'їзд, а не на звуження."
+   },
+   "c": {
+    "en": "Complementary routes (IC) use white signs, not green ones.",
+    "uk": "На додаткових маршрутах (IC) знаки білі, а не зелені."
+   }
+  }
+ },
+ {
+  "id": "g09-0357",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "This sign informs drivers that they are approaching an exit:",
+   "options": [
+    "On the motorway I am on, in 150 metres.",
+    "To a built-up area, in 150 metres.",
+    "On the main route (IP) I am on, in 150 metres."
+   ],
+   "explanation": "The exit countdown sign has a green background, which is used on main routes (IP); on motorways it would be blue."
+  },
+  "uk": {
+   "q": "Цей знак інформує водіїв про наближення до з'їзду:",
+   "options": [
+    "На автомагістралі, якою я їду, через 150 метрів.",
+    "До населеного пункту, через 150 метрів.",
+    "На головному маршруті (IP), яким я їду, через 150 метрів."
+   ],
+   "explanation": "Знак наближення до з'їзду має зелений фон, який використовують на головних маршрутах (IP); на автомагістралі він був би синім."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "On motorways these markers have a blue background, not green.",
+    "uk": "На автомагістралях ці знаки мають синій, а не зелений фон."
+   },
+   "b": {
+    "en": "The sign announces an exit from the road, not specifically a locality.",
+    "uk": "Знак повідомляє про з'їзд з дороги, а не конкретно про населений пункт."
+   }
+  }
+ },
+ {
+  "id": "g09-0358",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "An over-inflated tyre shows more wear:",
+   "options": [
+    "In the centre;",
+    "On the left side;",
+    "On the right side."
+   ],
+   "explanation": "Excess pressure makes the tread bulge in the middle, so the centre of the tyre wears fastest."
+  },
+  "uk": {
+   "q": "Шина з надмірним тиском більше зношується:",
+   "options": [
+    "По центру;",
+    "З лівого боку;",
+    "З правого боку."
+   ],
+   "explanation": "Надмірний тиск змушує протектор випинатися посередині, тож найшвидше зношується центр шини."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Wear on one side is usually due to wheel alignment, not over-inflation.",
+    "uk": "Знос з одного боку зазвичай пов'язаний з розвалом-сходженням, а не з надмірним тиском."
+   },
+   "c": {
+    "en": "One-sided wear points to alignment problems; over-inflation wears the centre.",
+    "uk": "Однобічний знос вказує на проблеми з розвалом-сходженням; надмірний тиск зношує центр."
+   }
+  }
+ },
+ {
+  "id": "g09-0359",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "This sign is placed:",
+   "options": [
+    "On the approach to a diversion of my lane.",
+    "On the approach to a narrow passage.",
+    "At the exact place of a diversion of the carriageway."
+   ],
+   "explanation": "It is a danger sign (red triangle) showing the road narrowing; danger signs are placed on the approach to the hazard, here a narrow passage."
+  },
+  "uk": {
+   "q": "Цей знак встановлено:",
+   "options": [
+    "На підході до відхилення моєї смуги руху.",
+    "На підході до вузького проїзду.",
+    "Безпосередньо в місці відхилення проїзної частини."
+   ],
+   "explanation": "Це попереджувальний знак (червоний трикутник), що показує звуження дороги; попереджувальні знаки встановлюють перед небезпекою, тут — вузьким проїздом."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The symbol shows the road narrowing on both sides, not a lane diversion.",
+    "uk": "Символ показує звуження дороги з обох боків, а не відхилення смуги."
+   },
+   "c": {
+    "en": "Danger signs are placed before the hazard, and this one shows a narrowing, not a diversion.",
+    "uk": "Попереджувальні знаки ставлять перед небезпекою, і цей знак показує звуження, а не відхилення."
+   }
+  }
+ },
+ {
+  "id": "g09-0360",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The public transport stop sign should be placed:",
+   "options": [
+    "15 metres from the stopping place.",
+    "3 metres from the stopping place.",
+    "At the exact location of the stopping place."
+   ],
+   "explanation": "The bus stop information sign marks the stop itself, so it is placed exactly where the stop is."
+  },
+  "uk": {
+   "q": "Знак зупинки громадського транспорту має бути встановлений:",
+   "options": [
+    "За 15 метрів від місця зупинки.",
+    "За 3 метри від місця зупинки.",
+    "Безпосередньо в місці зупинки."
+   ],
+   "explanation": "Знак зупинки громадського транспорту позначає саму зупинку, тому його встановлюють точно в місці зупинки."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The sign is not an advance warning; it marks the stop itself.",
+    "uk": "Знак не є попереджувальним заздалегідь; він позначає саму зупинку."
+   },
+   "b": {
+    "en": "There is no 3-metre offset; the sign stands at the stop.",
+    "uk": "Немає відступу на 3 метри; знак стоїть на самій зупинці."
+   }
+  }
+ },
+ {
+  "id": "g09-0361",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "A right turn must be made:",
+   "options": [
+    "Keeping to the road position and by the shortest path.",
+    "Moving in good time to the centre line of the carriageway.",
+    "By the shortest possible path, as long as there is space on the carriageway."
+   ],
+   "explanation": "To turn right you keep to the right edge (your normal road position) and turn along the shortest path."
+  },
+  "uk": {
+   "q": "Поворот праворуч слід виконувати:",
+   "options": [
+    "Дотримуючись положення на дорозі і найкоротшою траєкторією.",
+    "Завчасно зайнявши положення біля осі проїзної частини.",
+    "Найкоротшою можливою траєкторією, якщо на проїзній частині є місце."
+   ],
+   "explanation": "Для повороту праворуч треба триматися правого краю (звичайного положення) і повертати найкоротшою траєкторією."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Moving to the centre line is how you prepare for a left turn, not a right turn.",
+    "uk": "Наближення до осі — це підготовка до повороту ліворуч, а не праворуч."
+   },
+   "c": {
+    "en": "The shortest path is required regardless of space; you must also keep to the right position.",
+    "uk": "Найкоротша траєкторія потрібна незалежно від наявності місця; також треба триматися правого положення."
+   }
+  }
+ },
+ {
+  "id": "g09-0362",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "lights",
+  "en": {
+   "q": "A motorcycle's dipped headlights must light up the road over a distance of:",
+   "options": [
+    "At least 100 metres.",
+    "Up to 30 metres.",
+    "At least 50 metres."
+   ],
+   "explanation": "Dipped beams (passing lights) are designed to light the road ahead for up to 30 metres without dazzling others; main beam must reach at least 100 metres."
+  },
+  "uk": {
+   "q": "Ближнє світло мотоцикла повинне освітлювати дорогу на відстань:",
+   "options": [
+    "Щонайменше 100 метрів.",
+    "До 30 метрів.",
+    "Щонайменше 50 метрів."
+   ],
+   "explanation": "Ближнє світло призначене освітлювати дорогу попереду на відстань до 30 метрів, не засліплюючи інших; дальнє світло має сягати щонайменше 100 метрів."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "At least 100 metres is the requirement for main beam, not dipped beam.",
+    "uk": "Щонайменше 100 метрів — вимога до дальнього, а не ближнього світла."
+   },
+   "c": {
+    "en": "50 metres is not the legal reference; dipped beams light up to 30 metres.",
+    "uk": "50 метрів — не законодавча норма; ближнє світло освітлює до 30 метрів."
+   }
+  }
+ },
+ {
+  "id": "g09-0363",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The rev counter (tachometer) is located:",
+   "options": [
+    "On the engine flywheel.",
+    "In the speedometer, being an important component of it.",
+    "On the instrument panel."
+   ],
+   "explanation": "The rev counter is a separate gauge on the instrument panel showing engine speed in revolutions per minute."
+  },
+  "uk": {
+   "q": "Тахометр розташований:",
+   "options": [
+    "На маховику двигуна.",
+    "У спідометрі, будучи його важливою складовою.",
+    "На панелі приладів."
+   ],
+   "explanation": "Тахометр — окремий прилад на панелі приладів, що показує оберти двигуна за хвилину."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The flywheel is an engine part; the driver reads revs on the dashboard gauge.",
+    "uk": "Маховик — деталь двигуна; оберти водій бачить на приладі панелі."
+   },
+   "b": {
+    "en": "The rev counter measures engine speed and is separate from the speedometer, which measures road speed.",
+    "uk": "Тахометр вимірює оберти двигуна і є окремим від спідометра, який вимірює швидкість руху."
+   }
+  }
+ },
+ {
+  "id": "g09-0364",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "Vehicles fitted with a speed limiter must have:",
+   "options": [
+    "In the cab, in a visible place, a plate stating that the device is installed;",
+    "On the load area, in a visible place, a plate stating that the device is installed;",
+    "On the rear bumper, in a visible place, a plate stating that the device is installed."
+   ],
+   "explanation": "The speed limiter information plate must be displayed inside the driver's cab in a clearly visible place."
+  },
+  "uk": {
+   "q": "Транспортні засоби, обладнані обмежувачем швидкості, повинні мати:",
+   "options": [
+    "У кабіні, на видному місці, табличку про встановлення такого пристрою;",
+    "На вантажному кузові, на видному місці, табличку про встановлення такого пристрою;",
+    "На задньому бампері, на видному місці, табличку про встановлення такого пристрою."
+   ],
+   "explanation": "Інформаційна табличка про обмежувач швидкості має бути розміщена в кабіні водія на добре видному місці."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "The plate goes in the cab, not on the load area (buses don't even have one).",
+    "uk": "Табличка розміщується в кабіні, а не на кузові (в автобусів його навіть немає)."
+   },
+   "c": {
+    "en": "The rear bumper is not where the limiter plate is required.",
+    "uk": "Задній бампер — не те місце, де вимагається табличка обмежувача."
+   }
+  }
+ },
+ {
+  "id": "g09-0365",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "A right turn must be made:",
+   "options": [
+    "Along the longest path.",
+    "Via the centre line of the carriageway.",
+    "Along the shortest path."
+   ],
+   "explanation": "Right turns are made close to the right edge, along the shortest path."
+  },
+  "uk": {
+   "q": "Поворот праворуч слід виконувати:",
+   "options": [
+    "Найдовшою траєкторією.",
+    "Через вісь проїзної частини.",
+    "Найкоротшою траєкторією."
+   ],
+   "explanation": "Поворот праворуч виконують біля правого краю, найкоротшою траєкторією."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "A wide right turn would cross into other lanes and endanger traffic.",
+    "uk": "Широкий поворот праворуч заходить на інші смуги і небезпечний для руху."
+   },
+   "b": {
+    "en": "Using the centre line is for left turns, not right turns.",
+    "uk": "Вісь проїзної частини використовують для повороту ліворуч, а не праворуч."
+   }
+  }
+ },
+ {
+  "id": "g09-0366",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "Reversing must be carried out:",
+   "options": [
+    "Over the longest possible distance.",
+    "Over the shortest possible distance.",
+    "Over the distance the driver considers necessary."
+   ],
+   "explanation": "Reversing is only allowed as a supplementary manoeuvre, slowly and over the shortest distance needed."
+  },
+  "uk": {
+   "q": "Рух заднім ходом слід виконувати:",
+   "options": [
+    "На якомога більшу відстань.",
+    "На якомога меншу відстань.",
+    "На відстань, яку водій вважає необхідною."
+   ],
+   "explanation": "Рух заднім ходом дозволений лише як допоміжний маневр, повільно і на найменшу необхідну відстань."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Reversing is risky because of poor visibility, so it must be kept as short as possible.",
+    "uk": "Рух заднім ходом ризикований через погану видимість, тому має бути якомога коротшим."
+   },
+   "c": {
+    "en": "The law limits it to the shortest possible distance, not the driver's preference.",
+    "uk": "Закон обмежує його найменшою можливою відстанню, а не бажанням водія."
+   }
+  }
+ },
+ {
+  "id": "g09-0367",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "On two-wheeled motorcycles, where is most of the braking power concentrated?",
+   "options": [
+    "In the rear brake, therefore the rear wheel.",
+    "In the front brake, therefore the front wheel.",
+    "In the front brake, therefore the front wheel, although the difference from the rear brake is minimal."
+   ],
+   "explanation": "When braking, weight shifts forward, so the front brake provides most of the stopping power (around 70% or more) – far more than the rear."
+  },
+  "uk": {
+   "q": "На двоколісних мотоциклах де зосереджена найбільша гальмівна сила?",
+   "options": [
+    "У задньому гальмі, тобто на задньому колесі.",
+    "У передньому гальмі, тобто на передньому колесі.",
+    "У передньому гальмі, тобто на передньому колесі, хоча різниця із заднім гальмом мінімальна."
+   ],
+   "explanation": "При гальмуванні вага зміщується вперед, тож переднє гальмо дає більшу частину гальмівної сили (близько 70% і більше) — значно більше, ніж заднє."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Weight transfer to the front during braking makes the rear brake the weaker one.",
+    "uk": "Через перенесення ваги вперед під час гальмування заднє гальмо слабше."
+   },
+   "c": {
+    "en": "The difference is large, not minimal: the front does most of the braking.",
+    "uk": "Різниця велика, а не мінімальна: переднє гальмо виконує більшу частину роботи."
+   }
+  }
+ },
+ {
+  "id": "g09-0368",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "A tyre with pressure below the recommended level wears faster:",
+   "options": [
+    "In the centre;",
+    "On the left side;",
+    "On the outer edges (shoulders)."
+   ],
+   "explanation": "With low pressure the tyre sags and rests on its shoulders, so both edges of the tread wear fastest."
+  },
+  "uk": {
+   "q": "Шина з тиском нижче рекомендованого швидше зношується:",
+   "options": [
+    "По центру;",
+    "З лівого боку;",
+    "По бокових краях."
+   ],
+   "explanation": "При низькому тиску шина просідає і спирається на краї, тож обидва краї протектора зношуються найшвидше."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Centre wear is the sign of over-inflation, not under-inflation.",
+    "uk": "Знос по центру — ознака надмірного, а не заниженого тиску."
+   },
+   "b": {
+    "en": "Wear on one side only points to alignment problems, not low pressure.",
+    "uk": "Знос лише з одного боку вказує на проблеми розвалу-сходження, а не на низький тиск."
+   }
+  }
+ },
+ {
+  "id": "g09-0369",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "After this information sign, vehicles travel:",
+   "options": [
+    "Only in my direction.",
+    "Only in the direction opposite to mine.",
+    "In both directions."
+   ],
+   "explanation": "The sign shown is the 'dead end' (no through road) sign; it does not indicate a one-way street, so traffic runs in both directions."
+  },
+  "uk": {
+   "q": "Після цього інформаційного знака транспортні засоби рухаються:",
+   "options": [
+    "Лише в моєму напрямку.",
+    "Лише в напрямку, протилежному моєму.",
+    "В обох напрямках."
+   ],
+   "explanation": "На фото — знак «тупик» (дорога без наскрізного проїзду); він не позначає одностороннього руху, тож рух відбувається в обох напрямках."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "This is a dead-end sign, not a one-way sign (which shows a white arrow).",
+    "uk": "Це знак тупика, а не одностороннього руху (той має білу стрілку)."
+   },
+   "b": {
+    "en": "Nothing indicates one-way traffic in the opposite direction; a dead end has two-way traffic.",
+    "uk": "Ніщо не вказує на односторонній рух у зворотному напрямку; у тупику рух двосторонній."
+   }
+  }
+ },
+ {
+  "id": "g09-0370",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "Within built-up areas, parking must be done:",
+   "options": [
+    "On the carriageway.",
+    "On the hard shoulder.",
+    "In the places intended for that purpose."
+   ],
+   "explanation": "In built-up areas, vehicles must be parked in the places designated for parking."
+  },
+  "uk": {
+   "q": "У населених пунктах стоянку слід здійснювати:",
+   "options": [
+    "На проїзній частині.",
+    "На узбіччі.",
+    "У місцях, призначених для цього."
+   ],
+   "explanation": "У населених пунктах транспортні засоби слід ставити на стоянку в місцях, спеціально для цього призначених."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Parking on the carriageway is only a fallback where no designated places exist and it is allowed.",
+    "uk": "Стоянка на проїзній частині — лише запасний варіант, якщо немає призначених місць і це дозволено."
+   },
+   "b": {
+    "en": "The hard shoulder rule applies mainly outside built-up areas; inside them you use designated spaces.",
+    "uk": "Правило про узбіччя стосується переважно доріг поза населеними пунктами; у них слід користуватися призначеними місцями."
+   }
+  }
+ },
+ {
+  "id": "g09-0371",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "Reversing is a last-resort manoeuvre that must not be carried out:",
+   "options": [
+    "On one-way roads.",
+    "At low speed.",
+    "In places with heavy traffic."
+   ],
+   "explanation": "Reversing with poor visibility in heavy traffic is dangerous, so it must not be done there."
+  },
+  "uk": {
+   "q": "Рух заднім ходом — це допоміжний маневр, який не слід виконувати:",
+   "options": [
+    "На дорогах з одностороннім рухом.",
+    "На низькій швидкості.",
+    "У місцях з інтенсивним рухом."
+   ],
+   "explanation": "Рух заднім ходом при обмеженій видимості в інтенсивному потоці небезпечний, тому там його виконувати не можна."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Reversing is not specifically forbidden on one-way roads if done briefly and safely.",
+    "uk": "Рух заднім ходом не заборонений спеціально на дорогах з одностороннім рухом, якщо він короткий і безпечний."
+   },
+   "b": {
+    "en": "Reversing must actually be done slowly; low speed is required, not prohibited.",
+    "uk": "Задній хід якраз треба виконувати повільно; низька швидкість вимагається, а не забороняється."
+   }
+  }
+ },
+ {
+  "id": "g09-0372",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "D"
+  ],
+  "topic": "passengers_cargo",
+  "en": {
+   "q": "The driver of an urban bus must stop the vehicle to pick up and set down passengers:",
+   "options": [
+    "At the appropriate places signed for that purpose;",
+    "Anywhere, as long as it is requested and does not endanger road users;",
+    "At the appropriate places signed for that purpose, except to set down passengers over 65 years of age."
+   ],
+   "explanation": "Urban buses may only pick up and set down passengers at the designated, signed stops."
+  },
+  "uk": {
+   "q": "Водій міського автобуса повинен зупиняти транспортний засіб для посадки й висадки пасажирів:",
+   "options": [
+    "У відповідних місцях, позначених для цього;",
+    "Будь-де, якщо про це попросили і це не створює небезпеки для учасників руху;",
+    "У відповідних місцях, позначених для цього, крім висадки пасажирів віком понад 65 років."
+   ],
+   "explanation": "Міські автобуси можуть брати й висаджувати пасажирів лише на позначених зупинках."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Urban buses cannot stop anywhere on request; they must use designated stops.",
+    "uk": "Міські автобуси не можуть зупинятися будь-де на прохання; вони мають використовувати позначені зупинки."
+   },
+   "c": {
+    "en": "There is no age-based exception for setting down passengers.",
+    "uk": "Немає винятку для висадки пасажирів залежно від віку."
+   }
+  }
+ },
+ {
+  "id": "g09-0373",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "During an abrupt downshift, the rear wheel may skid:",
+   "options": [
+    "Only on motorcycles with chain drive.",
+    "Only on motorcycles with shaft drive.",
+    "On motorcycles with any type of transmission system."
+   ],
+   "explanation": "An abrupt downshift causes strong engine braking on the rear wheel, which can lock or skid regardless of the final drive type."
+  },
+  "uk": {
+   "q": "Під час різкого перемикання на нижчу передачу існує можливість заносу заднього колеса:",
+   "options": [
+    "Лише на мотоциклах з ланцюговою передачею.",
+    "Лише на мотоциклах з карданним валом.",
+    "На мотоциклах з будь-яким типом трансмісії."
+   ],
+   "explanation": "Різке перемикання вниз спричиняє сильне гальмування двигуном на задньому колесі, яке може заблокуватися чи піти в занос незалежно від типу приводу."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Chain drive is not the only one affected; engine braking reaches the rear wheel with any drive.",
+    "uk": "Ланцюгова передача не єдина; гальмування двигуном передається на заднє колесо за будь-якого приводу."
+   },
+   "b": {
+    "en": "Shaft drive is not the only one affected; any transmission can cause a rear skid.",
+    "uk": "Карданний привід не єдиний; будь-яка трансмісія може спричинити занос заднього колеса."
+   }
+  }
+ },
+ {
+  "id": "g09-0374",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "Of the following statements, mark the one you consider true:",
+   "options": [
+    "On motorcycles, shaft drive is more elastic than chain drive.",
+    "On motorcycles, chain drive is more elastic than shaft drive.",
+    "On motorcycles, all transmissions have the same elasticity, whatever the type."
+   ],
+   "explanation": "A chain has some slack and flexibility, so it is more elastic than a rigid drive shaft."
+  },
+  "uk": {
+   "q": "Із наведених тверджень позначте те, яке вважаєте правильним:",
+   "options": [
+    "На мотоциклах карданна передача еластичніша, ніж ланцюгова.",
+    "На мотоциклах ланцюгова передача еластичніша, ніж карданна.",
+    "На мотоциклах усі трансмісії мають однакову еластичність незалежно від типу."
+   ],
+   "explanation": "Ланцюг має певний провис і гнучкість, тому він еластичніший за жорсткий карданний вал."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "A drive shaft is rigid, so it is less elastic than a chain.",
+    "uk": "Карданний вал жорсткий, тому менш еластичний, ніж ланцюг."
+   },
+   "c": {
+    "en": "Different transmission types behave differently; a chain flexes while a shaft does not.",
+    "uk": "Різні типи трансмісій поводяться по-різному: ланцюг має гнучкість, а вал — ні."
+   }
+  }
+ },
+ {
+  "id": "g09-0375",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "Mark the true statement:",
+   "options": [
+    "The cooling system of motorcycles with at least two cylinders must necessarily include a radiator.",
+    "In combustion engines, the main function of the air filter is to prevent any impurity from outside reaching the inside of the engine.",
+    "In two-stroke engines the oil is kept in the crankcase (sump)."
+   ],
+   "explanation": "The air filter's job is to stop dust and impurities in the intake air from entering the engine."
+  },
+  "uk": {
+   "q": "Позначте правильне твердження:",
+   "options": [
+    "Система охолодження мотоциклів щонайменше з двома циліндрами обов'язково повинна містити радіатор.",
+    "У двигунах внутрішнього згоряння основна функція повітряного фільтра — не допустити потрапляння будь-яких домішок ззовні всередину двигуна.",
+    "У двотактних двигунах олива зберігається в картері."
+   ],
+   "explanation": "Завдання повітряного фільтра — не пропускати пил і домішки з повітря, що надходить у двигун."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Many multi-cylinder motorcycles are air-cooled and have no radiator.",
+    "uk": "Багато багатоциліндрових мотоциклів мають повітряне охолодження без радіатора."
+   },
+   "c": {
+    "en": "In two-stroke engines the oil is mixed with the fuel, not stored in the crankcase.",
+    "uk": "У двотактних двигунах олива змішується з паливом, а не зберігається в картері."
+   }
+  }
+ },
+ {
+  "id": "g09-0376",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "Given this sign, I know that I am travelling:",
+   "options": [
+    "On a motorway.",
+    "On a complementary route (IC).",
+    "On a main route (IP)."
+   ],
+   "explanation": "The blue marker with 'A1' identifies motorway A1; motorways are designated with the letter A on a blue background."
+  },
+  "uk": {
+   "q": "Побачивши цей знак, я знаю, що рухаюся:",
+   "options": [
+    "Автомагістраллю.",
+    "Додатковим маршрутом (IC).",
+    "Головним маршрутом (IP)."
+   ],
+   "explanation": "Синя табличка з написом «A1» позначає автомагістраль A1; автомагістралі позначають літерою A на синьому фоні."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Complementary routes are identified as IC, not by an 'A' number.",
+    "uk": "Додаткові маршрути позначають IC, а не номером з літерою «A»."
+   },
+   "c": {
+    "en": "Main routes are identified as IP (green), not 'A' on blue.",
+    "uk": "Головні маршрути позначають IP (зелений колір), а не «A» на синьому."
+   }
+  }
+ },
+ {
+  "id": "g09-0377",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The green colour of the sign on my right tells me that I am travelling:",
+   "options": [
+    "On a motorway.",
+    "On a national road.",
+    "On a main route (IP)."
+   ],
+   "explanation": "Green-background direction and exit signs are used on main routes (IP); motorways use blue and other roads white."
+  },
+  "uk": {
+   "q": "Зелений колір знака праворуч від мене вказує, що я рухаюся:",
+   "options": [
+    "Автомагістраллю.",
+    "Національною дорогою.",
+    "Головним маршрутом (IP)."
+   ],
+   "explanation": "Знаки із зеленим фоном використовують на головних маршрутах (IP); на автомагістралях — синій, на інших дорогах — білий."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Motorway signs have a blue background.",
+    "uk": "Знаки автомагістралей мають синій фон."
+   },
+   "b": {
+    "en": "National roads use white-background signs.",
+    "uk": "На національних дорогах використовують знаки з білим фоном."
+   }
+  }
+ },
+ {
+  "id": "g09-0378",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "From this sign I know that I am travelling:",
+   "options": [
+    "On motorway A25.",
+    "On national road E80.",
+    "On a main route (IP)."
+   ],
+   "explanation": "The blue background and the reference A25 show that this is motorway A25; E80 is the European route number, not a national road."
+  },
+  "uk": {
+   "q": "З цього знака я знаю, що рухаюся:",
+   "options": [
+    "Автомагістраллю A25.",
+    "Національною дорогою E80.",
+    "Головним маршрутом (IP)."
+   ],
+   "explanation": "Синій фон і позначення A25 показують, що це автомагістраль A25; E80 — номер європейського маршруту, а не національної дороги."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "E80 is a European route number; national roads are numbered with 'N'.",
+    "uk": "E80 — номер європейського маршруту; національні дороги позначають літерою «N»."
+   },
+   "c": {
+    "en": "Main route signs are green; this sign is blue, which is used on motorways.",
+    "uk": "Знаки головних маршрутів зелені; цей знак синій, як на автомагістралях."
+   }
+  }
+ }
+]

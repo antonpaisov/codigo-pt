@@ -1,0 +1,3257 @@
+[
+ {
+  "id": "g08-0219",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "May I reverse on a bridge?",
+   "options": [
+    "Yes, except when there is heavy traffic.",
+    "Yes, if the lane is wide enough to carry out the manoeuvre without hindering other road users.",
+    "No, reversing on a bridge is prohibited."
+   ],
+   "explanation": "The Código da Estrada prohibits reversing on bridges, tunnels and level crossings, regardless of traffic or width."
+  },
+  "uk": {
+   "q": "Чи можу я рухатися заднім ходом на мосту?",
+   "options": [
+    "Так, окрім випадків інтенсивного руху.",
+    "Так, якщо смуга руху достатньо широка, щоб виконати маневр, не заважаючи іншим учасникам руху.",
+    "Ні, рух заднім ходом на мосту заборонений."
+   ],
+   "explanation": "Кодекс доріг забороняє рух заднім ходом на мостах, у тунелях і на залізничних переїздах незалежно від інтенсивності руху чи ширини."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The ban on bridges is absolute; light traffic does not make reversing legal there.",
+    "uk": "Заборона на мостах абсолютна; слабкий рух не робить задній хід дозволеним."
+   },
+   "b": {
+    "en": "Lane width is irrelevant: reversing on bridges is always prohibited.",
+    "uk": "Ширина смуги не має значення: на мостах задній хід заборонений завжди."
+   }
+  }
+ },
+ {
+  "id": "g08-0220",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "May I reverse on a level crossing?",
+   "options": [
+    "Yes, if there is no traffic at all.",
+    "No, because it is the approach to an unguarded level crossing.",
+    "No, reversing on a level crossing is prohibited."
+   ],
+   "explanation": "Reversing is prohibited on all level crossings, guarded or not."
+  },
+  "uk": {
+   "q": "Чи можу я рухатися заднім ходом на залізничному переїзді?",
+   "options": [
+    "Так, якщо немає жодного руху.",
+    "Ні, тому що це наближення до неохоронюваного залізничного переїзду.",
+    "Ні, рух заднім ходом на залізничному переїзді заборонений."
+   ],
+   "explanation": "Рух заднім ходом заборонений на всіх залізничних переїздах — охоронюваних чи ні."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The absence of traffic does not lift the ban on reversing at level crossings.",
+    "uk": "Відсутність руху не скасовує заборону заднього ходу на переїздах."
+   },
+   "b": {
+    "en": "The ban applies to every level crossing, not only unguarded ones.",
+    "uk": "Заборона діє на всіх переїздах, а не лише на неохоронюваних."
+   }
+  }
+ },
+ {
+  "id": "g08-0221",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "Should I start overtaking where I am?",
+   "options": [
+    "Yes, as long as I warn the driver of my intention.",
+    "Yes, as long as I signal the manoeuvre properly.",
+    "No, overtaking is prohibited in places with reduced visibility."
+   ],
+   "explanation": "The image shows a place with reduced visibility, where overtaking is prohibited."
+  },
+  "uk": {
+   "q": "Чи слід мені починати обгін у місці, де я перебуваю?",
+   "options": [
+    "Так, якщо я попереджу водія про свій намір.",
+    "Так, якщо я належним чином подам сигнал про маневр.",
+    "Ні, обгін заборонений у місцях з обмеженою видимістю."
+   ],
+   "explanation": "На зображенні місце з обмеженою видимістю, де обгін заборонений."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Warning the other driver does not make overtaking legal where visibility is reduced.",
+    "uk": "Попередження іншого водія не робить обгін дозволеним за обмеженої видимості."
+   },
+   "b": {
+    "en": "Signalling is required but does not override the ban in reduced-visibility places.",
+    "uk": "Сигнал обов'язковий, але не скасовує заборону в місцях з обмеженою видимістю."
+   }
+  }
+ },
+ {
+  "id": "g08-0222",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "There is one lane in each direction. If necessary, may I overtake another car here?",
+   "options": [
+    "Yes, because the road is also marked with a broken line.",
+    "Yes, as long as I can carry out the manoeuvre safely.",
+    "No, overtaking is always prohibited."
+   ],
+   "explanation": "The centre line is broken and nothing prohibits overtaking, so it is allowed provided it can be done safely (clear road ahead, enough visibility and space)."
+  },
+  "uk": {
+   "q": "Тут по одній смузі руху в кожному напрямку. Якщо потрібно, чи можу я в цьому місці обігнати інший автомобіль?",
+   "options": [
+    "Так, тому що дорога також позначена переривчастою лінією.",
+    "Так, якщо я можу виконати маневр безпечно.",
+    "Ні, обгін завжди заборонений."
+   ],
+   "explanation": "Осьова лінія переривчаста, і ніщо не забороняє обгін, тож він дозволений за умови безпечного виконання (вільна дорога, достатня видимість і простір)."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "A broken line alone is not enough; overtaking is only allowed if it can be done safely.",
+    "uk": "Самої переривчастої лінії недостатньо; обгін дозволений лише якщо його можна виконати безпечно."
+   },
+   "c": {
+    "en": "Nothing here prohibits overtaking, and on two-way roads it is not always forbidden.",
+    "uk": "Тут ніщо не забороняє обгін, і на дорогах із двостороннім рухом він не завжди заборонений."
+   }
+  }
+ },
+ {
+  "id": "g08-0223",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "U-turns are always prohibited on this public road. Do you agree with this statement?",
+   "options": [
+    "Yes, the manoeuvre is always prohibited.",
+    "No, the manoeuvre is allowed.",
+    "No, the manoeuvre is allowed but only at the existing openings in the central reservation."
+   ],
+   "explanation": "The image shows a motorway-type road with a central reservation; U-turns are always prohibited on motorways, even at openings in the reservation."
+  },
+  "uk": {
+   "q": "Розворот на цій дорозі загального користування завжди заборонений. Чи згодні ви з цим твердженням?",
+   "options": [
+    "Так, маневр завжди заборонений.",
+    "Ні, маневр дозволений.",
+    "Ні, маневр дозволений, але лише в наявних розривах розділювальної смуги."
+   ],
+   "explanation": "На зображенні дорога типу автомагістралі з розділювальною смугою; на автомагістралях розворот завжди заборонений, навіть у розривах розділювальної смуги."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "On motorways U-turns are prohibited in all circumstances.",
+    "uk": "На автомагістралях розворот заборонений за будь-яких обставин."
+   },
+   "c": {
+    "en": "Openings in the central reservation are for emergency services, not for drivers to turn around.",
+    "uk": "Розриви в розділювальній смузі призначені для аварійних служб, а не для розвороту водіїв."
+   }
+  }
+ },
+ {
+  "id": "g08-0224",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "Am I prohibited from parking here if it forces vehicles to use the part of the carriageway meant for the opposite direction?",
+   "options": [
+    "Yes.",
+    "Yes, unless the vertical signs do not prohibit parking.",
+    "No, the manoeuvre is allowed if it causes no danger."
+   ],
+   "explanation": "Stopping or parking is prohibited wherever it forces other vehicles to use the part of the carriageway intended for oncoming traffic."
+  },
+  "uk": {
+   "q": "Чи заборонено мені ставити тут транспорт на стоянку, якщо це змушує інші транспортні засоби виїжджати на частину проїзної частини, призначену для зустрічного руху?",
+   "options": [
+    "Так.",
+    "Так, якщо тільки вертикальні знаки не забороняють стоянку.",
+    "Ні, маневр дозволений, якщо він не створює небезпеки."
+   ],
+   "explanation": "Зупинка чи стоянка заборонені скрізь, де вони змушують інші транспортні засоби використовувати частину проїзної частини для зустрічного руху."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "The ban follows from the general rule; no sign is needed for it to apply.",
+    "uk": "Заборона випливає із загального правила; для її дії знак не потрібен."
+   },
+   "c": {
+    "en": "Forcing others into the oncoming half is itself a danger the law prohibits.",
+    "uk": "Змушувати інших виїжджати на зустрічну половину — саме та небезпека, яку забороняє закон."
+   }
+  }
+ },
+ {
+  "id": "g08-0225",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "When driving on this bridge, I can never make a U-turn. Do you agree with this statement?",
+   "options": [
+    "Yes, the manoeuvre is prohibited.",
+    "No, the manoeuvre is possible if the vehicle coming in the opposite direction stops.",
+    "No, the manoeuvre is allowed if there is no heavy traffic."
+   ],
+   "explanation": "U-turns are prohibited on bridges, level crossings and in tunnels."
+  },
+  "uk": {
+   "q": "Рухаючись цим мостом, я ніколи не можу розвернутися. Чи згодні ви з цим твердженням?",
+   "options": [
+    "Так, маневр заборонений.",
+    "Ні, маневр можливий, якщо зустрічний транспортний засіб зупиниться.",
+    "Ні, маневр дозволений, якщо немає інтенсивного руху."
+   ],
+   "explanation": "Розворот заборонений на мостах, залізничних переїздах і в тунелях."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "An oncoming vehicle stopping does not lift the ban on U-turns on bridges.",
+    "uk": "Зупинка зустрічного транспорту не скасовує заборону розвороту на мостах."
+   },
+   "c": {
+    "en": "The ban on bridges applies whatever the traffic volume.",
+    "uk": "Заборона на мостах діє незалежно від інтенсивності руху."
+   }
+  }
+ },
+ {
+  "id": "g08-0226",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "Are stopping and parking prohibited in this built-up area?",
+   "options": [
+    "Yes, less than 5 metres on either side of the T-junction.",
+    "Yes, less than 10 metres before the T-junction.",
+    "No, the manoeuvre is allowed."
+   ],
+   "explanation": "Inside built-up areas, stopping and parking are prohibited less than 5 m on either side of crossroads, T-junctions and roundabouts."
+  },
+  "uk": {
+   "q": "Чи заборонені зупинка і стоянка в цьому населеному пункті?",
+   "options": [
+    "Так, ближче ніж 5 метрів з обох боків від примикання доріг.",
+    "Так, ближче ніж 10 метрів перед примиканням доріг.",
+    "Ні, маневр дозволений."
+   ],
+   "explanation": "У населених пунктах зупинка і стоянка заборонені ближче ніж 5 м з обох боків від перехресть, примикань доріг і кільцевих розв'язок."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "The distance is 5 m, and it applies on both sides of the junction, not only before it.",
+    "uk": "Відстань становить 5 м і діє з обох боків примикання, а не лише перед ним."
+   },
+   "c": {
+    "en": "There is a junction here, so stopping close to it is prohibited.",
+    "uk": "Тут є примикання доріг, тому зупинка поблизу нього заборонена."
+   }
+  }
+ },
+ {
+  "id": "g08-0227",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "May I stop or park near traffic lights?",
+   "options": [
+    "Yes, but always before the lights and at a distance of not less than 5 metres.",
+    "No, it is always prohibited less than 25 metres before traffic lights.",
+    "No, it is prohibited less than 20 metres before them if the height of the vehicles, including their load, would hide the traffic lights."
+   ],
+   "explanation": "Stopping and parking are prohibited less than 20 m before traffic lights only when the vehicle's height (with load) would hide them from other drivers."
+  },
+  "uk": {
+   "q": "Чи можу я зупинитися або стати на стоянку поблизу світлофорів?",
+   "options": [
+    "Так, але завжди перед світлофором і на відстані не менше 5 метрів.",
+    "Ні, це завжди заборонено ближче ніж 25 метрів перед світлофором.",
+    "Ні, це заборонено ближче ніж 20 метрів, якщо висота транспортних засобів разом із вантажем закриває світлофор."
+   ],
+   "explanation": "Зупинка і стоянка заборонені ближче ніж 20 м перед світлофором лише тоді, коли висота транспортного засобу (з вантажем) закриває його від інших водіїв."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "There is no 5-metre rule for traffic lights; the rule is 20 m when the vehicle would hide the lights.",
+    "uk": "Правила 5 метрів для світлофорів немає; діє правило 20 м, якщо транспорт закриває світлофор."
+   },
+   "b": {
+    "en": "The distance is 20 m, not 25 m, and it applies only when the vehicle would hide the lights.",
+    "uk": "Відстань 20 м, а не 25 м, і вона діє лише коли транспорт закриває світлофор."
+   }
+  }
+ },
+ {
+  "id": "g08-0228",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "Considering the vertical signs, is a U-turn allowed?",
+   "options": [
+    "Yes, the signs do not prohibit the manoeuvre.",
+    "Yes, given that there is no traffic.",
+    "No, the manoeuvre is prohibited by the vertical signs."
+   ],
+   "explanation": "The sign on the left is the 'no U-turn' prohibition sign."
+  },
+  "uk": {
+   "q": "Чи дозволений розворот з огляду на вертикальні знаки?",
+   "options": [
+    "Так, знаки не забороняють маневр.",
+    "Так, оскільки руху немає.",
+    "Ні, маневр заборонений вертикальними знаками."
+   ],
+   "explanation": "Знак ліворуч — заборонний знак «Розворот заборонено»."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The sign on the left is precisely a 'no U-turn' sign.",
+    "uk": "Знак ліворуч — саме знак «Розворот заборонено»."
+   },
+   "b": {
+    "en": "A prohibition sign applies even when there is no traffic.",
+    "uk": "Заборонний знак діє навіть за відсутності руху."
+   }
+  }
+ },
+ {
+  "id": "g08-0229",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "Reversing is prohibited on all bends. Do you agree with this statement?",
+   "options": [
+    "Yes, the manoeuvre is prohibited on all bends.",
+    "No, the manoeuvre is prohibited on bends with reduced visibility.",
+    "No, the manoeuvre is prohibited on bends with reduced visibility unless the road, due to its width, is suitable for the manoeuvre."
+   ],
+   "explanation": "The law prohibits reversing on bends (and hills, junctions) with reduced visibility, not on every bend."
+  },
+  "uk": {
+   "q": "Рух заднім ходом заборонений на всіх поворотах. Чи згодні ви з цим твердженням?",
+   "options": [
+    "Так, маневр заборонений на всіх поворотах.",
+    "Ні, маневр заборонений на поворотах з обмеженою видимістю.",
+    "Ні, маневр заборонений на поворотах з обмеженою видимістю, якщо тільки дорога за своєю шириною не придатна для маневру."
+   ],
+   "explanation": "Закон забороняє задній хід на поворотах (а також на підйомах, перехрестях) з обмеженою видимістю, а не на кожному повороті."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The ban is limited to bends with reduced visibility, not all bends.",
+    "uk": "Заборона стосується лише поворотів з обмеженою видимістю, а не всіх поворотів."
+   },
+   "c": {
+    "en": "There is no road-width exception: on bends with reduced visibility reversing is always prohibited.",
+    "uk": "Винятку щодо ширини дороги немає: на поворотах з обмеженою видимістю задній хід заборонений завжди."
+   }
+  }
+ },
+ {
+  "id": "g08-0230",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "Is a U-turn allowed here?",
+   "options": [
+    "Yes, I must move as far as possible to the right edge of the carriageway and make the manoeuvre along the safest path.",
+    "Yes, the carriageway is clear over the length and width needed to make the manoeuvre safely.",
+    "No, the manoeuvre is prohibited here."
+   ],
+   "explanation": "The image shows a bend with a continuous centre line and reduced visibility, where U-turns are prohibited."
+  },
+  "uk": {
+   "q": "Чи дозволений розворот у цьому місці?",
+   "options": [
+    "Так, я маю максимально наблизитися до правого краю проїзної частини і виконати маневр найбезпечнішою траєкторією.",
+    "Так, проїзна частина вільна на довжину і ширину, необхідні для безпечного виконання маневру.",
+    "Ні, маневр у цьому місці заборонений."
+   ],
+   "explanation": "На зображенні поворот із суцільною осьовою лінією та обмеженою видимістю, де розворот заборонений."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "How to perform a U-turn is irrelevant when the place itself prohibits it.",
+    "uk": "Спосіб виконання розвороту не має значення, якщо саме місце його забороняє."
+   },
+   "b": {
+    "en": "A clear road does not override the ban on a bend with reduced visibility and a continuous line.",
+    "uk": "Вільна дорога не скасовує заборону на повороті з обмеженою видимістю та суцільною лінією."
+   }
+  }
+ },
+ {
+  "id": "g08-0231",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "Is reversing allowed on a level crossing?",
+   "options": [
+    "Yes, if the level crossing has no protection or signs, reversing may be carried out.",
+    "No, except when following the instructions of railway staff.",
+    "No, the manoeuvre is prohibited."
+   ],
+   "explanation": "Reversing is prohibited on every level crossing."
+  },
+  "uk": {
+   "q": "Чи дозволений рух заднім ходом на залізничному переїзді?",
+   "options": [
+    "Так, якщо переїзд не має захисту чи сигналізації, можна рухатися заднім ходом.",
+    "Ні, окрім випадків, коли цього вимагають залізничні працівники.",
+    "Ні, маневр заборонений."
+   ],
+   "explanation": "Рух заднім ходом заборонений на будь-якому залізничному переїзді."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Unprotected level crossings are even more dangerous; the ban applies to all of them.",
+    "uk": "Незахищені переїзди ще небезпечніші; заборона діє на всіх."
+   },
+   "b": {
+    "en": "The rule contains no such exception for railway staff.",
+    "uk": "Правило не містить такого винятку для залізничних працівників."
+   }
+  }
+ },
+ {
+  "id": "g08-0232",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "May I reverse here?",
+   "options": [
+    "Yes, reversing is allowed as an auxiliary or emergency manoeuvre and must be done quickly so as not to hinder traffic, over a minimum distance of 50 metres.",
+    "Yes, reversing is allowed as an auxiliary or emergency manoeuvre and must be done slowly and over the shortest possible distance.",
+    "No, the manoeuvre is prohibited."
+   ],
+   "explanation": "Nothing prohibits reversing at this place, so it is allowed as an auxiliary manoeuvre, done slowly and over the shortest possible distance."
+  },
+  "uk": {
+   "q": "Чи можу я рухатися заднім ходом у цьому місці?",
+   "options": [
+    "Так, задній хід дозволений як допоміжний або вимушений маневр і має виконуватися швидко, щоб не заважати руху, на відстань щонайменше 50 метрів.",
+    "Так, задній хід дозволений як допоміжний або вимушений маневр і має виконуватися повільно та на якомога меншу відстань.",
+    "Ні, маневр заборонений."
+   ],
+   "explanation": "Ніщо не забороняє задній хід у цьому місці, тож він дозволений як допоміжний маневр — повільно та на якомога меншу відстань."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Reversing must be slow and as short as possible, never fast or over a minimum distance.",
+    "uk": "Задній хід має бути повільним і якомога коротшим, а не швидким чи на мінімальну відстань."
+   },
+   "c": {
+    "en": "This is a straight road with no bridge, tunnel, bend or other place where reversing is banned.",
+    "uk": "Це пряма дорога без мосту, тунелю, повороту чи іншого місця, де задній хід заборонений."
+   }
+  }
+ },
+ {
+  "id": "g08-0233",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "Do the markings on this lane allow me to make a U-turn?",
+   "options": [
+    "Yes, the manoeuvre is allowed.",
+    "Yes, the continuous line only prohibits overtaking.",
+    "No, the manoeuvre is prohibited."
+   ],
+   "explanation": "A continuous line may not be crossed, so a U-turn across it is prohibited; the bend also limits visibility."
+  },
+  "uk": {
+   "q": "Чи дозволяє розмітка на цій смузі руху мені розвернутися?",
+   "options": [
+    "Так, маневр дозволений.",
+    "Так, суцільна лінія забороняє лише обгін.",
+    "Ні, маневр заборонений."
+   ],
+   "explanation": "Суцільну лінію не можна перетинати, тому розворот через неї заборонений; до того ж поворот обмежує видимість."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The continuous line in the image cannot be crossed, so the U-turn is not allowed.",
+    "uk": "Суцільну лінію на зображенні не можна перетинати, тому розворот не дозволений."
+   },
+   "b": {
+    "en": "A continuous line forbids crossing it for any purpose, not just overtaking.",
+    "uk": "Суцільна лінія забороняє будь-яке її перетинання, а не лише обгін."
+   }
+  }
+ },
+ {
+  "id": "g08-0234",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "I am driving outside a built-up area. May I make a U-turn where I am?",
+   "options": [
+    "Yes, the lane markings do not prohibit the manoeuvre.",
+    "Yes, but only on the section of the road where the two adjacent continuous lines end.",
+    "No, the manoeuvre is prohibited."
+   ],
+   "explanation": "The double continuous line on a bend with reduced visibility cannot be crossed, so a U-turn is prohibited."
+  },
+  "uk": {
+   "q": "Я рухаюся поза населеним пунктом. Чи можу я розвернутися там, де я перебуваю?",
+   "options": [
+    "Так, розмітка смуги не забороняє маневр.",
+    "Так, але лише на ділянці дороги, де закінчуються дві суміжні суцільні лінії.",
+    "Ні, маневр заборонений."
+   ],
+   "explanation": "Подвійну суцільну лінію на повороті з обмеженою видимістю перетинати не можна, тому розворот заборонений."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The double continuous line does prohibit crossing it.",
+    "uk": "Подвійна суцільна лінія якраз забороняє її перетинати."
+   },
+   "b": {
+    "en": "The question is about where I am now, which is on the double continuous line and a bend.",
+    "uk": "Питання про місце, де я зараз, — а це подвійна суцільна лінія на повороті."
+   }
+  }
+ },
+ {
+  "id": "g08-0235",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "May I overtake while positioned in this lane?",
+   "options": [
+    "Yes, the manoeuvre is allowed.",
+    "Yes, except for heavy vehicles.",
+    "No, the manoeuvre is prohibited."
+   ],
+   "explanation": "The 50 km/h and no-overtaking signs have an additional panel with a diagonal arrow, so they apply only to the exit road on the right, not to the lane I am in."
+  },
+  "uk": {
+   "q": "Чи можу я виконати обгін, перебуваючи на цій смузі руху?",
+   "options": [
+    "Так, маневр дозволений.",
+    "Так, окрім важких автомобілів.",
+    "Ні, маневр заборонений."
+   ],
+   "explanation": "Знаки 50 км/год і «Обгін заборонено» мають додаткову табличку з похилою стрілкою, тож вони стосуються лише з'їзду праворуч, а не моєї смуги."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Nothing here creates a special rule for heavy vehicles in my lane.",
+    "uk": "Тут ніщо не встановлює особливого правила для важких автомобілів на моїй смузі."
+   },
+   "c": {
+    "en": "The no-overtaking sign carries an arrow panel showing it applies to the exit lane, not to this lane.",
+    "uk": "Знак «Обгін заборонено» має табличку зі стрілкою, що показує його дію на з'їзд, а не на цю смугу."
+   }
+  }
+ },
+ {
+  "id": "g08-0236",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "Considering the vertical signs, may I make a U-turn?",
+   "options": [
+    "Yes, as the width of the road is suitable for the manoeuvre.",
+    "No, I am obliged to turn right.",
+    "No, the manoeuvre is prohibited."
+   ],
+   "explanation": "The sign on the left is the 'no U-turn' prohibition sign."
+  },
+  "uk": {
+   "q": "Чи можу я розвернутися з огляду на вертикальні знаки?",
+   "options": [
+    "Так, оскільки ширина дороги придатна для маневру.",
+    "Ні, я зобов'язаний повернути праворуч.",
+    "Ні, маневр заборонений."
+   ],
+   "explanation": "Знак ліворуч — заборонний знак «Розворот заборонено»."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Road width does not matter when a sign prohibits U-turns.",
+    "uk": "Ширина дороги не має значення, коли знак забороняє розворот."
+   },
+   "b": {
+    "en": "The sign is a 'no U-turn' prohibition, not a mandatory 'turn right' sign.",
+    "uk": "Це заборонний знак «Розворот заборонено», а не наказовий «Поворот праворуч»."
+   }
+  }
+ },
+ {
+  "id": "g08-0237",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "May I overtake here?",
+   "options": [
+    "Yes, the manoeuvre is allowed.",
+    "Yes, but only for light vehicles.",
+    "No, the manoeuvre is prohibited."
+   ],
+   "explanation": "The image shows a bend with reduced visibility and a continuous line, where overtaking is prohibited for all vehicles."
+  },
+  "uk": {
+   "q": "Чи можу я виконати обгін у цьому місці?",
+   "options": [
+    "Так, маневр дозволений.",
+    "Так, але лише для легкових автомобілів.",
+    "Ні, маневр заборонений."
+   ],
+   "explanation": "На зображенні поворот з обмеженою видимістю та суцільною лінією, де обгін заборонений для всіх транспортних засобів."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "On a bend with reduced visibility and a continuous line, overtaking is not allowed.",
+    "uk": "На повороті з обмеженою видимістю та суцільною лінією обгін не дозволений."
+   },
+   "b": {
+    "en": "The ban applies to every type of vehicle, light ones included.",
+    "uk": "Заборона діє для всіх видів транспорту, зокрема легкових."
+   }
+  }
+ },
+ {
+  "id": "g08-0238",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "May I stop next to the sign indicating a stop for public passenger transport vehicles?",
+   "options": [
+    "Yes, but before the pedestrian crossing.",
+    "Yes, but off the carriageway.",
+    "No, the manoeuvre is prohibited."
+   ],
+   "explanation": "Stopping and parking are prohibited at public transport stops, which are reserved for buses."
+  },
+  "uk": {
+   "q": "Чи можу я зупинитися біля знака, що позначає зупинку громадського пасажирського транспорту?",
+   "options": [
+    "Так, але перед пішохідним переходом.",
+    "Так, але поза проїзною частиною.",
+    "Ні, маневр заборонений."
+   ],
+   "explanation": "Зупинка і стоянка заборонені на зупинках громадського транспорту, які призначені для автобусів."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The bus stop zone is reserved for buses, whether before or after the crossing.",
+    "uk": "Зона зупинки призначена для автобусів — як перед переходом, так і після нього."
+   },
+   "b": {
+    "en": "Leaving the carriageway does not make it legal to occupy a bus stop.",
+    "uk": "Виїзд за межі проїзної частини не робить законним зайняття автобусної зупинки."
+   }
+  }
+ },
+ {
+  "id": "g08-0239",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "May I stop my vehicle on this bridge?",
+   "options": [
+    "Yes, whenever it does not hinder traffic or endanger other road users.",
+    "Yes, the manoeuvre is allowed if it is a quick stop.",
+    "No, the manoeuvre is prohibited."
+   ],
+   "explanation": "Stopping and parking are prohibited on bridges, in tunnels and on level crossings."
+  },
+  "uk": {
+   "q": "Чи можу я зупинити свій транспортний засіб на цьому мосту?",
+   "options": [
+    "Так, якщо це не заважає руху і не загрожує безпеці інших учасників руху.",
+    "Так, маневр дозволений, якщо зупинка коротка.",
+    "Ні, маневр заборонений."
+   ],
+   "explanation": "Зупинка і стоянка заборонені на мостах, у тунелях і на залізничних переїздах."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Stopping on bridges is banned even when it seems not to hinder traffic.",
+    "uk": "Зупинка на мостах заборонена, навіть якщо здається, що вона не заважає руху."
+   },
+   "b": {
+    "en": "A brief stop is still a stop, and stopping on bridges is prohibited.",
+    "uk": "Коротка зупинка — це все одно зупинка, а на мостах вона заборонена."
+   }
+  }
+ },
+ {
+  "id": "g08-0240",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "May I make a U-turn here?",
+   "options": [
+    "Yes, the road markings do not prohibit the manoeuvre.",
+    "Yes, because I have good visibility.",
+    "No, the manoeuvre is prohibited."
+   ],
+   "explanation": "The image shows a bend with a continuous line and a danger sign; a U-turn is prohibited on bends with reduced visibility."
+  },
+  "uk": {
+   "q": "Чи можу я розвернутися в цьому місці?",
+   "options": [
+    "Так, розмітка дороги не забороняє маневр.",
+    "Так, тому що я маю добру видимість.",
+    "Ні, маневр заборонений."
+   ],
+   "explanation": "На зображенні поворот із суцільною лінією та попереджувальним знаком; розворот на поворотах з обмеженою видимістю заборонений."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The continuous line on the bend does prohibit crossing it to turn round.",
+    "uk": "Суцільна лінія на повороті якраз забороняє перетинати її для розвороту."
+   },
+   "b": {
+    "en": "Visibility on a bend is reduced, which is exactly why U-turns are banned there.",
+    "uk": "Видимість на повороті обмежена — саме тому розворот там заборонений."
+   }
+  }
+ },
+ {
+  "id": "g08-0241",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "When driving on a bridge, may I make a U-turn?",
+   "options": [
+    "Yes, except on bridges like the one in the image which, because of their width, are unsuitable for the manoeuvre.",
+    "Yes, the manoeuvre is allowed.",
+    "No, the manoeuvre is prohibited."
+   ],
+   "explanation": "U-turns are prohibited on all bridges, whatever their width."
+  },
+  "uk": {
+   "q": "Рухаючись мостом, чи можу я розвернутися?",
+   "options": [
+    "Так, окрім мостів, як на зображенні, які через свою ширину непридатні для маневру.",
+    "Так, маневр дозволений.",
+    "Ні, маневр заборонений."
+   ],
+   "explanation": "Розворот заборонений на всіх мостах незалежно від їхньої ширини."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The ban covers all bridges, not only narrow ones.",
+    "uk": "Заборона стосується всіх мостів, а не лише вузьких."
+   },
+   "b": {
+    "en": "Bridges are among the places where U-turns are expressly prohibited.",
+    "uk": "Мости належать до місць, де розворот прямо заборонений."
+   }
+  }
+ },
+ {
+  "id": "g08-0242",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "May I reverse on the bridge?",
+   "options": [
+    "Yes, but only here and as an auxiliary or emergency manoeuvre.",
+    "Yes, the manoeuvre is allowed as there is no heavy traffic.",
+    "No, the manoeuvre is prohibited."
+   ],
+   "explanation": "Reversing is prohibited on bridges, even as an auxiliary manoeuvre."
+  },
+  "uk": {
+   "q": "Чи можу я рухатися заднім ходом на мосту?",
+   "options": [
+    "Так, але лише тут і як допоміжний або вимушений маневр.",
+    "Так, маневр дозволений, оскільки немає інтенсивного руху.",
+    "Ні, маневр заборонений."
+   ],
+   "explanation": "Рух заднім ходом на мостах заборонений, навіть як допоміжний маневр."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Even as an auxiliary manoeuvre, reversing is banned on bridges.",
+    "uk": "Навіть як допоміжний маневр задній хід на мостах заборонений."
+   },
+   "b": {
+    "en": "Light traffic does not lift the ban on reversing on bridges.",
+    "uk": "Слабкий рух не скасовує заборону заднього ходу на мостах."
+   }
+  }
+ },
+ {
+  "id": "g08-0243",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "I want to make a U-turn on this public road. May I do so?",
+   "options": [
+    "Yes, but only next to the next T-junction with reduced visibility.",
+    "Yes, the manoeuvre is allowed.",
+    "No, the manoeuvre is prohibited."
+   ],
+   "explanation": "On my side of the centre marking the line is continuous (mixed line) and there is a crest ahead, so I may not cross it to turn round."
+  },
+  "uk": {
+   "q": "Я хочу розвернутися на цій дорозі загального користування. Чи можу я виконати маневр?",
+   "options": [
+    "Так, але лише біля наступного примикання доріг з обмеженою видимістю.",
+    "Так, маневр дозволений.",
+    "Ні, маневр заборонений."
+   ],
+   "explanation": "З мого боку осьової розмітки лінія суцільна (комбінована лінія), а попереду підйом, тому я не можу перетинати її для розвороту."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Junctions with reduced visibility are precisely where U-turns are prohibited.",
+    "uk": "Саме біля примикань з обмеженою видимістю розворот заборонений."
+   },
+   "b": {
+    "en": "The line on my side is continuous, so crossing it to turn round is not allowed.",
+    "uk": "Лінія з мого боку суцільна, тому перетинати її для розвороту не можна."
+   }
+  }
+ },
+ {
+  "id": "g08-0244",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "May I make a U-turn here?",
+   "options": [
+    "Yes, I should make the manoeuvre immediately since the broken line allows it.",
+    "Yes, but after letting the vehicle coming in the opposite direction pass.",
+    "No, the manoeuvre is prohibited."
+   ],
+   "explanation": "The broken line is on the oncoming side; on my side the line is continuous and visibility ahead is limited, so the U-turn is prohibited."
+  },
+  "uk": {
+   "q": "Чи можу я розвернутися в цьому місці?",
+   "options": [
+    "Так, я маю виконати маневр негайно, оскільки переривчаста лінія це дозволяє.",
+    "Так, але після того, як пропущу зустрічний транспортний засіб.",
+    "Ні, маневр заборонений."
+   ],
+   "explanation": "Переривчаста лінія — з боку зустрічного руху; з мого боку лінія суцільна, а видимість попереду обмежена, тому розворот заборонений."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "In a mixed line only the side with the broken line may cross; my side is continuous.",
+    "uk": "У комбінованій лінії перетинати може лише сторона з переривчастою лінією; з мого боку вона суцільна."
+   },
+   "b": {
+    "en": "Waiting for oncoming traffic does not change the fact that I may not cross the continuous line.",
+    "uk": "Очікування зустрічного транспорту не змінює того, що мені не можна перетинати суцільну лінію."
+   }
+  }
+ },
+ {
+  "id": "g08-0245",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "May I reverse here?",
+   "options": [
+    "Yes, but before the crest of the hill.",
+    "Yes, but I must move onto the hard shoulder to make the manoeuvre.",
+    "No, the manoeuvre is prohibited."
+   ],
+   "explanation": "The signs show this is a motorway, where reversing is always prohibited."
+  },
+  "uk": {
+   "q": "Чи можу я рухатися заднім ходом у цьому місці?",
+   "options": [
+    "Так, але перед вершиною підйому.",
+    "Так, але для маневру я маю з'їхати на узбіччя.",
+    "Ні, маневр заборонений."
+   ],
+   "explanation": "Знаки показують, що це автомагістраль, де задній хід заборонений завжди."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "On a motorway reversing is banned everywhere, not just at the crest.",
+    "uk": "На автомагістралі задній хід заборонений скрізь, а не лише на вершині підйому."
+   },
+   "b": {
+    "en": "Using the hard shoulder does not make reversing on a motorway legal.",
+    "uk": "Використання узбіччя не робить задній хід на автомагістралі законним."
+   }
+  }
+ },
+ {
+  "id": "g08-0246",
+  "answer": "a",
+  "confidence": "low",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "A U-turn is allowed here. Do you agree with this statement?",
+   "options": [
+    "Yes, because the road is suitable for the manoeuvre.",
+    "Yes, because there is no heavy traffic.",
+    "No, the manoeuvre is prohibited."
+   ],
+   "explanation": "The signs (wild animals, 50 km/h, no overtaking) do not prohibit U-turns and the centre line is broken; a U-turn is allowed where the road, by its width and visibility, is suitable for it."
+  },
+  "uk": {
+   "q": "Розворот у цьому місці дозволений. Чи згодні ви з цим твердженням?",
+   "options": [
+    "Так, тому що дорога придатна для маневру.",
+    "Так, тому що немає інтенсивного руху.",
+    "Ні, маневр заборонений."
+   ],
+   "explanation": "Знаки (дикі тварини, 50 км/год, обгін заборонено) не забороняють розворот, а осьова лінія переривчаста; розворот дозволений там, де дорога за шириною та видимістю придатна для нього."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Light traffic alone is not what makes a U-turn legal; the place must be suitable.",
+    "uk": "Сам лише слабкий рух не робить розворот законним; місце має бути придатним."
+   },
+   "c": {
+    "en": "A no-overtaking sign does not prohibit U-turns, and the centre line here is broken.",
+    "uk": "Знак «Обгін заборонено» не забороняє розворот, а осьова лінія тут переривчаста."
+   }
+  }
+ },
+ {
+  "id": "g08-0247",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "May I stop on the hard shoulder of the carriageway?",
+   "options": [
+    "Yes, after taking the necessary precautions.",
+    "No, because I am driving outside an urban area.",
+    "No, the manoeuvre is prohibited."
+   ],
+   "explanation": "Outside built-up areas, vehicles should stop off the carriageway, on the hard shoulder where possible, taking due care."
+  },
+  "uk": {
+   "q": "Чи можу я зупинитися на узбіччі проїзної частини?",
+   "options": [
+    "Так, ужив необхідних запобіжних заходів.",
+    "Ні, тому що я рухаюся поза містом.",
+    "Ні, маневр заборонений."
+   ],
+   "explanation": "Поза населеними пунктами транспорт слід зупиняти поза проїзною частиною — по можливості на узбіччі — з належною обережністю."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Outside urban areas the hard shoulder is exactly where you should stop.",
+    "uk": "Поза містом саме на узбіччі і слід зупинятися."
+   },
+   "c": {
+    "en": "Nothing here prohibits stopping on the hard shoulder of an ordinary road.",
+    "uk": "Тут ніщо не забороняє зупинку на узбіччі звичайної дороги."
+   }
+  }
+ },
+ {
+  "id": "g08-0248",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "In some circumstances, a U-turn may be made on a level crossing. Do you agree with this statement?",
+   "options": [
+    "Yes, as long as visibility is sufficient.",
+    "Yes, as long as the road, by its width or other characteristics, is suitable for the manoeuvre.",
+    "No, the manoeuvre is always prohibited on level crossings."
+   ],
+   "explanation": "U-turns are always prohibited on level crossings, bridges and in tunnels."
+  },
+  "uk": {
+   "q": "За деяких обставин розворот можна виконати на залізничному переїзді. Чи згодні ви з цим твердженням?",
+   "options": [
+    "Так, якщо видимість достатня.",
+    "Так, якщо дорога за своєю шириною або іншими характеристиками придатна для маневру.",
+    "Ні, маневр на залізничних переїздах завжди заборонений."
+   ],
+   "explanation": "Розворот завжди заборонений на залізничних переїздах, мостах і в тунелях."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Good visibility does not lift the absolute ban on level crossings.",
+    "uk": "Добра видимість не скасовує абсолютної заборони на переїздах."
+   },
+   "b": {
+    "en": "Road width is irrelevant; level crossings are always off-limits for U-turns.",
+    "uk": "Ширина дороги не має значення; на переїздах розворот завжди заборонений."
+   }
+  }
+ },
+ {
+  "id": "g08-0249",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "I am driving on a road equivalent to a motorway. May I reverse here?",
+   "options": [
+    "Yes, before the crest and over the shortest possible distance, because I am not on a motorway.",
+    "Yes, next to the hard shoulder and because there are three lanes in the same direction.",
+    "No, the manoeuvre is always prohibited."
+   ],
+   "explanation": "Roads equivalent to motorways follow motorway rules, and reversing is always prohibited there."
+  },
+  "uk": {
+   "q": "Я рухаюся дорогою, прирівняною до автомагістралі. Чи можу я рухатися заднім ходом у цьому місці?",
+   "options": [
+    "Так, перед вершиною підйому та на якомога меншу відстань, тому що я не на автомагістралі.",
+    "Так, біля узбіччя і тому, що в одному напрямку є три смуги руху.",
+    "Ні, маневр завжди заборонений."
+   ],
+   "explanation": "На дорогах, прирівняних до автомагістралей, діють правила автомагістралей, а там задній хід заборонений завжди."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "A road equivalent to a motorway is subject to the same ban on reversing.",
+    "uk": "На дорогу, прирівняну до автомагістралі, поширюється та сама заборона заднього ходу."
+   },
+   "b": {
+    "en": "Several lanes or the hard shoulder do not make reversing allowed there.",
+    "uk": "Кілька смуг чи узбіччя не роблять задній хід там дозволеним."
+   }
+  }
+ },
+ {
+  "id": "g08-0250",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "May I make a U-turn here?",
+   "options": [
+    "Yes, the manoeuvre is always allowed.",
+    "Yes, the width of the carriageway allows the manoeuvre to be made with the necessary safety.",
+    "No, the manoeuvre is always prohibited."
+   ],
+   "explanation": "This is a motorway, where U-turns are always prohibited."
+  },
+  "uk": {
+   "q": "Чи можу я розвернутися в цьому місці?",
+   "options": [
+    "Так, маневр завжди дозволений.",
+    "Так, ширина проїзної частини дозволяє виконати маневр з необхідною безпекою.",
+    "Ні, маневр завжди заборонений."
+   ],
+   "explanation": "Це автомагістраль, де розворот завжди заборонений."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "U-turns are never 'always allowed', and on a motorway they are banned.",
+    "uk": "Розворот ніколи не буває «завжди дозволеним», а на автомагістралі він заборонений."
+   },
+   "b": {
+    "en": "Carriageway width is irrelevant on a motorway, where U-turns are prohibited.",
+    "uk": "Ширина проїзної частини не має значення на автомагістралі, де розворот заборонений."
+   }
+  }
+ },
+ {
+  "id": "g08-0251",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "Is reversing allowed here?",
+   "options": [
+    "Yes, but only if it is necessary to go back to where the emergency telephone is.",
+    "Yes, but only as an auxiliary manoeuvre and over the shortest possible distance.",
+    "No, the manoeuvre is always prohibited."
+   ],
+   "explanation": "The SOS sign shows this is a motorway, where reversing is always prohibited."
+  },
+  "uk": {
+   "q": "Чи дозволений рух заднім ходом у цьому місці?",
+   "options": [
+    "Так, але лише якщо потрібно повернутися до місця, де розташований аварійний телефон.",
+    "Так, але лише як допоміжний маневр і на якомога меншу відстань.",
+    "Ні, маневр завжди заборонений."
+   ],
+   "explanation": "Знак SOS показує, що це автомагістраль, де задній хід завжди заборонений."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Reaching an emergency phone is not an exception; you must walk to it, not reverse.",
+    "uk": "Дістатися аварійного телефону — не виняток; до нього слід іти пішки, а не їхати заднім ходом."
+   },
+   "b": {
+    "en": "The auxiliary-manoeuvre rule does not apply on motorways, where reversing is banned.",
+    "uk": "Правило про допоміжний маневр не діє на автомагістралях, де задній хід заборонений."
+   }
+  }
+ },
+ {
+  "id": "g08-0252",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "May I reverse here?",
+   "options": [
+    "Yes, the signs do not prohibit the manoeuvre.",
+    "Yes, as long as the manoeuvre is done as quickly as possible.",
+    "No, the manoeuvre is always prohibited."
+   ],
+   "explanation": "This is a bend with reduced visibility, where reversing is prohibited."
+  },
+  "uk": {
+   "q": "Чи можу я рухатися заднім ходом у цьому місці?",
+   "options": [
+    "Так, знаки не забороняють маневр.",
+    "Так, якщо маневр виконується якомога швидше.",
+    "Ні, маневр завжди заборонений."
+   ],
+   "explanation": "Це поворот з обмеженою видимістю, де рух заднім ходом заборонений."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The ban on bends with reduced visibility comes from the law, not from a sign.",
+    "uk": "Заборона на поворотах з обмеженою видимістю випливає із закону, а не зі знака."
+   },
+   "b": {
+    "en": "Reversing must always be slow, and here it is banned anyway.",
+    "uk": "Задній хід завжди має бути повільним, а тут він до того ж заборонений."
+   }
+  }
+ },
+ {
+  "id": "g08-0253",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "May I reverse here?",
+   "options": [
+    "Yes, as an auxiliary manoeuvre and over the shortest possible distance.",
+    "Yes, as an auxiliary manoeuvre and as quickly as possible.",
+    "No, the manoeuvre is always prohibited."
+   ],
+   "explanation": "Nothing here prohibits reversing, so it is allowed as an auxiliary manoeuvre, slowly and over the shortest possible distance."
+  },
+  "uk": {
+   "q": "Чи можу я в цьому місці рухатися заднім ходом?",
+   "options": [
+    "Так, як допоміжний маневр і на якомога меншу відстань.",
+    "Так, як допоміжний маневр і якомога швидше.",
+    "Ні, маневр завжди заборонений."
+   ],
+   "explanation": "Тут ніщо не забороняє задній хід, тож він дозволений як допоміжний маневр — повільно та на якомога меншу відстань."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Reversing must be done slowly, never as fast as possible.",
+    "uk": "Задній хід слід виконувати повільно, а не якомога швидше."
+   },
+   "c": {
+    "en": "This straight road is not one of the places where reversing is banned.",
+    "uk": "Ця пряма дорога не належить до місць, де задній хід заборонений."
+   }
+  }
+ },
+ {
+  "id": "g08-0254",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "May I cross the continuous longitudinal marking on this public road?",
+   "options": [
+    "Yes, but only to overtake.",
+    "Yes, but only to turn left at the T-junction.",
+    "No, the marking may not be crossed or driven on."
+   ],
+   "explanation": "A continuous line may not be crossed or straddled for any reason."
+  },
+  "uk": {
+   "q": "Чи можу я перетнути суцільну поздовжню розмітку на цій дорозі загального користування?",
+   "options": [
+    "Так, але лише для обгону.",
+    "Так, але лише для повороту ліворуч на примиканні доріг.",
+    "Ні, розмітку не можна перетинати чи наїжджати на неї."
+   ],
+   "explanation": "Суцільну лінію не можна перетинати чи наїжджати на неї з будь-якої причини."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Overtaking across a continuous line is precisely what it forbids.",
+    "uk": "Обгін через суцільну лінію — саме те, що вона забороняє."
+   },
+   "b": {
+    "en": "A continuous line cannot be crossed even to turn left.",
+    "uk": "Суцільну лінію не можна перетинати навіть для повороту ліворуч."
+   }
+  }
+ },
+ {
+  "id": "g08-0255",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "May I reverse in this tunnel?",
+   "options": [
+    "Yes, because it is a tunnel with good visibility.",
+    "Yes, because it is a tunnel with two lanes in the same direction and the hard shoulder is suitable for the manoeuvre.",
+    "No, reversing is always prohibited in tunnels."
+   ],
+   "explanation": "Reversing is always prohibited in tunnels."
+  },
+  "uk": {
+   "q": "Чи можу я рухатися заднім ходом у цьому тунелі?",
+   "options": [
+    "Так, тому що це тунель з доброю видимістю.",
+    "Так, тому що це тунель з двома смугами руху в одному напрямку, а узбіччя придатне для маневру.",
+    "Ні, рух заднім ходом у тунелях завжди заборонений."
+   ],
+   "explanation": "Рух заднім ходом у тунелях завжди заборонений."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Visibility in the tunnel does not matter; the ban is absolute.",
+    "uk": "Видимість у тунелі не має значення; заборона абсолютна."
+   },
+   "b": {
+    "en": "The number of lanes or a hard shoulder does not create an exception in tunnels.",
+    "uk": "Кількість смуг чи наявність узбіччя не створюють винятку в тунелях."
+   }
+  }
+ },
+ {
+  "id": "g08-0256",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "Is it allowed to stop or park on the hard shoulder of the road I am on?",
+   "options": [
+    "Yes, stopping and parking are allowed because I am on a national road.",
+    "No, only stopping is allowed because I am on a complementary route.",
+    "No, stopping and parking are prohibited because I am on a motorway."
+   ],
+   "explanation": "The blue SOS sign and layout show a motorway, where stopping and parking are prohibited except in places designed for it."
+  },
+  "uk": {
+   "q": "Чи дозволено зупинятися або ставати на стоянку на узбіччі дороги, якою я рухаюся?",
+   "options": [
+    "Так, зупинка і стоянка дозволені, тому що я на національній дорозі.",
+    "Ні, дозволена лише зупинка, тому що я на додатковому маршруті.",
+    "Ні, зупинка і стоянка заборонені, тому що я на автомагістралі."
+   ],
+   "explanation": "Синій знак SOS і характер дороги показують автомагістраль, де зупинка і стоянка заборонені, окрім спеціально відведених місць."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "This is a motorway, not a national road.",
+    "uk": "Це автомагістраль, а не національна дорога."
+   },
+   "b": {
+    "en": "The road is a motorway, where even stopping on the hard shoulder is prohibited.",
+    "uk": "Дорога є автомагістраллю, де заборонена навіть зупинка на узбіччі."
+   }
+  }
+ },
+ {
+  "id": "g08-0257",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "Given that there is no hard shoulder where I am, may I stop further ahead in the roundabout to drop off a passenger?",
+   "options": [
+    "Yes, as long as I signal my intention properly.",
+    "Yes, as long as the stop is quick and signalled with the hazard lights.",
+    "No, stopping is prohibited in roundabouts."
+   ],
+   "explanation": "Stopping and parking are prohibited in roundabouts."
+  },
+  "uk": {
+   "q": "З огляду на відсутність узбіччя там, де я перебуваю, чи можу я зупинитися далі на кільцевій розв'язці, щоб висадити пасажира?",
+   "options": [
+    "Так, якщо я належним чином повідомлю про свій намір.",
+    "Так, якщо зупинка коротка і позначена аварійною сигналізацією.",
+    "Ні, зупинка на кільцевих розв'язках заборонена."
+   ],
+   "explanation": "Зупинка і стоянка на кільцевих розв'язках заборонені."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Signalling does not make stopping in a roundabout legal.",
+    "uk": "Сигнал не робить зупинку на кільцевій розв'язці законною."
+   },
+   "b": {
+    "en": "Hazard lights do not authorise a stop where stopping is prohibited.",
+    "uk": "Аварійна сигналізація не дозволяє зупинку там, де вона заборонена."
+   }
+  }
+ },
+ {
+  "id": "g08-0258",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "In this situation, am I prohibited from stopping immediately before the roundabout I am approaching?",
+   "options": [
+    "Yes, if the distance is less than 5 metres.",
+    "No, only parking is prohibited.",
+    "No, stopping is only prohibited inside the roundabout."
+   ],
+   "explanation": "Stopping and parking are prohibited less than 5 m from roundabouts, crossroads and T-junctions."
+  },
+  "uk": {
+   "q": "Чи заборонено мені в цій ситуації зупинятися безпосередньо перед кільцевою розв'язкою, до якої я наближаюся?",
+   "options": [
+    "Так, якщо відстань менша за 5 метрів.",
+    "Ні, заборонена лише стоянка.",
+    "Ні, зупинка заборонена лише всередині кільцевої розв'язки."
+   ],
+   "explanation": "Зупинка і стоянка заборонені ближче ніж 5 м від кільцевих розв'язок, перехресть і примикань доріг."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "The 5-metre rule covers stopping as well as parking.",
+    "uk": "Правило 5 метрів стосується і зупинки, і стоянки."
+   },
+   "c": {
+    "en": "The ban also extends 5 m before the roundabout, not only inside it.",
+    "uk": "Заборона діє також на 5 м перед кільцевою розв'язкою, а не лише всередині."
+   }
+  }
+ },
+ {
+  "id": "g08-0259",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "Does the instruction given by this vertical sign take precedence over the general right-of-way rule?",
+   "options": [
+    "Yes, the sign takes precedence over the traffic rule.",
+    "Yes, except for motor vehicles.",
+    "No, the traffic rule takes precedence over the vertical sign."
+   ],
+   "explanation": "Signs prevail over general traffic rules; the STOP sign therefore overrides the give-way-to-the-right rule."
+  },
+  "uk": {
+   "q": "Чи має вказівка цього вертикального знака перевагу над загальним правилом пріоритету проїзду?",
+   "options": [
+    "Так, знак має перевагу над правилом дорожнього руху.",
+    "Так, окрім механічних транспортних засобів.",
+    "Ні, правило дорожнього руху має перевагу над вертикальним знаком."
+   ],
+   "explanation": "Знаки мають перевагу над загальними правилами руху, тож знак STOP переважає правило «перешкоди справа»."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Signs apply to all vehicles, motor vehicles included.",
+    "uk": "Знаки діють для всіх транспортних засобів, зокрема механічних."
+   },
+   "c": {
+    "en": "The hierarchy is the reverse: signs prevail over general rules.",
+    "uk": "Ієрархія зворотна: знаки мають перевагу над загальними правилами."
+   }
+  }
+ },
+ {
+  "id": "g08-0260",
+  "answer": "b",
+  "confidence": "low",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "Should I drive at a moderate speed here?",
+   "options": [
+    "Yes, the vertical sign indicates a section of road with a slippery surface.",
+    "Yes, the vertical sign indicates a section of road with low hard shoulders on the right.",
+    "No, the signs on the road only prohibit overtaking."
+   ],
+   "explanation": "The danger sign appears to show a car with its wheels dropping off a step: low hard shoulders. Danger signs require moderating speed."
+  },
+  "uk": {
+   "q": "Чи слід мені рухатися в цьому місці з помірною швидкістю?",
+   "options": [
+    "Так, вертикальний знак вказує на ділянку дороги зі слизьким покриттям.",
+    "Так, вертикальний знак вказує на ділянку дороги з низькими узбіччями праворуч.",
+    "Ні, наявні знаки лише забороняють обгін."
+   ],
+   "explanation": "Попереджувальний знак, схоже, показує автомобіль, колеса якого з'їжджають з уступу: низькі узбіччя. Попереджувальні знаки вимагають знизити швидкість."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The slippery-road sign shows skid marks behind the car; this sign shows a drop at the road edge.",
+    "uk": "Знак «Слизька дорога» показує сліди заносу за автомобілем; цей знак показує уступ на краю дороги."
+   },
+   "c": {
+    "en": "The sign here is a danger warning, not a no-overtaking sign, and it requires reducing speed.",
+    "uk": "Тут попереджувальний знак, а не «Обгін заборонено», і він вимагає знизити швидкість."
+   }
+  }
+ },
+ {
+  "id": "g08-0261",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "Is a U-turn allowed here?",
+   "options": [
+    "Yes, before the bend and the danger sign.",
+    "Yes, the road signs and markings allow me to make the manoeuvre.",
+    "No, the road signs and markings do not allow me to make the manoeuvre."
+   ],
+   "explanation": "There is a double continuous line and signs warning of dangerous bends, so a U-turn is not allowed."
+  },
+  "uk": {
+   "q": "Чи дозволений розворот у цьому місці?",
+   "options": [
+    "Так, перед поворотом і попереджувальним знаком.",
+    "Так, наявні знаки та розмітка дозволяють мені виконати маневр.",
+    "Ні, наявні знаки та розмітка не дозволяють мені виконати маневр."
+   ],
+   "explanation": "Тут подвійна суцільна лінія та знаки, що попереджають про небезпечні повороти, тому розворот не дозволений."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The continuous line already starts here, before the bend, so you cannot cross it.",
+    "uk": "Суцільна лінія починається вже тут, перед поворотом, тож перетинати її не можна."
+   },
+   "b": {
+    "en": "A continuous centre line forbids crossing it to turn round.",
+    "uk": "Суцільна осьова лінія забороняє перетинати її для розвороту."
+   }
+  }
+ },
+ {
+  "id": "g08-0262",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "In this situation, given the green light, may I continue and turn left?",
+   "options": [
+    "No, because the officer is ordering traffic to stop.",
+    "Yes, because the officer is giving me that instruction.",
+    "No, the traffic light only allows me to go straight ahead."
+   ],
+   "explanation": "A traffic officer's orders override traffic lights; the officer facing me with arms extended orders traffic from the front and behind to stop."
+  },
+  "uk": {
+   "q": "Чи можу я в цій ситуації за зеленого сигналу світлофора продовжити рух і повернути ліворуч?",
+   "options": [
+    "Ні, тому що регулювальник наказує зупинити рух.",
+    "Так, тому що регулювальник дає мені таку вказівку.",
+    "Ні, світлофор дозволяє мені рухатися лише прямо."
+   ],
+   "explanation": "Вказівки регулювальника мають перевагу над світлофором; регулювальник, що стоїть обличчям до мене з розведеними руками, наказує зупинитися транспорту спереду й ззаду."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Arms extended sideways facing me mean stop, not permission to turn.",
+    "uk": "Розведені в боки руки, коли регулювальник обличчям до мене, означають «стоп», а не дозвіл повернути."
+   },
+   "c": {
+    "en": "The officer's order prevails over the light, and he is telling traffic to stop.",
+    "uk": "Вказівка регулювальника переважає світлофор, а він наказує зупинитися."
+   }
+  }
+ },
+ {
+  "id": "g08-0263",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "lights",
+  "en": {
+   "q": "Fog lights may be used even when weather conditions do not justify it. Do you agree with this statement?",
+   "options": [
+    "Yes, as long as they do not dazzle.",
+    "Yes, because these lights do not dazzle.",
+    "No, their use is only allowed if weather conditions justify it."
+   ],
+   "explanation": "Fog lights may only be used when fog, heavy rain, snow or similar conditions significantly reduce visibility."
+  },
+  "uk": {
+   "q": "Протитуманні фари можна вмикати, навіть якщо погодні умови цього не вимагають. Чи згодні ви з цим твердженням?",
+   "options": [
+    "Так, якщо вони не засліплюють.",
+    "Так, тому що ці фари не засліплюють.",
+    "Ні, їх використання дозволене лише тоді, коли цього вимагають погодні умови."
+   ],
+   "explanation": "Протитуманні фари можна вмикати лише коли туман, сильний дощ, сніг чи подібні умови значно погіршують видимість."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Even without dazzling, fog lights are not allowed in normal weather.",
+    "uk": "Навіть без засліплення протитуманні фари не дозволені за нормальної погоди."
+   },
+   "b": {
+    "en": "Fog lights, especially rear ones, can dazzle in clear weather; their use is restricted.",
+    "uk": "Протитуманні фари, особливо задні, можуть засліплювати в ясну погоду; їх використання обмежене."
+   }
+  }
+ },
+ {
+  "id": "g08-0264",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "Given this vertical sign, may I overtake any type of vehicle?",
+   "options": [
+    "Yes, but only light vehicles.",
+    "Yes, but only two-wheeled vehicles.",
+    "No, overtaking is always prohibited whatever the vehicle."
+   ],
+   "explanation": "The 'no overtaking' sign prohibits overtaking motor vehicles other than two-wheeled motorcycles and mopeds without sidecar, so two-wheelers may be overtaken."
+  },
+  "uk": {
+   "q": "Чи можу я за наявності цього вертикального знака обганяти якісь транспортні засоби?",
+   "options": [
+    "Так, але лише легкові автомобілі.",
+    "Так, але лише двоколісні транспортні засоби.",
+    "Ні, обгін завжди заборонений незалежно від транспортного засобу."
+   ],
+   "explanation": "Знак «Обгін заборонено» забороняє обганяти механічні транспортні засоби, крім двоколісних мотоциклів і мопедів без коляски, тож двоколісні обганяти можна."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Light cars are exactly what the sign forbids you to overtake.",
+    "uk": "Саме легкові автомобілі знак забороняє обганяти."
+   },
+   "c": {
+    "en": "The sign allows overtaking two-wheeled vehicles.",
+    "uk": "Знак дозволяє обганяти двоколісні транспортні засоби."
+   }
+  }
+ },
+ {
+  "id": "g08-0265",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "May I overtake the vehicle in front of me?",
+   "options": [
+    "Yes, I must signal the manoeuvre and overtake on the right, as long as I have room within the carriageway.",
+    "Yes, in this situation I may overtake on the right or the left.",
+    "No, overtaking is always done on the left and the vehicle is going to turn."
+   ],
+   "explanation": "The vehicle ahead is moving to the left to turn left, so it must be overtaken on the right, after signalling and only if there is room within the carriageway."
+  },
+  "uk": {
+   "q": "Чи можу я обігнати транспортний засіб, що рухається попереду мене?",
+   "options": [
+    "Так, я маю подати сигнал і обігнати праворуч, якщо є місце в межах проїзної частини.",
+    "Так, у цій ситуації я можу обігнати праворуч або ліворуч.",
+    "Ні, обгін завжди виконується ліворуч, а транспортний засіб збирається повернути."
+   ],
+   "explanation": "Транспортний засіб попереду зміщується ліворуч для повороту ліворуч, тож його слід обганяти праворуч — після сигналу і лише якщо є місце в межах проїзної частини."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "A vehicle turning left must not be overtaken on the left.",
+    "uk": "Транспортний засіб, що повертає ліворуч, не можна обганяти ліворуч."
+   },
+   "c": {
+    "en": "Overtaking on the right is the exception precisely for vehicles turning left.",
+    "uk": "Обгін праворуч — це виняток саме для транспорту, що повертає ліворуч."
+   }
+  }
+ },
+ {
+  "id": "g08-0266",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "Is the kidney belt used only for the comfort of a motorcycle rider?",
+   "options": [
+    "Yes, mainly on long journeys.",
+    "No, the belt also protects the rider's spine from an impact.",
+    "No, using the belt is uncomfortable and it should only be used on racing circuits."
+   ],
+   "explanation": "A kidney belt supports the lower back and helps protect the spine and internal organs in a fall or impact."
+  },
+  "uk": {
+   "q": "Чи використовується мотопояс лише для комфорту мотоцикліста?",
+   "options": [
+    "Так, переважно в далеких поїздках.",
+    "Ні, пояс також захищає хребет водія від удару.",
+    "Ні, пояс незручний і його слід використовувати лише на гоночних трасах."
+   ],
+   "explanation": "Мотопояс підтримує поперек і допомагає захистити хребет і внутрішні органи під час падіння чи удару."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Comfort is only one benefit; the belt also has a protective role.",
+    "uk": "Комфорт — лише одна з переваг; пояс також виконує захисну функцію."
+   },
+   "c": {
+    "en": "The belt is useful for everyday riding, not just on racing circuits.",
+    "uk": "Пояс корисний і в повсякденній їзді, а не лише на гоночних трасах."
+   }
+  }
+ },
+ {
+  "id": "g08-0267",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "Should a motorcyclist wear protective boots?",
+   "options": [
+    "Yes, always.",
+    "Yes, but only when riding off public roads.",
+    "No, boots are only compulsory in sporting competitions."
+   ],
+   "explanation": "Protective boots shield feet and ankles in falls and should always be worn when riding."
+  },
+  "uk": {
+   "q": "Чи повинен мотоцикліст носити захисні черевики?",
+   "options": [
+    "Так, завжди.",
+    "Так, але лише під час руху поза дорогами загального користування.",
+    "Ні, черевики обов'язкові лише на спортивних змаганнях."
+   ],
+   "explanation": "Захисні черевики захищають стопи й щиколотки під час падінь, тому їх слід носити завжди."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Falls on public roads injure feet just as much; boots are needed there too.",
+    "uk": "Падіння на дорогах загального користування так само травмують стопи; черевики потрібні і там."
+   },
+   "c": {
+    "en": "Protective gear is recommended for all riding, not just competitions.",
+    "uk": "Захисне спорядження рекомендоване для будь-якої їзди, а не лише для змагань."
+   }
+  }
+ },
+ {
+  "id": "g08-0268",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "The signs on this public road allow me to use the pavements. Do you agree with this statement?",
+   "options": [
+    "Yes, but only the pavement on the right-hand side of the road.",
+    "Yes, the pavement is wide enough and the signs do not prohibit it.",
+    "No, use of the pavement is prohibited."
+   ],
+   "explanation": "Pavements are reserved for pedestrians; vehicles may not drive or park on them unless signs expressly allow it, and none do here."
+  },
+  "uk": {
+   "q": "Знаки на цій дорозі загального користування дозволяють мені користуватися тротуарами. Чи згодні ви з цим твердженням?",
+   "options": [
+    "Так, але лише тротуаром праворуч від дороги.",
+    "Так, тротуар достатньо широкий, а знаки цього не забороняють.",
+    "Ні, користуватися тротуаром заборонено."
+   ],
+   "explanation": "Тротуари призначені для пішоходів; транспорт не може рухатися чи стояти на них, якщо знаки прямо цього не дозволяють, а тут таких немає."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Neither pavement may be used by vehicles here.",
+    "uk": "Транспорт не може тут користуватися жодним тротуаром."
+   },
+   "b": {
+    "en": "Pavement use needs express permission; the absence of a prohibition is not enough.",
+    "uk": "Для використання тротуару потрібен прямий дозвіл; відсутності заборони недостатньо."
+   }
+  }
+ },
+ {
+  "id": "g08-0269",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "May I stop and/or park in roundabouts?",
+   "options": [
+    "Yes, but only in roundabouts outside built-up areas.",
+    "No, I may only stop.",
+    "No, both manoeuvres are prohibited."
+   ],
+   "explanation": "Both stopping and parking are prohibited in roundabouts."
+  },
+  "uk": {
+   "q": "Чи можу я зупинятися та/або ставати на стоянку на кільцевих розв'язках?",
+   "options": [
+    "Так, але лише на кільцевих розв'язках поза населеними пунктами.",
+    "Ні, я можу лише зупинятися.",
+    "Ні, обидва маневри заборонені."
+   ],
+   "explanation": "І зупинка, і стоянка на кільцевих розв'язках заборонені."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The ban applies to roundabouts both inside and outside built-up areas.",
+    "uk": "Заборона діє на кільцевих розв'язках як у населених пунктах, так і поза ними."
+   },
+   "b": {
+    "en": "Stopping in a roundabout is prohibited too, not just parking.",
+    "uk": "Зупинка на кільцевій розв'язці також заборонена, а не лише стоянка."
+   }
+  }
+ },
+ {
+  "id": "g08-0270",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "Use of the horn is only allowed in case of imminent danger. Do you agree with this statement?",
+   "options": [
+    "Yes, I agree.",
+    "No, when driving outside built-up areas I may also use the horn at crests with reduced visibility.",
+    "No, when driving inside a built-up area at night I may also use the horn to warn a driver that I intend to overtake."
+   ],
+   "explanation": "Besides imminent danger, the horn may be used outside built-up areas to warn of overtaking and at bends, junctions and crests with reduced visibility."
+  },
+  "uk": {
+   "q": "Звуковий сигнал дозволено використовувати лише в разі неминучої небезпеки. Чи згодні ви з цим твердженням?",
+   "options": [
+    "Так, згоден.",
+    "Ні, рухаючись поза населеними пунктами, я також можу подавати звуковий сигнал на підйомах з обмеженою видимістю.",
+    "Ні, рухаючись у населеному пункті вночі, я також можу подавати звуковий сигнал, щоб попередити водія про намір обігнати."
+   ],
+   "explanation": "Окрім неминучої небезпеки, поза населеними пунктами звуковий сигнал можна подавати для попередження про обгін і на поворотах, перехрестях та підйомах з обмеженою видимістю."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Outside built-up areas there are further permitted uses of the horn.",
+    "uk": "Поза населеними пунктами є й інші дозволені випадки використання звукового сигналу."
+   },
+   "c": {
+    "en": "At night (and in built-up areas) you warn with headlight flashes, not the horn.",
+    "uk": "Уночі (і в населених пунктах) попереджають миготінням фар, а не звуковим сигналом."
+   }
+  }
+ },
+ {
+  "id": "g08-0271",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "priority",
+  "en": {
+   "q": "The lane I am in has priority at the next T-junction but I must slow down. Do you agree with this statement?",
+   "options": [
+    "Yes, I must always slow down at T-junctions.",
+    "No, the lane I am in does not have priority, so I must reduce speed and, if necessary, stop.",
+    "No, when driving in a lane with priority I am not obliged to slow down."
+   ],
+   "explanation": "The give-way sign ahead means my road does not have priority: I must slow down and stop if necessary to yield."
+  },
+  "uk": {
+   "q": "Смуга, якою я рухаюся, має пріоритет на наступному примиканні доріг, але я повинен знизити швидкість. Чи згодні ви з цим твердженням?",
+   "options": [
+    "Так, на примиканнях доріг я завжди повинен знижувати швидкість.",
+    "Ні, смуга, якою я рухаюся, не має пріоритету, тому я повинен знизити швидкість і за потреби зупинитися.",
+    "Ні, рухаючись смугою з пріоритетом, я не зобов'язаний знижувати швидкість."
+   ],
+   "explanation": "Знак «Поступитися дорогою» попереду означає, що моя дорога не головна: я маю знизити швидкість і за потреби зупинитися, щоб поступитися."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The premise is wrong: the give-way sign shows my road does not have priority.",
+    "uk": "Хибне твердження: знак «Поступитися дорогою» показує, що моя дорога не має пріоритету."
+   },
+   "c": {
+    "en": "My road has no priority here, and even with priority you must moderate speed at junctions.",
+    "uk": "Моя дорога тут не має пріоритету, а навіть з пріоритетом на перехрестях слід знижувати швидкість."
+   }
+  }
+ },
+ {
+  "id": "g08-0272",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "lights",
+  "en": {
+   "q": "Should hazard lights be used whenever it is necessary to reduce speed suddenly?",
+   "options": [
+    "Yes, whenever it poses a danger to other road users.",
+    "No, they should only be used if the vehicle breaks down on the road or in case of an accident.",
+    "No, they should only be used in case of an accident."
+   ],
+   "explanation": "Hazard lights must also be used to warn following drivers of a sudden reduction in speed caused by an unexpected obstacle or poor visibility (as in the fog shown)."
+  },
+  "uk": {
+   "q": "Чи слід вмикати аварійну сигналізацію щоразу, коли потрібно раптово знизити швидкість?",
+   "options": [
+    "Так, щоразу, коли це становить небезпеку для інших учасників руху.",
+    "Ні, її слід вмикати лише в разі несправності транспортного засобу на дорозі або дорожньо-транспортної пригоди.",
+    "Ні, її слід вмикати лише в разі дорожньо-транспортної пригоди."
+   ],
+   "explanation": "Аварійну сигналізацію слід також вмикати, щоб попередити водіїв позаду про раптове зниження швидкості через несподівану перешкоду чи погану видимість (як у тумані на зображенні)."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Breakdowns and accidents are not the only cases; sudden slowing is another.",
+    "uk": "Несправності та ДТП — не єдині випадки; раптове гальмування — ще один."
+   },
+   "c": {
+    "en": "Hazard lights are also required for breakdowns and sudden slowing, not just accidents.",
+    "uk": "Аварійна сигналізація потрібна й при несправностях та раптовому гальмуванні, а не лише при ДТП."
+   }
+  }
+ },
+ {
+  "id": "g08-0273",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "lights",
+  "en": {
+   "q": "Driving here during the day, if I have to stop and wait for the level crossing to open, should I use any lighting?",
+   "options": [
+    "Yes, if weather conditions make visibility insufficient I should switch on the position lights.",
+    "Yes, if weather conditions make visibility insufficient I should switch on the main beam.",
+    "No, I should only use the fog lights if visibility is"
+   ],
+   "explanation": "When stopped with insufficient visibility, the vehicle must show its position (side) lights so it can be seen."
+  },
+  "uk": {
+   "q": "Рухаючись тут удень, якщо мені доведеться зупинитися в очікуванні відкриття залізничного переїзду, чи слід мені вмикати якісь світлові прилади?",
+   "options": [
+    "Так, якщо погодні умови погіршують видимість, я маю ввімкнути габаритні вогні.",
+    "Так, якщо погодні умови погіршують видимість, я маю ввімкнути дальнє світло.",
+    "Ні, я маю вмикати лише протитуманні фари, якщо видимість"
+   ],
+   "explanation": "Під час зупинки за недостатньої видимості транспортний засіб має бути позначений габаритними вогнями, щоб його було видно."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Main beam would dazzle others and is not meant for a stationary vehicle.",
+    "uk": "Дальнє світло засліплюватиме інших і не призначене для нерухомого транспорту."
+   },
+   "c": {
+    "en": "Fog lights are not the lights required for a vehicle stopped in poor visibility.",
+    "uk": "Протитуманні фари — не ті вогні, що потрібні для транспорту, який стоїть за поганої видимості."
+   }
+  }
+ },
+ {
+  "id": "g08-0274",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "Is a protective jacket essential equipment for a motorcyclist?",
+   "options": [
+    "Yes.",
+    "Yes, but only in winter because it protects from cold and rain.",
+    "No, only a protective helmet is essential, even if not approved."
+   ],
+   "explanation": "A protective jacket guards against abrasion and impact in a fall, so it is essential all year round."
+  },
+  "uk": {
+   "q": "Чи є захисна куртка необхідним спорядженням для мотоцикліста?",
+   "options": [
+    "Так.",
+    "Так, але лише взимку, бо захищає від холоду й дощу.",
+    "Ні, необхідний лише захисний шолом, навіть несертифікований."
+   ],
+   "explanation": "Захисна куртка захищає від стирання та ударів під час падіння, тож вона необхідна цілий рік."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "The jacket's main role is protection in a fall, which matters in every season.",
+    "uk": "Головна роль куртки — захист під час падіння, а це важливо в будь-яку пору року."
+   },
+   "c": {
+    "en": "Helmets must be approved, and the jacket is also essential protection.",
+    "uk": "Шолом має бути сертифікованим, а куртка — теж необхідний захист."
+   }
+  }
+ },
+ {
+  "id": "g08-0275",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "accidents",
+  "en": {
+   "q": "In an accident resulting in injuries, is the presence of a police officer compulsory?",
+   "options": [
+    "Yes.",
+    "No.",
+    "No, it is only compulsory if those involved consider it necessary."
+   ],
+   "explanation": "When an accident causes injuries, the authorities must be called and those involved must wait for the police to attend."
+  },
+  "uk": {
+   "q": "Чи обов'язкова присутність представника поліції у разі ДТП, внаслідок якої є постраждалі?",
+   "options": [
+    "Так.",
+    "Ні.",
+    "Ні, вона обов'язкова лише якщо учасники вважають її необхідною."
+   ],
+   "explanation": "Якщо внаслідок ДТП є постраждалі, слід викликати органи влади, а учасники мають дочекатися прибуття поліції."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "With injured people, police attendance is required, not optional.",
+    "uk": "За наявності постраждалих присутність поліції обов'язкова, а не факультативна."
+   },
+   "c": {
+    "en": "It does not depend on the drivers' opinion when there are injuries.",
+    "uk": "За наявності постраждалих це не залежить від думки водіїв."
+   }
+  }
+ },
+ {
+  "id": "g08-0276",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "When driving here, may I use the horn?",
+   "options": [
+    "Yes, I am always obliged to use the horn.",
+    "Yes, when driving outside a built-up area, the horn may be used on bends with reduced visibility.",
+    "No, the horn may only be used in case of imminent danger."
+   ],
+   "explanation": "Outside built-up areas the horn may be used at bends, junctions and crests with reduced visibility, as at this bend."
+  },
+  "uk": {
+   "q": "Рухаючись у цьому місці, чи можу я подавати звуковий сигнал?",
+   "options": [
+    "Так, я завжди зобов'язаний подавати звуковий сигнал.",
+    "Так, поза населеним пунктом звуковий сигнал дозволено подавати на поворотах з обмеженою видимістю.",
+    "Ні, звуковий сигнал дозволено подавати лише в разі неминучої небезпеки."
+   ],
+   "explanation": "Поза населеними пунктами звуковий сигнал можна подавати на поворотах, перехрестях і підйомах з обмеженою видимістю, як на цьому повороті."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Using the horn here is permitted, not compulsory.",
+    "uk": "Звуковий сигнал тут дозволений, а не обов'язковий."
+   },
+   "c": {
+    "en": "Outside built-up areas the horn is also allowed at bends with reduced visibility.",
+    "uk": "Поза населеними пунктами сигнал також дозволений на поворотах з обмеженою видимістю."
+   }
+  }
+ },
+ {
+  "id": "g08-0277",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "Is overtaking always prohibited near a level crossing?",
+   "options": [
+    "Yes, it is prohibited immediately before and on the level crossing.",
+    "No, it is only prohibited on the level crossing.",
+    "No, it is only prohibited if there is oncoming traffic."
+   ],
+   "explanation": "Overtaking is prohibited immediately before and on level crossings."
+  },
+  "uk": {
+   "q": "Чи завжди заборонений обгін поблизу залізничного переїзду?",
+   "options": [
+    "Так, він заборонений безпосередньо перед переїздом і на ньому.",
+    "Ні, він заборонений лише на самому переїзді.",
+    "Ні, він заборонений лише за наявності зустрічного руху."
+   ],
+   "explanation": "Обгін заборонений безпосередньо перед залізничними переїздами і на них."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "The ban also covers the approach immediately before the crossing.",
+    "uk": "Заборона діє й на ділянці безпосередньо перед переїздом."
+   },
+   "c": {
+    "en": "The ban applies regardless of oncoming traffic.",
+    "uk": "Заборона діє незалежно від зустрічного руху."
+   }
+  }
+ },
+ {
+  "id": "g08-0278",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "Is stopping prohibited on motorways?",
+   "options": [
+    "Yes, only on the carriageway.",
+    "No, in places intended for that purpose.",
+    "No, it is only prohibited to stop on the hard shoulder."
+   ],
+   "explanation": "On motorways stopping is prohibited everywhere (carriageway and hard shoulder) except in places designed for it, such as service and rest areas."
+  },
+  "uk": {
+   "q": "Чи заборонено зупинятися на автомагістралях?",
+   "options": [
+    "Так, лише на проїзній частині.",
+    "Ні, у місцях, призначених для цього.",
+    "Ні, заборонено зупинятися лише на узбіччі."
+   ],
+   "explanation": "На автомагістралях зупинка заборонена скрізь (на проїзній частині й узбіччі), окрім спеціально призначених місць, як-от зони обслуговування та відпочинку."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Stopping on the hard shoulder is also prohibited, not just on the carriageway.",
+    "uk": "Зупинка на узбіччі також заборонена, а не лише на проїзній частині."
+   },
+   "c": {
+    "en": "Stopping on the carriageway is prohibited too.",
+    "uk": "Зупинка на проїзній частині також заборонена."
+   }
+  }
+ },
+ {
+  "id": "g08-0279",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "lights",
+  "en": {
+   "q": "Should I use any lighting here?",
+   "options": [
+    "Yes, but only as a precaution.",
+    "Yes, because I am about to enter a tunnel signposted as such.",
+    "No, I am only obliged to switch on lights at night."
+   ],
+   "explanation": "Dipped headlights are compulsory in signposted tunnels, by day or night; the blue sign indicates this."
+  },
+  "uk": {
+   "q": "Чи слід мені вмикати якісь світлові прилади в цьому місці?",
+   "options": [
+    "Так, але лише з обережності.",
+    "Так, тому що я в'їжджаю в тунель, позначений відповідним знаком.",
+    "Ні, я зобов'язаний вмикати світло лише вночі."
+   ],
+   "explanation": "У позначених тунелях ближнє світло обов'язкове вдень і вночі; про це свідчить синій знак."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Lights in signposted tunnels are compulsory, not merely precautionary.",
+    "uk": "Світло в позначених тунелях обов'язкове, а не просто запобіжний захід."
+   },
+   "c": {
+    "en": "In tunnels lights are required by day as well as night.",
+    "uk": "У тунелях світло потрібне як уночі, так і вдень."
+   }
+  }
+ },
+ {
+  "id": "g08-0280",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "Given the vertical sign on this public road, am I obliged to moderate my speed?",
+   "options": [
+    "Yes, I am obliged to moderate speed at all places with danger signs.",
+    "No, I am only obliged to moderate speed on steep descents.",
+    "No, I am only obliged to moderate speed whenever there is heavy traffic."
+   ],
+   "explanation": "The law requires drivers to moderate speed at places marked with danger signs (here, a steep descent)."
+  },
+  "uk": {
+   "q": "Чи зобов'язаний я знизити швидкість з огляду на вертикальний знак на цій дорозі?",
+   "options": [
+    "Так, я зобов'язаний знижувати швидкість у всіх місцях з попереджувальними знаками.",
+    "Ні, я зобов'язаний знижувати швидкість лише на крутих спусках.",
+    "Ні, я зобов'язаний знижувати швидкість лише за інтенсивного руху."
+   ],
+   "explanation": "Закон вимагає знижувати швидкість у місцях, позначених попереджувальними знаками (тут — крутий спуск)."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Steep descents are one case, but the duty applies at all places with danger signs.",
+    "uk": "Крутий спуск — лише один випадок; обов'язок діє в усіх місцях з попереджувальними знаками."
+   },
+   "c": {
+    "en": "Heavy traffic is only one of many situations requiring reduced speed.",
+    "uk": "Інтенсивний рух — лише одна з багатьох ситуацій, що вимагають зниження швидкості."
+   }
+  }
+ },
+ {
+  "id": "g08-0281",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "Should I take care to moderate my speed whenever I drive in a built-up area?",
+   "options": [
+    "Yes, in any and every circumstance.",
+    "No, only near pedestrian crossings.",
+    "No, only at places marked with danger signs."
+   ],
+   "explanation": "The law requires drivers to moderate speed in built-up areas and on roads lined with buildings."
+  },
+  "uk": {
+   "q": "Чи слід мені дбати про помірну швидкість щоразу, коли я рухаюся населеним пунктом?",
+   "options": [
+    "Так, за будь-яких обставин.",
+    "Ні, лише поблизу пішохідних переходів.",
+    "Ні, лише в місцях, позначених попереджувальними знаками."
+   ],
+   "explanation": "Закон вимагає знижувати швидкість у населених пунктах і на дорогах, обабіч яких є забудова."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Pedestrian crossings are just one of many risks in a built-up area.",
+    "uk": "Пішохідні переходи — лише один із багатьох ризиків у населеному пункті."
+   },
+   "c": {
+    "en": "In built-up areas moderation is required even without danger signs.",
+    "uk": "У населених пунктах обережна швидкість потрібна навіть без попереджувальних знаків."
+   }
+  }
+ },
+ {
+  "id": "g08-0282",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "passengers_cargo",
+  "en": {
+   "q": "Should the rider and passenger of a motorcycle wear protective boots?",
+   "options": [
+    "Yes, any type of protective boot as long as it is high-topped.",
+    "Yes, but only boots specifically designed for motorcycling.",
+    "No, only the rider should wear protective boots."
+   ],
+   "explanation": "Both rider and passenger are exposed in a fall, so both should wear boots designed specifically for motorcycling."
+  },
+  "uk": {
+   "q": "Чи повинні водій і пасажир мотоцикла носити захисні черевики?",
+   "options": [
+    "Так, будь-які захисні черевики, якщо вони високі.",
+    "Так, але лише черевики, спеціально призначені для їзди на мотоциклі.",
+    "Ні, захисні черевики має носити лише водій."
+   ],
+   "explanation": "Під час падіння ризикують і водій, і пасажир, тож обоє мають носити черевики, спеціально призначені для мотоциклістів."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "A high top alone does not give the protection of motorcycle-specific boots.",
+    "uk": "Сама лише висока халява не дає захисту, як спеціальні мотоциклетні черевики."
+   },
+   "c": {
+    "en": "The passenger is just as exposed to injury as the rider.",
+    "uk": "Пасажир так само ризикує травмуватися, як і водій."
+   }
+  }
+ },
+ {
+  "id": "g08-0283",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "May the driver ahead of me cross the road marking?",
+   "options": [
+    "Yes, if done quickly, without hindering traffic.",
+    "No.",
+    "No, they may only do so if they intend to make a U-turn."
+   ],
+   "explanation": "The marking is a hatched area (oblique stripes bounded by a continuous line), which vehicles may not enter or cross."
+  },
+  "uk": {
+   "q": "Чи може водій, що рухається попереду мене, перетнути цю дорожню розмітку?",
+   "options": [
+    "Так, якщо зробить це швидко, не заважаючи руху.",
+    "Ні.",
+    "Ні, він може це зробити лише якщо має намір розвернутися."
+   ],
+   "explanation": "Це заштрихована зона (косі смуги, обмежені суцільною лінією), на яку транспорт не може заїжджати чи перетинати її."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Speed makes no difference: the hatched area must not be entered at all.",
+    "uk": "Швидкість не має значення: на заштриховану зону заїжджати не можна взагалі."
+   },
+   "c": {
+    "en": "There is no U-turn exception for crossing hatched areas.",
+    "uk": "Для перетинання заштрихованої зони немає винятку для розвороту."
+   }
+  }
+ },
+ {
+  "id": "g08-0284",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "Drivers of moving vehicles must keep a sufficient lateral distance between their vehicle and those travelling in the opposite direction. Do you agree with this statement?",
+   "options": [
+    "Yes, and they must also keep sufficient lateral distance to avoid accidents between their vehicle and those travelling on the same carriageway in the same direction.",
+    "Yes, all drivers should drive as close as possible to the centre line of the carriageway.",
+    "No, only drivers of heavy vehicles and slow-moving vehicles must keep a lateral distance."
+   ],
+   "explanation": "All drivers must keep a safe lateral distance from vehicles travelling both in the opposite and in the same direction."
+  },
+  "uk": {
+   "q": "Водії транспортних засобів, що рухаються, зобов'язані тримати достатній бічний інтервал між своїм транспортом і зустрічним. Чи згодні ви з цим твердженням?",
+   "options": [
+    "Так, а також достатній бічний інтервал, щоб уникнути зіткнень зі транспортом, що рухається тією ж проїзною частиною в тому ж напрямку.",
+    "Так, усі водії мають рухатися якомога ближче до осі проїзної частини.",
+    "Ні, бічний інтервал зобов'язані тримати лише водії важких автомобілів і тихохідного транспорту."
+   ],
+   "explanation": "Усі водії мають тримати безпечний бічний інтервал як від зустрічного транспорту, так і від попутного."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Drivers must keep to the right, not as close as possible to the centre line.",
+    "uk": "Водії мають триматися правого краю, а не якомога ближче до осі."
+   },
+   "c": {
+    "en": "The duty to keep lateral distance applies to every driver.",
+    "uk": "Обов'язок тримати бічний інтервал стосується кожного водія."
+   }
+  }
+ },
+ {
+  "id": "g08-0285",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "legal",
+  "en": {
+   "q": "In shared spaces (coexistence zones), must vulnerable users refrain from unnecessarily obstructing or hindering traffic?",
+   "options": [
+    "Yes, and they may commit an offence if they do.",
+    "Yes, although they do not commit an offence.",
+    "No, only drivers must not compromise the safety or comfort of other road users."
+   ],
+   "explanation": "In coexistence zones pedestrians and other vulnerable users may use the whole road but must not unnecessarily obstruct traffic; doing so is an offence."
+  },
+  "uk": {
+   "q": "Чи повинні вразливі учасники руху в зонах спільного руху утримуватися від непотрібного перешкоджання чи заважання руху?",
+   "options": [
+    "Так, а отже, вони можуть вчинити правопорушення.",
+    "Так, хоча вони не вчиняють правопорушення.",
+    "Ні, лише водії не повинні загрожувати безпеці чи комфорту інших учасників руху."
+   ],
+   "explanation": "У зонах спільного руху пішоходи та інші вразливі учасники можуть користуватися всією дорогою, але не повинні без потреби перешкоджати руху; інакше це правопорушення."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "The duty is legally binding, so breaching it is an offence.",
+    "uk": "Цей обов'язок юридично обов'язковий, тож його порушення — правопорушення."
+   },
+   "c": {
+    "en": "Duties in coexistence zones apply to vulnerable users as well as drivers.",
+    "uk": "Обов'язки в зонах спільного руху стосуються і вразливих учасників, і водіїв."
+   }
+  }
+ },
+ {
+  "id": "g08-0286",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "B"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "On roads outside built-up areas, may light vehicles reach 90 km/h?",
+   "options": [
+    "Yes, all of them.",
+    "Yes, if they have no trailer.",
+    "No, only passenger cars without a trailer."
+   ],
+   "explanation": "Outside built-up areas the 90 km/h limit applies to light passenger (and mixed) cars without a trailer; light goods vehicles are limited to 80 km/h and vehicles with trailers to 70 km/h."
+  },
+  "uk": {
+   "q": "Чи можуть легкові автомобілі на дорогах поза населеними пунктами розвивати швидкість 90 км/год?",
+   "options": [
+    "Так, усі.",
+    "Так, якщо вони без причепа.",
+    "Ні, лише пасажирські без причепа."
+   ],
+   "explanation": "Поза населеними пунктами обмеження 90 км/год діє для легкових пасажирських (і змішаних) автомобілів без причепа; легкові вантажні обмежені 80 км/год, а з причепом — 70 км/год."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Light goods vehicles and those with trailers have lower limits.",
+    "uk": "Легкові вантажні та автомобілі з причепом мають нижчі обмеження."
+   },
+   "b": {
+    "en": "Light goods vehicles without a trailer are limited to 80 km/h.",
+    "uk": "Легкові вантажні без причепа обмежені 80 км/год."
+   }
+  }
+ },
+ {
+  "id": "g08-0287",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "legal",
+  "en": {
+   "q": "Every vehicle or animal travelling on a public road must have a driver. Do you agree with this statement?",
+   "options": [
+    "Yes, except for the exceptions provided for in the Highway Code.",
+    "Yes, but only vehicles travelling on public roads.",
+    "No, only vehicles must have a driver."
+   ],
+   "explanation": "The Código da Estrada requires every vehicle or animal on a public road to have a driver, save for the exceptions it lays down."
+  },
+  "uk": {
+   "q": "Кожен транспортний засіб або тварина, що рухається дорогою загального користування, повинні мати водія (погонича). Чи згодні ви з цим твердженням?",
+   "options": [
+    "Так, за винятком випадків, передбачених Кодексом доріг.",
+    "Так, але лише транспортні засоби, що рухаються дорогами загального користування.",
+    "Ні, водія повинні мати лише транспортні засоби."
+   ],
+   "explanation": "Кодекс доріг вимагає, щоб кожен транспортний засіб чи тварина на дорозі загального користування мали водія (погонича), за винятком передбачених ним випадків."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "The rule covers animals too, not only vehicles.",
+    "uk": "Правило стосується й тварин, а не лише транспортних засобів."
+   },
+   "c": {
+    "en": "Animals on the road must also be accompanied by someone in charge of them.",
+    "uk": "Тварини на дорозі також мають бути під наглядом відповідальної особи."
+   }
+  }
+ },
+ {
+  "id": "g08-0288",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "Do the orders of traffic officers prevail over vertical signs?",
+   "options": [
+    "Yes, they always prevail.",
+    "No, they only prevail when driving outside built-up areas.",
+    "No, they only prevail when driving inside built-up areas."
+   ],
+   "explanation": "Traffic officers' orders prevail over all signs, lights and rules, everywhere."
+  },
+  "uk": {
+   "q": "Чи мають вказівки регулювальників перевагу над вертикальними знаками?",
+   "options": [
+    "Так, завжди мають перевагу.",
+    "Ні, лише під час руху поза населеними пунктами.",
+    "Ні, лише під час руху в населених пунктах."
+   ],
+   "explanation": "Вказівки регулювальників мають перевагу над усіма знаками, сигналами та правилами — скрізь."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "The precedence of officers' orders does not depend on location.",
+    "uk": "Перевага вказівок регулювальника не залежить від місця."
+   },
+   "c": {
+    "en": "Officers' orders prevail both inside and outside built-up areas.",
+    "uk": "Вказівки регулювальника переважають і в населених пунктах, і поза ними."
+   }
+  }
+ },
+ {
+  "id": "g08-0289",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "Is a driver obliged to switch on the direction indicator whenever they intend to start or resume moving?",
+   "options": [
+    "Yes, always.",
+    "No, unless there are vehicles travelling in the opposite direction.",
+    "No, only when there are vehicles travelling behind."
+   ],
+   "explanation": "Moving off is a manoeuvre that must always be signalled in advance with the direction indicator."
+  },
+  "uk": {
+   "q": "Чи зобов'язаний водій вмикати покажчик повороту щоразу, коли він має намір почати або відновити рух?",
+   "options": [
+    "Так, завжди.",
+    "Ні, окрім випадків, коли є зустрічний транспорт.",
+    "Ні, лише коли позаду рухається транспорт."
+   ],
+   "explanation": "Початок руху — це маневр, про який завжди слід заздалегідь сигналізувати покажчиком повороту."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Signalling does not depend on oncoming traffic; it is always required.",
+    "uk": "Сигнал не залежить від зустрічного руху; він потрібен завжди."
+   },
+   "c": {
+    "en": "You may not see every road user behind, so the signal is always compulsory.",
+    "uk": "Можна не помітити всіх учасників руху позаду, тож сигнал обов'язковий завжди."
+   }
+  }
+ },
+ {
+  "id": "g08-0290",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "priority",
+  "en": {
+   "q": "At a crossroads or T-junction, must I give way to a vehicle running on rails?",
+   "options": [
+    "Yes, because vehicles running on rails have the right to pass first.",
+    "Yes, but only if the red traffic light comes on.",
+    "No, only if I approach from the right of that vehicle."
+   ],
+   "explanation": "At junctions, rail vehicles (trams) have priority, so drivers must give way to them regardless of the side they approach from."
+  },
+  "uk": {
+   "q": "Чи повинен я на перехресті чи примиканні доріг поступитися дорогою транспортному засобу, що рухається рейками?",
+   "options": [
+    "Так, тому що рейкові транспортні засоби мають право проїжджати першими.",
+    "Так, але лише якщо загориться червоний сигнал світлофора.",
+    "Ні, лише якщо я під'їжджаю праворуч від цього транспортного засобу."
+   ],
+   "explanation": "На перехрестях рейкові транспортні засоби (трамваї) мають пріоритет, тож водії мають поступатися їм незалежно від того, з якого боку вони під'їжджають."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Priority for rail vehicles does not depend on a red light.",
+    "uk": "Пріоритет рейкового транспорту не залежить від червоного сигналу."
+   },
+   "c": {
+    "en": "The give-way-to-the-right rule does not apply to rail vehicles, which have priority.",
+    "uk": "Правило «перешкоди справа» не стосується рейкового транспорту, який має пріоритет."
+   }
+  }
+ },
+ {
+  "id": "g08-0291",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "priority",
+  "en": {
+   "q": "Do priority vehicles have right of way when driving in a roundabout?",
+   "options": [
+    "Yes, they always have right of way, even when not on an urgent emergency mission.",
+    "No, they only have right of way over non-motorised vehicles.",
+    "No, they only have priority if they are on an urgent emergency mission."
+   ],
+   "explanation": "Priority vehicles only enjoy priority when on an urgent mission with their lights and sirens on."
+  },
+  "uk": {
+   "q": "Чи мають транспортні засоби з пріоритетом право першочергового проїзду, рухаючись кільцевою розв'язкою?",
+   "options": [
+    "Так, вони завжди мають право першочергового проїзду, навіть якщо не виконують невідкладного завдання.",
+    "Ні, вони мають право першочергового проїзду лише щодо немеханічних транспортних засобів.",
+    "Ні, вони мають пріоритет лише під час виконання невідкладного завдання."
+   ],
+   "explanation": "Транспорт із пріоритетом користується ним лише під час виконання невідкладного завдання з увімкненими маячками та сиреною."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Without an urgent mission they are ordinary vehicles with no special priority.",
+    "uk": "Без невідкладного завдання це звичайний транспорт без особливого пріоритету."
+   },
+   "b": {
+    "en": "Their priority on an urgent mission applies over all other road users.",
+    "uk": "Їхній пріоритет під час невідкладного завдання діє щодо всіх учасників руху."
+   }
+  }
+ },
+ {
+  "id": "g08-0292",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "passengers_cargo",
+  "en": {
+   "q": "Is the motorcycle passenger's footwear suitable for the situation?",
+   "options": [
+    "Yes, because she is only a passenger.",
+    "Yes, as long as she presses her feet firmly against the footrests.",
+    "No, even though she is not the rider."
+   ],
+   "explanation": "The passenger is wearing open sandals, which offer no protection; passengers face the same risks as the rider and need protective footwear."
+  },
+  "uk": {
+   "q": "Чи підходить взуття пасажирки мотоцикла для цієї ситуації?",
+   "options": [
+    "Так, тому що вона лише пасажирка.",
+    "Так, якщо вона міцно притискатиме ноги до підніжок.",
+    "Ні, хоча вона й не водій."
+   ],
+   "explanation": "Пасажирка у відкритих сандалях, які не дають жодного захисту; пасажири піддаються тим самим ризикам, що й водій, і потребують захисного взуття."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "A passenger is just as exposed in a fall as the rider.",
+    "uk": "Під час падіння пасажир так само вразливий, як і водій."
+   },
+   "b": {
+    "en": "Pressing on the footrests gives no protection to bare feet in a fall.",
+    "uk": "Притискання до підніжок не захищає босі ноги під час падіння."
+   }
+  }
+ },
+ {
+  "id": "g08-0293",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "Is overtaking prohibited here?",
+   "options": [
+    "Yes, the road marking prohibits me from making the manoeuvre.",
+    "Yes, because visibility is not sufficient.",
+    "No, although in this situation I should not do it."
+   ],
+   "explanation": "The centre line is broken, so overtaking is not prohibited; but the truck ahead blocks the view of the road, so it would be unsafe to overtake now."
+  },
+  "uk": {
+   "q": "Чи заборонений обгін у цьому місці?",
+   "options": [
+    "Так, дорожня розмітка забороняє мені виконати маневр.",
+    "Так, тому що видимість недостатня.",
+    "Ні, хоча в цій ситуації мені не слід цього робити."
+   ],
+   "explanation": "Осьова лінія переривчаста, тож обгін не заборонений; але вантажівка попереду закриває огляд дороги, тому обганяти зараз небезпечно."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The centre line here is broken, so the marking does not prohibit overtaking.",
+    "uk": "Осьова лінія тут переривчаста, тож розмітка не забороняє обгін."
+   },
+   "b": {
+    "en": "The road itself does not have reduced visibility; it is the truck that limits the view.",
+    "uk": "Сама дорога не має обмеженої видимості; огляд обмежує вантажівка."
+   }
+  }
+ },
+ {
+  "id": "g08-0294",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "lights",
+  "en": {
+   "q": "In this situation, I should switch on the dipped headlights immediately. Do you agree with this statement?",
+   "options": [
+    "Yes, to increase visibility.",
+    "No, I should switch on the position lights.",
+    "No, the dipped headlights at the front and the position lights at the rear must always be on."
+   ],
+   "explanation": "On motorcycles and mopeds, the dipped headlight and rear position light must be on at all times, day and night, so they should already be on."
+  },
+  "uk": {
+   "q": "У цій ситуації я маю негайно ввімкнути ближнє світло. Чи згодні ви з цим твердженням?",
+   "options": [
+    "Так, щоб покращити видимість.",
+    "Ні, я маю ввімкнути габаритні вогні.",
+    "Ні, ближнє світло спереду та габаритні вогні ззаду мають бути ввімкнені завжди."
+   ],
+   "explanation": "На мотоциклах і мопедах ближнє світло та задні габаритні вогні мають бути ввімкнені завжди, вдень і вночі, тож вони вже мають горіти."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "On a motorcycle the dipped beam should already be on, not switched on only now.",
+    "uk": "На мотоциклі ближнє світло вже має горіти, а не вмикатися лише зараз."
+   },
+   "b": {
+    "en": "Position lights alone are not enough; motorcycles must always ride with dipped beam.",
+    "uk": "Самих габаритних вогнів недостатньо; мотоцикли завжди мають їхати з ближнім світлом."
+   }
+  }
+ },
+ {
+  "id": "g08-0295",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "lights",
+  "en": {
+   "q": "When entering the tunnel, am I obliged to use dipped headlights?",
+   "options": [
+    "Yes, always.",
+    "Yes, but only at night.",
+    "No, the compulsory lights are main beam."
+   ],
+   "explanation": "Dipped headlights are compulsory in tunnels at any time of day."
+  },
+  "uk": {
+   "q": "Заїжджаючи в тунель, чи зобов'язаний я вмикати ближнє світло?",
+   "options": [
+    "Так, завжди.",
+    "Так, але лише вночі.",
+    "Ні, обов'язковим є дальнє світло."
+   ],
+   "explanation": "Ближнє світло в тунелях обов'язкове в будь-який час доби."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "In tunnels the dipped beam is required by day too.",
+    "uk": "У тунелях ближнє світло потрібне й удень."
+   },
+   "c": {
+    "en": "Main beam would dazzle others; dipped beam is the required light in tunnels.",
+    "uk": "Дальнє світло засліплюватиме інших; у тунелях потрібне ближнє."
+   }
+  }
+ },
+ {
+  "id": "g08-0296",
+  "answer": "c",
+  "confidence": "low",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "May I turn left at the next T-junction?",
+   "options": [
+    "Yes, there are no signs prohibiting the manoeuvre.",
+    "Yes, and I am already correctly positioned in this lane to make the manoeuvre.",
+    "No, the road markings do not allow it."
+   ],
+   "explanation": "The left edge of my carriageway is bounded by a continuous line along the central island, which may not be crossed, so a left turn is not possible here."
+  },
+  "uk": {
+   "q": "Чи можу я повернути ліворуч на наступному примиканні доріг?",
+   "options": [
+    "Так, немає знаків, що забороняють маневр.",
+    "Так, і я вже правильно розташований на цій смузі для виконання маневру.",
+    "Ні, дорожня розмітка цього не дозволяє."
+   ],
+   "explanation": "Лівий край моєї проїзної частини обмежений суцільною лінією вздовж центрального острівця, яку не можна перетинати, тож повернути ліворуч тут не можна."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Road markings can prohibit a manoeuvre even when there is no sign.",
+    "uk": "Розмітка може забороняти маневр навіть за відсутності знака."
+   },
+   "b": {
+    "en": "Being in the left lane does not help if the markings forbid crossing to the left.",
+    "uk": "Перебування в лівій смузі не допомагає, якщо розмітка забороняє перетинання ліворуч."
+   }
+  }
+ },
+ {
+  "id": "g08-0297",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "Can colour vision be affected by using a tinted visor?",
+   "options": [
+    "Yes, but only if the helmet is a full-face one.",
+    "Yes.",
+    "No, visors do not alter colour vision."
+   ],
+   "explanation": "A tinted visor reduces light and alters the perception of colours, for example of traffic lights and signs."
+  },
+  "uk": {
+   "q": "Чи може затонований візор впливати на сприйняття кольорів?",
+   "options": [
+    "Так, але лише якщо шолом інтегральний.",
+    "Так.",
+    "Ні, візори не змінюють сприйняття кольорів."
+   ],
+   "explanation": "Затонований візор зменшує кількість світла і змінює сприйняття кольорів, наприклад сигналів світлофора та знаків."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The effect comes from the tint, regardless of helmet type.",
+    "uk": "Ефект спричиняє тонування, незалежно від типу шолома."
+   },
+   "c": {
+    "en": "Tinted visors filter light and do change how colours are perceived.",
+    "uk": "Затоновані візори фільтрують світло і змінюють сприйняття кольорів."
+   }
+  }
+ },
+ {
+  "id": "g08-0298",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "priority",
+  "en": {
+   "q": "When entering this roundabout, am I obliged to give way to a police escort travelling in it?",
+   "options": [
+    "Yes, always.",
+    "Yes, but only if the vehicles are travelling in emergency mode.",
+    "No, given that I approach from the right of the escort vehicles."
+   ],
+   "explanation": "The give-way sign at the roundabout means I must yield to all vehicles already circulating in it, police escort included."
+  },
+  "uk": {
+   "q": "Заїжджаючи на цю кільцеву розв'язку, чи зобов'язаний я поступитися дорогою поліцейському ескорту, що нею рухається?",
+   "options": [
+    "Так, завжди.",
+    "Так, але лише якщо транспортні засоби рухаються в екстреному режимі.",
+    "Ні, оскільки я під'їжджаю праворуч від транспортних засобів ескорту."
+   ],
+   "explanation": "Знак «Поступитися дорогою» на в'їзді на кільцеву розв'язку означає, що я маю поступатися всім транспортним засобам, які вже рухаються нею, зокрема поліцейському ескорту."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "At this roundabout I must yield to everyone circulating, emergency mode or not.",
+    "uk": "На цій кільцевій розв'язці я маю поступатися всім, хто нею рухається, в екстреному режимі чи ні."
+   },
+   "c": {
+    "en": "The give-way-to-the-right rule does not apply when entering a signed roundabout.",
+    "uk": "Правило «перешкоди справа» не діє при в'їзді на кільцеву розв'язку зі знаком."
+   }
+  }
+ }
+]
