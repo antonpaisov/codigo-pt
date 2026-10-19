@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
-import { CATEGORIES, EXAM_PRESETS, TOPICS, isGeneral, loadQuestions, shuffle, type Question } from './data'
+import { CATEGORIES, EXAM_PRESETS, TOPICS, isGeneral, loadQuestions, sampleExam, shuffle, type Question } from './data'
 import { strings, type Strings } from './i18n'
 import QuestionCard from './QuestionCard'
 import { useProgress, useSettings, type Progress, type Settings } from './store'
@@ -76,8 +76,8 @@ function Home({
       maxErrors: exam.maxErrors,
       minutes: exam.minutes,
       pool: preset
-        ? shuffle([...shuffle(general).slice(0, preset.general), ...shuffle(specific).slice(0, preset.specific)])
-        : shuffle(inCategory).slice(0, exam.size),
+        ? shuffle([...sampleExam(general, preset.general), ...sampleExam(specific, preset.specific)])
+        : shuffle(sampleExam(inCategory, exam.size)),
     })
   const lang = settings.lang === 'uk' ? 'uk' : 'en'
   const answered = inCategory.filter((q) => progress[q.id])

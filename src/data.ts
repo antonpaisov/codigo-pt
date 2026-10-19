@@ -66,6 +66,30 @@ export const EXAM_PRESETS: Partial<Record<Category, ExamPreset[]>> = {
   ],
 }
 
+/**
+ * Pick n questions spread across topics in proportion to each topic's share of the
+ * pool (largest-remainder rounding), so an exam covers the syllabus like the real one.
+ * Low-confidence answers are left out of exams.
+ */
+export function sampleExam(pool: Question[], n: number): Question[] {
+  const usable = pool.filter((q) => q.conf !== 'low')
+  const byTopic = new Map<string, Question[]>()
+  for (const q of shuffle(usable)) byTopic.set(q.topic, [...(byTopic.get(q.topic) ?? []), q])
+  const total = usable.length
+  const take = Math.min(n, total)
+  const alloc = [...byTopic].map(([topic, qs]) => {
+    const exact = (take * qs.length) / total
+    return { topic, qs, k: Math.floor(exact), rest: exact - Math.floor(exact) }
+  })
+  let left = take - alloc.reduce((s, a) => s + a.k, 0)
+  for (const a of shuffle(alloc).sort((x, y) => y.rest - x.rest)) {
+    if (left === 0) break
+    a.k++
+    left--
+  }
+  return alloc.flatMap((a) => a.qs.slice(0, a.k))
+}
+
 export async function loadQuestions(): Promise<Question[]> {
   const res = await fetch(`${import.meta.env.BASE_URL}data/questions.json`)
   if (!res.ok) throw new Error(`HTTP ${res.status}`)
