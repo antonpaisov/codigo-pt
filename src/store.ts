@@ -7,6 +7,8 @@ export interface Settings {
   examSize: number
   examMaxErrors: number
   examMinutes: number
+  /** EXAM_PRESETS id for the category, or 'custom' to use the examSize/… fields */
+  examPreset: string
 }
 
 export const DEFAULT_SETTINGS: Settings = {
@@ -15,6 +17,7 @@ export const DEFAULT_SETTINGS: Settings = {
   examSize: 30,
   examMaxErrors: 3,
   examMinutes: 30,
+  examPreset: 'A-holder-B',
 }
 
 /** Per-question history: counts plus whether the most recent attempt was wrong. */

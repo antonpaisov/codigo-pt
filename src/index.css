@@ -120,3 +120,4 @@ button.next { display: block; width: 100%; margin-top: 12px; text-align: center;
 .result.fail h2 { color: var(--bad); }
 .review-num { font-weight: 600; margin: 16px 0 6px; color: var(--muted); }
 .review-bad .review-num { color: var(--bad); }
+.preset { width: 100%; }

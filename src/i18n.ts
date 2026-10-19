@@ -39,6 +39,8 @@ const STRINGS = {
       'Questions are from the official IMT database. IMT does not publish answers — answers, translations and explanations are AI-generated and may contain errors.',
     yourAnswer: 'Your answer',
     unanswered: 'not answered',
+    custom: 'Custom (exam settings below)',
+    specificOnly: 'Category-specific questions',
   },
   uk: {
     title: 'Тренажер Código',
@@ -78,6 +80,8 @@ const STRINGS = {
       'Питання з офіційної бази IMT. IMT не публікує відповіді — відповіді, переклади та пояснення згенеровані ШІ і можуть містити помилки.',
     yourAnswer: 'Ваша відповідь',
     unanswered: 'без відповіді',
+    custom: 'Власний (налаштування нижче)',
+    specificOnly: 'Лише питання цієї категорії',
   },
 }
 

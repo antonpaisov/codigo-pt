@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
-import { CATEGORIES, TOPICS, loadQuestions, shuffle, type Question } from './data'
+import { CATEGORIES, EXAM_PRESETS, TOPICS, isGeneral, loadQuestions, shuffle, type Question } from './data'
 import { strings, type Strings } from './i18n'
 import QuestionCard from './QuestionCard'
 import { useProgress, useSettings, type Progress, type Settings } from './store'
@@ -7,7 +7,7 @@ import { useProgress, useSettings, type Progress, type Settings } from './store'
 type Screen =
   | { kind: 'home' }
   | { kind: 'practice'; title: string; pool: Question[] }
-  | { kind: 'exam'; pool: Question[] }
+  | { kind: 'exam'; pool: Question[]; maxErrors: number; minutes: number }
 
 export default function App() {
   const [questions, setQuestions] = useState<Question[] | null>(null)
@@ -34,7 +34,7 @@ export default function App() {
   if (screen.kind === 'practice')
     return <Practice key={screen.title} title={screen.title} pool={screen.pool} settings={settings} t={t} record={record} onExit={home} />
   if (screen.kind === 'exam')
-    return <Exam pool={screen.pool} settings={settings} t={t} record={record} onExit={home} />
+    return <Exam pool={screen.pool} maxErrors={screen.maxErrors} minutes={screen.minutes} settings={settings} t={t} record={record} onExit={home} />
 
   return (
     <Home
@@ -62,6 +62,23 @@ function Home({
 }) {
   const topicName = (id: string) => (settings.lang === 'none' ? TOPICS[id]?.pt : TOPICS[id]?.[settings.lang]) ?? id
   const mistakes = inCategory.filter((q) => progress[q.id]?.lastWrong)
+  const specific = inCategory.filter((q) => !isGeneral(q))
+  const general = inCategory.filter(isGeneral)
+  const presets = EXAM_PRESETS[settings.category] ?? []
+  const preset = presets.find((p) => p.id === settings.examPreset)
+  const exam = preset
+    ? { size: preset.specific + preset.general, maxErrors: preset.maxErrors, minutes: preset.minutes }
+    : { size: settings.examSize, maxErrors: settings.examMaxErrors, minutes: settings.examMinutes }
+  const startExam = () =>
+    start({
+      kind: 'exam',
+      maxErrors: exam.maxErrors,
+      minutes: exam.minutes,
+      pool: preset
+        ? shuffle([...shuffle(general).slice(0, preset.general), ...shuffle(specific).slice(0, preset.specific)])
+        : shuffle(inCategory).slice(0, exam.size),
+    })
+  const lang = settings.lang === 'uk' ? 'uk' : 'en'
   const answered = inCategory.filter((q) => progress[q.id])
   const correctNow = answered.filter((q) => !progress[q.id].lastWrong)
 
@@ -106,12 +123,27 @@ function Home({
       </section>
 
       <section className="actions">
-        <button className="primary" onClick={() => start({ kind: 'exam', pool: shuffle(inCategory).slice(0, settings.examSize) })}>
-          📝 {t.exam} <small>{settings.examSize} · ≤{settings.examMaxErrors} {t.errors} · {settings.examMinutes} min</small>
+        {presets.length > 0 && (
+          <select className="preset" value={preset?.id ?? 'custom'} onChange={(e) => updateSettings({ examPreset: e.target.value })}>
+            {presets.map((p) => (
+              <option key={p.id} value={p.id}>
+                {p.label[lang]} — {p.specific + p.general} · ≤{p.maxErrors} {t.errors}
+              </option>
+            ))}
+            <option value="custom">{t.custom}</option>
+          </select>
+        )}
+        <button className="primary" onClick={startExam}>
+          📝 {t.exam} <small>{exam.size} · ≤{exam.maxErrors} {t.errors} · {exam.minutes} min</small>
         </button>
         <button onClick={() => start({ kind: 'practice', title: t.practiceAll, pool: unseenFirst(inCategory, progress) })}>
           🎯 {t.practiceAll}
         </button>
+        {specific.length > 0 && specific.length < inCategory.length && (
+          <button onClick={() => start({ kind: 'practice', title: t.specificOnly, pool: unseenFirst(specific, progress) })}>
+            🏍️ {t.specificOnly} <small>{specific.length} {t.questions}</small>
+          </button>
+        )}
         <button disabled={!mistakes.length} onClick={() => start({ kind: 'practice', title: t.mistakes, pool: shuffle(mistakes) })}>
           🔁 {t.mistakes} <small>{mistakes.length || t.noMistakes}</small>
         </button>
@@ -243,8 +275,10 @@ function Practice({ title, pool, settings, t, record, onExit }: {
   )
 }
 
-function Exam({ pool, settings, t, record, onExit }: {
+function Exam({ pool, maxErrors, minutes, settings, t, record, onExit }: {
   pool: Question[]
+  maxErrors: number
+  minutes: number
   settings: Settings
   t: Strings
   record: (id: string, ok: boolean) => void
@@ -254,7 +288,7 @@ function Exam({ pool, settings, t, record, onExit }: {
   const [answers, setAnswers] = useState<(number | null)[]>(() => pool.map(() => null))
   const [done, setDone] = useState(false)
   const [showTr, setShowTr] = useState(false)
-  const [deadline] = useState(() => Date.now() + settings.examMinutes * 60_000)
+  const [deadline] = useState(() => Date.now() + minutes * 60_000)
   const [now, setNow] = useState(() => Date.now())
 
   const finish = () => {
@@ -278,13 +312,13 @@ function Exam({ pool, settings, t, record, onExit }: {
 
   if (done) {
     const errors = pool.filter((q, k) => answers[k] !== q.ans).length
-    const passed = errors <= settings.examMaxErrors
+    const passed = errors <= maxErrors
     return (
       <main>
         <TopBar title={t.review} onExit={onExit} t={t} showTr={showTr} setShowTr={setShowTr} lang={settings.lang} />
         <section className={`panel result ${passed ? 'pass' : 'fail'}`}>
           <h2>{passed ? t.passed : t.failed}</h2>
-          <p>{errors} {t.errors} ({settings.examMaxErrors} {t.allowed}) · {pool.length - errors}/{pool.length}</p>
+          <p>{errors} {t.errors} ({maxErrors} {t.allowed}) · {pool.length - errors}/{pool.length}</p>
           {left === 0 && <p>{t.timeUp}</p>}
         </section>
         {pool.map((q, k) => (
