@@ -30,11 +30,12 @@ export default function App() {
   if (!questions) return <main className="center">{t.loading}</main>
 
   const home = () => setScreen({ kind: 'home' })
+  const setLang = (lang: Settings['lang']) => updateSettings({ lang })
 
   if (screen.kind === 'practice')
-    return <Practice key={screen.title} title={screen.title} pool={screen.pool} settings={settings} t={t} record={record} onExit={home} />
+    return <Practice key={screen.title} title={screen.title} pool={screen.pool} settings={settings} setLang={setLang} t={t} record={record} onExit={home} />
   if (screen.kind === 'exam')
-    return <Exam pool={screen.pool} maxErrors={screen.maxErrors} minutes={screen.minutes} settings={settings} t={t} record={record} onExit={home} />
+    return <Exam pool={screen.pool} maxErrors={screen.maxErrors} minutes={screen.minutes} settings={settings} setLang={setLang} t={t} record={record} onExit={home} />
 
   return (
     <Home
@@ -95,6 +96,7 @@ function Home({
     <main>
       <header className="top">
         <h1>🏍️ {t.title}</h1>
+        <LangSwitch lang={settings.lang} setLang={(lang) => updateSettings({ lang })} />
       </header>
 
       <section className="panel settings-row">
@@ -104,14 +106,6 @@ function Home({
             {CATEGORIES.map((c) => (
               <option key={c.id} value={c.id}>{c.label}</option>
             ))}
-          </select>
-        </label>
-        <label>
-          {t.translation}
-          <select value={settings.lang} onChange={(e) => updateSettings({ lang: e.target.value as Settings['lang'] })}>
-            <option value="en">English</option>
-            <option value="uk">Українська</option>
-            <option value="none">{t.none}</option>
           </select>
         </label>
       </section>
@@ -207,13 +201,31 @@ function unseenFirst(qs: Question[], progress: Progress) {
   return shuffle(qs).sort((a, b) => rank(a) - rank(b))
 }
 
-function TopBar({ title, onExit, t, showTr, setShowTr, lang, children }: {
+const LANGS: { id: Settings['lang']; label: string }[] = [
+  { id: 'none', label: 'PT' },
+  { id: 'en', label: 'EN' },
+  { id: 'uk', label: 'UK' },
+]
+
+/** PT = Portuguese only; EN / UK = Portuguese with that translation alongside. */
+function LangSwitch({ lang, setLang }: { lang: Settings['lang']; setLang: (l: Settings['lang']) => void }) {
+  return (
+    <div className="lang-switch" role="group" aria-label="Translation">
+      {LANGS.map((l) => (
+        <button key={l.id} className={lang === l.id ? 'on' : ''} aria-pressed={lang === l.id} onClick={() => setLang(l.id)}>
+          {l.label}
+        </button>
+      ))}
+    </div>
+  )
+}
+
+function TopBar({ title, onExit, t, lang, setLang, children }: {
   title: string
   onExit: () => void
   t: Strings
-  showTr: boolean
-  setShowTr: (v: boolean) => void
   lang: Settings['lang']
+  setLang: (l: Settings['lang']) => void
   children?: React.ReactNode
 }) {
   return (
@@ -221,19 +233,16 @@ function TopBar({ title, onExit, t, showTr, setShowTr, lang, children }: {
       <button className="ghost" onClick={onExit}>← {t.home}</button>
       <span className="title">{title}</span>
       {children}
-      {lang !== 'none' && (
-        <button className={`ghost toggle ${showTr ? 'on' : ''}`} onClick={() => setShowTr(!showTr)} title={t.showTrans}>
-          {lang.toUpperCase()}
-        </button>
-      )}
+      <LangSwitch lang={lang} setLang={setLang} />
     </header>
   )
 }
 
-function Practice({ title, pool, settings, t, record, onExit }: {
+function Practice({ title, pool, settings, setLang, t, record, onExit }: {
   title: string
   pool: Question[]
   settings: Settings
+  setLang: (l: Settings['lang']) => void
   t: Strings
   record: (id: string, ok: boolean) => void
   onExit: () => void
@@ -241,7 +250,6 @@ function Practice({ title, pool, settings, t, record, onExit }: {
   const [i, setI] = useState(0)
   const [selected, setSelected] = useState<number | null>(null)
   const [score, setScore] = useState({ right: 0, wrong: 0 })
-  const [showTr, setShowTr] = useState(true)
   const q = pool[i]
 
   if (!q) return <main className="center"><p>{t.noMistakes}</p><button onClick={onExit}>{t.home}</button></main>
@@ -261,10 +269,10 @@ function Practice({ title, pool, settings, t, record, onExit }: {
 
   return (
     <main>
-      <TopBar title={title} onExit={onExit} t={t} showTr={showTr} setShowTr={setShowTr} lang={settings.lang}>
+      <TopBar title={title} onExit={onExit} t={t} lang={settings.lang} setLang={setLang}>
         <span className="score">✅ {score.right} ❌ {score.wrong} · {i + 1}/{pool.length}</span>
       </TopBar>
-      <QuestionCard q={q} lang={showTr ? settings.lang : 'none'} t={t} selected={selected} reveal={selected !== null} onSelect={answer} />
+      <QuestionCard q={q} lang={settings.lang} t={t} selected={selected} reveal={selected !== null} onSelect={answer} />
       {selected !== null && i + 1 < pool.length && (
         <button className="primary next" onClick={next}>{t.next} →</button>
       )}
@@ -275,11 +283,12 @@ function Practice({ title, pool, settings, t, record, onExit }: {
   )
 }
 
-function Exam({ pool, maxErrors, minutes, settings, t, record, onExit }: {
+function Exam({ pool, maxErrors, minutes, settings, setLang, t, record, onExit }: {
   pool: Question[]
   maxErrors: number
   minutes: number
   settings: Settings
+  setLang: (l: Settings['lang']) => void
   t: Strings
   record: (id: string, ok: boolean) => void
   onExit: () => void
@@ -287,7 +296,6 @@ function Exam({ pool, maxErrors, minutes, settings, t, record, onExit }: {
   const [i, setI] = useState(0)
   const [answers, setAnswers] = useState<(number | null)[]>(() => pool.map(() => null))
   const [done, setDone] = useState(false)
-  const [showTr, setShowTr] = useState(false)
   const [onlyMistakes, setOnlyMistakes] = useState(true)
   const [deadline] = useState(() => Date.now() + minutes * 60_000)
   const [now, setNow] = useState(() => Date.now())
@@ -321,7 +329,7 @@ function Exam({ pool, maxErrors, minutes, settings, t, record, onExit }: {
       .filter((x) => !onlyMistakes || !x.ok)
     return (
       <main>
-        <TopBar title={t.review} onExit={onExit} t={t} showTr={showTr} setShowTr={setShowTr} lang={settings.lang} />
+        <TopBar title={t.review} onExit={onExit} t={t} lang={settings.lang} setLang={setLang} />
         <section className={`panel result ${passed ? 'pass' : 'fail'}`}>
           <h2>{passed ? t.passed : t.failed}</h2>
           <p>{errors} {t.errors} ({maxErrors} {t.allowed}) · {pool.length - errors}/{pool.length}</p>
@@ -335,7 +343,7 @@ function Exam({ pool, maxErrors, minutes, settings, t, record, onExit }: {
         {order.map(({ q, k }) => (
           <div key={q.id} className={answers[k] === q.ans ? 'review-ok' : 'review-bad'}>
             <p className="review-num">#{k + 1} {answers[k] === null && `· ${t.unanswered}`}</p>
-            <QuestionCard q={q} lang={showTr ? settings.lang : 'none'} t={t} selected={answers[k]} reveal />
+            <QuestionCard q={q} lang={settings.lang} t={t} selected={answers[k]} reveal />
           </div>
         ))}
         <button className="primary next" onClick={onExit}>{t.home}</button>
@@ -348,7 +356,7 @@ function Exam({ pool, maxErrors, minutes, settings, t, record, onExit }: {
   const ss = String(Math.floor((left % 60000) / 1000)).padStart(2, '0')
   return (
     <main>
-      <TopBar title={`${i + 1}/${pool.length}`} onExit={onExit} t={t} showTr={showTr} setShowTr={setShowTr} lang={settings.lang}>
+      <TopBar title={`${i + 1}/${pool.length}`} onExit={onExit} t={t} lang={settings.lang} setLang={setLang}>
         <span className={`timer ${left < 60000 ? 'urgent' : ''}`}>⏱ {mm}:{ss}</span>
       </TopBar>
       <div className="dots">
@@ -358,7 +366,7 @@ function Exam({ pool, maxErrors, minutes, settings, t, record, onExit }: {
       </div>
       <QuestionCard
         q={q}
-        lang={showTr ? settings.lang : 'none'}
+        lang={settings.lang}
         t={t}
         selected={answers[i]}
         reveal={false}

@@ -57,8 +57,11 @@ button.danger { color: var(--bad); margin-top: 12px; }
 .top { display: flex; align-items: center; gap: 8px; padding: 16px 0; }
 .bar-top { position: sticky; top: 0; background: var(--bg); z-index: 2; padding: 8px 0; border-bottom: 1px solid var(--border); margin-bottom: 12px; }
 .bar-top .title { font-weight: 600; flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.toggle { border: 1px solid var(--border) !important; font-weight: 600; color: var(--muted); }
-.toggle.on { background: var(--sel-bg); color: var(--accent); }
+.top h1 { flex: 1; }
+.lang-switch { display: inline-flex; border: 1px solid var(--border); border-radius: 10px; overflow: hidden; flex-shrink: 0; }
+.lang-switch button { border: 0; border-radius: 0; padding: 7px 10px; font-size: .85rem; font-weight: 600; color: var(--muted); background: var(--surface); }
+.lang-switch button + button { border-left: 1px solid var(--border); }
+.lang-switch button.on { background: var(--accent); color: var(--accent-text); }
 .score, .timer { font-variant-numeric: tabular-nums; color: var(--muted); white-space: nowrap; }
 .timer.urgent { color: var(--bad); font-weight: 700; }
 
