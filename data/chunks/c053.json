@@ -1,0 +1,1522 @@
+[
+ {
+  "id": "g12-0059",
+  "pt": "O condutor que se encontra à minha frente, está a cometer uma infracção?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não. O condutor tem o veículo imobilizado."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, mas apenas se iniciar qualquer manobra."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, está a cometer uma infracção, mesmo não pretendendo executar qualquer outra manobra."
+   }
+  ],
+  "image": "g12-0059.jpg"
+ },
+ {
+  "id": "g12-0060",
+  "pt": "Sempre que pretender mudar de via de trânsito estou obrigado a assinalar a manobra?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não, apenas estou obrigado a sinalizar as manobras de mudança de direcção, ultrapassagem ou inversão do sentido de marcha."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, estou sempre obrigado a sinalizar a manobra."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, estou obrigado a sinalizar a manobra, excepto se a faixa de rodagem tiver mais de duas vias de trânsito no mesmo sentido."
+   }
+  ],
+  "image": "g12-0060.jpg"
+ },
+ {
+  "id": "g12-0061",
+  "pt": "Devo circular nesta via de trânsito?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não, se circular a 70 km/h."
+   },
+   {
+    "key": "b",
+    "pt": "Não, se circular a 90 km/h."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, excepto para ultrapassar."
+   }
+  ],
+  "image": "g12-0061.jpg"
+ },
+ {
+  "id": "g12-0062",
+  "pt": "O condutor detectado com uma taxa de alcoolémia igual a 0,5 g/l incorre em contra-ordenação?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, leve."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, grave."
+   }
+  ],
+  "image": "g12-0062.jpg"
+ },
+ {
+  "id": "g12-0063",
+  "pt": "Ao transitar nesta via de trânsito cometo uma infracção?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, se não estiver a ultrapassar."
+   },
+   {
+    "key": "b",
+    "pt": "Não, porque existem três vias no mesmo sentido."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, independentemente de estar ou não a ultrapassar."
+   }
+  ],
+  "image": "g12-0063.jpg"
+ },
+ {
+  "id": "g12-0064",
+  "pt": "O veículo reprovado em inspecção periódica obrigatória por força de uma deficiência do tipo 2, no sistema de direcção, pode transportar passageiros?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim;"
+   },
+   {
+    "key": "b",
+    "pt": "Não;"
+   },
+   {
+    "key": "c",
+    "pt": "Sim, já que a direcção não afecta o conforto dos passageiros."
+   }
+  ],
+  "image": "g12-0064.jpg"
+ },
+ {
+  "id": "g12-0065",
+  "pt": "As ambulâncias estão dispensadas de inspecção periódica obrigatória?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim;"
+   },
+   {
+    "key": "b",
+    "pt": "Não;"
+   },
+   {
+    "key": "c",
+    "pt": "Sim, já que prestam serviço urgente de socorro."
+   }
+  ],
+  "image": "g12-0065.jpg"
+ },
+ {
+  "id": "g12-0066",
+  "pt": "O condutor com o qual me vou cruzar faz uso das luzes de estrada. Comete uma contra-ordenação?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, grave."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, muito grave."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, leve."
+   }
+  ],
+  "image": "g12-0066.jpg"
+ },
+ {
+  "id": "g12-0067",
+  "pt": "Os condutores que se apresentam pela minha direita têm o dever de ceder a passagem?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim."
+   },
+   {
+    "key": "b",
+    "pt": "Não."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas aos veículos que transitem em marcha de urgência."
+   }
+  ],
+  "image": "g12-0067.jpg"
+ },
+ {
+  "id": "g12-0068",
+  "pt": "Nesta situação devo ligar as luzes de cruzamento?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não, nunca."
+   },
+   {
+    "key": "b",
+    "pt": "Sim."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas de noite."
+   }
+  ],
+  "image": "g12-0068.jpg"
+ },
+ {
+  "id": "g12-0069",
+  "pt": "Quando executo a manobra de estacionamento, é possível recorrer à marcha atrás?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não, quando estaciono nunca posso fazer marcha atrás."
+   },
+   {
+    "key": "b",
+    "pt": "Sim."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas dentro da localidade."
+   }
+  ],
+  "image": "g12-0069.jpg"
+ },
+ {
+  "id": "g12-0070",
+  "pt": "Enquanto condutor devo considerar as crianças como utentes vulneráveis?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, sempre."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, mas apenas quando estão sozinhas."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas dentro das localidades."
+   }
+  ],
+  "image": "g12-0070.jpg"
+ },
+ {
+  "id": "g12-0071",
+  "pt": "A condução nocturna deve influenciar a velocidade?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim."
+   },
+   {
+    "key": "b",
+    "pt": "Não, porque a utilização das luzes é obrigatória."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas dentro das localidades."
+   }
+  ],
+  "image": "g12-0071.jpg"
+ },
+ {
+  "id": "g12-0072",
+  "pt": "Devemos estar atentos ao comportamento dos peões?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, mas apenas nos locais destinados à sua travessia."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, em todas as situações."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas em circulação urbana."
+   }
+  ],
+  "image": "g12-0072.jpg"
+ },
+ {
+  "id": "g12-0073",
+  "pt": "A fadiga influencia a recolha de informação?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, assim como influencia toda a tarefa da condução."
+   },
+   {
+    "key": "b",
+    "pt": "Não."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas em condução urbana."
+   }
+  ],
+  "image": "g12-0073.jpg"
+ },
+ {
+  "id": "g12-0074",
+  "pt": "Os sistemas de retenção para o transporte de crianças são obrigatórios?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, mas apenas para a condução em auto-estrada."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas em crianças até 6 anos de idade."
+   }
+  ],
+  "image": "g12-0074.jpg"
+ },
+ {
+  "id": "g12-0075",
+  "pt": "A forma como se utiliza o veículo, influencia a sua manutenção?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não, a forma como eu conduzo nada tem a ver com a manutenção do veículo."
+   },
+   {
+    "key": "b",
+    "pt": "Sim."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas em grandes viagens."
+   }
+  ],
+  "image": "g12-0075.jpg"
+ },
+ {
+  "id": "g12-0076",
+  "pt": "A recolha de informação pode ser feita através da audição?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim."
+   },
+   {
+    "key": "b",
+    "pt": "Não, porque toda a informação é recebida através da visão."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas na condução nocturna."
+   }
+  ],
+  "image": "g12-0076.jpg"
+ },
+ {
+  "id": "g12-0077",
+  "pt": "Os peões são utentes da via pública que requerem da minha parte, enquanto condutor, uma atenção especial?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, porque são utentes bastante vulneráveis."
+   },
+   {
+    "key": "b",
+    "pt": "Não, porque os condutores não têm que se preocupar com esse tipo de utente."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas nos locais destinados à sua circulação."
+   }
+  ],
+  "image": "g12-0077.jpg"
+ },
+ {
+  "id": "g12-0078",
+  "pt": "O transporte de matérias perigosas requer cuidados especiais?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não, todas as mercadorias devem ser transportadas da mesma forma."
+   },
+   {
+    "key": "b",
+    "pt": "Sim."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas o transporte efectuado por veículos de grandes dimensões."
+   }
+  ],
+  "image": "g12-0078.jpg"
+ },
+ {
+  "id": "g12-0079",
+  "pt": "A presença do peão é uma condicionante da velocidade?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não, porque os peões em nada influenciam a velocidade."
+   },
+   {
+    "key": "b",
+    "pt": "Sim."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas os idosos."
+   }
+  ],
+  "image": "g12-0079.jpg"
+ },
+ {
+  "id": "g12-0080",
+  "pt": "Posso parar o meu veículo na passagem de peões assinalada?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não, em nenhuma circunstância."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, se ligar as luzes de perigo."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas para largar ou receber passageiros."
+   }
+  ],
+  "image": "g12-0080.jpg"
+ },
+ {
+  "id": "g12-0081",
+  "pt": "Nesta situação posso avançar em simultâneo com o automóvel ligeiro?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim."
+   },
+   {
+    "key": "b",
+    "pt": "Não, porque o automóvel ligeiro muda de direcção."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas porque conduzo um veículo da mesma categoria."
+   }
+  ],
+  "image": "g12-0081.jpg"
+ },
+ {
+  "id": "g12-0082",
+  "pt": "Devo ceder a passagem ao outro condutor?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não, porque pretende mudar de direcção."
+   },
+   {
+    "key": "b",
+    "pt": "Sim."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas porque não posso transpor a marca rodoviária."
+   }
+  ],
+  "image": "g12-0082.jpg"
+ },
+ {
+  "id": "g12-0083",
+  "pt": "Na condução de motociclos, é recomendável a utilização de vestuário de protecção adequado?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, sempre."
+   },
+   {
+    "key": "b",
+    "pt": "Não, excepto no inverno."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas quando as condições atmosféricas são adversas."
+   }
+  ],
+  "image": "g12-0083.jpg"
+ },
+ {
+  "id": "g12-0084",
+  "pt": "Os peões requerem da parte do condutor uma atenção especial?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, mas apenas quando transitam nos locais a eles destinados."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, sempre."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas quando atravessam a faixa de rodagem."
+   }
+  ],
+  "image": "g12-0084.jpg"
+ },
+ {
+  "id": "g12-0085",
+  "pt": "Na circulação nocturna, para praticar uma condução defensiva devo moderar a velocidade?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim."
+   },
+   {
+    "key": "b",
+    "pt": "Não, porque os limites de velocidade máxima não se alteram."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas quando não há iluminação no local."
+   }
+  ],
+  "image": "g12-0085.jpg"
+ },
+ {
+  "id": "g12-0086",
+  "pt": "O peão idoso requer da minha parte uma atenção especial?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não. Todos os peões devem ser considerados da mesma forma."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, o idoso pode não se ter apercebido da nossa presença."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas quando se encontra na faixa de rodagem."
+   }
+  ],
+  "image": "g12-0086.jpg"
+ },
+ {
+  "id": "g12-0087",
+  "pt": "Nesta situação, se a fila de trânsito da direita circular mais depressa deve ser considerada manobra de ultrapassagem?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim."
+   },
+   {
+    "key": "b",
+    "pt": "Não, deve ser considerado trânsito em filas paralelas."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas se a fila que transita mais depressa for a da esquerda."
+   }
+  ],
+  "image": "g12-0087.jpg"
+ },
+ {
+  "id": "g12-0088",
+  "pt": "Os veículos pesados imobilizados neste local cometem uma infracção?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim."
+   },
+   {
+    "key": "b",
+    "pt": "Não, se a sua imobilização constituir apenas paragem."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas se a sua imobilização constituir estacionamento."
+   }
+  ],
+  "image": "g12-0088.jpg"
+ },
+ {
+  "id": "g12-0089",
+  "pt": "A parte mecânica do veículo tem influência na condução?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não, porque a forma como se conduz um veículo, nada tem a ver com seu funcionamento."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, porque um funcionamento incorrecto do veículo pode influenciar de forma negativa a minha condução."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas se eu pretender atingir «grandes velocidades»."
+   }
+  ],
+  "image": "g12-0089.jpg"
+ },
+ {
+  "id": "g12-0090",
+  "pt": "Existem medicamentos capazes de prejudicar o desempenho do indivíduo ao volante?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, mas apenas se forem ingeridos juntamente com bebidas alcoólicas."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas se forem soporíferos."
+   }
+  ],
+  "image": "g12-0090.jpg"
+ },
+ {
+  "id": "g12-0091",
+  "pt": "Se estacionar o meu veículo na berma da auto-estrada ele pode ser removido?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não."
+   },
+   {
+    "key": "b",
+    "pt": "Sim."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas se mostrar sinais evidentes de abandono."
+   }
+  ],
+  "image": "g12-0091.jpg"
+ },
+ {
+  "id": "g12-0092",
+  "pt": "O condutor do veículo estacionado em cima do passeio comete uma infracção?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não, porque não constitui embaraço para os restantes utentes."
+   },
+   {
+    "key": "b",
+    "pt": "Sim."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas se não estiver pronto a retomar a marcha."
+   }
+  ],
+  "image": "g12-0092.jpg"
+ },
+ {
+  "id": "g12-0093",
+  "pt": "Se o agente no momento da fiscalização, considerar ilegível o título de condução, pode apreendê-lo?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não."
+   },
+   {
+    "key": "b",
+    "pt": "Sim."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas se o condutor for interveniente em acidente."
+   }
+  ],
+  "image": "g12-0093.jpg"
+ },
+ {
+  "id": "g12-0094",
+  "pt": "Nos túneis é proibido inverter o sentido de marcha?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, em todos os túneis."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, unicamente quando a visibilidade for reduzida."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas apenas se o túnel for de um só sentido."
+   }
+  ],
+  "image": "g12-0094.jpg"
+ },
+ {
+  "id": "g12-0095",
+  "pt": "Posso pisar ou transpor esta marca rodoviária?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não, nunca."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, em caso de necessidade."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas só com piso seco."
+   }
+  ],
+  "image": "g12-0095.jpg"
+ },
+ {
+  "id": "g12-0096",
+  "pt": "Posso mudar de direcção à esquerda?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, observando as regras de cedência de passagem."
+   },
+   {
+    "key": "b",
+    "pt": "Não, em nenhum caso."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas só depois de ceder a passagem a todos os veículos."
+   }
+  ],
+  "image": "g12-0096.jpg"
+ },
+ {
+  "id": "g12-0097",
+  "pt": "Circulo dentro de uma localidade. Posso mudar para a via de trânsito mais à esquerda?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não, enquanto o veículo branco não terminar a manobra."
+   },
+   {
+    "key": "b",
+    "pt": "Não, dentro das localidades só posso utilizar o lado direito da faixa de rodagem."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas só devo mudar de via de trânsito depois de sinalizar a manobra e tomar as devidas precauções."
+   }
+  ],
+  "image": "g12-0097.jpg"
+ },
+ {
+  "id": "g12-0098",
+  "pt": "Um condutor pode ser solicitado pelo agente da autoridade a submeter- se a um exame de pesquisa de álcool?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, pode."
+   },
+   {
+    "key": "b",
+    "pt": "Apenas quando for implicado num acidente."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas só quando apresentar sintomas evidentes de ter ingerido álcool."
+   }
+  ],
+  "image": "g12-0098.jpg"
+ },
+ {
+  "id": "g12-0099",
+  "pt": "A linha mista marcada no pavimento permite-me ultrapassar o tractor agrícola?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, caso não haja trânsito em sentido contrário."
+   },
+   {
+    "key": "b",
+    "pt": "Não, porque a linha mista proíbe a ultrapassagem."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas só se houver espaço de modo a não pisar a linha contínua."
+   }
+  ],
+  "image": "g12-0099.jpg"
+ },
+ {
+  "id": "g12-0100",
+  "pt": "Na condução de um motociclo, pode utilizar-se um intercomunicador para comunicar com o passageiro?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, se o aparelho possuir auscultadores."
+   },
+   {
+    "key": "b",
+    "pt": "Não."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas só se o aparelho for de um único auricular."
+   }
+  ],
+  "image": "g12-0100.jpg"
+ },
+ {
+  "id": "g12-0101",
+  "pt": "Pode ser solicitado ao condutor que efectue um exame de pesquisa de álcool, mesmo sem estar implicado num acidente?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não. Esse teste só é efetuado a condutores implicados em acidentes."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, se for solicitado pelo agente de autoridade."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas só se o condutor tiver sintomas de ter ingerido bebidas alcoólicas."
+   }
+  ],
+  "image": "g12-0101.jpg"
+ },
+ {
+  "id": "g12-0102",
+  "pt": "Normalmente, pode efectuar-se o ajustamento da pré-carga da mola em motociclos com “mono-amortecedor” traseiro ou unidade única?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim."
+   },
+   {
+    "key": "b",
+    "pt": "Não."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, mas unicamente na fábrica."
+   }
+  ],
+  "image": "g12-0102.jpg"
+ },
+ {
+  "id": "g12-0103",
+  "pt": "Cometo uma contra-ordenação se parar neste local?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, leve, se parar na berma."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, grave, se parar na faixa de rodagem."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, muito grave, se parar na faixa de rodagem."
+   }
+  ],
+  "image": "g12-0103.jpg"
+ },
+ {
+  "id": "g12-0104",
+  "pt": "Um condutor, detectado a conduzir com uma taxa de alcoolémia igual ou superior a 0,9 g/l incorre numa contra-ordenação?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, grave."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, muito grave."
+   }
+  ],
+  "image": "g12-0104.jpg"
+ },
+ {
+  "id": "g12-0105",
+  "pt": "Quando as crianças são transportadas em cadeiras próprias, é obrigatória a colocação do cinto de segurança?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, mas apenas quando são transportadas no banco da frente."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, o cinto de segurança é sempre obrigatório."
+   }
+  ],
+  "image": "g12-0105.jpg"
+ },
+ {
+  "id": "g12-0106",
+  "pt": "Devo verificar regularmente o estado das suspensões de um motociclo?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, mas apenas o da suspensão dianteira, porque é a mais importante."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, mas apenas o da suspensão traseira, porque se estiver com deficiências, pode originar acidentes."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, o de ambas as suspensões."
+   }
+  ],
+  "image": "g12-0106.jpg"
+ },
+ {
+  "id": "g12-0107",
+  "pt": "Conduzo um automóvel ligeiro de passageiros. Posso seguir pela via sinalizada?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não, é uma via reservada a automóveis pesados de mercadorias."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, o sinal proíbe o trânsito a automóveis pesados."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, o sinal proíbe o trânsito a automóveis de mercadorias."
+   }
+  ],
+  "image": "g12-0107.jpg"
+ },
+ {
+  "id": "g12-0108",
+  "pt": "Os velocípedes podem circular nas bermas?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, desde que não ponham em perigo ou perturbem os peões que nelas circulem."
+   },
+   {
+    "key": "b",
+    "pt": "Não, os velocípedes nunca podem circular nas bermas."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, os velocípedes podem circular nas bermas sem qualquer problema."
+   }
+  ],
+  "image": "g12-0108.jpg"
+ },
+ {
+  "id": "g12-0109",
+  "pt": "Posso transitar na via de trânsito em que me encontro?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, se estiver a ultrapassar."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, porque existem duas vias em cada sentido, podendo transitar em qualquer uma."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, para inverter o sentido de marcha."
+   }
+  ],
+  "image": "g12-0109.jpg"
+ },
+ {
+  "id": "g12-0110",
+  "pt": "O seguro de responsabilidade é obrigatório?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, mas unicamente para automóveis."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, desde que o veículo transite na via pública, seja motorizado ou não."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, para veículos a motor e seus reboques que transitem na via pública."
+   }
+  ],
+  "image": "g12-0110.jpg"
+ },
+ {
+  "id": "g12-0111",
+  "pt": "No transporte de mercadorias, deve ficar assegurado o equilíbrio do veículo?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, mas apenas em marcha."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, mas apenas quando estiver parado."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, parado e em marcha."
+   }
+  ],
+  "image": "g12-0111.jpg"
+ },
+ {
+  "id": "g12-0112",
+  "pt": "Antes da saída desta auto-estrada vou encontrar outros sinais complementares?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não, porque este sinal se encontra a 750 metros."
+   },
+   {
+    "key": "b",
+    "pt": "Sim vou encontrar, mas apenas a 200 metros."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, pelo menos mais dois sinais."
+   }
+  ],
+  "image": "g12-0112.jpg"
+ },
+ {
+  "id": "g12-0113",
+  "pt": "O estado emocional do condutor pode influenciar, de forma negativa, o desempenho da tarefa da condução?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não, porque o estado emocional apenas influencia a distância de travagem."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, mas apenas se o condutor circular fora de localidades."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, pode."
+   }
+  ],
+  "image": "g12-0113.jpg"
+ },
+ {
+  "id": "g12-0114",
+  "pt": "Os amortecedores em mau estado podem influenciar a distância de paragem?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim. Contudo, não influenciam a distância de travagem;"
+   },
+   {
+    "key": "b",
+    "pt": "Não, já que somente a distância de segurança é influenciada pelo mau estado dos amortecedores;"
+   },
+   {
+    "key": "c",
+    "pt": "Sim, podem."
+   }
+  ],
+  "image": "g12-0114.jpg"
+ },
+ {
+  "id": "g12-0115",
+  "pt": "Nesta situação, a velocidade deve ser especialmente moderada?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, porque a visibilidade é insuficiente."
+   },
+   {
+    "key": "b",
+    "pt": "Não, apenas quando estiver no túnel."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, pois a via apresenta más condições de aderência."
+   }
+  ],
+  "image": "g12-0115.jpg"
+ },
+ {
+  "id": "g12-0116",
+  "pt": "Posso utilizar os sinais sonoros?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, pois circulo dentro de uma localidade."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, em caso de perigo iminente."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, pois existe um sinal a indicar-me passagem estreita."
+   }
+  ],
+  "image": "g12-0116.jpg"
+ },
+ {
+  "id": "g12-0117",
+  "pt": "A capacidade de condução pode ser prejudicada pela ingestão de pequenas quantidades de álcool?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não, são completamente inofensivas."
+   },
+   {
+    "key": "b",
+    "pt": "Não, se forem ingeridas durante a refeição."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, pois podem levar à sobrevalorização da capacidade de condução."
+   }
+  ],
+  "image": "g12-0117.jpg"
+ },
+ {
+  "id": "g12-0118",
+  "pt": "No próximo entroncamento posso mudar de direcção para a esquerda?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não, a sinalização existente proíbe a realização da manobra."
+   },
+   {
+    "key": "b",
+    "pt": "Não, porque vou entrar numa via com sentido único."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, pois sou obrigado pela sinalização."
+   }
+  ],
+  "image": "g12-0118.jpg"
+ },
+ {
+  "id": "g12-0119",
+  "pt": "Nesta situação devo ceder a passagem à ambulância?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não, se eu tiver chegado à passagem estreita em primeiro lugar."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, mas apenas se a ambulância chegou em primeiro lugar à passagem estreita."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, porque a ambulância transita em missão urgente de socorro."
+   }
+  ],
+  "image": "g12-0119.jpg"
+ },
+ {
+  "id": "g12-0120",
+  "pt": "Este veículo reúne todas as condições de segurança para iniciar a marcha?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, desde que os passageiros da frente coloquem o cinto de segurança."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, porque a criança vai no banco de trás."
+   }
+  ],
+  "image": "g12-0120.jpg"
+ },
+ {
+  "id": "g12-0121",
+  "pt": "Os peões transitam correctamente?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, porque no local existe pouca intensidade de trânsito."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, porque a faixa de rodagem se destina também ao trânsito de peões."
+   }
+  ],
+  "image": "g12-0121.jpg"
+ },
+ {
+  "id": "g12-0122",
+  "pt": "O passageiro está a ter um comportamento correcto?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não, porque o veículo está parado do lado direito."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, porque o lado da sua saída não interfere na sua segurança."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, porque a intensidade de trânsito neste local é bastante reduzida."
+   }
+  ],
+  "image": "g12-0122.jpg"
+ },
+ {
+  "id": "g12-0123",
+  "pt": "Neste local, posso inverter o sentido de marcha?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, porque vou entrar num túnel."
+   },
+   {
+    "key": "b",
+    "pt": "Não."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, porque a marca rodoviária pode ser transposta."
+   }
+  ],
+  "image": "g12-0123.jpg"
+ },
+ {
+  "id": "g12-0124",
+  "pt": "Neste local a velocidade deve ser especialmente moderada?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, porque me aproximo de uma curva de visibilidade reduzida."
+   },
+   {
+    "key": "b",
+    "pt": "Não, porque não há trânsito."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, porque a sinalização horizontal me obriga."
+   }
+  ],
+  "image": "g12-0124.jpg"
+ },
+ {
+  "id": "g12-0125",
+  "pt": "Os automóveis ligeiros podem ultrapassar?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, desde que ocupem a metade esquerda da faixa de rodagem."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, desde que não transponham o eixo da faixa de rodagem."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, porque a sinalização vertical apenas proíbe os motociclos."
+   }
+  ],
+  "image": "g12-0125.jpg"
+ },
+ {
+  "id": "g12-0126",
+  "pt": "No exacto local onde me encontro posso inverter o sentido de marcha?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não."
+   },
+   {
+    "key": "b",
+    "pt": "Sim."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, porque a visibilidade do local é suficiente."
+   }
+  ],
+  "image": "g12-0126.jpg"
+ },
+ {
+  "id": "g12-0127",
+  "pt": "O outro condutor, deve reduzir a velocidade e ceder-me a passagem?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, porque circulo em sentido ascendente."
+   },
+   {
+    "key": "b",
+    "pt": "Não, sou eu que devo ceder-lhe a passagem."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, porque circulo com maior velocidade."
+   }
+  ],
+  "image": "g12-0127.jpg"
+ },
+ {
+  "id": "g12-0128",
+  "pt": "Posso efectuar a manobra de marcha atrás até ao entroncamento anterior que se encontra a uma distância de 250 metros?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não, a marcha atrás só é permitida como manobra de recurso e deve efectuar-se no menor trajecto possível."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, porque existem duas vias de trânsito no mesmo sentido."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, porque circulo na via de trânsito da direita."
+   }
+  ],
+  "image": "g12-0128.jpg"
+ },
+ {
+  "id": "g12-0129",
+  "pt": "Neste local devo transitar com velocidade especialmente moderada?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, porque me aproximo de um local de visibilidade reduzida."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, porque a via encontra-se dividida com uma linha contínua."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, porque circulo numa via secundária."
+   }
+  ],
+  "image": "g12-0129.jpg"
+ },
+ {
+  "id": "g12-0130",
+  "pt": "Neste local a velocidade deve ser especialmente moderada?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, pelas características do local."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, apenas porque existem veículos estacionados."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, porque dentro das localidades a velocidade recomendada é de 30 km/h."
+   }
+  ],
+  "image": "g12-0130.jpg"
+ },
+ {
+  "id": "g12-0131",
+  "pt": "Nesta situação, circulando o outro veículo em sentido oposto, posso prosseguir a marcha?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não, devo reduzir a velocidade e ceder a passagem."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, o outro condutor deve ceder-me a passagem."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, porque desço."
+   }
+  ],
+  "image": "g12-0131.jpg"
+ },
+ {
+  "id": "g12-0132",
+  "pt": "O triângulo de pré-sinalização de perigo está correctamente colocado?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, porque é visível a 100 metros."
+   },
+   {
+    "key": "b",
+    "pt": "Não, porque está dentro do veículo."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, porque é visível a 30 metros."
+   }
+  ],
+  "image": "g12-0132.jpg"
+ },
+ {
+  "id": "g12-0133",
+  "pt": "Considera correcto o comportamento do peão?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, considerando que os peões não têm deveres enquanto utentes da via pública."
+   },
+   {
+    "key": "b",
+    "pt": "Não."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, porque está muito próximo do local assinalado para a sua travessia."
+   }
+  ],
+  "image": "g12-0133.jpg"
+ },
+ {
+  "id": "g12-0134",
+  "pt": "Este sinal obriga os condutores a seguir em direcção ao estádio?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não."
+   },
+   {
+    "key": "b",
+    "pt": "Não, porque o sinal obriga a seguir em direcção à auto-estrada."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, porque estou perante um sinal de regulamentação."
+   }
+  ],
+  "image": "g12-0134.jpg"
+ },
+ {
+  "id": "g12-0135",
+  "pt": "A condução nocturna deve influenciar a velocidade a que circulo?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não, porque quando a visibilidade é menor devo ligar as luzes de estrada."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, porque influencia a recolha de informação."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, porque eu nunca devo ligar as luzes de estrada."
+   }
+  ],
+  "image": "g12-0135.jpg"
+ },
+ {
+  "id": "g12-0136",
+  "pt": "Posso ultrapassar, pela direita, o motociclo que circula a 60 Km/h?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, desde que sinalize devidamente a manobra."
+   },
+   {
+    "key": "b",
+    "pt": "Não, porque é proibido."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, porque existem duas filas de trânsito no mesmo sentido."
+   }
+  ],
+  "image": "g12-0136.jpg"
+ },
+ {
+  "id": "g12-0137",
+  "pt": "Nesta situação posso aumentar a velocidade e passar pelo veículo que circula na via da esquerda?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Não, porque se o fizer pratico uma contra-ordenação muito grave."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, porque circulo numa auto-estrada."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, porque existem duas vias de trânsito no mesmo sentido."
+   }
+  ],
+  "image": "g12-0137.jpg"
+ },
+ {
+  "id": "g12-0138",
+  "pt": "Posso ultrapassar?",
+  "options": [
+   {
+    "key": "a",
+    "pt": "Sim, porque o local tem pouca intensidade de trânsito."
+   },
+   {
+    "key": "b",
+    "pt": "Sim, porque o local tem dois sentidos de trânsito."
+   },
+   {
+    "key": "c",
+    "pt": "Sim, porque existem duas vias de trânsito no mesmo sentido."
+   }
+  ],
+  "image": "g12-0138.jpg"
+ }
+]
