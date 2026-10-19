@@ -1,0 +1,2808 @@
+[
+ {
+  "id": "g03-0082",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "A",
+   "AM"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "Can two-stroke engines be liquid-cooled?",
+   "options": [
+    "Yes, higher-performance engines that generate more heat can and should use this system.",
+    "No, liquid cooling is a typical feature of four-stroke engines."
+   ],
+   "explanation": "Cooling type does not depend on the engine cycle; high-output two-stroke engines often use liquid cooling to handle the heat."
+  },
+  "uk": {
+   "q": "Чи можуть двотактні двигуни мати рідинне охолодження?",
+   "options": [
+    "Так, потужніші двигуни, що виділяють більше тепла, можуть і повинні використовувати цю систему.",
+    "Ні, рідинне охолодження — типова ознака чотиритактних двигунів."
+   ],
+   "explanation": "Тип охолодження не залежить від циклу двигуна; потужні двотактні двигуни часто мають рідинне охолодження, щоб відводити тепло."
+  }
+ },
+ {
+  "id": "g03-0083",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "A",
+   "AM"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "A motorcycle rider should periodically check:",
+   "options": [
+    "The engine oil level.",
+    "The battery electrolyte level."
+   ],
+   "explanation": "Engine oil level is a routine check the rider must do regularly; many modern batteries are sealed and need no electrolyte checks."
+  },
+  "uk": {
+   "q": "Водій мотоцикла повинен періодично перевіряти:",
+   "options": [
+    "Рівень мастила в двигуні.",
+    "Рівень електроліту в акумуляторі."
+   ],
+   "explanation": "Рівень мастила в двигуні — регулярна перевірка, яку має виконувати водій; багато сучасних акумуляторів герметичні й не потребують перевірки електроліту."
+  }
+ },
+ {
+  "id": "g03-0084",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "A",
+   "AM"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "Is the motorcycle rider coming in the opposite direction riding correctly?",
+   "options": [
+    "Yes, because the road is one-way.",
+    "No."
+   ],
+   "explanation": "The road is two-way, and the rider is weaving along the line between the oncoming traffic instead of keeping to his lane."
+  },
+  "uk": {
+   "q": "Чи правильно рухається водій мотоцикла, що їде назустріч?",
+   "options": [
+    "Так, бо дорога з одностороннім рухом.",
+    "Ні."
+   ],
+   "explanation": "Дорога з двостороннім рухом, а водій лавірує по лінії між транспортом замість того, щоб триматися своєї смуги."
+  }
+ },
+ {
+  "id": "g03-0085",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "A",
+   "AM"
+  ],
+  "topic": "lights",
+  "en": {
+   "q": "Must motorcycles travel with the rear position lights on?",
+   "options": [
+    "Yes.",
+    "No."
+   ],
+   "explanation": "Motorcycles must always ride with dipped headlights at the front and position lights at the rear switched on, day and night."
+  },
+  "uk": {
+   "q": "Чи повинні мотоцикли рухатися з увімкненими задніми габаритними вогнями?",
+   "options": [
+    "Так.",
+    "Ні."
+   ],
+   "explanation": "Мотоцикли мають завжди рухатися з увімкненим ближнім світлом спереду та габаритними вогнями ззаду, вдень і вночі."
+  }
+ },
+ {
+  "id": "g03-0086",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "priority",
+  "en": {
+   "q": "When entering a roundabout I must give way to vehicles already travelling in it, whatever lane I enter from.",
+   "options": [
+    "The statement is true.",
+    "The statement is false."
+   ],
+   "explanation": "Vehicles entering a roundabout must give way to those already circulating in it, regardless of the entry lane."
+  },
+  "uk": {
+   "q": "В'їжджаючи на кільцеву розв'язку, я повинен поступитися дорогою транспортним засобам, що вже рухаються нею, з якої б смуги я не в'їжджав.",
+   "options": [
+    "Твердження правильне.",
+    "Твердження хибне."
+   ],
+   "explanation": "Транспортні засоби, що в'їжджають на кільцеву розв'язку, мають поступитися дорогою тим, що вже нею рухаються, незалежно від смуги в'їзду."
+  }
+ },
+ {
+  "id": "g03-0087",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "C"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "In two vehicles with the same wheelbase, the cargo body is longer on the vehicle with a:",
+   "options": [
+    "Conventional cab;",
+    "Forward-control (cab-over) cab."
+   ],
+   "explanation": "A cab-over design places the cab above the engine, freeing more of the chassis length for the cargo body."
+  },
+  "uk": {
+   "q": "У двох транспортних засобах з однаковою колісною базою вантажний кузов довший у транспортного засобу з кабіною:",
+   "options": [
+    "Звичайною (капотною);",
+    "Висунутою вперед (над двигуном)."
+   ],
+   "explanation": "Кабіна над двигуном звільняє більшу частину довжини шасі під вантажний кузов."
+  }
+ },
+ {
+  "id": "g03-0088",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "A",
+   "AM"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "In this situation, is the moped rider furthest ahead behaving correctly?",
+   "options": [
+    "Yes, because he is about to start overtaking.",
+    "No, he should ride on the right-hand side, keeping a sufficient distance from the hard shoulder."
+   ],
+   "explanation": "Mopeds must keep to the right of the carriageway, at a safe distance from the edge, and there is no indication he is overtaking."
+  },
+  "uk": {
+   "q": "Чи правильно поводиться в цій ситуації водій мопеда, що їде попереду?",
+   "options": [
+    "Так, бо він збирається почати обгін.",
+    "Ні, він повинен рухатися правим боком, зберігаючи достатню відстань від узбіччя."
+   ],
+   "explanation": "Мопеди мають триматися правого боку проїзної частини на безпечній відстані від краю, і немає ознак того, що він виконує обгін."
+  }
+ },
+ {
+  "id": "g03-0089",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "A",
+   "AM"
+  ],
+  "topic": "lights",
+  "en": {
+   "q": "A motorcycle rider should know that they must ride with dipped headlights at the front and position lights at the rear.",
+   "options": [
+    "The statement is true.",
+    "The statement is false."
+   ],
+   "explanation": "Motorcycles must always ride with dipped beam at the front and position lights at the rear on."
+  },
+  "uk": {
+   "q": "Водій мотоцикла повинен знати, що він має рухатися з ближнім світлом спереду та габаритними вогнями ззаду.",
+   "options": [
+    "Твердження правильне.",
+    "Твердження хибне."
+   ],
+   "explanation": "Мотоцикли мають завжди рухатися з увімкненим ближнім світлом спереду та габаритними вогнями ззаду."
+  }
+ },
+ {
+  "id": "g03-0090",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "A",
+   "AM"
+  ],
+  "topic": "lights",
+  "en": {
+   "q": "I must switch on the dipped headlights at the front and the position lights at the rear only at night.",
+   "options": [
+    "Correct.",
+    "Incorrect."
+   ],
+   "explanation": "On a motorcycle these lights must be on at all times, not only at night."
+  },
+  "uk": {
+   "q": "Я повинен вмикати ближнє світло спереду й габаритні вогні ззаду лише вночі.",
+   "options": [
+    "Правильно.",
+    "Неправильно."
+   ],
+   "explanation": "На мотоциклі ці вогні мають бути увімкнені завжди, а не лише вночі."
+  }
+ },
+ {
+  "id": "g03-0091",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "passengers_cargo",
+  "en": {
+   "q": "May bicycles tow a trailer behind them?",
+   "options": [
+    "Yes.",
+    "No."
+   ],
+   "explanation": "Bicycles are allowed to tow a trailer at the rear, within the limits set by the regulations."
+  },
+  "uk": {
+   "q": "Чи можуть велосипеди буксирувати причіп позаду?",
+   "options": [
+    "Так.",
+    "Ні."
+   ],
+   "explanation": "Велосипедам дозволено буксирувати причіп позаду в межах, встановлених правилами."
+  }
+ },
+ {
+  "id": "g03-0092",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "In relation to a bicycle travelling on the same carriageway, I must keep a lateral distance of at least 1.5 metres.",
+   "options": [
+    "The statement is true.",
+    "The statement is false."
+   ],
+   "explanation": "The Highway Code requires a minimum lateral distance of 1.5 m when passing or overtaking cyclists."
+  },
+  "uk": {
+   "q": "Щодо велосипеда, що рухається тією ж проїзною частиною, я повинен зберігати бічний інтервал щонайменше 1,5 метра.",
+   "options": [
+    "Твердження правильне.",
+    "Твердження хибне."
+   ],
+   "explanation": "Кодекс дорожнього руху вимагає мінімального бічного інтервалу 1,5 м під час проїзду повз велосипедистів або їх обгону."
+  }
+ },
+ {
+  "id": "g03-0093",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "A"
+  ],
+  "topic": "lights",
+  "en": {
+   "q": "Motorcycle riders must travel with dipped headlights at the front and position lights at the rear switched on.",
+   "options": [
+    "Correct.",
+    "Incorrect."
+   ],
+   "explanation": "This is compulsory for motorcycles at all times."
+  },
+  "uk": {
+   "q": "Водії мотоциклів повинні рухатися з увімкненим ближнім світлом спереду та габаритними вогнями ззаду.",
+   "options": [
+    "Правильно.",
+    "Неправильно."
+   ],
+   "explanation": "Для мотоциклів це обов'язково завжди."
+  }
+ },
+ {
+  "id": "g03-0094",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "C"
+  ],
+  "topic": "passengers_cargo",
+  "en": {
+   "q": "When transporting goods in heavy vehicles, attention must be paid to:",
+   "options": [
+    "The compulsory use of retaining straps for indivisible loads carried on open platforms.",
+    "Ensuring the load does not exceed a height of 3 metres from the ground."
+   ],
+   "explanation": "Indivisible loads on open platforms must be secured with restraint straps; the maximum height limit is 4 m, not 3 m."
+  },
+  "uk": {
+   "q": "Під час перевезення вантажів важкими автомобілями слід звертати увагу на:",
+   "options": [
+    "Обов'язкове використання кріпильних стрічок для неподільних вантажів, що перевозяться на відкритих платформах.",
+    "Те, щоб вантаж не перевищував висоти 3 метрів від землі."
+   ],
+   "explanation": "Неподільні вантажі на відкритих платформах мають бути закріплені стрічками; максимальна висота становить 4 м, а не 3 м."
+  }
+ },
+ {
+  "id": "g03-0095",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "D"
+  ],
+  "topic": "legal",
+  "en": {
+   "q": "Passenger vehicles with more than nine seats, including the driver, intended for that purpose must have a tachograph.",
+   "options": [
+    "The statement is correct.",
+    "The statement is not correct."
+   ],
+   "explanation": "EU/Portuguese rules require a tachograph in vehicles built to carry more than 9 persons including the driver."
+  },
+  "uk": {
+   "q": "Пасажирські транспортні засоби місткістю понад дев'ять осіб, включно з водієм, призначені для цього, обов'язково мають тахограф.",
+   "options": [
+    "Твердження правильне.",
+    "Твердження неправильне."
+   ],
+   "explanation": "Правила ЄС/Португалії вимагають тахографа в транспортних засобах, призначених для перевезення понад 9 осіб, включно з водієм."
+  }
+ },
+ {
+  "id": "g03-0096",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "C"
+  ],
+  "topic": "legal",
+  "en": {
+   "q": "Goods vehicles and vehicle combinations with a maximum mass over 3.5 tonnes must have a tachograph.",
+   "options": [
+    "The statement is correct.",
+    "The statement is not correct."
+   ],
+   "explanation": "Goods vehicles over 3.5 t maximum authorised mass must be fitted with a tachograph."
+  },
+  "uk": {
+   "q": "Вантажні транспортні засоби та автопоїзди з максимальною масою понад 3,5 тонни обов'язково мають тахограф.",
+   "options": [
+    "Твердження правильне.",
+    "Твердження неправильне."
+   ],
+   "explanation": "Вантажні транспортні засоби з максимально дозволеною масою понад 3,5 т мають бути обладнані тахографом."
+  }
+ },
+ {
+  "id": "g03-0097",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "C"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "Drivers of heavy goods vehicles should know that, while driving, they commit a serious offence if:",
+   "options": [
+    "They have a blood alcohol content of 0.2 g/l or more and less than 0.5 g/l.",
+    "They have a blood alcohol content of 0.5 g/l or more."
+   ],
+   "explanation": "Under current law (since 2013) professional drivers, including of heavy vehicles, are under the influence from 0.2 g/l: 0.2–0.5 g/l is a serious offence and 0.5 g/l or more a very serious one."
+  },
+  "uk": {
+   "q": "Водії важких вантажних автомобілів повинні знати, що під час керування вони вчиняють серйозне правопорушення, якщо:",
+   "options": [
+    "Мають вміст алкоголю в крові 0,2 г/л або більше, але менше 0,5 г/л.",
+    "Мають вміст алкоголю в крові 0,5 г/л або більше."
+   ],
+   "explanation": "Згідно з чинним законом (з 2013 р.) для професійних водіїв, зокрема важких автомобілів, межа становить 0,2 г/л: 0,2–0,5 г/л — серйозне правопорушення, від 0,5 г/л — дуже серйозне."
+  }
+ },
+ {
+  "id": "g03-0098",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "In a sealed, pressurised cooling system, should the driver open the radiator cap to check the water level?",
+   "options": [
+    "Yes;",
+    "No."
+   ],
+   "explanation": "In sealed systems the level is checked on the expansion tank; opening the pressurised cap (especially when hot) is dangerous."
+  },
+  "uk": {
+   "q": "Чи повинен водій у герметичній системі охолодження під тиском відкривати кришку радіатора, щоб перевірити рівень рідини?",
+   "options": [
+    "Так;",
+    "Ні."
+   ],
+   "explanation": "У герметичних системах рівень перевіряють за розширювальним бачком; відкривати кришку під тиском (особливо на гарячому двигуні) небезпечно."
+  }
+ },
+ {
+  "id": "g03-0099",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "Tyre air pressure should be checked when the tyres are:",
+   "options": [
+    "Hot;",
+    "Cold."
+   ],
+   "explanation": "Pressure rises as tyres heat up, so the reference values apply to cold tyres."
+  },
+  "uk": {
+   "q": "Тиск повітря в шинах слід перевіряти, коли вони:",
+   "options": [
+    "Гарячі;",
+    "Холодні."
+   ],
+   "explanation": "Під час нагрівання тиск зростає, тому рекомендовані значення стосуються холодних шин."
+  }
+ },
+ {
+  "id": "g03-0100",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "Tyre wear increases if the pressure is:",
+   "options": [
+    "Insufficient;",
+    "Excessive."
+   ],
+   "explanation": "Under-inflation increases flexing, heat and wear (especially at the shoulders), and is the main cause of premature wear."
+  },
+  "uk": {
+   "q": "Знос шин зростає, якщо тиск:",
+   "options": [
+    "Недостатній;",
+    "Надмірний."
+   ],
+   "explanation": "Недостатній тиск збільшує деформацію, нагрівання та знос (особливо по краях) і є основною причиною передчасного зносу."
+  }
+ },
+ {
+  "id": "g03-0101",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The inflation valve of a tubeless tyre is mounted on the:",
+   "options": [
+    "Inner tube;",
+    "Wheel rim."
+   ],
+   "explanation": "Tubeless tyres have no inner tube, so the valve is fitted directly to the rim."
+  },
+  "uk": {
+   "q": "Вентиль безкамерної шини встановлено на:",
+   "options": [
+    "Камері;",
+    "Ободі колеса."
+   ],
+   "explanation": "Безкамерні шини не мають камери, тож вентиль встановлено безпосередньо на ободі."
+  }
+ },
+ {
+  "id": "g03-0102",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "D"
+  ],
+  "topic": "legal",
+  "en": {
+   "q": "Can a tourist road train be considered a single vehicle?",
+   "options": [
+    "Yes;",
+    "No."
+   ],
+   "explanation": "The Highway Code treats a tourist road train (tractor unit plus carriages) as a single vehicle."
+  },
+  "uk": {
+   "q": "Чи можна вважати туристичний потяг єдиним транспортним засобом?",
+   "options": [
+    "Так;",
+    "Ні."
+   ],
+   "explanation": "Кодекс дорожнього руху розглядає туристичний потяг (тягач разом із вагончиками) як єдиний транспортний засіб."
+  }
+ },
+ {
+  "id": "g03-0103",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "C",
+   "D"
+  ],
+  "topic": "legal",
+  "en": {
+   "q": "The following is considered a single vehicle:",
+   "options": [
+    "The tourist road train;",
+    "The combination made up of a heavy vehicle and its trailer."
+   ],
+   "explanation": "A tourist road train is legally treated as one vehicle, whereas a heavy vehicle with a trailer is a combination of vehicles."
+  },
+  "uk": {
+   "q": "Єдиним транспортним засобом вважається:",
+   "options": [
+    "Туристичний потяг;",
+    "Автопоїзд, що складається з важкого автомобіля та його причепа."
+   ],
+   "explanation": "Туристичний потяг юридично вважається одним транспортним засобом, тоді як важкий автомобіль із причепом є автопоїздом."
+  }
+ },
+ {
+  "id": "g03-0104",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "D"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "Drivers of heavy passenger vehicles should know that, while driving, they commit a serious offence if:",
+   "options": [
+    "They have a blood alcohol content of 0.2 g/l or more and less than 0.5 g/l.",
+    "They have a blood alcohol content of 0.5 g/l or more."
+   ],
+   "explanation": "Under current law (since 2013) for drivers of heavy passenger vehicles 0.2–0.5 g/l is a serious offence; 0.5 g/l or more is a very serious offence."
+  },
+  "uk": {
+   "q": "Водії важких пасажирських автомобілів повинні знати, що під час керування вони вчиняють серйозне правопорушення, якщо:",
+   "options": [
+    "Мають вміст алкоголю в крові 0,2 г/л або більше, але менше 0,5 г/л.",
+    "Мають вміст алкоголю в крові 0,5 г/л або більше."
+   ],
+   "explanation": "Згідно з чинним законом (з 2013 р.) для водіїв важких пасажирських автомобілів 0,2–0,5 г/л — серйозне правопорушення; від 0,5 г/л — дуже серйозне."
+  }
+ },
+ {
+  "id": "g04-0001",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "D"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "The driver of a passenger bus is considered under the influence of alcohol if they have a blood alcohol content equal to or above:",
+   "options": [
+    "0.5 g/l of blood.",
+    "0.3 g/l of blood.",
+    "0.2 g/l of blood."
+   ],
+   "explanation": "Since the 2013 amendment, the limit for drivers of heavy passenger vehicles and other professional drivers is 0.2 g/l (previously 0.5 g/l)."
+  },
+  "uk": {
+   "q": "Водій пасажирського автобуса вважається таким, що перебуває під впливом алкоголю, якщо вміст алкоголю в його крові дорівнює або перевищує:",
+   "options": [
+    "0,5 г/л крові.",
+    "0,3 г/л крові.",
+    "0,2 г/л крові."
+   ],
+   "explanation": "Після змін 2013 р. межа для водіїв важких пасажирських автомобілів та інших професійних водіїв становить 0,2 г/л (раніше 0,5 г/л)."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "0.5 g/l is the general limit; bus drivers, as professional drivers, have a stricter 0.2 g/l limit.",
+    "uk": "0,5 г/л — загальна межа; для водіїв автобусів, як професійних водіїв, діє суворіша межа 0,2 г/л."
+   },
+   "b": {
+    "en": "0.3 g/l is not a legal threshold in Portugal.",
+    "uk": "0,3 г/л не є законодавчою межею в Португалії."
+   }
+  }
+ },
+ {
+  "id": "g04-0002",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "The driver of a light vehicle carrying gas cylinders is considered under the influence of alcohol if they have a blood alcohol content equal to or above:",
+   "options": [
+    "0.5 g/l of blood.",
+    "0.3 g/l of blood.",
+    "0.2 g/l of blood."
+   ],
+   "explanation": "Gas cylinders are dangerous goods, and under current law drivers transporting dangerous goods have a 0.2 g/l limit."
+  },
+  "uk": {
+   "q": "Водій легкового автомобіля, що перевозить газові балони, вважається таким, що перебуває під впливом алкоголю, якщо вміст алкоголю в його крові дорівнює або перевищує:",
+   "options": [
+    "0,5 г/л крові.",
+    "0,3 г/л крові.",
+    "0,2 г/л крові."
+   ],
+   "explanation": "Газові балони — небезпечні вантажі, і згідно з чинним законом для водіїв, що перевозять небезпечні вантажі, межа становить 0,2 г/л."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "0.5 g/l is the general limit, but carrying dangerous goods such as gas cylinders brings the stricter 0.2 g/l limit.",
+    "uk": "0,5 г/л — загальна межа, але перевезення небезпечних вантажів, як-от газових балонів, тягне суворішу межу 0,2 г/л."
+   },
+   "b": {
+    "en": "0.3 g/l is not a legal threshold in Portugal.",
+    "uk": "0,3 г/л не є законодавчою межею в Португалії."
+   }
+  }
+ },
+ {
+  "id": "g04-0003",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "The driver of a nursery-school vehicle transporting pupils is considered under the influence of alcohol if they have a blood alcohol content per litre of blood equal to or above:",
+   "options": [
+    "0.5 g/l of blood.",
+    "0.3 g/l of blood.",
+    "0.2 g/l of blood."
+   ],
+   "explanation": "Under current law (since 2013), drivers engaged in collective transport of children have a 0.2 g/l limit."
+  },
+  "uk": {
+   "q": "Водій транспортного засобу дитячого садка, що перевозить вихованців, вважається таким, що перебуває під впливом алкоголю, якщо вміст алкоголю на літр крові дорівнює або перевищує:",
+   "options": [
+    "0,5 г/л крові.",
+    "0,3 г/л крові.",
+    "0,2 г/л крові."
+   ],
+   "explanation": "Згідно з чинним законом (з 2013 р.) для водіїв, що здійснюють організоване перевезення дітей, межа становить 0,2 г/л."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "0.5 g/l is the general limit; collective transport of children is subject to the stricter 0.2 g/l limit.",
+    "uk": "0,5 г/л — загальна межа; для організованого перевезення дітей діє суворіша межа 0,2 г/л."
+   },
+   "b": {
+    "en": "0.3 g/l is not a legal threshold in Portugal.",
+    "uk": "0,3 г/л не є законодавчою межею в Португалії."
+   }
+  }
+ },
+ {
+  "id": "g04-0004",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "B"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "A taxi driver commits a very serious offence by driving with a blood alcohol content per litre of blood of:",
+   "options": [
+    "0.7 g/l of blood.",
+    "0.4 g/l of blood.",
+    "0.2 g/l of blood."
+   ],
+   "explanation": "For taxi drivers, 0.5 g/l or more (below 1.2 g/l) is a very serious offence under current law; 0.2–0.5 g/l is only serious."
+  },
+  "uk": {
+   "q": "Водій таксі вчиняє дуже серйозне правопорушення, керуючи з вмістом алкоголю на літр крові:",
+   "options": [
+    "0,7 г/л крові.",
+    "0,4 г/л крові.",
+    "0,2 г/л крові."
+   ],
+   "explanation": "Для водіїв таксі вміст від 0,5 г/л (менше 1,2 г/л) згідно з чинним законом є дуже серйозним правопорушенням; 0,2–0,5 г/л — лише серйозним."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "For a taxi driver 0.4 g/l falls in the 0.2–0.5 g/l band, which is a serious, not very serious, offence.",
+    "uk": "Для водія таксі 0,4 г/л належить до діапазону 0,2–0,5 г/л, що є серйозним, а не дуже серйозним правопорушенням."
+   },
+   "c": {
+    "en": "0.2 g/l is exactly the threshold where the offence starts for taxi drivers, and it is classified as serious.",
+    "uk": "0,2 г/л — саме поріг, з якого для водіїв таксі починається правопорушення, і воно класифікується як серйозне."
+   }
+  }
+ },
+ {
+  "id": "g04-0005",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "B"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "The driver of a light vehicle, aged 20, is considered under the influence of alcohol when they have a blood alcohol content per litre of blood equal to or above:",
+   "options": [
+    "0.2 g/l of blood.",
+    "0.3 g/l of blood.",
+    "0.5 g/l of blood."
+   ],
+   "explanation": "The general limit, which does not depend on age, is 0.5 g/l; note that if the driver is still in the probationary period (first 3 years of the licence) the limit is 0.2 g/l under current law."
+  },
+  "uk": {
+   "q": "Водій легкового автомобіля віком 20 років вважається таким, що перебуває під впливом алкоголю, коли вміст алкоголю на літр його крові дорівнює або перевищує:",
+   "options": [
+    "0,2 г/л крові.",
+    "0,3 г/л крові.",
+    "0,5 г/л крові."
+   ],
+   "explanation": "Загальна межа, що не залежить від віку, становить 0,5 г/л; втім, якщо водій ще перебуває у випробувальному періоді (перші 3 роки після отримання посвідчення), згідно з чинним законом межа становить 0,2 г/л."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "0.2 g/l applies to probationary and certain professional drivers, not to drivers in general based on age.",
+    "uk": "0,2 г/л застосовується до водіїв у випробувальному періоді та певних професійних водіїв, а не до водіїв загалом залежно від віку."
+   },
+   "b": {
+    "en": "0.3 g/l is not a legal threshold in Portugal.",
+    "uk": "0,3 г/л не є законодавчою межею в Португалії."
+   }
+  }
+ },
+ {
+  "id": "g04-0006",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "D"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "The driver of a public passenger transport vehicle is considered under the influence of alcohol when they have a blood alcohol content per litre of blood equal to or above:",
+   "options": [
+    "0.2 g/l of blood.",
+    "0.3 g/l of blood.",
+    "0.5 g/l of blood."
+   ],
+   "explanation": "Since 2013 the limit for drivers of public passenger transport is 0.2 g/l (previously 0.5 g/l)."
+  },
+  "uk": {
+   "q": "Водій транспортного засобу громадського пасажирського транспорту вважається таким, що перебуває під впливом алкоголю, коли вміст алкоголю на літр його крові дорівнює або перевищує:",
+   "options": [
+    "0,2 г/л крові.",
+    "0,3 г/л крові.",
+    "0,5 г/л крові."
+   ],
+   "explanation": "З 2013 р. межа для водіїв громадського пасажирського транспорту становить 0,2 г/л (раніше 0,5 г/л)."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "0.3 g/l is not a legal threshold in Portugal.",
+    "uk": "0,3 г/л не є законодавчою межею в Португалії."
+   },
+   "c": {
+    "en": "0.5 g/l is the general limit; public passenger transport drivers have had a 0.2 g/l limit since 2013.",
+    "uk": "0,5 г/л — загальна межа; для водіїв громадського пасажирського транспорту з 2013 р. діє межа 0,2 г/л."
+   }
+  }
+ },
+ {
+  "id": "g04-0007",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "A driver is considered under the influence of alcohol if they have an alcohol level equal to or above:",
+   "options": [
+    "0.3 g/l.",
+    "0.4 g/l.",
+    "0.5 g/l."
+   ],
+   "explanation": "The general legal limit is 0.5 g/l of blood (0.2 g/l only for probationary and certain professional drivers)."
+  },
+  "uk": {
+   "q": "Водій вважається таким, що перебуває під впливом алкоголю, якщо вміст алкоголю дорівнює або перевищує:",
+   "options": [
+    "0,3 г/л.",
+    "0,4 г/л.",
+    "0,5 г/л."
+   ],
+   "explanation": "Загальна законна межа — 0,5 г/л крові (0,2 г/л лише для водіїв у випробувальному періоді та певних професійних водіїв)."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "0.3 g/l is not a legal threshold in Portugal.",
+    "uk": "0,3 г/л не є законодавчою межею в Португалії."
+   },
+   "b": {
+    "en": "0.4 g/l is below the general 0.5 g/l limit.",
+    "uk": "0,4 г/л нижче загальної межі 0,5 г/л."
+   }
+  }
+ },
+ {
+  "id": "g04-0008",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "D"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "A bus driver commits a serious offence by driving it with a blood alcohol content per litre of blood of:",
+   "options": [
+    "0.1 g/l of blood.",
+    "0.4 g/l of blood.",
+    "0.6 g/l of blood."
+   ],
+   "explanation": "Under current law, for bus drivers 0.2–0.5 g/l is a serious offence, while 0.6 g/l would be very serious."
+  },
+  "uk": {
+   "q": "Водій автобуса вчиняє серйозне правопорушення, керуючи ним із вмістом алкоголю на літр крові:",
+   "options": [
+    "0,1 г/л крові.",
+    "0,4 г/л крові.",
+    "0,6 г/л крові."
+   ],
+   "explanation": "Згідно з чинним законом для водіїв автобусів 0,2–0,5 г/л — серйозне правопорушення, а 0,6 г/л було б дуже серйозним."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "0.1 g/l is below the 0.2 g/l threshold that applies even to bus drivers.",
+    "uk": "0,1 г/л нижче порогу 0,2 г/л, що діє навіть для водіїв автобусів."
+   },
+   "c": {
+    "en": "For a bus driver 0.6 g/l is 0.5 g/l or more, which is a very serious offence, not just serious.",
+    "uk": "Для водія автобуса 0,6 г/л — це 0,5 г/л або більше, що є дуже серйозним, а не просто серйозним правопорушенням."
+   }
+  }
+ },
+ {
+  "id": "g04-0009",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "B"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "A professional ambulance driver commits a serious offence by driving his own light car with a blood alcohol content per litre of blood of:",
+   "options": [
+    "0.3 g/l of blood.",
+    "0.4 g/l of blood.",
+    "0.7 g/l of blood."
+   ],
+   "explanation": "Driving his private car, the general rules apply: 0.5–0.8 g/l is a serious offence."
+  },
+  "uk": {
+   "q": "Професійний водій швидкої допомоги вчиняє серйозне правопорушення, керуючи своїм легковим автомобілем із вмістом алкоголю на літр крові:",
+   "options": [
+    "0,3 г/л крові.",
+    "0,4 г/л крові.",
+    "0,7 г/л крові."
+   ],
+   "explanation": "Під час керування власним автомобілем діють загальні правила: 0,5–0,8 г/л — серйозне правопорушення."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Driving his own car, the general 0.5 g/l limit applies, so 0.3 g/l is not an offence.",
+    "uk": "За кермом власного автомобіля діє загальна межа 0,5 г/л, тож 0,3 г/л не є правопорушенням."
+   },
+   "b": {
+    "en": "Driving his own car, the general 0.5 g/l limit applies, so 0.4 g/l is not an offence.",
+    "uk": "За кермом власного автомобіля діє загальна межа 0,5 г/л, тож 0,4 г/л не є правопорушенням."
+   }
+  }
+ },
+ {
+  "id": "g04-0010",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "An ambulance driver commits a very serious offence by driving it with a blood alcohol content per litre of blood of:",
+   "options": [
+    "0.2 g/l of blood.",
+    "0.4 g/l of blood.",
+    "0.7 g/l of blood."
+   ],
+   "explanation": "Under current law, for drivers of emergency vehicles 0.5 g/l or more is a very serious offence (0.2–0.5 g/l is serious)."
+  },
+  "uk": {
+   "q": "Водій швидкої допомоги вчиняє дуже серйозне правопорушення, керуючи нею з вмістом алкоголю на літр крові:",
+   "options": [
+    "0,2 г/л крові.",
+    "0,4 г/л крові.",
+    "0,7 г/л крові."
+   ],
+   "explanation": "Згідно з чинним законом для водіїв екстрених транспортних засобів вміст від 0,5 г/л є дуже серйозним правопорушенням (0,2–0,5 г/л — серйозним)."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "For an ambulance driver 0.2 g/l is the start of the serious band, not a very serious offence.",
+    "uk": "Для водія швидкої 0,2 г/л — початок діапазону серйозного правопорушення, а не дуже серйозного."
+   },
+   "b": {
+    "en": "For an ambulance driver 0.4 g/l (0.2–0.5 g/l) is a serious offence, not very serious.",
+    "uk": "Для водія швидкої 0,4 г/л (0,2–0,5 г/л) — серйозне, а не дуже серйозне правопорушення."
+   }
+  }
+ },
+ {
+  "id": "g04-0011",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "Driving with a blood alcohol content of the following is considered a very serious offence:",
+   "options": [
+    "0.6 g/l.",
+    "0.9 g/l.",
+    "0.7 g/l."
+   ],
+   "explanation": "For drivers in general, 0.8 g/l to less than 1.2 g/l is a very serious offence; 0.5–0.8 g/l is serious."
+  },
+  "uk": {
+   "q": "Дуже серйозним правопорушенням вважається керування з вмістом алкоголю в крові:",
+   "options": [
+    "0,6 г/л.",
+    "0,9 г/л.",
+    "0,7 г/л."
+   ],
+   "explanation": "Для водіїв загалом 0,8 г/л і менше 1,2 г/л — дуже серйозне правопорушення; 0,5–0,8 г/л — серйозне."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "0.6 g/l is in the 0.5–0.8 g/l band, which is a serious offence for drivers in general.",
+    "uk": "0,6 г/л належить до діапазону 0,5–0,8 г/л, що для водіїв загалом є серйозним правопорушенням."
+   },
+   "c": {
+    "en": "0.7 g/l is still below 0.8 g/l, so it is a serious, not very serious, offence.",
+    "uk": "0,7 г/л ще нижче 0,8 г/л, тож це серйозне, а не дуже серйозне правопорушення."
+   }
+  }
+ },
+ {
+  "id": "g04-0012",
+  "answer": "c",
+  "confidence": "low",
+  "categories": [
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "environment",
+  "en": {
+   "q": "To avoid compromising the operation of the catalytic converter, the engine oil consumption of a vehicle equipped with this system should not exceed:",
+   "options": [
+    "2 litres per 1000 km travelled;",
+    "1.5 litres per 1000 km travelled;",
+    "1 litre per 1000 km travelled."
+   ],
+   "explanation": "Excessive oil burning contaminates and damages the catalytic converter; the reference maximum is about 1 litre per 1000 km."
+  },
+  "uk": {
+   "q": "Щоб не порушити роботу каталітичного нейтралізатора, витрата моторної оливи транспортного засобу з цією системою не повинна перевищувати:",
+   "options": [
+    "2 літри на кожні 1000 км пробігу;",
+    "1,5 літра на кожні 1000 км пробігу;",
+    "1 літр на кожні 1000 км пробігу."
+   ],
+   "explanation": "Надмірне згоряння оливи забруднює та пошкоджує каталітичний нейтралізатор; орієнтовний максимум — близько 1 літра на 1000 км."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "2 litres per 1000 km is excessive oil consumption that would contaminate the catalytic converter.",
+    "uk": "2 літри на 1000 км — надмірна витрата оливи, що забруднить каталітичний нейтралізатор."
+   },
+   "b": {
+    "en": "1.5 litres per 1000 km is still above the accepted limit for a catalyst-equipped engine.",
+    "uk": "1,5 літра на 1000 км усе ще перевищує допустиму межу для двигуна з каталізатором."
+   }
+  }
+ },
+ {
+  "id": "g04-0013",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "Driving with an alcohol level equal to or above the following is considered a crime:",
+   "options": [
+    "0.5 g/l.",
+    "0.8 g/l.",
+    "1.2 g/l."
+   ],
+   "explanation": "Driving with a BAC of 1.2 g/l or more is a criminal offence in Portugal."
+  },
+  "uk": {
+   "q": "Злочином вважається керування з вмістом алкоголю, що дорівнює або перевищує:",
+   "options": [
+    "0,5 г/л.",
+    "0,8 г/л.",
+    "1,2 г/л."
+   ],
+   "explanation": "Керування з вмістом алкоголю в крові 1,2 г/л або більше в Португалії є кримінальним злочином."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "0.5 g/l is the start of the administrative offence range, not a crime.",
+    "uk": "0,5 г/л — початок діапазону адміністративного правопорушення, а не злочин."
+   },
+   "b": {
+    "en": "0.8 g/l is a very serious administrative offence, but the crime threshold is 1.2 g/l.",
+    "uk": "0,8 г/л — дуже серйозне адміністративне правопорушення, але поріг злочину — 1,2 г/л."
+   }
+  }
+ },
+ {
+  "id": "g04-0014",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "Driving with a blood alcohol content equal to the following is considered a crime:",
+   "options": [
+    "0.9 g/l.",
+    "1.1 g/l.",
+    "1.2 g/l."
+   ],
+   "explanation": "The crime threshold is 1.2 g/l; lower values are administrative offences."
+  },
+  "uk": {
+   "q": "Злочином вважається керування з вмістом алкоголю в крові, що дорівнює:",
+   "options": [
+    "0,9 г/л.",
+    "1,1 г/л.",
+    "1,2 г/л."
+   ],
+   "explanation": "Поріг злочину — 1,2 г/л; нижчі значення є адміністративними правопорушеннями."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "0.9 g/l is a very serious administrative offence, not a crime.",
+    "uk": "0,9 г/л — дуже серйозне адміністративне правопорушення, а не злочин."
+   },
+   "b": {
+    "en": "1.1 g/l is still below the 1.2 g/l crime threshold.",
+    "uk": "1,1 г/л ще нижче порогу злочину 1,2 г/л."
+   }
+  }
+ },
+ {
+  "id": "g04-0015",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "It is considered a crime if the driver has an alcohol level of:",
+   "options": [
+    "0.8 g/l.",
+    "0.9 g/l.",
+    "1.2 g/l."
+   ],
+   "explanation": "A BAC of 1.2 g/l or more is a crime; 0.8 and 0.9 g/l are very serious administrative offences."
+  },
+  "uk": {
+   "q": "Злочином вважається, якщо водій має вміст алкоголю:",
+   "options": [
+    "0,8 г/л.",
+    "0,9 г/л.",
+    "1,2 г/л."
+   ],
+   "explanation": "Вміст алкоголю в крові від 1,2 г/л — злочин; 0,8 і 0,9 г/л — дуже серйозні адміністративні правопорушення."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "0.8 g/l is a very serious administrative offence, not a crime.",
+    "uk": "0,8 г/л — дуже серйозне адміністративне правопорушення, а не злочин."
+   },
+   "b": {
+    "en": "0.9 g/l is a very serious administrative offence, not a crime.",
+    "uk": "0,9 г/л — дуже серйозне адміністративне правопорушення, а не злочин."
+   }
+  }
+ },
+ {
+  "id": "g04-0016",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "B"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The tyres of light vehicles must have a tread depth of at least:",
+   "options": [
+    "1 mm.",
+    "1.5 mm.",
+    "1.6 mm."
+   ],
+   "explanation": "The legal minimum tread depth for light vehicles is 1.6 mm."
+  },
+  "uk": {
+   "q": "Шини легкових автомобілів повинні мати глибину протектора щонайменше:",
+   "options": [
+    "1 мм.",
+    "1,5 мм.",
+    "1,6 мм."
+   ],
+   "explanation": "Законний мінімум глибини протектора для легкових автомобілів — 1,6 мм."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "1 mm is below the legal minimum of 1.6 mm (1 mm is the minimum for mopeds/motorcycles).",
+    "uk": "1 мм нижче законного мінімуму 1,6 мм (1 мм — мінімум для мопедів/мотоциклів)."
+   },
+   "b": {
+    "en": "1.5 mm is below the legal minimum of 1.6 mm.",
+    "uk": "1,5 мм нижче законного мінімуму 1,6 мм."
+   }
+  }
+ },
+ {
+  "id": "g04-0017",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "C"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The tyres of heavy goods vehicles must have a tread depth of at least:",
+   "options": [
+    "1 mm.",
+    "1.5 mm.",
+    "1.6 mm."
+   ],
+   "explanation": "The minimum tread depth required for automobiles, including heavy vehicles, is 1.6 mm."
+  },
+  "uk": {
+   "q": "Шини важких вантажних автомобілів повинні мати глибину протектора щонайменше:",
+   "options": [
+    "1 мм.",
+    "1,5 мм.",
+    "1,6 мм."
+   ],
+   "explanation": "Мінімальна глибина протектора для автомобілів, зокрема важких, — 1,6 мм."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "1 mm is below the legal minimum of 1.6 mm for automobiles.",
+    "uk": "1 мм нижче законного мінімуму 1,6 мм для автомобілів."
+   },
+   "b": {
+    "en": "1.5 mm is below the legal minimum of 1.6 mm.",
+    "uk": "1,5 мм нижче законного мінімуму 1,6 мм."
+   }
+  }
+ },
+ {
+  "id": "g04-0018",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "On heavy vehicles, what is the minimum tread depth of the tyres, including the spare?",
+   "options": [
+    "1 mm;",
+    "1.5 mm;",
+    "1.6 mm."
+   ],
+   "explanation": "The minimum tread depth of 1.6 mm applies to all tyres, including the spare."
+  },
+  "uk": {
+   "q": "Яка мінімальна глибина протектора шин важких автомобілів, включно із запасною?",
+   "options": [
+    "1 мм;",
+    "1,5 мм;",
+    "1,6 мм."
+   ],
+   "explanation": "Мінімальна глибина протектора 1,6 мм стосується всіх шин, включно із запасною."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "1 mm is below the legal minimum of 1.6 mm, which also applies to the spare.",
+    "uk": "1 мм нижче законного мінімуму 1,6 мм, що стосується й запасної шини."
+   },
+   "b": {
+    "en": "1.5 mm is below the legal minimum of 1.6 mm.",
+    "uk": "1,5 мм нижче законного мінімуму 1,6 мм."
+   }
+  }
+ },
+ {
+  "id": "g04-0019",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "On a motorway, heavy passenger vehicles may not exceed:",
+   "options": [
+    "90 km/h, if they have a trailer.",
+    "110 km/h, if they do not have a trailer.",
+    "100 km/h, regardless of whether they have a trailer."
+   ],
+   "explanation": "On motorways heavy passenger vehicles are limited to 100 km/h without a trailer and 90 km/h with a trailer."
+  },
+  "uk": {
+   "q": "На автомагістралі важкі пасажирські автомобілі не можуть перевищувати:",
+   "options": [
+    "90 км/год, якщо мають причіп.",
+    "110 км/год, якщо не мають причепа.",
+    "100 км/год незалежно від наявності причепа."
+   ],
+   "explanation": "На автомагістралях для важких пасажирських автомобілів обмеження — 100 км/год без причепа та 90 км/год із причепом."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Buses without a trailer are limited to 100 km/h on motorways, not 110.",
+    "uk": "Автобуси без причепа обмежені на автомагістралях 100 км/год, а не 110."
+   },
+   "c": {
+    "en": "The limit is not the same: with a trailer it drops to 90 km/h.",
+    "uk": "Обмеження не однакове: з причепом воно знижується до 90 км/год."
+   }
+  }
+ },
+ {
+  "id": "g04-0020",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "In the lane I am in, what is the maximum permitted speed?",
+   "options": [
+    "60 km/h.",
+    "120 km/h, if I am driving a light passenger car.",
+    "100 km/h, if I am driving a light goods vehicle."
+   ],
+   "explanation": "The lane sign sets per-lane limits; I am in the right-hand lane, which is limited to 60 km/h."
+  },
+  "uk": {
+   "q": "Яка максимально дозволена швидкість на смузі руху, якою я рухаюся?",
+   "options": [
+    "60 км/год.",
+    "120 км/год, якщо я керую легковим пасажирським автомобілем.",
+    "100 км/год, якщо я керую легким вантажним автомобілем."
+   ],
+   "explanation": "Знак над смугами встановлює обмеження для кожної смуги; я на правій смузі, де обмеження — 60 км/год."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "The lane sign limits my lane to 60 km/h, whatever the type of vehicle.",
+    "uk": "Знак над смугою обмежує мою смугу 60 км/год незалежно від типу транспортного засобу."
+   },
+   "c": {
+    "en": "Per-lane limits apply to all vehicles in that lane; my lane is limited to 60 km/h.",
+    "uk": "Обмеження для смуги стосуються всіх транспортних засобів на ній; моя смуга обмежена 60 км/год."
+   }
+  }
+ },
+ {
+  "id": "g04-0021",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "B"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "At this location the maximum legally permitted speed is:",
+   "options": [
+    "50 km/h.",
+    "90 km/h.",
+    "100 km/h."
+   ],
+   "explanation": "This is an ordinary road outside a built-up area with no specific limit sign, where light cars are limited to 90 km/h."
+  },
+  "uk": {
+   "q": "У цьому місці максимально дозволена законом швидкість становить:",
+   "options": [
+    "50 км/год.",
+    "90 км/год.",
+    "100 км/год."
+   ],
+   "explanation": "Це звичайна дорога поза населеним пунктом без знака обмеження, де для легкових автомобілів обмеження — 90 км/год."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "50 km/h is the built-up area limit, but this road is outside a built-up area.",
+    "uk": "50 км/год — обмеження в населених пунктах, але ця дорога поза населеним пунктом."
+   },
+   "c": {
+    "en": "100 km/h applies to expressways reserved for motor vehicles, not to an ordinary road like this.",
+    "uk": "100 км/год стосується доріг для автомобілів і мотоциклів, а не звичайної дороги, як ця."
+   }
+  }
+ },
+ {
+  "id": "g04-0022",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "B"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "When travelling on this road, I should know that a light passenger car without a trailer may not exceed a maximum speed of:",
+   "options": [
+    "80 km/h.",
+    "90 km/h.",
+    "100 km/h."
+   ],
+   "explanation": "On ordinary roads outside built-up areas the limit for light passenger cars without a trailer is 90 km/h."
+  },
+  "uk": {
+   "q": "Рухаючись цією дорогою, я повинен знати, що легковий пасажирський автомобіль без причепа не може перевищувати максимальну швидкість:",
+   "options": [
+    "80 км/год.",
+    "90 км/год.",
+    "100 км/год."
+   ],
+   "explanation": "На звичайних дорогах поза населеними пунктами обмеження для легкових пасажирських автомобілів без причепа — 90 км/год."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "80 km/h is the limit for light goods vehicles, not for light passenger cars.",
+    "uk": "80 км/год — обмеження для легких вантажних автомобілів, а не для легкових пасажирських."
+   },
+   "c": {
+    "en": "100 km/h is only allowed on expressways reserved for motor vehicles and motorcycles.",
+    "uk": "100 км/год дозволено лише на дорогах для автомобілів і мотоциклів."
+   }
+  }
+ },
+ {
+  "id": "g04-0023",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "B"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "I am driving a light goods vehicle without a trailer on a national road outside a built-up area, so the maximum speed at which I can travel is:",
+   "options": [
+    "80 km/h.",
+    "90 km/h.",
+    "100 km/h."
+   ],
+   "explanation": "Light goods vehicles without a trailer are limited to 80 km/h on ordinary roads outside built-up areas."
+  },
+  "uk": {
+   "q": "Я керую легким вантажним автомобілем без причепа на національній дорозі поза населеним пунктом, тож максимальна швидкість, з якою я можу рухатися, становить:",
+   "options": [
+    "80 км/год.",
+    "90 км/год.",
+    "100 км/год."
+   ],
+   "explanation": "Для легких вантажних автомобілів без причепа на звичайних дорогах поза населеними пунктами обмеження — 80 км/год."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "90 km/h is the limit for light passenger cars; light goods vehicles are limited to 80 km/h.",
+    "uk": "90 км/год — обмеження для легкових пасажирських автомобілів; легкі вантажні обмежені 80 км/год."
+   },
+   "c": {
+    "en": "100 km/h is not allowed for light goods vehicles on a national road.",
+    "uk": "100 км/год не дозволено легким вантажним автомобілям на національній дорозі."
+   }
+  }
+ },
+ {
+  "id": "g04-0024",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "B"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "If I am driving a light passenger car without a trailer, what speed may I never exceed on the public road I am about to enter?",
+   "options": [
+    "70 km/h.",
+    "80 km/h.",
+    "100 km/h."
+   ],
+   "explanation": "The sign indicates an expressway reserved for motor vehicles and motorcycles, where light passenger cars are limited to 100 km/h."
+  },
+  "uk": {
+   "q": "Якщо я керую легковим пасажирським автомобілем без причепа, яку швидкість я ніколи не можу перевищувати на дорозі, на яку збираюся виїхати?",
+   "options": [
+    "70 км/год.",
+    "80 км/год.",
+    "100 км/год."
+   ],
+   "explanation": "Знак позначає дорогу для автомобілів і мотоциклів, де для легкових пасажирських автомобілів обмеження — 100 км/год."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "70 km/h is the limit for light cars with a trailer on ordinary roads, not this case.",
+    "uk": "70 км/год — обмеження для легкових автомобілів із причепом на звичайних дорогах, а не цей випадок."
+   },
+   "b": {
+    "en": "80 km/h would apply with a trailer; without one the limit on this road is 100 km/h.",
+    "uk": "80 км/год застосовувалося б із причепом; без нього обмеження на цій дорозі — 100 км/год."
+   }
+  }
+ },
+ {
+  "id": "g04-0025",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "B"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "On the road indicated by the sign, the maximum permitted speed is:",
+   "options": [
+    "80 km/h.",
+    "60 km/h.",
+    "100 km/h."
+   ],
+   "explanation": "The sign marks an expressway reserved for motor vehicles and motorcycles, where the general limit for light cars is 100 km/h."
+  },
+  "uk": {
+   "q": "На дорозі, позначеній знаком, максимально дозволена швидкість становить:",
+   "options": [
+    "80 км/год.",
+    "60 км/год.",
+    "100 км/год."
+   ],
+   "explanation": "Знак позначає дорогу для автомобілів і мотоциклів, де загальне обмеження для легкових автомобілів — 100 км/год."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "80 km/h applies only to certain vehicles (e.g. with a trailer), not the general limit for light cars.",
+    "uk": "80 км/год стосується лише певних транспортних засобів (наприклад, із причепом), а не загального обмеження для легкових."
+   },
+   "b": {
+    "en": "60 km/h is not a general limit for this type of road.",
+    "uk": "60 км/год не є загальним обмеженням для такого типу доріг."
+   }
+  }
+ },
+ {
+  "id": "g04-0026",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "B"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "What is the maximum speed at which this light passenger car with a trailer may travel on expressways reserved for motor vehicles and motorcycles?",
+   "options": [
+    "70 km/h.",
+    "80 km/h.",
+    "100 km/h."
+   ],
+   "explanation": "Light passenger cars towing a trailer are limited to 80 km/h on roads reserved for motor vehicles and motorcycles."
+  },
+  "uk": {
+   "q": "З якою максимальною швидкістю цей легковий пасажирський автомобіль із причепом може рухатися дорогами для автомобілів і мотоциклів?",
+   "options": [
+    "70 км/год.",
+    "80 км/год.",
+    "100 км/год."
+   ],
+   "explanation": "Для легкових пасажирських автомобілів із причепом обмеження на дорогах для автомобілів і мотоциклів — 80 км/год."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "70 km/h is the limit for a car with a trailer on ordinary roads, not on expressways.",
+    "uk": "70 км/год — обмеження для автомобіля з причепом на звичайних дорогах, а не на дорогах для автомобілів і мотоциклів."
+   },
+   "c": {
+    "en": "100 km/h is the limit without a trailer (or on motorways with one), not on expressways with a trailer.",
+    "uk": "100 км/год — обмеження без причепа (або на автомагістралях із причепом), а не на дорогах для автомобілів і мотоциклів із причепом."
+   }
+  }
+ },
+ {
+  "id": "g04-0027",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "B"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "What is the maximum permitted speed on this carriageway?",
+   "options": [
+    "It depends on the lane I am in.",
+    "110 km/h.",
+    "100 km/h."
+   ],
+   "explanation": "The sign marks an expressway reserved for motor vehicles and motorcycles, where the maximum for light cars is 100 km/h; there are no lane-specific limits here."
+  },
+  "uk": {
+   "q": "Яка максимально дозволена швидкість на цій проїзній частині?",
+   "options": [
+    "Залежить від смуги руху, якою я рухаюся.",
+    "110 км/год.",
+    "100 км/год."
+   ],
+   "explanation": "Знак позначає дорогу для автомобілів і мотоциклів, де максимум для легкових автомобілів — 100 км/год; окремих обмежень для смуг тут немає."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "There are no per-lane speed signs here, so the limit does not depend on the lane.",
+    "uk": "Тут немає знаків обмеження для окремих смуг, тож обмеження не залежить від смуги."
+   },
+   "b": {
+    "en": "110 km/h is not a limit for light cars on this type of road; it is 100 km/h.",
+    "uk": "110 км/год не є обмеженням для легкових автомобілів на такій дорозі; воно становить 100 км/год."
+   }
+  }
+ },
+ {
+  "id": "g04-0028",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "lights",
+  "en": {
+   "q": "I should know that dipped headlights are intended to light the road ahead of the vehicle for a distance of up to:",
+   "options": [
+    "30 metres.",
+    "50 metres.",
+    "100 metres."
+   ],
+   "explanation": "Dipped beams must illuminate the road ahead up to about 30 m without dazzling others."
+  },
+  "uk": {
+   "q": "Я повинен знати, що ближнє світло призначене для освітлення дороги попереду транспортного засобу на відстань до:",
+   "options": [
+    "30 метрів.",
+    "50 метрів.",
+    "100 метрів."
+   ],
+   "explanation": "Ближнє світло має освітлювати дорогу попереду приблизно на 30 м, не осліплюючи інших."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "50 m exceeds the range of dipped beams, which light up to about 30 m.",
+    "uk": "50 м перевищує дальність ближнього світла, що освітлює приблизно до 30 м."
+   },
+   "c": {
+    "en": "100 m is the minimum range of main beams, not dipped beams.",
+    "uk": "100 м — мінімальна дальність дальнього світла, а не ближнього."
+   }
+  }
+ },
+ {
+  "id": "g04-0029",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "lights",
+  "en": {
+   "q": "I should know that main-beam headlights are intended to light the road ahead of the vehicle for a minimum distance of:",
+   "options": [
+    "30 metres.",
+    "50 metres.",
+    "100 metres."
+   ],
+   "explanation": "Main beams must illuminate the road ahead for at least 100 m."
+  },
+  "uk": {
+   "q": "Я повинен знати, що дальнє світло призначене для освітлення дороги попереду транспортного засобу на відстань щонайменше:",
+   "options": [
+    "30 метрів.",
+    "50 метрів.",
+    "100 метрів."
+   ],
+   "explanation": "Дальнє світло має освітлювати дорогу попереду щонайменше на 100 м."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "30 m is the range of dipped beams, not main beams.",
+    "uk": "30 м — дальність ближнього світла, а не дальнього."
+   },
+   "b": {
+    "en": "50 m is too short; main beams must light at least 100 m.",
+    "uk": "50 м замало; дальнє світло має освітлювати щонайменше 100 м."
+   }
+  }
+ },
+ {
+  "id": "g04-0030",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "accidents",
+  "en": {
+   "q": "The warning triangle must be visible from at least:",
+   "options": [
+    "30 metres.",
+    "50 metres.",
+    "100 metres."
+   ],
+   "explanation": "The warning triangle must be placed so that it is visible from at least 100 m away."
+  },
+  "uk": {
+   "q": "Знак аварійної зупинки повинен бути видимим щонайменше з відстані:",
+   "options": [
+    "30 метрів.",
+    "50 метрів.",
+    "100 метрів."
+   ],
+   "explanation": "Знак аварійної зупинки слід встановлювати так, щоб його було видно щонайменше зі 100 м."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "30 m is too short; the triangle must be visible from at least 100 m.",
+    "uk": "30 м замало; знак має бути видно щонайменше зі 100 м."
+   },
+   "b": {
+    "en": "50 m is too short; the triangle must be visible from at least 100 m.",
+    "uk": "50 м замало; знак має бути видно щонайменше зі 100 м."
+   }
+  }
+ },
+ {
+  "id": "g04-0031",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "A"
+  ],
+  "topic": "lights",
+  "en": {
+   "q": "A motorcycle's main-beam headlights illuminate ahead for a distance of not less than:",
+   "options": [
+    "30 metres.",
+    "50 metres.",
+    "100 metres."
+   ],
+   "explanation": "Main beams, including on motorcycles, must light the road for at least 100 m ahead."
+  },
+  "uk": {
+   "q": "Дальнє світло мотоцикла освітлює дорогу попереду на відстань не менше:",
+   "options": [
+    "30 метрів.",
+    "50 метрів.",
+    "100 метрів."
+   ],
+   "explanation": "Дальнє світло, зокрема на мотоциклах, має освітлювати дорогу щонайменше на 100 м попереду."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "30 m is the range of dipped beams, not main beams.",
+    "uk": "30 м — дальність ближнього світла, а не дальнього."
+   },
+   "b": {
+    "en": "50 m is too short; main beams must light at least 100 m.",
+    "uk": "50 м замало; дальнє світло має освітлювати щонайменше 100 м."
+   }
+  }
+ },
+ {
+  "id": "g04-0032",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "At this location, what is the maximum permitted speed?",
+   "options": [
+    "90 km/h for a heavy passenger vehicle with a trailer.",
+    "120 km/h, for any automobile.",
+    "110 km/h, for light goods vehicles with or without a trailer."
+   ],
+   "explanation": "This is a motorway (A1): heavy passenger vehicles with a trailer are limited to 90 km/h; not all vehicles may do 120, and light goods vehicles with a trailer are limited to 90."
+  },
+  "uk": {
+   "q": "Яка максимально дозволена швидкість у цьому місці?",
+   "options": [
+    "90 км/год для важкого пасажирського автомобіля з причепом.",
+    "120 км/год для будь-якого автомобіля.",
+    "110 км/год для легких вантажних автомобілів із причепом або без нього."
+   ],
+   "explanation": "Це автомагістраль (A1): для важких пасажирських автомобілів із причепом обмеження — 90 км/год; не всі транспортні засоби можуть їхати 120, а легкі вантажні з причепом обмежені 90 км/год."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "120 km/h is only for some vehicles (light cars, motorcycles); heavy vehicles and those with trailers have lower limits.",
+    "uk": "120 км/год — лише для деяких транспортних засобів (легкових, мотоциклів); важкі та з причепами мають нижчі обмеження."
+   },
+   "c": {
+    "en": "110 km/h applies to light goods vehicles without a trailer only; with a trailer the limit is 90 km/h.",
+    "uk": "110 км/год стосується лише легких вантажних автомобілів без причепа; з причепом обмеження — 90 км/год."
+   }
+  }
+ },
+ {
+  "id": "g04-0033",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "B"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "On a motorway the maximum permitted speed for a light passenger car with a trailer is:",
+   "options": [
+    "120 km/h.",
+    "100 km/h.",
+    "110 km/h."
+   ],
+   "explanation": "Light passenger cars towing a trailer are limited to 100 km/h on motorways."
+  },
+  "uk": {
+   "q": "На автомагістралі максимально дозволена швидкість для легкового пасажирського автомобіля з причепом становить:",
+   "options": [
+    "120 км/год.",
+    "100 км/год.",
+    "110 км/год."
+   ],
+   "explanation": "Для легкових пасажирських автомобілів із причепом обмеження на автомагістралях — 100 км/год."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "120 km/h is for cars without a trailer; towing lowers the limit to 100 km/h.",
+    "uk": "120 км/год — для автомобілів без причепа; буксирування знижує обмеження до 100 км/год."
+   },
+   "c": {
+    "en": "110 km/h is the limit for light goods vehicles, not cars with a trailer.",
+    "uk": "110 км/год — обмеження для легких вантажних автомобілів, а не для легкових із причепом."
+   }
+  }
+ },
+ {
+  "id": "g04-0034",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "B"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "I am driving a light goods vehicle without a trailer. What is the maximum permitted speed at this location?",
+   "options": [
+    "90 km/h.",
+    "100 km/h.",
+    "110 km/h."
+   ],
+   "explanation": "The blue panel with a diagonal stripe is a motorway exit-approach marker, so this is a motorway, where light goods vehicles without a trailer are limited to 110 km/h."
+  },
+  "uk": {
+   "q": "Я керую легким вантажним автомобілем без причепа. Яка максимально дозволена швидкість у цьому місці?",
+   "options": [
+    "90 км/год.",
+    "100 км/год.",
+    "110 км/год."
+   ],
+   "explanation": "Синя табличка з діагональною смугою — покажчик наближення до виїзду з автомагістралі, тож це автомагістраль, де для легких вантажних автомобілів без причепа обмеження — 110 км/год."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "90 km/h is the limit for light goods vehicles on expressways, but this is a motorway.",
+    "uk": "90 км/год — обмеження для легких вантажних на дорогах для автомобілів і мотоциклів, але це автомагістраль."
+   },
+   "b": {
+    "en": "100 km/h is not a limit for light goods vehicles without a trailer on a motorway.",
+    "uk": "100 км/год не є обмеженням для легких вантажних автомобілів без причепа на автомагістралі."
+   }
+  }
+ },
+ {
+  "id": "g04-0035",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "B"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "On the road indicated by the sign, what is the maximum speed at which a light goods vehicle without a trailer may travel?",
+   "options": [
+    "70 km/h.",
+    "90 km/h.",
+    "110 km/h."
+   ],
+   "explanation": "The sign marks a road reserved for motor vehicles and motorcycles, where light goods vehicles without a trailer are limited to 90 km/h."
+  },
+  "uk": {
+   "q": "З якою максимальною швидкістю легкий вантажний автомобіль без причепа може рухатися дорогою, позначеною знаком?",
+   "options": [
+    "70 км/год.",
+    "90 км/год.",
+    "110 км/год."
+   ],
+   "explanation": "Знак позначає дорогу для автомобілів і мотоциклів, де для легких вантажних автомобілів без причепа обмеження — 90 км/год."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "70 km/h is the limit for light goods vehicles with a trailer on ordinary roads.",
+    "uk": "70 км/год — обмеження для легких вантажних автомобілів із причепом на звичайних дорогах."
+   },
+   "c": {
+    "en": "110 km/h is the motorway limit for light goods vehicles, not for this type of road.",
+    "uk": "110 км/год — обмеження для легких вантажних на автомагістралі, а не на такій дорозі."
+   }
+  }
+ },
+ {
+  "id": "g04-0036",
+  "answer": "a",
+  "confidence": "low",
+  "categories": [
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "On this road, at what speed may the heavy passenger vehicle travel?",
+   "options": [
+    "80 km/h.",
+    "100 km/h.",
+    "110 km/h."
+   ],
+   "explanation": "The sign marks a road reserved for motor vehicles and motorcycles. The expected answer (old table) is 80 km/h; under the current table the limit for heavy passenger vehicles without a trailer there appears to be 90 km/h, so this is uncertain."
+  },
+  "uk": {
+   "q": "З якою швидкістю може рухатися цією дорогою важкий пасажирський автомобіль?",
+   "options": [
+    "80 км/год.",
+    "100 км/год.",
+    "110 км/год."
+   ],
+   "explanation": "Знак позначає дорогу для автомобілів і мотоциклів. Очікувана відповідь (за старою таблицею) — 80 км/год; за чинною таблицею обмеження там для важких пасажирських автомобілів без причепа, схоже, становить 90 км/год, тож відповідь непевна."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "100 km/h is the motorway limit for buses, not for this type of road.",
+    "uk": "100 км/год — обмеження для автобусів на автомагістралі, а не на такій дорозі."
+   },
+   "c": {
+    "en": "110 km/h is never allowed for heavy passenger vehicles.",
+    "uk": "110 км/год ніколи не дозволено важким пасажирським автомобілям."
+   }
+  }
+ },
+ {
+  "id": "g04-0037",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "C"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "The vehicle coming in the opposite direction is a heavy vehicle with a semi-trailer. Outside a built-up area, it may reach a speed of:",
+   "options": [
+    "70 km/h.",
+    "90 km/h.",
+    "110 km/h."
+   ],
+   "explanation": "Heavy goods vehicles with a trailer or semi-trailer are limited to 70 km/h on ordinary roads outside built-up areas."
+  },
+  "uk": {
+   "q": "Транспортний засіб, що рухається назустріч, — важкий автомобіль із напівпричепом. Поза населеним пунктом він може досягати швидкості:",
+   "options": [
+    "70 км/год.",
+    "90 км/год.",
+    "110 км/год."
+   ],
+   "explanation": "Для важких вантажних автомобілів із причепом або напівпричепом на звичайних дорогах поза населеними пунктами обмеження — 70 км/год."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "90 km/h is far above what heavy vehicles with a semi-trailer may do on ordinary roads.",
+    "uk": "90 км/год значно перевищує дозволене для важких автомобілів із напівпричепом на звичайних дорогах."
+   },
+   "c": {
+    "en": "110 km/h is never allowed for heavy goods vehicles.",
+    "uk": "110 км/год ніколи не дозволено важким вантажним автомобілям."
+   }
+  }
+ },
+ {
+  "id": "g04-0038",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "B"
+  ],
+  "topic": "passengers_cargo",
+  "en": {
+   "q": "As a general rule, children may be carried in the front seat provided they are older than:",
+   "options": [
+    "3 years.",
+    "7 years.",
+    "12 years."
+   ],
+   "explanation": "Children under 12 (and under 135 cm) must as a rule travel in the back in an appropriate restraint system."
+  },
+  "uk": {
+   "q": "Як правило, дітей можна перевозити на передньому сидінні, якщо їм більше ніж:",
+   "options": [
+    "3 роки.",
+    "7 років.",
+    "12 років."
+   ],
+   "explanation": "Діти до 12 років (і зростом до 135 см) як правило мають їхати на задньому сидінні у відповідній утримувальній системі."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "At 3 years old a child must still travel in the back in a suitable restraint system.",
+    "uk": "У 3 роки дитина ще має їхати позаду у відповідній утримувальній системі."
+   },
+   "b": {
+    "en": "7 years is the age limit for motorcycle passengers, not for the front seat of a car.",
+    "uk": "7 років — вікова межа для пасажирів мотоцикла, а не для переднього сидіння автомобіля."
+   }
+  }
+ },
+ {
+  "id": "g04-0039",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "A",
+   "AM"
+  ],
+  "topic": "passengers_cargo",
+  "en": {
+   "q": "On motorcycles it is prohibited to carry passengers aged under:",
+   "options": [
+    "7 years.",
+    "8 years.",
+    "12 years."
+   ],
+   "explanation": "Children under 7 may not be carried as passengers on motorcycles or mopeds."
+  },
+  "uk": {
+   "q": "На мотоциклах заборонено перевозити пасажирів віком до:",
+   "options": [
+    "7 років.",
+    "8 років.",
+    "12 років."
+   ],
+   "explanation": "Дітей до 7 років не можна перевозити пасажирами на мотоциклах чи мопедах."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "8 years is not the legal threshold; the ban applies to children under 7.",
+    "uk": "8 років не є законною межею; заборона стосується дітей до 7 років."
+   },
+   "c": {
+    "en": "12 years is the rule for the front seat of cars, not for motorcycle passengers.",
+    "uk": "12 років — правило для переднього сидіння автомобіля, а не для пасажирів мотоцикла."
+   }
+  }
+ },
+ {
+  "id": "g04-0040",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "A driver found driving under the influence of alcohol who has not been re-tested may only resume driving after:",
+   "options": [
+    "6 hours.",
+    "8 hours.",
+    "12 hours."
+   ],
+   "explanation": "A driver caught under the influence is prevented from driving for 12 hours unless a new test shows they are no longer under the influence."
+  },
+  "uk": {
+   "q": "Водій, якого виявили за кермом під впливом алкоголю і якого не перевіряли повторно, може відновити керування лише через:",
+   "options": [
+    "6 годин.",
+    "8 годин.",
+    "12 годин."
+   ],
+   "explanation": "Водієві, якого виявили під впливом алкоголю, забороняється керувати 12 годин, якщо повторна перевірка не покаже, що він уже не під впливом."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "6 hours is too short; the driving ban lasts 12 hours.",
+    "uk": "6 годин замало; заборона керування триває 12 годин."
+   },
+   "b": {
+    "en": "8 hours is too short; the driving ban lasts 12 hours.",
+    "uk": "8 годин замало; заборона керування триває 12 годин."
+   }
+  }
+ },
+ {
+  "id": "g04-0041",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "The prohibition on driving after an alcohol test, when the driver has a level above 0.5 g/l, must last for:",
+   "options": [
+    "48 hours.",
+    "24 hours.",
+    "12 hours."
+   ],
+   "explanation": "The driver is prevented from driving for 12 hours (unless a new test is negative)."
+  },
+  "uk": {
+   "q": "Заборона керування після перевірки на алкоголь, коли у водія вміст понад 0,5 г/л, має тривати:",
+   "options": [
+    "48 годин.",
+    "24 години.",
+    "12 годин."
+   ],
+   "explanation": "Водієві забороняється керувати протягом 12 годин (якщо повторна перевірка не дасть негативного результату)."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "48 hours is too long; the law sets 12 hours.",
+    "uk": "48 годин забагато; закон встановлює 12 годин."
+   },
+   "b": {
+    "en": "24 hours is too long; the law sets 12 hours.",
+    "uk": "24 години забагато; закон встановлює 12 годин."
+   }
+  }
+ },
+ {
+  "id": "g04-0042",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "A driver with a blood alcohol content of 0.5 g/l or more is prevented from driving for:",
+   "options": [
+    "8 hours.",
+    "10 hours.",
+    "12 hours."
+   ],
+   "explanation": "The law imposes a 12-hour ban on driving after a positive test, unless a new test proves otherwise."
+  },
+  "uk": {
+   "q": "Водій із вмістом алкоголю в крові 0,5 г/л або більше позбавляється можливості керувати на:",
+   "options": [
+    "8 годин.",
+    "10 годин.",
+    "12 годин."
+   ],
+   "explanation": "Закон встановлює заборону керування на 12 годин після позитивного тесту, якщо повторна перевірка не доведе протилежного."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "8 hours is too short; the ban lasts 12 hours.",
+    "uk": "8 годин замало; заборона триває 12 годин."
+   },
+   "b": {
+    "en": "10 hours is too short; the ban lasts 12 hours.",
+    "uk": "10 годин замало; заборона триває 12 годин."
+   }
+  }
+ },
+ {
+  "id": "g04-0043",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "If a vehicle shows clear signs of abandonment, it will be considered abusive parking if it remains in the same place for longer than:",
+   "options": [
+    "48 hours.",
+    "24 hours.",
+    "12 hours."
+   ],
+   "explanation": "A vehicle showing clear signs of abandonment parked in the same place for more than 48 hours is considered abusively parked."
+  },
+  "uk": {
+   "q": "Якщо транспортний засіб має явні ознаки покинутості, стоянка вважатиметься зловживанням, якщо він перебуває на тому самому місці понад:",
+   "options": [
+    "48 годин.",
+    "24 години.",
+    "12 годин."
+   ],
+   "explanation": "Транспортний засіб із явними ознаками покинутості, що стоїть на тому самому місці понад 48 годин, вважається таким, що стоїть з порушенням (зловживанням)."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "24 hours is too short; abandoned vehicles are considered abusive after 48 hours.",
+    "uk": "24 години замало; покинуті транспортні засоби вважаються такими, що стоять зі зловживанням, після 48 годин."
+   },
+   "c": {
+    "en": "12 hours is too short; the law sets 48 hours.",
+    "uk": "12 годин замало; закон встановлює 48 годин."
+   }
+  }
+ },
+ {
+  "id": "g04-0044",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "C",
+   "D"
+  ],
+  "topic": "legal",
+  "en": {
+   "q": "One full revolution of the tachograph disc corresponds to a recording period of:",
+   "options": [
+    "8 hours;",
+    "24 hours;",
+    "12 hours."
+   ],
+   "explanation": "Analogue tachograph discs record a 24-hour period per revolution."
+  },
+  "uk": {
+   "q": "Один повний оберт диска тахографа відповідає періоду запису:",
+   "options": [
+    "8 годин;",
+    "24 години;",
+    "12 годин."
+   ],
+   "explanation": "Аналогові диски тахографа реєструють 24-годинний період за один оберт."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "8 hours would be a single shift, but a disc covers a full day of 24 hours.",
+    "uk": "8 годин — це одна зміна, але диск охоплює повну добу — 24 години."
+   },
+   "c": {
+    "en": "12 hours is only half a revolution; a disc covers 24 hours.",
+    "uk": "12 годин — лише пів оберту; диск охоплює 24 години."
+   }
+  }
+ },
+ {
+  "id": "g04-0045",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "C"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum legally permitted length for 4-axle heavy goods vehicles is:",
+   "options": [
+    "10 metres;",
+    "11 metres;",
+    "12 metres."
+   ],
+   "explanation": "Rigid motor vehicles, including 4-axle heavy goods vehicles, may be at most 12 m long."
+  },
+  "uk": {
+   "q": "Максимально допустима законом довжина важких вантажних автомобілів із 4 осями становить:",
+   "options": [
+    "10 метрів;",
+    "11 метрів;",
+    "12 метрів."
+   ],
+   "explanation": "Одиночні автомобілі, зокрема важкі вантажні з 4 осями, можуть мати довжину не більше 12 м."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "10 m is shorter than the legal maximum of 12 m.",
+    "uk": "10 м менше за законний максимум 12 м."
+   },
+   "b": {
+    "en": "11 m is shorter than the legal maximum of 12 m.",
+    "uk": "11 м менше за законний максимум 12 м."
+   }
+  }
+ },
+ {
+  "id": "g04-0046",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "C"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum permissible length for a two-axle trailer is:",
+   "options": [
+    "6 metres;",
+    "7 metres;",
+    "12 metres."
+   ],
+   "explanation": "The maximum length for a trailer is 12 m, the same as for a rigid vehicle."
+  },
+  "uk": {
+   "q": "Максимально допустима довжина двовісного причепа становить:",
+   "options": [
+    "6 метрів;",
+    "7 метрів;",
+    "12 метрів."
+   ],
+   "explanation": "Максимальна довжина причепа — 12 м, як і для одиночного автомобіля."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "6 m is far below the 12 m maximum for trailers.",
+    "uk": "6 м значно менше за максимум 12 м для причепів."
+   },
+   "b": {
+    "en": "7 m is far below the 12 m maximum for trailers.",
+    "uk": "7 м значно менше за максимум 12 м для причепів."
+   }
+  }
+ },
+ {
+  "id": "g04-0047",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "C"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum permissible gross weight for the rear drive axle of a vehicle is:",
+   "options": [
+    "7.5 tonnes;",
+    "10 tonnes;",
+    "12 tonnes."
+   ],
+   "explanation": "Portuguese weight regulations allow up to 12 t on a single drive axle."
+  },
+  "uk": {
+   "q": "Максимально допустима повна маса на задню ведучу вісь автомобіля становить:",
+   "options": [
+    "7,5 тонни;",
+    "10 тонн;",
+    "12 тонн."
+   ],
+   "explanation": "Португальські правила щодо мас дозволяють до 12 т на одиночну ведучу вісь."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "7.5 t is too low for a heavy vehicle's drive axle.",
+    "uk": "7,5 т замало для ведучої осі важкого автомобіля."
+   },
+   "b": {
+    "en": "10 t is the limit for a non-driven single axle, not the drive axle.",
+    "uk": "10 т — обмеження для одиночної неведучої осі, а не ведучої."
+   }
+  }
+ },
+ {
+  "id": "g04-0048",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "B"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "I am driving a light passenger car without a trailer on a road reserved for motor vehicles and motorcycles. What is the maximum speed at which I may travel?",
+   "options": [
+    "90 km/h.",
+    "100 km/h",
+    "120 km/h."
+   ],
+   "explanation": "Light passenger cars without a trailer are limited to 100 km/h on roads reserved for motor vehicles and motorcycles."
+  },
+  "uk": {
+   "q": "Я керую легковим пасажирським автомобілем без причепа на дорозі для автомобілів і мотоциклів. З якою максимальною швидкістю я можу рухатися?",
+   "options": [
+    "90 км/год.",
+    "100 км/год",
+    "120 км/год."
+   ],
+   "explanation": "Для легкових пасажирських автомобілів без причепа на дорогах для автомобілів і мотоциклів обмеження — 100 км/год."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "90 km/h is the limit on ordinary roads, not on roads reserved for motor vehicles.",
+    "uk": "90 км/год — обмеження на звичайних дорогах, а не на дорогах для автомобілів і мотоциклів."
+   },
+   "c": {
+    "en": "120 km/h is the motorway limit, not the expressway limit.",
+    "uk": "120 км/год — обмеження на автомагістралі, а не на дорозі для автомобілів і мотоциклів."
+   }
+  }
+ },
+ {
+  "id": "g04-0049",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "B"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "What is the maximum permitted speed for the lane I am about to enter?",
+   "options": [
+    "100 km/h.",
+    "110 km/h.",
+    "120 km/h."
+   ],
+   "explanation": "The sign marks a road reserved for motor vehicles and motorcycles, where the general limit for light cars is 100 km/h."
+  },
+  "uk": {
+   "q": "Яка максимально дозволена швидкість на смузі руху, на яку я збираюся виїхати?",
+   "options": [
+    "100 км/год.",
+    "110 км/год.",
+    "120 км/год."
+   ],
+   "explanation": "Знак позначає дорогу для автомобілів і мотоциклів, де загальне обмеження для легкових автомобілів — 100 км/год."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "110 km/h is not a limit for light cars on this type of road.",
+    "uk": "110 км/год не є обмеженням для легкових автомобілів на такій дорозі."
+   },
+   "c": {
+    "en": "120 km/h applies only on motorways.",
+    "uk": "120 км/год діє лише на автомагістралях."
+   }
+  }
+ },
+ {
+  "id": "g04-0050",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "B"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "Driving a light goods vehicle with a trailer, what is the maximum speed at which I may travel on the road I am about to enter?",
+   "options": [
+    "80 km/h.",
+    "100 km/h.",
+    "120 km/h."
+   ],
+   "explanation": "The sign marks a road reserved for motor vehicles and motorcycles, where light goods vehicles with a trailer are limited to 80 km/h."
+  },
+  "uk": {
+   "q": "Яку максимальну швидкість я можу мати на дорозі, на яку збираюся виїхати, керуючи легким вантажним автомобілем із причепом?",
+   "options": [
+    "80 км/год.",
+    "100 км/год.",
+    "120 км/год."
+   ],
+   "explanation": "Знак позначає дорогу для автомобілів і мотоциклів, де для легких вантажних автомобілів із причепом обмеження — 80 км/год."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "100 km/h is too high for a light goods vehicle towing a trailer on this road.",
+    "uk": "100 км/год забагато для легкого вантажного автомобіля з причепом на цій дорозі."
+   },
+   "c": {
+    "en": "120 km/h is the motorway limit for light cars without a trailer, not for this vehicle.",
+    "uk": "120 км/год — обмеження на автомагістралі для легкових без причепа, а не для цього транспортного засобу."
+   }
+  }
+ },
+ {
+  "id": "g04-0051",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "Because I am travelling on a motorway, the maximum permitted speed is:",
+   "options": [
+    "70 km/h.",
+    "90 km/h.",
+    "120 km/h."
+   ],
+   "explanation": "The general maximum on motorways is 120 km/h; the blue round signs shown are minimum speeds per lane, not maximums."
+  },
+  "uk": {
+   "q": "Оскільки я рухаюся автомагістраллю, максимально дозволена швидкість становить:",
+   "options": [
+    "70 км/год.",
+    "90 км/год.",
+    "120 км/год."
+   ],
+   "explanation": "Загальний максимум на автомагістралях — 120 км/год; зображені сині круглі знаки — мінімальні швидкості для смуг, а не максимальні."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "70 km/h is the minimum for one of the lanes shown, not the motorway maximum.",
+    "uk": "70 км/год — мінімум для однієї зі смуг на зображенні, а не максимум на автомагістралі."
+   },
+   "b": {
+    "en": "90 km/h is the minimum for one of the lanes shown, not the motorway maximum.",
+    "uk": "90 км/год — мінімум для однієї зі смуг на зображенні, а не максимум на автомагістралі."
+   }
+  }
+ },
+ {
+  "id": "g04-0052",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "In the lane I am travelling in, the minimum permitted speed is:",
+   "options": [
+    "60 km/h.",
+    "90 km/h.",
+    "120 km/h."
+   ],
+   "explanation": "The overhead blue round signs set minimum speeds per lane; my lane (right-hand) has a minimum of 60 km/h."
+  },
+  "uk": {
+   "q": "На смузі руху, якою я рухаюся, мінімально дозволена швидкість становить:",
+   "options": [
+    "60 км/год.",
+    "90 км/год.",
+    "120 км/год."
+   ],
+   "explanation": "Сині круглі знаки над смугами встановлюють мінімальні швидкості для кожної смуги; на моїй (правій) смузі мінімум — 60 км/год."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "90 km/h is the minimum for another lane, not mine.",
+    "uk": "90 км/год — мінімум для іншої смуги, а не моєї."
+   },
+   "c": {
+    "en": "120 km/h is the motorway maximum, not a minimum.",
+    "uk": "120 км/год — максимум на автомагістралі, а не мінімум."
+   }
+  }
+ },
+ {
+  "id": "g04-0053",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "Anyone with a positive result in an alcohol test is prevented from driving for a period of:",
+   "options": [
+    "10 hours.",
+    "12 hours.",
+    "14 hours."
+   ],
+   "explanation": "A positive alcohol test leads to a 12-hour driving prohibition, unless a new test proves the driver is no longer under the influence."
+  },
+  "uk": {
+   "q": "Будь-хто з позитивним результатом перевірки на алкоголь позбавляється можливості керувати на період:",
+   "options": [
+    "10 годин.",
+    "12 годин.",
+    "14 годин."
+   ],
+   "explanation": "Позитивний результат перевірки на алкоголь тягне заборону керування на 12 годин, якщо повторна перевірка не доведе, що водій уже не під впливом."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "10 hours is too short; the ban lasts 12 hours.",
+    "uk": "10 годин замало; заборона триває 12 годин."
+   },
+   "c": {
+    "en": "14 hours is too long; the law sets 12 hours.",
+    "uk": "14 годин забагато; закон встановлює 12 годин."
+   }
+  }
+ },
+ {
+  "id": "g04-0054",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum legally permitted length for 2-axle heavy passenger vehicles is:",
+   "options": [
+    "13 metres;",
+    "13.5 metres;",
+    "14 metres."
+   ],
+   "explanation": "Two-axle buses may be up to 13.5 m long."
+  },
+  "uk": {
+   "q": "Максимально допустима законом довжина двовісних важких пасажирських автомобілів становить:",
+   "options": [
+    "13 метрів;",
+    "13,5 метра;",
+    "14 метрів."
+   ],
+   "explanation": "Двовісні автобуси можуть мати довжину до 13,5 м."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "13 m is below the 13.5 m allowed for two-axle buses.",
+    "uk": "13 м менше за 13,5 м, дозволені для двовісних автобусів."
+   },
+   "c": {
+    "en": "14 m exceeds the 13.5 m allowed for two-axle buses.",
+    "uk": "14 м перевищує 13,5 м, дозволені для двовісних автобусів."
+   }
+  }
+ },
+ {
+  "id": "g04-0055",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "legal",
+  "en": {
+   "q": "What is the deadline for voluntary payment of the fine, without additional costs, for committing an administrative offence?",
+   "options": [
+    "8 days.",
+    "10 days",
+    "15 working days."
+   ],
+   "explanation": "The voluntary payment of the fine, at the minimum amount and without costs, can be made within 15 working days of notification."
+  },
+  "uk": {
+   "q": "Який строк добровільної сплати штрафу без додаткових витрат за вчинення адміністративного правопорушення?",
+   "options": [
+    "8 днів.",
+    "10 днів",
+    "15 робочих днів."
+   ],
+   "explanation": "Добровільну сплату штрафу в мінімальному розмірі без витрат можна здійснити протягом 15 робочих днів після повідомлення."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "8 days is shorter than the 15 working days allowed.",
+    "uk": "8 днів менше за 15 робочих днів, що надаються."
+   },
+   "b": {
+    "en": "10 days is shorter than the 15 working days allowed.",
+    "uk": "10 днів менше за 15 робочих днів, що надаються."
+   }
+  }
+ },
+ {
+  "id": "g04-0056",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "Parking is prohibited less than:",
+   "options": [
+    "5 metres before a pedestrian crossing.",
+    "8 metres before a pedestrian crossing.",
+    "15 metres before a pedestrian crossing."
+   ],
+   "explanation": "Parking is prohibited on and within 5 m before pedestrian crossings."
+  },
+  "uk": {
+   "q": "Стоянка заборонена на відстані менше:",
+   "options": [
+    "5 метрів перед пішохідним переходом.",
+    "8 метрів перед пішохідним переходом.",
+    "15 метрів перед пішохідним переходом."
+   ],
+   "explanation": "Стоянку заборонено на пішохідних переходах і ближче ніж за 5 м перед ними."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "8 m is not the rule; parking is banned within 5 m before a pedestrian crossing.",
+    "uk": "8 м — не правило; стоянку заборонено в межах 5 м перед пішохідним переходом."
+   },
+   "c": {
+    "en": "15 m is not the rule for pedestrian crossings; it is 5 m.",
+    "uk": "15 м — не правило для пішохідних переходів; правило — 5 м."
+   }
+  }
+ },
+ {
+  "id": "g04-0057",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum legally permitted length for a heavy vehicle is:",
+   "options": [
+    "10 metres;",
+    "12 metres;",
+    "15.5 metres."
+   ],
+   "explanation": "A rigid heavy vehicle may be at most 12 m long (buses have specific exceptions, e.g. 13.5 m or 15 m)."
+  },
+  "uk": {
+   "q": "Максимально допустима законом довжина важкого автомобіля становить:",
+   "options": [
+    "10 метрів;",
+    "12 метрів;",
+    "15,5 метра."
+   ],
+   "explanation": "Одиночний важкий автомобіль може мати довжину не більше 12 м (для автобусів є окремі винятки, наприклад 13,5 м чи 15 м)."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "10 m is shorter than the 12 m maximum for a rigid heavy vehicle.",
+    "uk": "10 м менше за максимум 12 м для одиночного важкого автомобіля."
+   },
+   "c": {
+    "en": "15.5 m exceeds the maximum for a rigid heavy vehicle (that length relates to combinations).",
+    "uk": "15,5 м перевищує максимум для одиночного важкого автомобіля (така довжина стосується автопоїздів)."
+   }
+  }
+ }
+]

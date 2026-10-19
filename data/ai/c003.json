@@ -1,0 +1,2312 @@
+[
+ {
+  "id": "g01-0161",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "Should speed be especially moderated here?",
+   "options": [
+    "Yes.",
+    "No."
+   ],
+   "explanation": "Fog severely limits visibility, so speed must be especially reduced."
+  },
+  "uk": {
+   "q": "Чи слід тут особливо знижувати швидкість?",
+   "options": [
+    "Так.",
+    "Ні."
+   ],
+   "explanation": "Туман суттєво обмежує видимість, тому швидкість слід особливо знизити."
+  }
+ },
+ {
+  "id": "g01-0162",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "What should I do in this situation?",
+   "options": [
+    "Stop immediately.",
+    "Watch the pedestrian's behaviour."
+   ],
+   "explanation": "The pedestrian at the roadside may step into the road; stay alert and ready to react, there is no need to stop."
+  },
+  "uk": {
+   "q": "Що я маю робити в цій ситуації?",
+   "options": [
+    "Негайно зупинитися.",
+    "Стежити за поведінкою пішохода."
+   ],
+   "explanation": "Пішохід на узбіччі може вийти на дорогу; будьте уважні й готові реагувати, зупинятися не потрібно."
+  }
+ },
+ {
+  "id": "g01-0163",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "Is the pedestrian walking correctly?",
+   "options": [
+    "Yes.",
+    "No."
+   ],
+   "explanation": "With no pavement, the pedestrian walks along the edge of the road facing oncoming traffic, which is correct."
+  },
+  "uk": {
+   "q": "Чи правильно рухається пішохід?",
+   "options": [
+    "Так.",
+    "Ні."
+   ],
+   "explanation": "За відсутності тротуару пішохід іде краєм дороги назустріч транспорту, що є правильним."
+  }
+ },
+ {
+  "id": "g01-0164",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "lights",
+  "en": {
+   "q": "In this situation I may drive with main beam headlights.",
+   "options": [
+    "Correct.",
+    "Incorrect."
+   ],
+   "explanation": "There is oncoming traffic and vehicles ahead in a built-up area; main beam would dazzle them."
+  },
+  "uk": {
+   "q": "У цій ситуації я можу рухатися з дальнім світлом.",
+   "options": [
+    "Правильно.",
+    "Неправильно."
+   ],
+   "explanation": "У населеному пункті є зустрічний транспорт і автомобілі попереду; дальнє світло засліплювало б їх."
+  }
+ },
+ {
+  "id": "g01-0165",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "environment",
+  "en": {
+   "q": "From the windsock on the left of the road, I know that the wind:",
+   "options": [
+    "Affects the vehicle's fuel consumption.",
+    "Does not affect the vehicle's fuel consumption."
+   ],
+   "explanation": "Wind, especially head or cross wind, increases air resistance and therefore fuel consumption."
+  },
+  "uk": {
+   "q": "З вітроуказівника ліворуч від дороги я розумію, що вітер:",
+   "options": [
+    "Впливає на витрату пального автомобілем.",
+    "Не впливає на витрату пального автомобілем."
+   ],
+   "explanation": "Вітер, особливо зустрічний чи боковий, збільшує опір повітря, а отже й витрату пального."
+  }
+ },
+ {
+  "id": "g01-0166",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "In this situation, with adverse weather conditions, I must:",
+   "options": [
+    "Reduce speed and reduce the safety distance.",
+    "Increase the safety distance."
+   ],
+   "explanation": "Rain and wind reduce grip and visibility, so the safety distance must be increased."
+  },
+  "uk": {
+   "q": "У цій ситуації за несприятливих погодних умов я повинен:",
+   "options": [
+    "Знизити швидкість і зменшити безпечну дистанцію.",
+    "Збільшити безпечну дистанцію."
+   ],
+   "explanation": "Дощ і вітер погіршують зчеплення та видимість, тому безпечну дистанцію треба збільшити."
+  }
+ },
+ {
+  "id": "g01-0167",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "In this situation speed must be moderated because:",
+   "options": [
+    "The environmental and traffic conditions are unfavourable.",
+    "I am driving on a motorway."
+   ],
+   "explanation": "Rain, wind and road works (cones) make conditions unfavourable, which requires moderating speed."
+  },
+  "uk": {
+   "q": "У цій ситуації швидкість слід знизити, тому що:",
+   "options": [
+    "Погодні умови та умови руху несприятливі.",
+    "Я рухаюся автомагістраллю."
+   ],
+   "explanation": "Дощ, вітер і дорожні роботи (конуси) створюють несприятливі умови, що вимагає зниження швидкості."
+  }
+ },
+ {
+  "id": "g01-0168",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "Tyre air pressure should be checked when the tyres are:",
+   "options": [
+    "Hot.",
+    "Cold."
+   ],
+   "explanation": "Pressure rises when tyres heat up, so it must be checked cold for a correct reading."
+  },
+  "uk": {
+   "q": "Тиск повітря в шинах слід перевіряти, коли вони:",
+   "options": [
+    "Гарячі.",
+    "Холодні."
+   ],
+   "explanation": "Тиск зростає, коли шини нагріваються, тому для правильних показників його перевіряють на холодних шинах."
+  }
+ },
+ {
+  "id": "g01-0169",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "Speed must be especially moderated when weather conditions are unfavourable.",
+   "options": [
+    "Correct.",
+    "Incorrect."
+   ],
+   "explanation": "The Highway Code requires especially moderate speed in adverse weather."
+  },
+  "uk": {
+   "q": "Швидкість слід особливо знижувати, коли погодні умови несприятливі.",
+   "options": [
+    "Правильно.",
+    "Неправильно."
+   ],
+   "explanation": "Кодекс дорожнього руху вимагає особливо знижувати швидкість у несприятливу погоду."
+  }
+ },
+ {
+  "id": "g01-0170",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "legal",
+  "en": {
+   "q": "Can a vehicle with a gross weight of 4500 kg be considered a light vehicle?",
+   "options": [
+    "Yes.",
+    "No."
+   ],
+   "explanation": "Light vehicles have a gross weight of up to 3500 kg; above that they are heavy vehicles."
+  },
+  "uk": {
+   "q": "Чи може автомобіль загальною масою 4500 кг вважатися легковим?",
+   "options": [
+    "Так.",
+    "Ні."
+   ],
+   "explanation": "Легкові автомобілі мають загальну масу до 3500 кг; понад це вони є важкими."
+  }
+ },
+ {
+  "id": "g01-0171",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "Aquaplaning can occur:",
+   "options": [
+    "Only with bald tyres.",
+    "If I do not adapt my speed to the road surface conditions."
+   ],
+   "explanation": "Aquaplaning depends mainly on speed on wet surfaces; worn tyres increase the risk but are not the only cause."
+  },
+  "uk": {
+   "q": "Аквапланування може виникнути:",
+   "options": [
+    "Лише з лисими шинами.",
+    "Якщо я не пристосую швидкість до стану покриття."
+   ],
+   "explanation": "Аквапланування залежить насамперед від швидкості на мокрому покритті; зношені шини збільшують ризик, але не є єдиною причиною."
+  }
+ },
+ {
+  "id": "g01-0172",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "lights",
+  "en": {
+   "q": "In this situation should I use dipped headlights?",
+   "options": [
+    "Yes, it is compulsory.",
+    "No, as long as there is no vehicle in front of me."
+   ],
+   "explanation": "Heavy rain and mist reduce visibility, so dipped headlights are compulsory."
+  },
+  "uk": {
+   "q": "Чи повинен я в цій ситуації увімкнути ближнє світло?",
+   "options": [
+    "Так, це обов'язково.",
+    "Ні, якщо попереду немає жодного транспортного засобу."
+   ],
+   "explanation": "Сильний дощ і серпанок знижують видимість, тому ближнє світло обов'язкове."
+  }
+ },
+ {
+  "id": "g01-0173",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "The driver may use the horn:",
+   "options": [
+    "As a form of protest.",
+    "At night, outside built-up areas."
+   ],
+   "explanation": "The horn may never be used as a protest; outside built-up areas it may be used, e.g. to warn of danger, and at night it should preferably be replaced by light signals."
+  },
+  "uk": {
+   "q": "Водій може подавати звуковий сигнал:",
+   "options": [
+    "Як форму протесту.",
+    "Уночі поза населеними пунктами."
+   ],
+   "explanation": "Звуковий сигнал ніколи не можна використовувати як протест; поза населеними пунктами його можна подавати, наприклад, для попередження про небезпеку, а вночі бажано замінювати світловими сигналами."
+  }
+ },
+ {
+  "id": "g01-0174",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "While both lines of vehicles remain full, I must not leave the lane I am in.",
+   "options": [
+    "Correct.",
+    "Incorrect."
+   ],
+   "explanation": "In dense traffic with queues in all lanes, drivers must stay in their lane and not change lanes."
+  },
+  "uk": {
+   "q": "Поки обидва ряди транспорту заповнені, я не повинен залишати смугу руху, якою рухаюся.",
+   "options": [
+    "Правильно.",
+    "Неправильно."
+   ],
+   "explanation": "У щільному русі з колонами в усіх смугах водії мають залишатися у своїй смузі й не перестроюватися."
+  }
+ },
+ {
+  "id": "g01-0175",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "environment",
+  "en": {
+   "q": "In this situation does the driver in front commit an offence?",
+   "options": [
+    "Yes.",
+    "No."
+   ],
+   "explanation": "The vehicle is emitting excessive smoke/dust, which is prohibited and punishable."
+  },
+  "uk": {
+   "q": "Чи вчиняє в цій ситуації водій попереду правопорушення?",
+   "options": [
+    "Так.",
+    "Ні."
+   ],
+   "explanation": "Автомобіль викидає надмірну кількість диму/пилу, що заборонено і карається."
+  }
+ },
+ {
+  "id": "g01-0176",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "accidents",
+  "en": {
+   "q": "If a vehicle breaks down on the 25 de Abril Bridge, its occupants, while waiting for help, must:",
+   "options": [
+    "Stay inside the vehicle, after placing the warning triangle.",
+    "Stand behind the vehicle."
+   ],
+   "explanation": "The bridge regulation requires occupants to stay inside the vehicle (after signalling it) until assistance arrives, as walking on the bridge is dangerous."
+  },
+  "uk": {
+   "q": "У разі поломки автомобіля на мосту 25 де Абріл його пасажири, чекаючи на допомогу, повинні:",
+   "options": [
+    "Залишатися в автомобілі після встановлення знака аварійної зупинки.",
+    "Стати позаду автомобіля."
+   ],
+   "explanation": "Регламент мосту вимагає, щоб люди залишалися в автомобілі (після його позначення) до прибуття допомоги, бо пересуватися мостом пішки небезпечно."
+  }
+ },
+ {
+  "id": "g01-0177",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "In this situation, I must overtake the cyclist.",
+   "options": [
+    "Correct.",
+    "Incorrect."
+   ],
+   "explanation": "There is no obligation to overtake; just before a traffic-light junction it is safer to stay behind the cyclist."
+  },
+  "uk": {
+   "q": "У цій ситуації я повинен обігнати велосипедиста.",
+   "options": [
+    "Правильно.",
+    "Неправильно."
+   ],
+   "explanation": "Обов'язку обганяти немає; безпосередньо перед регульованим перехрестям безпечніше залишатися позаду велосипедиста."
+  }
+ },
+ {
+  "id": "g01-0178",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "When setting off, what should the driver do if he finds that the exhaust system is faulty and too noisy?",
+   "options": [
+    "Have it repaired.",
+    "Remove the exhaust system."
+   ],
+   "explanation": "A faulty, noisy exhaust must be repaired; driving without an exhaust system is prohibited."
+  },
+  "uk": {
+   "q": "Що має зробити водій, рушаючи, якщо виявить, що система випуску несправна і надто шумна?",
+   "options": [
+    "Віддати її в ремонт.",
+    "Демонтувати систему випуску."
+   ],
+   "explanation": "Несправну шумну систему випуску слід відремонтувати; їздити без неї заборонено."
+  }
+ },
+ {
+  "id": "g01-0179",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "What happens if the brakes act unevenly on the wheels of the same axle?",
+   "options": [
+    "The stopping distance decreases.",
+    "The vehicle changes its path."
+   ],
+   "explanation": "Unequal braking on one axle makes the vehicle pull to one side when braking."
+  },
+  "uk": {
+   "q": "Що відбувається, якщо гальма діють нерівномірно на колеса однієї осі?",
+   "options": [
+    "Зупинний шлях зменшується.",
+    "Автомобіль змінює траєкторію."
+   ],
+   "explanation": "Нерівномірне гальмування на одній осі змушує автомобіль відхилятися вбік під час гальмування."
+  }
+ },
+ {
+  "id": "g01-0180",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "One precaution with certain batteries is to add:",
+   "options": [
+    "Distilled water until it covers the plates.",
+    "Coolant."
+   ],
+   "explanation": "Non-sealed batteries need topping up with distilled water so the electrolyte covers the plates."
+  },
+  "uk": {
+   "q": "Один із заходів догляду за деякими акумуляторами — доливати:",
+   "options": [
+    "Дистильовану воду, доки вона не покриє пластини.",
+    "Охолоджувальну рідину."
+   ],
+   "explanation": "В обслуговувані акумулятори доливають дистильовану воду, щоб електроліт покривав пластини."
+  }
+ },
+ {
+  "id": "g01-0181",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "Retro-reflective panels are used to mark motor vehicles or combinations of vehicles:",
+   "options": [
+    "With a gross weight over 3.5 tonnes.",
+    "With an unladen weight over 3.5 tonnes."
+   ],
+   "explanation": "Rear retro-reflective panels are required on vehicles and combinations with a gross weight above 3.5 t."
+  },
+  "uk": {
+   "q": "Світлоповертальні панелі використовуються для позначення автомобілів або составів транспортних засобів:",
+   "options": [
+    "Загальною масою понад 3,5 тонни.",
+    "Власною масою понад 3,5 тонни."
+   ],
+   "explanation": "Задні світлоповертальні панелі обов'язкові для транспортних засобів і составів загальною масою понад 3,5 т."
+  }
+ },
+ {
+  "id": "g01-0182",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "In this situation may I start overtaking?",
+   "options": [
+    "Yes.",
+    "No."
+   ],
+   "explanation": "There is a continuous line on my side of the centre marking, which may not be crossed, so overtaking is not allowed."
+  },
+  "uk": {
+   "q": "Чи можу я в цій ситуації розпочати обгін?",
+   "options": [
+    "Так.",
+    "Ні."
+   ],
+   "explanation": "З мого боку осьової розмітки нанесено суцільну лінію, яку не можна перетинати, тож обгін заборонено."
+  }
+ },
+ {
+  "id": "g01-0183",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "How should I proceed to leave the motorway and enter the service area?",
+   "options": [
+    "Stay in the lane I am in.",
+    "Move into the deceleration lane."
+   ],
+   "explanation": "To leave a motorway you must move into the deceleration lane in good time and slow down there."
+  },
+  "uk": {
+   "q": "Як мені діяти, щоб з'їхати з автомагістралі та заїхати на станцію обслуговування?",
+   "options": [
+    "Залишатися в смузі, якою рухаюся.",
+    "Перестроїтися в смугу гальмування."
+   ],
+   "explanation": "Щоб з'їхати з автомагістралі, треба завчасно перестроїтися в смугу гальмування і знизити швидкість там."
+  }
+ },
+ {
+  "id": "g01-0184",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "When leaving a motorway, I must use the:",
+   "options": [
+    "Acceleration lane.",
+    "Deceleration lane."
+   ],
+   "explanation": "The deceleration lane is for slowing down when leaving; the acceleration lane is for joining."
+  },
+  "uk": {
+   "q": "З'їжджаючи з автомагістралі, я повинен використати:",
+   "options": [
+    "Смугу розгону.",
+    "Смугу гальмування."
+   ],
+   "explanation": "Смуга гальмування призначена для зниження швидкості під час з'їзду; смуга розгону — для в'їзду."
+  }
+ },
+ {
+  "id": "g01-0185",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "When driving in a built-up area I must always use the right-hand lane.",
+   "options": [
+    "The statement is true.",
+    "The statement is false."
+   ],
+   "explanation": "In built-up areas with several lanes in the same direction, drivers may use the lane most suitable for their destination."
+  },
+  "uk": {
+   "q": "Рухаючись у населеному пункті, я зобов'язаний використовувати крайню праву смугу руху.",
+   "options": [
+    "Твердження правильне.",
+    "Твердження хибне."
+   ],
+   "explanation": "У населених пунктах за наявності кількох смуг в одному напрямку водії можуть використовувати смугу, найзручнішу для свого напрямку."
+  }
+ },
+ {
+  "id": "g01-0186",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "Given the road signs, I should know that:",
+   "options": [
+    "I may not exceed 80 km/h.",
+    "I may exceed 80 km/h."
+   ],
+   "explanation": "The round red-bordered sign with 80 sets a maximum speed of 80 km/h."
+  },
+  "uk": {
+   "q": "З огляду на знаки на дорозі, я маю знати, що:",
+   "options": [
+    "Я не можу перевищувати швидкість 80 км/год.",
+    "Я можу перевищувати швидкість 80 км/год."
+   ],
+   "explanation": "Круглий знак із червоною облямівкою та числом 80 встановлює максимальну швидкість 80 км/год."
+  }
+ },
+ {
+  "id": "g01-0187",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "Do the signs on my road allow me to overtake a motor car?",
+   "options": [
+    "Yes.",
+    "No."
+   ],
+   "explanation": "The no-overtaking sign above the 80 km/h sign prohibits overtaking motor cars."
+  },
+  "uk": {
+   "q": "Чи дозволяють знаки на дорозі, якою я рухаюся, обігнати автомобіль?",
+   "options": [
+    "Так.",
+    "Ні."
+   ],
+   "explanation": "Знак «Обгін заборонено» над знаком 80 км/год забороняє обганяти автомобілі."
+  }
+ },
+ {
+  "id": "g01-0188",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "B",
+   "C"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "I am driving a goods vehicle. Given the signs, I can only continue along the right-hand road.",
+   "options": [
+    "The statement is true.",
+    "The statement is false."
+   ],
+   "explanation": "The sign on the left-hand road prohibits motor vehicles from entering it, so the only way on is the right-hand road."
+  },
+  "uk": {
+   "q": "Я керую вантажним автомобілем. З огляду на знаки, я можу продовжити рух лише правою дорогою.",
+   "options": [
+    "Твердження правильне.",
+    "Твердження хибне."
+   ],
+   "explanation": "Знак на лівій дорозі забороняє в'їзд автомобілям, тож продовжити рух можна лише правою дорогою."
+  }
+ },
+ {
+  "id": "g01-0189",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "Given these vertical signs, I should know that:",
+   "options": [
+    "I am prohibited from driving faster than the speed on the sign.",
+    "I am obliged to go straight on."
+   ],
+   "explanation": "The round sign with 30 sets a 30 km/h limit; the square blue arrow is an information sign for a one-way road, not an obligation."
+  },
+  "uk": {
+   "q": "З огляду на ці вертикальні знаки, я маю знати, що:",
+   "options": [
+    "Мені заборонено рухатися зі швидкістю, вищою за вказану на знаку.",
+    "Я зобов'язаний їхати прямо."
+   ],
+   "explanation": "Круглий знак із числом 30 обмежує швидкість до 30 км/год; квадратна синя стрілка — інформаційний знак одностороннього руху, а не наказ."
+  }
+ },
+ {
+  "id": "g01-0190",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "May I turn left?",
+   "options": [
+    "No, the vertical sign prevails over the road marking.",
+    "Yes, the road marking prevails over the vertical sign."
+   ],
+   "explanation": "Vertical signs take precedence over road markings; the sign prohibits turning left."
+  },
+  "uk": {
+   "q": "Чи можу я повернути ліворуч?",
+   "options": [
+    "Ні, вимога вертикального знака переважає над дорожньою розміткою.",
+    "Так, вимога дорожньої розмітки переважає над вертикальним знаком."
+   ],
+   "explanation": "Вертикальні знаки мають перевагу над дорожньою розміткою; знак забороняє поворот ліворуч."
+  }
+ },
+ {
+  "id": "g01-0191",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "Given the road signs, may I turn left?",
+   "options": [
+    "No, the prohibition sign prevents me from doing the manoeuvre.",
+    "Yes, the road marking allows me to do the manoeuvre."
+   ],
+   "explanation": "The no-left-turn sign prevails over the arrow painted on the road."
+  },
+  "uk": {
+   "q": "З огляду на наявні знаки, чи можу я повернути ліворуч?",
+   "options": [
+    "Ні, заборонний знак не дозволяє виконати маневр.",
+    "Так, дорожня розмітка дозволяє виконати маневр."
+   ],
+   "explanation": "Знак заборони повороту ліворуч має перевагу над стрілкою, нанесеною на дорозі."
+  }
+ },
+ {
+  "id": "g01-0192",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "In the lane I am in, when the traffic lights allow me to proceed, may I turn left?",
+   "options": [
+    "Yes, the traffic lights and vertical signs do not prohibit the manoeuvre.",
+    "No, in the lane I am in, when I am allowed to proceed, I cannot turn left."
+   ],
+   "explanation": "The signs at the junction prohibit turning left from this lane, so even on green I can only go in the permitted direction."
+  },
+  "uk": {
+   "q": "Чи можу я зі смуги, якою рухаюся, повернути ліворуч, коли світлофор дозволить рух?",
+   "options": [
+    "Так, світлофор і вертикальні знаки не забороняють маневр.",
+    "Ні, зі смуги, де я перебуваю, коли мені дозволено рух, я не можу повертати ліворуч."
+   ],
+   "explanation": "Знаки на перехресті забороняють поворот ліворуч із цієї смуги, тож навіть на зелене можна рухатися лише в дозволеному напрямку."
+  }
+ },
+ {
+  "id": "g01-0193",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "From the blue sign, I know that:",
+   "options": [
+    "There are two lanes in my direction of travel.",
+    "There are two lanes in the direction opposite to mine."
+   ],
+   "explanation": "The sign shows two arrows pointing down (oncoming) and one up (mine): two lanes for the opposite direction."
+  },
+  "uk": {
+   "q": "Із синього знака я розумію, що:",
+   "options": [
+    "Є дві смуги руху в моєму напрямку.",
+    "Є дві смуги руху в протилежному до мого напрямку."
+   ],
+   "explanation": "Знак показує дві стрілки вниз (зустрічний рух) і одну вгору (мій): дві смуги для протилежного напрямку."
+  }
+ },
+ {
+  "id": "g01-0194",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "This additional sign is placed on an expressway (motor vehicles only) 500 metres from an exit.",
+   "options": [
+    "The statement is true.",
+    "The statement is false."
+   ],
+   "explanation": "The blue countdown panel with three diagonal bars marks 300 m to an exit, and the road shown is a motorway."
+  },
+  "uk": {
+   "q": "Цей додатковий знак встановлено на дорозі для автомобілів і мотоциклів за 500 метрів до з'їзду.",
+   "options": [
+    "Твердження правильне.",
+    "Твердження хибне."
+   ],
+   "explanation": "Синя табличка з трьома діагональними смугами позначає 300 м до з'їзду, а зображена дорога — автомагістраль."
+  }
+ },
+ {
+  "id": "g01-0195",
+  "answer": "b",
+  "confidence": "low",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "In this situation, which vehicle goes first?",
+   "options": [
+    "The ambulance.",
+    "Mine."
+   ],
+   "explanation": "The blue sign with a white arrow (mine) and a red arrow (oncoming) gives me priority over oncoming traffic in the narrow section; the ambulance is not signalling an emergency."
+  },
+  "uk": {
+   "q": "Який автомобіль у цій ситуації проїжджає першим?",
+   "options": [
+    "Швидка допомога.",
+    "Мій."
+   ],
+   "explanation": "Синій знак із білою стрілкою (мій напрямок) і червоною (зустрічний) дає мені перевагу над зустрічним транспортом на вузькій ділянці; швидка не подає сигналів термінового руху."
+  }
+ },
+ {
+  "id": "g01-0196",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "On the road where the vertical sign is, only vehicles travelling in the opposite direction to mine may drive.",
+   "options": [
+    "Correct.",
+    "Incorrect."
+   ],
+   "explanation": "The white round sign with a red border means no vehicles in either direction."
+  },
+  "uk": {
+   "q": "Дорогою, де встановлено вертикальний знак, можуть рухатися лише транспортні засоби в напрямку, протилежному до мого.",
+   "options": [
+    "Правильно.",
+    "Неправильно."
+   ],
+   "explanation": "Білий круглий знак із червоною облямівкою означає заборону руху транспортних засобів в обох напрямках."
+  }
+ },
+ {
+  "id": "g01-0197",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "Temporary signs prevail over traffic rules, light signals, vertical signs and road markings. Do you agree?",
+   "options": [
+    "Yes.",
+    "No."
+   ],
+   "explanation": "In the hierarchy, only traffic officers' orders override temporary signs, which prevail over lights, vertical signs, markings and general rules."
+  },
+  "uk": {
+   "q": "Тимчасові знаки мають перевагу над правилами руху, світлофорами, вертикальними знаками і дорожньою розміткою. Чи погоджуєтеся ви?",
+   "options": [
+    "Так.",
+    "Ні."
+   ],
+   "explanation": "В ієрархії лише вказівки регулювальника переважають над тимчасовими знаками, які, своєю чергою, мають перевагу над світлофорами, вертикальними знаками, розміткою і загальними правилами."
+  }
+ },
+ {
+  "id": "g01-0198",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "Can variable message signs be used to restrict traffic in certain lanes?",
+   "options": [
+    "Yes.",
+    "No."
+   ],
+   "explanation": "Variable message panels can close lanes or impose limits as conditions require."
+  },
+  "uk": {
+   "q": "Чи можуть знаки зі змінною інформацією використовуватися для обмеження руху окремими смугами?",
+   "options": [
+    "Так.",
+    "Ні."
+   ],
+   "explanation": "Табло зі змінною інформацією можуть закривати смуги чи встановлювати обмеження відповідно до умов."
+  }
+ },
+ {
+  "id": "g01-0199",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "Do the traffic lights allow vehicles in the lane to my left to proceed?",
+   "options": [
+    "No, the traffic lights do not allow them to proceed.",
+    "Yes, the traffic lights allow them to proceed."
+   ],
+   "explanation": "The overhead light above the left lane shows red, so vehicles in that lane must stop."
+  },
+  "uk": {
+   "q": "Чи дозволяє світлофор рух транспортним засобам на смузі ліворуч від мене?",
+   "options": [
+    "Ні, світлофор не дозволяє рух.",
+    "Так, світлофор дозволяє рух."
+   ],
+   "explanation": "Світлофор над лівою смугою показує червоний сигнал, тож транспорт на цій смузі має зупинитися."
+  }
+ },
+ {
+  "id": "g01-0200",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "If a traffic officer tells me to proceed at a red light, what should I do?",
+   "options": [
+    "I must obey the red light, which requires me to stop.",
+    "I must obey the traffic officer's order."
+   ],
+   "explanation": "A traffic officer's instructions prevail over all other signals, including traffic lights."
+  },
+  "uk": {
+   "q": "Якщо регулювальник наказує мені рухатися на червоне світло, як мені діяти?",
+   "options": [
+    "Я маю виконувати вимогу червоного сигналу, який зобов'язує мене зупинитися.",
+    "Я маю виконати наказ регулювальника."
+   ],
+   "explanation": "Вказівки регулювальника мають перевагу над усіма іншими сигналами, включно зі світлофорами."
+  }
+ },
+ {
+  "id": "g01-0201",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "Driving on this road and facing a flashing amber light:",
+   "options": [
+    "I am prohibited from entering the area controlled by the signal.",
+    "I am allowed to pass as long as I do so with special care."
+   ],
+   "explanation": "A flashing amber light means proceed with special caution; it does not prohibit passing."
+  },
+  "uk": {
+   "q": "Рухаючись цією дорогою перед миготливим жовтим сигналом:",
+   "options": [
+    "Мені заборонено в'їжджати в зону дії сигналу.",
+    "Мені дозволено проїхати, якщо я робитиму це з особливою обережністю."
+   ],
+   "explanation": "Миготливий жовтий сигнал означає рух з особливою обережністю; він не забороняє проїзд."
+  }
+ },
+ {
+  "id": "g01-0202",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "priority",
+  "en": {
+   "q": "As the two vehicles cannot pass each other on this road, and mine is closer to the place where they can pass, who must reverse?",
+   "options": [
+    "The driver of the other vehicle.",
+    "Me."
+   ],
+   "explanation": "When passing is impossible, the vehicle closest to a place where passing is possible must reverse."
+  },
+  "uk": {
+   "q": "Оскільки на цій дорозі два автомобілі не можуть роз'їхатися, а мій ближче до місця, де це можливо, хто має їхати заднім ходом?",
+   "options": [
+    "Водій іншого автомобіля.",
+    "Я."
+   ],
+   "explanation": "Коли роз'їзд неможливий, заднім ходом має відступити автомобіль, що ближче до місця, де роз'їзд можливий."
+  }
+ },
+ {
+  "id": "g01-0203",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "priority",
+  "en": {
+   "q": "The two vehicles cannot pass each other. Both being at the same distance from the place where they can pass, which driver must reverse?",
+   "options": [
+    "The driver of the vehicle going uphill.",
+    "Me, because I am going downhill."
+   ],
+   "explanation": "On a slope, when distances are equal, the vehicle going downhill must reverse, since reversing uphill is easier and safer for it."
+  },
+  "uk": {
+   "q": "Два автомобілі не можуть роз'їхатися. Якщо обидва на однаковій відстані від місця роз'їзду, хто з водіїв зобов'язаний їхати заднім ходом?",
+   "options": [
+    "Водій автомобіля, що їде вгору.",
+    "Я, бо їду вниз."
+   ],
+   "explanation": "На схилі за однакових відстаней заднім ходом має відступити автомобіль, що їде вниз, бо йому легше й безпечніше рухатися заднім ходом угору."
+  }
+ },
+ {
+  "id": "g01-0204",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "priority",
+  "en": {
+   "q": "When two vehicles at the same distance from a passing place cannot pass each other, any of them must reverse when facing a vehicle combination.",
+   "options": [
+    "The statement is true.",
+    "The statement is false."
+   ],
+   "explanation": "A vehicle combination (e.g. with a trailer) is hard to reverse, so other vehicles must reverse when facing it."
+  },
+  "uk": {
+   "q": "Коли два автомобілі на однаковій відстані від місця роз'їзду не можуть роз'їхатися, будь-який з них повинен відступити заднім ходом перед составом транспортних засобів.",
+   "options": [
+    "Твердження правильне.",
+    "Твердження хибне."
+   ],
+   "explanation": "Состав транспортних засобів (наприклад, із причепом) важко вести заднім ходом, тому інші мають відступити перед ним."
+  }
+ },
+ {
+  "id": "g01-0205",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "The lane to my left may be used by drivers who:",
+   "options": [
+    "Want to overtake me.",
+    "Want to turn left, signalling their intention properly."
+   ],
+   "explanation": "The arrows show the left lane is reserved for turning left, not for overtaking."
+  },
+  "uk": {
+   "q": "Смугою руху ліворуч від мене можуть користуватися водії, які:",
+   "options": [
+    "Хочуть мене обігнати.",
+    "Хочуть повернути ліворуч, належно сигналізуючи про свій намір."
+   ],
+   "explanation": "Стрілки показують, що ліва смуга призначена для повороту ліворуч, а не для обгону."
+  }
+ },
+ {
+  "id": "g01-0206",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "At this location, the existing signs do not allow me to make a U-turn.",
+   "options": [
+    "Correct.",
+    "Incorrect."
+   ],
+   "explanation": "The 60 km/h signs only limit speed and the centre line is broken; no sign or marking prohibits a U-turn here."
+  },
+  "uk": {
+   "q": "У цьому місці наявні знаки не дозволяють мені виконати розворот.",
+   "options": [
+    "Правильно.",
+    "Неправильно."
+   ],
+   "explanation": "Знаки 60 км/год лише обмежують швидкість, а осьова лінія переривчаста; жоден знак чи розмітка тут розворот не забороняє."
+  }
+ },
+ {
+  "id": "g01-0207",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "May I make a U-turn where I am?",
+   "options": [
+    "Yes, because drivers coming from the right must give way to me.",
+    "No, because visibility here is insufficient."
+   ],
+   "explanation": "The road dips and bends ahead, so visibility is insufficient, and U-turns are prohibited in such places."
+  },
+  "uk": {
+   "q": "Чи можу я виконати розворот там, де перебуваю?",
+   "options": [
+    "Так, бо водії, що наближаються праворуч, мають мені поступитися.",
+    "Ні, бо видимість тут недостатня."
+   ],
+   "explanation": "Дорога попереду має спуск і поворот, тож видимість недостатня, а в таких місцях розворот заборонено."
+  }
+ },
+ {
+  "id": "g01-0208",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "How should I proceed to turn left at the next intersection?",
+   "options": [
+    "Move the vehicle towards the centre line of the carriageway.",
+    "Do the manoeuvre along the shortest path."
+   ],
+   "explanation": "To turn left you must move in good time as close as possible to the centre line of the carriageway."
+  },
+  "uk": {
+   "q": "Як мені діяти, щоб повернути ліворуч на наступному перехресті?",
+   "options": [
+    "Наблизити автомобіль до осі проїзної частини.",
+    "Виконати маневр найкоротшою траєкторією."
+   ],
+   "explanation": "Для повороту ліворуч слід завчасно якомога ближче наблизитися до осі проїзної частини."
+  }
+ },
+ {
+  "id": "g01-0209",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "May I make a U-turn at the next T-junction?",
+   "options": [
+    "No, U-turns are prohibited at all T-junctions.",
+    "No, the manoeuvre is prohibited."
+   ],
+   "explanation": "The U-turn is prohibited here (the marking does not allow it), but it is not true that U-turns are prohibited at every T-junction."
+  },
+  "uk": {
+   "q": "Чи можу я виконати розворот на наступному примиканні доріг?",
+   "options": [
+    "Ні, розворот заборонено на всіх примиканнях доріг.",
+    "Ні, маневр заборонено."
+   ],
+   "explanation": "Тут розворот заборонено (розмітка не дозволяє), але неправда, що розворот заборонено на кожному примиканні доріг."
+  }
+ },
+ {
+  "id": "g01-0210",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "Reversing is prohibited at all T-junctions. Do you agree?",
+   "options": [
+    "No, reversing is prohibited at all T-junctions with reduced visibility.",
+    "Yes, reversing is prohibited at all T-junctions."
+   ],
+   "explanation": "Reversing is prohibited at junctions with reduced visibility, not at all junctions."
+  },
+  "uk": {
+   "q": "Рух заднім ходом заборонено на всіх примиканнях доріг. Чи погоджуєтеся ви?",
+   "options": [
+    "Ні, рух заднім ходом заборонено на всіх примиканнях доріг з обмеженою видимістю.",
+    "Так, рух заднім ходом заборонено на всіх примиканнях доріг."
+   ],
+   "explanation": "Рух заднім ходом заборонено на примиканнях з обмеженою видимістю, а не на всіх."
+  }
+ },
+ {
+  "id": "g01-0211",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "May I make a U-turn here?",
+   "options": [
+    "No, because the road markings do not allow the manoeuvre.",
+    "Yes, as long as the manoeuvre does not cause danger or obstruction to traffic."
+   ],
+   "explanation": "The centre line is broken and visibility is good, so a U-turn is allowed if it causes no danger or obstruction."
+  },
+  "uk": {
+   "q": "Чи можу я тут виконати розворот?",
+   "options": [
+    "Ні, бо дорожня розмітка не дозволяє виконати маневр.",
+    "Так, якщо маневр не створить небезпеки чи перешкод для руху."
+   ],
+   "explanation": "Осьова лінія переривчаста, видимість добра, тож розворот дозволено, якщо він не створює небезпеки чи перешкод."
+  }
+ },
+ {
+  "id": "g01-0212",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "Given the road markings, may I make a U-turn?",
+   "options": [
+    "Yes.",
+    "No."
+   ],
+   "explanation": "The continuous centre line on this bend may not be crossed, so a U-turn is not allowed."
+  },
+  "uk": {
+   "q": "З огляду на розмітку на дорозі, чи можу я виконати розворот?",
+   "options": [
+    "Так.",
+    "Ні."
+   ],
+   "explanation": "Суцільну осьову лінію на цьому повороті перетинати не можна, тож розворот заборонено."
+  }
+ },
+ {
+  "id": "g01-0213",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "I want to turn left. How should I proceed?",
+   "options": [
+    "Move in good time and as far as possible towards the centre line of the carriageway and do the manoeuvre so that it causes no danger or obstruction to traffic.",
+    "Move in good time and as far as possible to the right side of the carriageway and do the manoeuvre so as not to obstruct traffic."
+   ],
+   "explanation": "To turn left you approach the centre line in good time and turn without causing danger or obstruction."
+  },
+  "uk": {
+   "q": "Я хочу повернути ліворуч. Як діяти?",
+   "options": [
+    "Завчасно якомога ближче наблизитися до осі проїзної частини і виконати маневр так, щоб він не створив небезпеки чи перешкод для руху.",
+    "Завчасно якомога ближче наблизитися до правого краю проїзної частини і виконати маневр так, щоб не заважати руху."
+   ],
+   "explanation": "Для повороту ліворуч слід завчасно наблизитися до осі проїзної частини і повертати, не створюючи небезпеки чи перешкод."
+  }
+ },
+ {
+  "id": "g01-0214",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "When turning left I must:",
+   "options": [
+    "Move as far to the right as possible, keeping a distance that avoids accidents with oncoming vehicles, and do the manoeuvre along the longest path.",
+    "Move in good time and as far as possible towards the centre line of the carriageway and do the manoeuvre taking the necessary precautions to avoid accidents."
+   ],
+   "explanation": "A left turn is prepared by moving towards the centre line in good time and turning carefully."
+  },
+  "uk": {
+   "q": "Повертаючи ліворуч, я повинен:",
+   "options": [
+    "Якомога ближче наблизитися до правого краю, зберігаючи відстань, що дозволяє уникнути аварії із зустрічним транспортом, і виконати маневр найдовшою траєкторією.",
+    "Завчасно якомога ближче наблизитися до осі проїзної частини і виконати маневр, вживши необхідних заходів для уникнення аварій."
+   ],
+   "explanation": "Поворот ліворуч готують, завчасно наближаючись до осі проїзної частини, і виконують обережно."
+  }
+ },
+ {
+  "id": "g01-0215",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "May I make a U-turn here?",
+   "options": [
+    "Yes, I am far from the bend and there is no traffic.",
+    "No, I must continue in the direction shown by the sign."
+   ],
+   "explanation": "The round blue sign makes going straight ahead compulsory, so a U-turn is not allowed."
+  },
+  "uk": {
+   "q": "Чи можу я тут виконати розворот?",
+   "options": [
+    "Так, я далеко від повороту і руху немає.",
+    "Ні, я повинен рухатися в напрямку, вказаному знаком."
+   ],
+   "explanation": "Круглий синій знак зобов'язує рухатися прямо, тож розворот заборонено."
+  }
+ },
+ {
+  "id": "g01-0216",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "Outside built-up areas, reversing is only allowed as an auxiliary or emergency manoeuvre. Do you agree?",
+   "options": [
+    "Yes.",
+    "No."
+   ],
+   "explanation": "Reversing is only permitted as an auxiliary manoeuvre or as a last resort, never as a way of travelling."
+  },
+  "uk": {
+   "q": "Поза населеними пунктами рух заднім ходом дозволений лише як допоміжний або вимушений маневр. Чи погоджуєтеся ви?",
+   "options": [
+    "Так.",
+    "Ні."
+   ],
+   "explanation": "Рух заднім ходом дозволений лише як допоміжний маневр або в разі крайньої потреби, а не як спосіб пересування."
+  }
+ },
+ {
+  "id": "g01-0217",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "Driving in this lane and given the signs, I should know that:",
+   "options": [
+    "I may make a U-turn slowly, even if it causes some unjustified obstruction to other road users, as long as it never causes any danger.",
+    "I may make a U-turn as long as it never causes danger or obstruction to traffic."
+   ],
+   "explanation": "A U-turn may only be made where it causes neither danger nor obstruction to traffic."
+  },
+  "uk": {
+   "q": "Рухаючись цією смугою та з огляду на наявні знаки, я маю знати, що:",
+   "options": [
+    "Я можу повільно виконати розворот, навіть якщо створю деякі невиправдані перешкоди іншим учасникам руху, але за умови, що ніколи не створю небезпеки.",
+    "Я можу виконати розворот за умови, що ніколи не створю небезпеки чи перешкод для руху."
+   ],
+   "explanation": "Розворот дозволено виконувати лише там, де він не створює ні небезпеки, ні перешкод для руху."
+  }
+ },
+ {
+  "id": "g01-0218",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "manoeuvres",
+  "en": {
+   "q": "May I make a U-turn here?",
+   "options": [
+    "Yes, but only on the bend because the road is wider and I have better visibility.",
+    "No, U-turns are prohibited on bends with reduced visibility."
+   ],
+   "explanation": "The chevrons mark a sharp bend with reduced visibility, where U-turns are prohibited."
+  },
+  "uk": {
+   "q": "Чи можу я тут виконати розворот?",
+   "options": [
+    "Так, але лише на повороті, бо дорога там ширша і видимість краща.",
+    "Ні, розворот заборонено на поворотах з обмеженою видимістю."
+   ],
+   "explanation": "Шеврони позначають крутий поворот з обмеженою видимістю, де розворот заборонено."
+  }
+ },
+ {
+  "id": "g01-0219",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "What is the maximum speed limit on the road I am on?",
+   "options": [
+    "90 km/h for all light vehicles.",
+    "80 km/h for all heavy vehicles without a trailer."
+   ],
+   "explanation": "On an ordinary road outside built-up areas heavy vehicles without a trailer are limited to 80 km/h; not all light vehicles may do 90 (e.g. with a trailer it is 70 km/h)."
+  },
+  "uk": {
+   "q": "Яке максимальне обмеження швидкості на дорозі, якою я рухаюся?",
+   "options": [
+    "90 км/год для всіх легкових автомобілів.",
+    "80 км/год для всіх важких автомобілів без причепа."
+   ],
+   "explanation": "На звичайній дорозі поза населеними пунктами важкі автомобілі без причепа обмежені 80 км/год; не всі легкові можуть їхати 90 (наприклад, із причепом — 70 км/год)."
+  }
+ },
+ {
+  "id": "g01-0220",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "The maximum speed on a non-urban road may be 50 km/h.",
+   "options": [
+    "The statement is true.",
+    "The statement is false."
+   ],
+   "explanation": "Signs may set lower limits, such as 50 km/h, on roads outside built-up areas where conditions require it."
+  },
+  "uk": {
+   "q": "Максимальна швидкість на дорозі поза містом може становити 50 км/год.",
+   "options": [
+    "Твердження правильне.",
+    "Твердження хибне."
+   ],
+   "explanation": "Знаки можуть встановлювати нижчі обмеження, наприклад 50 км/год, на дорогах поза населеними пунктами, коли цього вимагають умови."
+  }
+ },
+ {
+  "id": "g01-0221",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "Speed limits lower than those set by law may be set on motorways.",
+   "options": [
+    "The statement is true.",
+    "The statement is false."
+   ],
+   "explanation": "Signs can impose lower limits on sections of motorway where conditions require it."
+  },
+  "uk": {
+   "q": "На автомагістралях можуть встановлюватися обмеження швидкості, нижчі за визначені законом.",
+   "options": [
+    "Твердження правильне.",
+    "Твердження хибне."
+   ],
+   "explanation": "Знаками можна встановлювати нижчі обмеження на ділянках автомагістралі, де цього вимагають умови."
+  }
+ },
+ {
+  "id": "g01-0222",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "Driving in the right-hand lane of a motorway, I may drive at less than 50 km/h.",
+   "options": [
+    "The statement is true.",
+    "The statement is false."
+   ],
+   "explanation": "The minimum speed on motorways is 50 km/h, in any lane, unless conditions or signs require otherwise."
+  },
+  "uk": {
+   "q": "Рухаючись крайньою правою смугою автомагістралі, я можу їхати зі швидкістю менше 50 км/год.",
+   "options": [
+    "Твердження правильне.",
+    "Твердження хибне."
+   ],
+   "explanation": "Мінімальна швидкість на автомагістралях — 50 км/год у будь-якій смузі, якщо умови чи знаки не вимагають іншого."
+  }
+ },
+ {
+  "id": "g01-0223",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "Can I be penalised for driving at 110 km/h on a motorway?",
+   "options": [
+    "Yes, if the speed is excessive for the road's characteristics and there are signs imposing a maximum speed limit.",
+    "No, because the maximum speed limit is 120 km/h."
+   ],
+   "explanation": "120 km/h is the general limit, but signs may set a lower one, and speed must always suit the conditions."
+  },
+  "uk": {
+   "q": "Чи можуть мене покарати за рух зі швидкістю 110 км/год на автомагістралі?",
+   "options": [
+    "Так, якщо швидкість надмірна для характеристик дороги і є знаки, що встановлюють максимальне обмеження швидкості.",
+    "Ні, бо максимальне обмеження швидкості — 120 км/год."
+   ],
+   "explanation": "120 км/год — загальне обмеження, але знаки можуть встановлювати нижче, а швидкість завжди має відповідати умовам."
+  }
+ },
+ {
+  "id": "g01-0224",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "By helping the driver feel better physically and psychologically, tranquillisers allow safe driving.",
+   "options": [
+    "The statement is true.",
+    "The statement is false."
+   ],
+   "explanation": "Tranquillisers cause drowsiness and slower reactions, impairing driving."
+  },
+  "uk": {
+   "q": "Допомагаючи водієві почуватися краще фізично й психологічно, транквілізатори дозволяють керувати безпечно.",
+   "options": [
+    "Твердження правильне.",
+    "Твердження хибне."
+   ],
+   "explanation": "Транквілізатори спричиняють сонливість і сповільнюють реакцію, погіршуючи керування."
+  }
+ },
+ {
+  "id": "g01-0225",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "In this situation, I only go first because of what the vertical sign indicates.",
+   "options": [
+    "Correct.",
+    "Incorrect."
+   ],
+   "explanation": "The round sign with a red arrow for my direction means I must give way to oncoming traffic, not that I go first."
+  },
+  "uk": {
+   "q": "У цій ситуації я проїжджаю першим лише завдяки вимозі вертикального знака.",
+   "options": [
+    "Правильно.",
+    "Неправильно."
+   ],
+   "explanation": "Круглий знак із червоною стрілкою мого напрямку означає, що я маю поступитися зустрічному транспорту, а не проїжджати першим."
+  }
+ },
+ {
+  "id": "g01-0226",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "On very long journeys, fatigue can show at muscular, nervous and visual level.",
+   "options": [
+    "The statement is true.",
+    "The statement is false."
+   ],
+   "explanation": "Fatigue affects the muscles, the nervous system and the eyes, impairing driving."
+  },
+  "uk": {
+   "q": "Під час дуже тривалих поїздок втома може проявлятися на м'язовому, нервовому і зоровому рівнях.",
+   "options": [
+    "Твердження правильне.",
+    "Твердження хибне."
+   ],
+   "explanation": "Втома впливає на м'язи, нервову систему й зір, погіршуючи керування."
+  }
+ },
+ {
+  "id": "g01-0227",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "In this situation I may proceed because there are no vehicles coming the other way.",
+   "options": [
+    "The statement is true.",
+    "The statement is false."
+   ],
+   "explanation": "The sign requires giving way to oncoming traffic; with none approaching, I may proceed."
+  },
+  "uk": {
+   "q": "У цій ситуації я можу рухатися, бо немає зустрічного транспорту.",
+   "options": [
+    "Твердження правильне.",
+    "Твердження хибне."
+   ],
+   "explanation": "Знак вимагає поступатися зустрічному транспорту; коли його немає, можна рухатися."
+  }
+ },
+ {
+  "id": "g01-0228",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "I must especially moderate my vehicle's speed in all places where there are danger signs.",
+   "options": [
+    "The statement is true.",
+    "The statement is false."
+   ],
+   "explanation": "The Highway Code requires especially moderate speed at places marked with danger signs."
+  },
+  "uk": {
+   "q": "Я повинен особливо знижувати швидкість у всіх місцях, де встановлено попереджувальні знаки.",
+   "options": [
+    "Твердження правильне.",
+    "Твердження хибне."
+   ],
+   "explanation": "Кодекс дорожнього руху вимагає особливо знижувати швидкість у місцях, позначених попереджувальними знаками."
+  }
+ },
+ {
+  "id": "g01-0229",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "Am I obliged to moderate my vehicle's speed on all bends, crests and other places with reduced visibility?",
+   "options": [
+    "Yes.",
+    "No."
+   ],
+   "explanation": "Bends, crests and places with reduced visibility are where speed must be especially moderated."
+  },
+  "uk": {
+   "q": "Чи зобов'язаний я знижувати швидкість на всіх поворотах, вершинах підйомів та в інших місцях з обмеженою видимістю?",
+   "options": [
+    "Так.",
+    "Ні."
+   ],
+   "explanation": "Повороти, вершини підйомів і місця з обмеженою видимістю — це місця, де швидкість слід особливо знижувати."
+  }
+ },
+ {
+  "id": "g01-0230",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The blue sign obliges me to give way to any vehicle coming in the opposite direction.",
+   "options": [
+    "The statement is true.",
+    "The statement is false."
+   ],
+   "explanation": "The square blue sign with a white arrow for my direction gives me priority over oncoming traffic in the narrow section."
+  },
+  "uk": {
+   "q": "Синій знак зобов'язує мене поступатися будь-якому зустрічному транспортному засобу.",
+   "options": [
+    "Твердження правильне.",
+    "Твердження хибне."
+   ],
+   "explanation": "Квадратний синій знак із білою стрілкою мого напрямку дає мені перевагу над зустрічним транспортом на вузькій ділянці."
+  }
+ },
+ {
+  "id": "g01-0231",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "In driving there are situations where hearing can take over from sight, allowing a person to avoid an accident.",
+   "options": [
+    "The statement is true.",
+    "The statement is false."
+   ],
+   "explanation": "Sounds such as horns or sirens can warn of hazards not yet visible."
+  },
+  "uk": {
+   "q": "Під час керування бувають ситуації, коли слух може переважити зір і дозволити людині уникнути аварії.",
+   "options": [
+    "Твердження правильне.",
+    "Твердження хибне."
+   ],
+   "explanation": "Звуки, як-от клаксони чи сирени, можуть попередити про ще невидиму небезпеку."
+  }
+ },
+ {
+  "id": "g01-0232",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "The loss of visual information at night makes perception and decision-making at the wheel harder.",
+   "options": [
+    "The statement is true.",
+    "The statement is false."
+   ],
+   "explanation": "At night less visual information is available, so hazards are perceived later and decisions are harder."
+  },
+  "uk": {
+   "q": "Втрата зорової інформації вночі ускладнює процеси сприйняття і прийняття рішень за кермом.",
+   "options": [
+    "Твердження правильне.",
+    "Твердження хибне."
+   ],
+   "explanation": "Уночі зорової інформації менше, тож небезпеки помічаються пізніше, а рішення ухвалювати важче."
+  }
+ },
+ {
+  "id": "g01-0233",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "legal",
+  "en": {
+   "q": "Crossing the continuous line on my left is a serious offence and may lead to the additional penalty of a driving ban.",
+   "options": [
+    "The statement is correct.",
+    "The statement is incorrect."
+   ],
+   "explanation": "Crossing a continuous line is a serious offence, and serious offences carry an accessory driving ban."
+  },
+  "uk": {
+   "q": "Перетин суцільної лінії ліворуч від мене є серйозним правопорушенням і може тягнути додаткове покарання у вигляді позбавлення права керування.",
+   "options": [
+    "Твердження правильне.",
+    "Твердження неправильне."
+   ],
+   "explanation": "Перетин суцільної лінії — серйозне правопорушення, а за серйозні правопорушення передбачено додаткове позбавлення права керування."
+  }
+ },
+ {
+  "id": "g01-0234",
+  "answer": "b",
+  "confidence": "low",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "legal",
+  "en": {
+   "q": "Breaking the rules on U-turns and reversing is punished with a driving ban. Do you agree?",
+   "options": [
+    "Yes.",
+    "No."
+   ],
+   "explanation": "Only some breaches (e.g. on motorways or in places of reduced visibility) are serious or very serious offences with a driving ban; not every breach is."
+  },
+  "uk": {
+   "q": "Порушення правил розвороту і руху заднім ходом карається позбавленням права керування. Чи погоджуєтеся ви?",
+   "options": [
+    "Так.",
+    "Ні."
+   ],
+   "explanation": "Лише деякі порушення (наприклад, на автомагістралях чи в місцях з обмеженою видимістю) є серйозними або дуже серйозними з позбавленням права керування; не кожне порушення."
+  }
+ },
+ {
+  "id": "g01-0235",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "On the road to my right, traffic is prohibited for:",
+   "options": [
+    "Agricultural tractors.",
+    "Motorcycles, pedestrians and animals."
+   ],
+   "explanation": "The lower round sign shows a tractor, prohibiting agricultural tractors on that road."
+  },
+  "uk": {
+   "q": "На дорозі праворуч від мене рух заборонено:",
+   "options": [
+    "Сільськогосподарським тракторам.",
+    "Мотоциклам, пішоходам і тваринам."
+   ],
+   "explanation": "Нижній круглий знак із зображенням трактора забороняє рух сільськогосподарських тракторів цією дорогою."
+  }
+ },
+ {
+  "id": "g01-0236",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "Speed should be especially moderated here:",
+   "options": [
+    "Correct.",
+    "Incorrect."
+   ],
+   "explanation": "The road narrows into a bend with reduced visibility, where speed must be especially moderated."
+  },
+  "uk": {
+   "q": "Тут швидкість слід особливо знизити:",
+   "options": [
+    "Правильно.",
+    "Неправильно."
+   ],
+   "explanation": "Дорога звужується і переходить у поворот з обмеженою видимістю, де швидкість слід особливо знизити."
+  }
+ },
+ {
+  "id": "g01-0237",
+  "answer": "a",
+  "confidence": "low",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "priority",
+  "en": {
+   "q": "In this situation, must I give way to the vehicle coming in the opposite direction?",
+   "options": [
+    "Yes, because I arrived at the narrowing later.",
+    "No, I must go ahead because I am closer to the place where passing is possible."
+   ],
+   "explanation": "The oncoming car has already entered the narrow tunnel; having arrived later, I must let it through."
+  },
+  "uk": {
+   "q": "Чи повинен я в цій ситуації поступитися зустрічному автомобілю?",
+   "options": [
+    "Так, бо я під'їхав до звуження пізніше.",
+    "Ні, я маю рухатися, бо я ближче до місця, де можливий роз'їзд."
+   ],
+   "explanation": "Зустрічний автомобіль уже в'їхав у вузький тунель; під'їхавши пізніше, я маю його пропустити."
+  }
+ },
+ {
+  "id": "g01-0238",
+  "answer": "a",
+  "confidence": "low",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "priority",
+  "en": {
+   "q": "In this situation, I must give way to the vehicle coming in the opposite direction.",
+   "options": [
+    "Correct.",
+    "Incorrect."
+   ],
+   "explanation": "The oncoming car is already inside the narrow tunnel, so I must wait and let it through."
+  },
+  "uk": {
+   "q": "У цій ситуації я повинен поступитися зустрічному автомобілю.",
+   "options": [
+    "Правильно.",
+    "Неправильно."
+   ],
+   "explanation": "Зустрічний автомобіль уже у вузькому тунелі, тож я маю зачекати і пропустити його."
+  }
+ },
+ {
+  "id": "g01-0239",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "Given this sign, if vehicles meet, must I give way?",
+   "options": [
+    "Yes.",
+    "No."
+   ],
+   "explanation": "The round sign with a red arrow for my direction means give way to oncoming traffic in the narrow section."
+  },
+  "uk": {
+   "q": "З огляду на цей знак, у разі зустрічі з іншим транспортом, чи повинен я поступитися дорогою?",
+   "options": [
+    "Так.",
+    "Ні."
+   ],
+   "explanation": "Круглий знак із червоною стрілкою мого напрямку означає, що на вузькій ділянці треба поступитися зустрічному транспорту."
+  }
+ },
+ {
+  "id": "g01-0240",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "Driving on this road and given this sign, I must:",
+   "options": [
+    "Give way to vehicles coming in the opposite direction.",
+    "Proceed, though with caution, because vehicles coming in the opposite direction must give way to me."
+   ],
+   "explanation": "The square blue sign with a white arrow for my direction gives me priority over oncoming traffic in the narrow section."
+  },
+  "uk": {
+   "q": "Рухаючись цією дорогою і з огляду на цей знак, я повинен:",
+   "options": [
+    "Поступитися транспорту, що рухається в зустрічному напрямку.",
+    "Рухатися, хоч і обережно, бо зустрічний транспорт має поступитися мені."
+   ],
+   "explanation": "Квадратний синій знак із білою стрілкою мого напрямку дає мені перевагу над зустрічним транспортом на вузькій ділянці."
+  }
+ }
+]

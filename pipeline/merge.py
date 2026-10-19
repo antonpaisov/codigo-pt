@@ -3,13 +3,20 @@
 Usage: python3 pipeline/merge.py   -> public/data/questions.json
 """
 import json
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 
 pt = json.loads((ROOT / "data/questions_pt.json").read_text())
+sys.path.insert(0, str(ROOT / "pipeline"))
+from validate import validate  # noqa: E402
+
 ai = {}
 for p in sorted((ROOT / "data/ai").glob("c*.json")):
+    if validate(p.stem):
+        print(f"skipping {p.stem}: not valid (yet)")
+        continue
     for o in json.loads(p.read_text()):
         ai[o["id"]] = o
 

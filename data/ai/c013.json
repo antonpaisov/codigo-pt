@@ -1,0 +1,3091 @@
+[
+ {
+  "id": "g04-0058",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum length of a bus with three or more axles is:",
+   "options": [
+    "10 metres;",
+    "15 metres;",
+    "15.5 metres."
+   ],
+   "explanation": "Rigid buses with more than two axles may be up to 15 m long."
+  },
+  "uk": {
+   "q": "Максимальна довжина автобуса з трьома або більше осями становить:",
+   "options": [
+    "10 метрів;",
+    "15 метрів;",
+    "15,5 метра."
+   ],
+   "explanation": "Одиночні автобуси з більш ніж двома осями можуть мати довжину до 15 м."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "10 m is far below the 15 m allowed for buses with three or more axles.",
+    "uk": "10 м значно менше за 15 м, дозволені для автобусів із трьома або більше осями."
+   },
+   "c": {
+    "en": "15.5 m exceeds the 15 m maximum for rigid buses.",
+    "uk": "15,5 м перевищує максимум 15 м для одиночних автобусів."
+   }
+  }
+ },
+ {
+  "id": "g04-0059",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "A danger sign may not be placed less than:",
+   "options": [
+    "300 metres.",
+    "200 metres.",
+    "150 metres."
+   ],
+   "explanation": "Outside built-up areas, danger signs are placed between 150 m and 300 m before the hazard, so not less than 150 m."
+  },
+  "uk": {
+   "q": "Попереджувальний знак не може бути встановлений на відстані менше:",
+   "options": [
+    "300 метрів.",
+    "200 метрів.",
+    "150 метрів."
+   ],
+   "explanation": "Поза населеними пунктами попереджувальні знаки встановлюють на відстані від 150 до 300 м до небезпечного місця, тож не менше ніж за 150 м."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "300 m is the upper end of the placement range, not the minimum.",
+    "uk": "300 м — верхня межа діапазону встановлення, а не мінімум."
+   },
+   "b": {
+    "en": "200 m lies within the range but is not the minimum distance.",
+    "uk": "200 м входить у діапазон, але не є мінімальною відстанню."
+   }
+  }
+ },
+ {
+  "id": "g04-0060",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "A",
+   "AM"
+  ],
+  "topic": "lights",
+  "en": {
+   "q": "I should know that dipped headlights light the road ahead of the motorcycle for a distance not greater than:",
+   "options": [
+    "30 metres.",
+    "50 metres.",
+    "150 metres."
+   ],
+   "explanation": "Dipped beams light the road ahead for up to about 30 m, so as not to dazzle others."
+  },
+  "uk": {
+   "q": "Я повинен знати, що ближнє світло освітлює дорогу попереду мотоцикла на відстань не більше:",
+   "options": [
+    "30 метрів.",
+    "50 метрів.",
+    "150 метрів."
+   ],
+   "explanation": "Ближнє світло освітлює дорогу попереду приблизно до 30 м, щоб не осліплювати інших."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "50 m is beyond the reach of dipped beams, which light about 30 m.",
+    "uk": "50 м перевищує дальність ближнього світла, що освітлює близько 30 м."
+   },
+   "c": {
+    "en": "150 m is more like main-beam range, not dipped beams.",
+    "uk": "150 м — це радше дальність дальнього світла, а не ближнього."
+   }
+  }
+ },
+ {
+  "id": "g04-0061",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum legally permitted length for 3-axle heavy passenger vehicles is:",
+   "options": [
+    "14 metres;",
+    "15 metres;",
+    "16 metres."
+   ],
+   "explanation": "Rigid buses with more than two axles may be up to 15 m long."
+  },
+  "uk": {
+   "q": "Максимально допустима законом довжина тривісних важких пасажирських автомобілів становить:",
+   "options": [
+    "14 метрів;",
+    "15 метрів;",
+    "16 метрів."
+   ],
+   "explanation": "Одиночні автобуси з більш ніж двома осями можуть мати довжину до 15 м."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "14 m is below the 15 m allowed for three-axle buses.",
+    "uk": "14 м менше за 15 м, дозволені для тривісних автобусів."
+   },
+   "c": {
+    "en": "16 m exceeds the 15 m maximum for rigid buses.",
+    "uk": "16 м перевищує максимум 15 м для одиночних автобусів."
+   }
+  }
+ },
+ {
+  "id": "g04-0062",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum legally permitted length for 4-axle heavy passenger vehicles is:",
+   "options": [
+    "14 metres;",
+    "15 metres;",
+    "16 metres."
+   ],
+   "explanation": "Rigid buses with more than two axles, including 4-axle ones, may be up to 15 m long."
+  },
+  "uk": {
+   "q": "Максимально допустима законом довжина чотиривісних важких пасажирських автомобілів становить:",
+   "options": [
+    "14 метрів;",
+    "15 метрів;",
+    "16 метрів."
+   ],
+   "explanation": "Одиночні автобуси з більш ніж двома осями, зокрема чотиривісні, можуть мати довжину до 15 м."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "14 m is below the 15 m allowed for buses with more than two axles.",
+    "uk": "14 м менше за 15 м, дозволені для автобусів із більш ніж двома осями."
+   },
+   "c": {
+    "en": "16 m exceeds the 15 m maximum for rigid buses.",
+    "uk": "16 м перевищує максимум 15 м для одиночних автобусів."
+   }
+  }
+ },
+ {
+  "id": "g04-0063",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "C"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "A combination made up of a tractor unit and a semi-trailer with three or more axles may not exceed:",
+   "options": [
+    "15.50 metres in length;",
+    "16.00 metres in length;",
+    "16.50 metres in length."
+   ],
+   "explanation": "Articulated vehicles (tractor unit plus semi-trailer) may be at most 16.50 m long."
+  },
+  "uk": {
+   "q": "Автопоїзд, що складається з тягача та напівпричепа з трьома або більше осями, не може перевищувати:",
+   "options": [
+    "15,50 метра в довжину;",
+    "16,00 метра в довжину;",
+    "16,50 метра в довжину."
+   ],
+   "explanation": "Сідельні автопоїзди (тягач із напівпричепом) можуть мати довжину не більше 16,50 м."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "15.50 m is below the 16.50 m allowed for articulated vehicles.",
+    "uk": "15,50 м менше за 16,50 м, дозволені для сідельних автопоїздів."
+   },
+   "b": {
+    "en": "16.00 m is below the 16.50 m allowed for articulated vehicles.",
+    "uk": "16,00 м менше за 16,50 м, дозволені для сідельних автопоїздів."
+   }
+  }
+ },
+ {
+  "id": "g04-0064",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum legally permitted length for heavy passenger vehicles with 3 or more axles is:",
+   "options": [
+    "15 metres;",
+    "16 metres;",
+    "17 metres."
+   ],
+   "explanation": "Rigid buses with more than two axles may be up to 15 m long."
+  },
+  "uk": {
+   "q": "Максимально допустима законом довжина важких пасажирських автомобілів із 3 або більше осями становить:",
+   "options": [
+    "15 метрів;",
+    "16 метрів;",
+    "17 метрів."
+   ],
+   "explanation": "Одиночні автобуси з більш ніж двома осями можуть мати довжину до 15 м."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "16 m exceeds the 15 m maximum for rigid buses.",
+    "uk": "16 м перевищує максимум 15 м для одиночних автобусів."
+   },
+   "c": {
+    "en": "17 m exceeds the 15 m maximum for rigid buses.",
+    "uk": "17 м перевищує максимум 15 м для одиночних автобусів."
+   }
+  }
+ },
+ {
+  "id": "g04-0065",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "B"
+  ],
+  "topic": "legal",
+  "en": {
+   "q": "To obtain a driving licence for category B, you must be at least:",
+   "options": [
+    "16 years old.",
+    "17 years old.",
+    "18 years old."
+   ],
+   "explanation": "The minimum age for a category B licence in Portugal is 18."
+  },
+  "uk": {
+   "q": "Щоб отримати посвідчення водія категорії B, потрібно мати щонайменше:",
+   "options": [
+    "16 років.",
+    "17 років.",
+    "18 років."
+   ],
+   "explanation": "Мінімальний вік для отримання посвідчення категорії B у Португалії — 18 років."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "16 is the minimum age for categories such as A1 or B1, not B.",
+    "uk": "16 років — мінімальний вік для категорій на кшталт A1 чи B1, а не B."
+   },
+   "b": {
+    "en": "17 is not enough for a category B licence in Portugal; the minimum is 18.",
+    "uk": "17 років недостатньо для категорії B у Португалії; мінімум — 18."
+   }
+  }
+ },
+ {
+  "id": "g04-0066",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "Articulated buses may not exceed:",
+   "options": [
+    "15.00 metres in length and 2.50 metres in width;",
+    "16.50 metres in length and 2.60 metres in width;",
+    "18.75 metres in length and 2.55 metres in width"
+   ],
+   "explanation": "Articulated buses are limited to 18.75 m in length and 2.55 m in width."
+  },
+  "uk": {
+   "q": "Зчленовані автобуси не можуть перевищувати:",
+   "options": [
+    "15,00 метра в довжину і 2,50 метра в ширину;",
+    "16,50 метра в довжину і 2,60 метра в ширину;",
+    "18,75 метра в довжину і 2,55 метра в ширину"
+   ],
+   "explanation": "Для зчленованих автобусів обмеження — 18,75 м у довжину та 2,55 м у ширину."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "15 m and 2.50 m are below the limits; articulated buses may reach 18.75 m and 2.55 m.",
+    "uk": "15 м і 2,50 м менші за межі; зчленовані автобуси можуть мати 18,75 м і 2,55 м."
+   },
+   "b": {
+    "en": "16.50 m is the limit for tractor-semitrailer combinations, and 2.60 m is only for refrigerated bodies.",
+    "uk": "16,50 м — межа для сідельних автопоїздів, а 2,60 м — лише для рефрижераторних кузовів."
+   }
+  }
+ },
+ {
+  "id": "g04-0067",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "C"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum length of a combination made up of a motor towing vehicle and a trailer is:",
+   "options": [
+    "15.00 metres;",
+    "16.50 metres;",
+    "18.75 metres."
+   ],
+   "explanation": "A road train (motor vehicle plus drawbar trailer) may be up to 18.75 m long."
+  },
+  "uk": {
+   "q": "Максимальна довжина автопоїзда, що складається з автомобіля-тягача та причепа, становить:",
+   "options": [
+    "15,00 метра;",
+    "16,50 метра;",
+    "18,75 метра."
+   ],
+   "explanation": "Автопоїзд (автомобіль із причепом) може мати довжину до 18,75 м."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "15 m is too short for a road train; the limit is 18.75 m.",
+    "uk": "15 м замало для автопоїзда з причепом; межа — 18,75 м."
+   },
+   "b": {
+    "en": "16.50 m is the limit for tractor plus semi-trailer, not motor vehicle plus trailer.",
+    "uk": "16,50 м — межа для тягача з напівпричепом, а не автомобіля з причепом."
+   }
+  }
+ },
+ {
+  "id": "g04-0068",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum permissible length for a combination of vehicles designated and considered a 'single vehicle' is:",
+   "options": [
+    "16.50 metres;",
+    "12.00 metres;",
+    "18.75 metres."
+   ],
+   "explanation": "Combinations legally treated as a single vehicle (such as articulated buses) may be up to 18.75 m long."
+  },
+  "uk": {
+   "q": "Максимально допустима довжина для поєднання транспортних засобів, що позначається і вважається «єдиним транспортним засобом», становить:",
+   "options": [
+    "16,50 метра;",
+    "12,00 метра;",
+    "18,75 метра."
+   ],
+   "explanation": "Поєднання, які юридично вважаються єдиним транспортним засобом (як-от зчленовані автобуси), можуть мати довжину до 18,75 м."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "16.50 m is the limit for tractor-semitrailer combinations.",
+    "uk": "16,50 м — межа для сідельних автопоїздів."
+   },
+   "b": {
+    "en": "12 m is the limit for rigid vehicles, not combinations.",
+    "uk": "12 м — межа для одиночних транспортних засобів, а не поєднань."
+   }
+  }
+ },
+ {
+  "id": "g04-0069",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum legally permitted gross weight for a 2-axle heavy passenger vehicle is:",
+   "options": [
+    "17 tonnes;",
+    "18 tonnes;",
+    "19 tonnes."
+   ],
+   "explanation": "Portuguese weight rules allow up to 19 t for two-axle motor vehicles, including buses."
+  },
+  "uk": {
+   "q": "Максимально допустима законом повна маса двовісного важкого пасажирського автомобіля становить:",
+   "options": [
+    "17 тонн;",
+    "18 тонн;",
+    "19 тонн."
+   ],
+   "explanation": "Португальські правила щодо мас дозволяють до 19 т для двовісних автомобілів, зокрема автобусів."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "17 t is below the 19 t allowed for two-axle vehicles.",
+    "uk": "17 т менше за 19 т, дозволені для двовісних транспортних засобів."
+   },
+   "b": {
+    "en": "18 t is below the 19 t allowed under Portuguese rules.",
+    "uk": "18 т менше за 19 т, дозволені за португальськими правилами."
+   }
+  }
+ },
+ {
+  "id": "g04-0070",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum legally permitted length for articulated buses is:",
+   "options": [
+    "18.75 metres;",
+    "19.00 metres;",
+    "19.50 metres."
+   ],
+   "explanation": "Articulated buses may be at most 18.75 m long."
+  },
+  "uk": {
+   "q": "Максимально допустима законом довжина зчленованих автобусів становить:",
+   "options": [
+    "18,75 метра;",
+    "19,00 метра;",
+    "19,50 метра."
+   ],
+   "explanation": "Зчленовані автобуси можуть мати довжину не більше 18,75 м."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "19.00 m exceeds the 18.75 m maximum for articulated buses.",
+    "uk": "19,00 м перевищує максимум 18,75 м для зчленованих автобусів."
+   },
+   "c": {
+    "en": "19.50 m exceeds the 18.75 m maximum for articulated buses.",
+    "uk": "19,50 м перевищує максимум 18,75 м для зчленованих автобусів."
+   }
+  }
+ },
+ {
+  "id": "g04-0071",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum legally permitted length for 3-axle articulated buses is:",
+   "options": [
+    "17.75 metres;",
+    "18.75 metres;",
+    "19.75 metres."
+   ],
+   "explanation": "Articulated buses may be at most 18.75 m long."
+  },
+  "uk": {
+   "q": "Максимально допустима законом довжина тривісних зчленованих автобусів становить:",
+   "options": [
+    "17,75 метра;",
+    "18,75 метра;",
+    "19,75 метра."
+   ],
+   "explanation": "Зчленовані автобуси можуть мати довжину не більше 18,75 м."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "17.75 m is below the 18.75 m allowed for articulated buses.",
+    "uk": "17,75 м менше за 18,75 м, дозволені для зчленованих автобусів."
+   },
+   "c": {
+    "en": "19.75 m exceeds the 18.75 m maximum for articulated buses.",
+    "uk": "19,75 м перевищує максимум 18,75 м для зчленованих автобусів."
+   }
+  }
+ },
+ {
+  "id": "g04-0072",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "Parking is considered abusive when, beyond the permitted time, the vehicle remains in a time-limited parking area for:",
+   "options": [
+    "30 minutes.",
+    "1 hour.",
+    "2 hours."
+   ],
+   "explanation": "Remaining in a time-limited parking place more than 2 hours beyond the permitted time is abusive parking."
+  },
+  "uk": {
+   "q": "Стоянка вважається зловживанням, коли понад дозволений час транспортний засіб залишається в місці обмеженої за часом стоянки протягом:",
+   "options": [
+    "30 хвилин.",
+    "1 години.",
+    "2 годин."
+   ],
+   "explanation": "Перебування в місці обмеженої за часом стоянки понад 2 години після дозволеного часу вважається зловживанням стоянкою."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "30 minutes over the limit is an ordinary parking offence, not yet abusive parking.",
+    "uk": "30 хвилин понад ліміт — звичайне порушення стоянки, а ще не зловживання."
+   },
+   "b": {
+    "en": "1 hour over the limit is not yet abusive; the threshold is 2 hours.",
+    "uk": "1 година понад ліміт — ще не зловживання; поріг — 2 години."
+   }
+  }
+ },
+ {
+  "id": "g04-0073",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "A vehicle in a time-limited parking area may be clamped if it stays beyond the permitted time by more than:",
+   "options": [
+    "30 minutes.",
+    "1 hour.",
+    "2 hours."
+   ],
+   "explanation": "After more than 2 hours beyond the permitted time the parking becomes abusive, and the vehicle may be clamped or removed."
+  },
+  "uk": {
+   "q": "Транспортний засіб, що перебуває в місці обмеженої за часом стоянки, може бути заблокований, якщо він перевищив дозволений час більш ніж на:",
+   "options": [
+    "30 хвилин.",
+    "1 годину.",
+    "2 години."
+   ],
+   "explanation": "Після перевищення дозволеного часу більш ніж на 2 години стоянка стає зловживанням, і транспортний засіб може бути заблокований або евакуйований."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "30 minutes is shorter than the 2-hour threshold set by law.",
+    "uk": "30 хвилин менше за 2-годинний поріг, встановлений законом."
+   },
+   "b": {
+    "en": "1 hour is shorter than the 2-hour threshold set by law.",
+    "uk": "1 година менше за 2-годинний поріг, встановлений законом."
+   }
+  }
+ },
+ {
+  "id": "g04-0074",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "C"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum width of a vehicle fitted with a refrigerated body for transporting goods is:",
+   "options": [
+    "2.50 metres;",
+    "2.40 metres;",
+    "2.60 metres."
+   ],
+   "explanation": "Refrigerated (insulated) bodies are allowed a maximum width of 2.60 m, because of their thicker walls."
+  },
+  "uk": {
+   "q": "Максимальна ширина транспортного засобу з рефрижераторним кузовом для перевезення вантажів становить:",
+   "options": [
+    "2,50 метра;",
+    "2,40 метра;",
+    "2,60 метра."
+   ],
+   "explanation": "Для рефрижераторних (ізотермічних) кузовів дозволена максимальна ширина 2,60 м через товщі стінки."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "2.50 m is below the general limit; refrigerated bodies are allowed 2.60 m.",
+    "uk": "2,50 м менше за загальну межу; рефрижераторним кузовам дозволено 2,60 м."
+   },
+   "b": {
+    "en": "2.40 m is not a legal width limit.",
+    "uk": "2,40 м не є законною межею ширини."
+   }
+  }
+ },
+ {
+  "id": "g04-0075",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum legally permitted width for heavy passenger vehicles is:",
+   "options": [
+    "2.50 metres;",
+    "2.55 metres;",
+    "2.60 metres."
+   ],
+   "explanation": "The general maximum width for motor vehicles, including buses, is 2.55 m."
+  },
+  "uk": {
+   "q": "Максимально допустима законом ширина важких пасажирських автомобілів становить:",
+   "options": [
+    "2,50 метра;",
+    "2,55 метра;",
+    "2,60 метра."
+   ],
+   "explanation": "Загальна максимальна ширина автомобілів, зокрема автобусів, — 2,55 м."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "2.50 m is below the 2.55 m maximum.",
+    "uk": "2,50 м менше за максимум 2,55 м."
+   },
+   "c": {
+    "en": "2.60 m is allowed only for refrigerated bodies, not buses.",
+    "uk": "2,60 м дозволено лише для рефрижераторних кузовів, а не автобусів."
+   }
+  }
+ },
+ {
+  "id": "g04-0076",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum legally permitted width for articulated buses is:",
+   "options": [
+    "2.55 metres;",
+    "2.60 metres;",
+    "2.65 metres."
+   ],
+   "explanation": "Articulated buses are limited to the general maximum width of 2.55 m."
+  },
+  "uk": {
+   "q": "Максимально допустима законом ширина зчленованих автобусів становить:",
+   "options": [
+    "2,55 метра;",
+    "2,60 метра;",
+    "2,65 метра."
+   ],
+   "explanation": "Для зчленованих автобусів діє загальна максимальна ширина 2,55 м."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "2.60 m is allowed only for refrigerated bodies.",
+    "uk": "2,60 м дозволено лише для рефрижераторних кузовів."
+   },
+   "c": {
+    "en": "2.65 m exceeds every legal width limit.",
+    "uk": "2,65 м перевищує будь-яку законну межу ширини."
+   }
+  }
+ },
+ {
+  "id": "g04-0077",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "C"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum permissible width for a heavy goods vehicle is:",
+   "options": [
+    "2.50 metres;",
+    "2.55 metres;",
+    "2.60 metres."
+   ],
+   "explanation": "The general maximum width is 2.55 m (2.60 m only for refrigerated bodies)."
+  },
+  "uk": {
+   "q": "Максимально допустима ширина важкого вантажного автомобіля становить:",
+   "options": [
+    "2,50 метра;",
+    "2,55 метра;",
+    "2,60 метра."
+   ],
+   "explanation": "Загальна максимальна ширина — 2,55 м (2,60 м лише для рефрижераторних кузовів)."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "2.50 m is below the 2.55 m maximum.",
+    "uk": "2,50 м менше за максимум 2,55 м."
+   },
+   "c": {
+    "en": "2.60 m applies only to refrigerated bodies.",
+    "uk": "2,60 м стосується лише рефрижераторних кузовів."
+   }
+  }
+ },
+ {
+  "id": "g04-0078",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "C"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum permissible width for a three-axle trailer is:",
+   "options": [
+    "2.50 metres;",
+    "2.55 metres;",
+    "2.65 metres."
+   ],
+   "explanation": "Trailers are subject to the general maximum width of 2.55 m."
+  },
+  "uk": {
+   "q": "Максимально допустима ширина тривісного причепа становить:",
+   "options": [
+    "2,50 метра;",
+    "2,55 метра;",
+    "2,65 метра."
+   ],
+   "explanation": "На причепи поширюється загальна максимальна ширина 2,55 м."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "2.50 m is below the 2.55 m maximum.",
+    "uk": "2,50 м менше за максимум 2,55 м."
+   },
+   "c": {
+    "en": "2.65 m exceeds every legal width limit.",
+    "uk": "2,65 м перевищує будь-яку законну межу ширини."
+   }
+  }
+ },
+ {
+  "id": "g04-0079",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The sign indicates that in this zone parking is permitted from:",
+   "options": [
+    "8:00 to 20:00.",
+    "20:00 to 8:00.",
+    "20:00 to 20:00."
+   ],
+   "explanation": "The zone sign prohibits parking from 8:00 to 20:00, so parking is allowed from 20:00 to 8:00."
+  },
+  "uk": {
+   "q": "Знак вказує, що в цій зоні стоянку дозволено з:",
+   "options": [
+    "8 до 20 години.",
+    "20 до 8 години.",
+    "20 до 20 години."
+   ],
+   "explanation": "Знак зони забороняє стоянку з 8 до 20 години, тож стоянку дозволено з 20 до 8 години."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "8:00 to 20:00 is when parking is prohibited, not permitted.",
+    "uk": "З 8 до 20 години стоянку заборонено, а не дозволено."
+   },
+   "c": {
+    "en": "20:00 to 20:00 would mean all day, but the sign restricts parking during 8:00–20:00.",
+    "uk": "З 20 до 20 години означало б цілу добу, але знак обмежує стоянку з 8 до 20 години."
+   }
+  }
+ },
+ {
+  "id": "g04-0080",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "Inside built-up areas the maximum permitted speed for an agricultural machine is:",
+   "options": [
+    "40 km/h.",
+    "30 km/h.",
+    "20 km/h."
+   ],
+   "explanation": "Agricultural machines, motor cultivators and similar are limited to 20 km/h inside built-up areas."
+  },
+  "uk": {
+   "q": "У населених пунктах максимально дозволена швидкість для сільськогосподарської машини становить:",
+   "options": [
+    "40 км/год.",
+    "30 км/год.",
+    "20 км/год."
+   ],
+   "explanation": "Для сільськогосподарських машин, мотоблоків тощо обмеження в населених пунктах — 20 км/год."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "40 km/h is the limit for mopeds in built-up areas, not agricultural machines.",
+    "uk": "40 км/год — обмеження для мопедів у населених пунктах, а не для сільськогосподарських машин."
+   },
+   "b": {
+    "en": "30 km/h is too high for an agricultural machine inside built-up areas.",
+    "uk": "30 км/год забагато для сільськогосподарської машини в населених пунктах."
+   }
+  }
+ },
+ {
+  "id": "g04-0081",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum legally permitted length for 4-axle articulated buses is:",
+   "options": [
+    "18.75 metres;",
+    "19.75 metres;",
+    "20.75 metres."
+   ],
+   "explanation": "Articulated buses may be at most 18.75 m long, regardless of the number of axles."
+  },
+  "uk": {
+   "q": "Максимально допустима законом довжина чотиривісних зчленованих автобусів становить:",
+   "options": [
+    "18,75 метра;",
+    "19,75 метра;",
+    "20,75 метра."
+   ],
+   "explanation": "Зчленовані автобуси можуть мати довжину не більше 18,75 м незалежно від кількості осей."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "19.75 m exceeds the 18.75 m maximum for articulated buses.",
+    "uk": "19,75 м перевищує максимум 18,75 м для зчленованих автобусів."
+   },
+   "c": {
+    "en": "20.75 m exceeds the 18.75 m maximum for articulated buses.",
+    "uk": "20,75 м перевищує максимум 18,75 м для зчленованих автобусів."
+   }
+  }
+ },
+ {
+  "id": "g04-0082",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "driver",
+  "en": {
+   "q": "With a blood alcohol content of 0.5 g/l or more, and without undergoing new tests, the driver is prevented from driving for:",
+   "options": [
+    "2 hours.",
+    "12 hours.",
+    "24 hours."
+   ],
+   "explanation": "A driver found under the influence is prevented from driving for 12 hours unless a new test shows otherwise."
+  },
+  "uk": {
+   "q": "За вмісту алкоголю в крові 0,5 г/л або більше і без повторної перевірки водій позбавляється можливості керувати на:",
+   "options": [
+    "2 години.",
+    "12 годин.",
+    "24 години."
+   ],
+   "explanation": "Водієві, якого виявили під впливом алкоголю, забороняється керувати 12 годин, якщо повторна перевірка не покаже іншого."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "2 hours is far too short; the ban lasts 12 hours.",
+    "uk": "2 години значно замало; заборона триває 12 годин."
+   },
+   "c": {
+    "en": "24 hours is too long; the law sets 12 hours.",
+    "uk": "24 години забагато; закон встановлює 12 годин."
+   }
+  }
+ },
+ {
+  "id": "g04-0083",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "At what minimum distance may I park behind this sign?",
+   "options": [
+    "6 metres.",
+    "8 metres.",
+    "25 metres"
+   ],
+   "explanation": "The sign marks a tram stop; parking is prohibited less than 6 m behind stops of vehicles running on rails."
+  },
+  "uk": {
+   "q": "На якій мінімальній відстані я можу поставити транспортний засіб на стоянку позаду цього знака?",
+   "options": [
+    "6 метрів.",
+    "8 метрів.",
+    "25 метрів"
+   ],
+   "explanation": "Знак позначає зупинку трамвая; стоянка заборонена ближче ніж за 6 м позаду зупинок рейкових транспортних засобів."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "8 m is not the legal distance; for tram stops it is 6 m behind.",
+    "uk": "8 м — не законна відстань; для трамвайних зупинок це 6 м позаду."
+   },
+   "c": {
+    "en": "25 m behind applies to bus stops, not to tram stops.",
+    "uk": "25 м позаду стосується автобусних зупинок, а не трамвайних."
+   }
+  }
+ },
+ {
+  "id": "g04-0084",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The vertical sign on the right tells me that I am:",
+   "options": [
+    "100 metres from the next exit.",
+    "150 metres from the next exit.",
+    "250 metres from the next exit."
+   ],
+   "explanation": "Motorway exit-approach markers have three, two and one diagonal stripes at 300, 200 and 100 m; a single stripe means 100 m."
+  },
+  "uk": {
+   "q": "Вертикальний знак праворуч повідомляє мені, що я перебуваю за:",
+   "options": [
+    "100 метрів від наступного виїзду.",
+    "150 метрів від наступного виїзду.",
+    "250 метрів від наступного виїзду."
+   ],
+   "explanation": "Покажчики наближення до виїзду з автомагістралі мають три, дві й одну діагональні смуги на відстані 300, 200 і 100 м; одна смуга означає 100 м."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Exit markers are at 300, 200 and 100 m, not 150 m.",
+    "uk": "Покажчики виїзду встановлені на 300, 200 і 100 м, а не на 150 м."
+   },
+   "c": {
+    "en": "Exit markers are at 300, 200 and 100 m; one stripe is 100 m.",
+    "uk": "Покажчики виїзду встановлені на 300, 200 і 100 м; одна смуга — 100 м."
+   }
+  }
+ },
+ {
+  "id": "g04-0085",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "C"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum legally permitted gross weight for a 3-axle heavy goods vehicle is:",
+   "options": [
+    "25 tonnes;",
+    "26 tonnes;",
+    "27 tonnes."
+   ],
+   "explanation": "Three-axle motor vehicles are limited to 26 t gross weight."
+  },
+  "uk": {
+   "q": "Максимально допустима законом повна маса тривісного важкого вантажного автомобіля становить:",
+   "options": [
+    "25 тонн;",
+    "26 тонн;",
+    "27 тонн."
+   ],
+   "explanation": "Для тривісних автомобілів обмеження повної маси — 26 т."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "25 t is below the 26 t allowed for three-axle vehicles.",
+    "uk": "25 т менше за 26 т, дозволені для тривісних транспортних засобів."
+   },
+   "c": {
+    "en": "27 t exceeds the 26 t limit for three-axle vehicles.",
+    "uk": "27 т перевищує межу 26 т для тривісних транспортних засобів."
+   }
+  }
+ },
+ {
+  "id": "g04-0086",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum legally permitted gross weight for a 3-axle heavy passenger vehicle is:",
+   "options": [
+    "25 tonnes;",
+    "26 tonnes;",
+    "27 tonnes."
+   ],
+   "explanation": "Three-axle motor vehicles, including buses, are limited to 26 t gross weight."
+  },
+  "uk": {
+   "q": "Максимально допустима законом повна маса тривісного важкого пасажирського автомобіля становить:",
+   "options": [
+    "25 тонн;",
+    "26 тонн;",
+    "27 тонн."
+   ],
+   "explanation": "Для тривісних автомобілів, зокрема автобусів, обмеження повної маси — 26 т."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "25 t is below the 26 t allowed for three-axle vehicles.",
+    "uk": "25 т менше за 26 т, дозволені для тривісних транспортних засобів."
+   },
+   "c": {
+    "en": "27 t exceeds the 26 t limit for three-axle vehicles.",
+    "uk": "27 т перевищує межу 26 т для тривісних транспортних засобів."
+   }
+  }
+ },
+ {
+  "id": "g04-0087",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "B"
+  ],
+  "topic": "legal",
+  "en": {
+   "q": "A learner driver should know that the driving licence obtained to drive light vehicles is provisional for a period of:",
+   "options": [
+    "1 year.",
+    "2 years.",
+    "3 years."
+   ],
+   "explanation": "A newly issued licence is provisional (probationary regime) for the first 3 years."
+  },
+  "uk": {
+   "q": "Кандидат у водії повинен знати, що посвідчення водія на керування легковими автомобілями є тимчасовим протягом:",
+   "options": [
+    "1 року.",
+    "2 років.",
+    "3 років."
+   ],
+   "explanation": "Щойно видане посвідчення є тимчасовим (випробувальний період) протягом перших 3 років."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "1 year is too short; the probationary period is 3 years.",
+    "uk": "1 рік замало; випробувальний період — 3 роки."
+   },
+   "b": {
+    "en": "2 years is too short; the probationary period is 3 years.",
+    "uk": "2 роки замало; випробувальний період — 3 роки."
+   }
+  }
+ },
+ {
+  "id": "g04-0088",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "legal",
+  "en": {
+   "q": "What is the length of the additional penalty of a driving ban applied to someone who commits a Highway Code offence classified as serious?",
+   "options": [
+    "1 month to 1 year.",
+    "2 months to 2 years.",
+    "3 months to 3 years."
+   ],
+   "explanation": "Serious offences carry a driving ban of 1 month to 1 year; very serious ones 2 months to 2 years."
+  },
+  "uk": {
+   "q": "Яка тривалість додаткового покарання у вигляді позбавлення права керування за вчинення порушення Кодексу дорожнього руху, класифікованого як серйозне?",
+   "options": [
+    "Від 1 місяця до 1 року.",
+    "Від 2 місяців до 2 років.",
+    "Від 3 місяців до 3 років."
+   ],
+   "explanation": "За серйозні правопорушення передбачено позбавлення права керування від 1 місяця до 1 року; за дуже серйозні — від 2 місяців до 2 років."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "2 months to 2 years is the ban for very serious offences.",
+    "uk": "Від 2 місяців до 2 років — позбавлення за дуже серйозні правопорушення."
+   },
+   "c": {
+    "en": "3 months to 3 years is not the range set for serious offences.",
+    "uk": "Від 3 місяців до 3 років — не той діапазон, що встановлений для серйозних правопорушень."
+   }
+  }
+ },
+ {
+  "id": "g04-0089",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "legal",
+  "en": {
+   "q": "When a fine is imposed on a driver for an offence, how long do they have to pay it voluntarily?",
+   "options": [
+    "A maximum of 10 working days.",
+    "15 working days",
+    "30 days."
+   ],
+   "explanation": "Voluntary payment of the fine can be made within 15 working days of notification."
+  },
+  "uk": {
+   "q": "Коли водієві за правопорушення призначено штраф, скільки часу він має для його добровільної сплати?",
+   "options": [
+    "Не більше 10 робочих днів.",
+    "15 робочих днів",
+    "30 днів."
+   ],
+   "explanation": "Добровільну сплату штрафу можна здійснити протягом 15 робочих днів після повідомлення."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "10 working days is shorter than the 15 working days allowed.",
+    "uk": "10 робочих днів менше за 15 робочих днів, що надаються."
+   },
+   "c": {
+    "en": "30 days is not the voluntary payment deadline; it is 15 working days.",
+    "uk": "30 днів — не строк добровільної сплати; він становить 15 робочих днів."
+   }
+  }
+ },
+ {
+  "id": "g04-0090",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "legal",
+  "en": {
+   "q": "If a vehicle fails a compulsory periodic inspection, it must be re-inspected within a maximum of:",
+   "options": [
+    "10 days;",
+    "20 days;",
+    "30 days."
+   ],
+   "explanation": "After failing a periodic inspection, the vehicle must be presented for re-inspection within 30 days."
+  },
+  "uk": {
+   "q": "Якщо транспортний засіб не пройшов обов'язковий періодичний техогляд, його потрібно повторно оглянути протягом не більше:",
+   "options": [
+    "10 днів;",
+    "20 днів;",
+    "30 днів."
+   ],
+   "explanation": "Після непроходження періодичного техогляду транспортний засіб слід подати на повторний огляд протягом 30 днів."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "10 days is shorter than the 30 days allowed for re-inspection.",
+    "uk": "10 днів менше за 30 днів, що надаються для повторного огляду."
+   },
+   "b": {
+    "en": "20 days is shorter than the 30 days allowed for re-inspection.",
+    "uk": "20 днів менше за 30 днів, що надаються для повторного огляду."
+   }
+  }
+ },
+ {
+  "id": "g04-0091",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "lights",
+  "en": {
+   "q": "Dipped headlights must light the carriageway for a distance of:",
+   "options": [
+    "150 metres.",
+    "100 metres.",
+    "30 metres."
+   ],
+   "explanation": "Dipped beams light the carriageway for about 30 m ahead."
+  },
+  "uk": {
+   "q": "Ближнє світло має освітлювати проїзну частину на відстань:",
+   "options": [
+    "150 метрів.",
+    "100 метрів.",
+    "30 метрів."
+   ],
+   "explanation": "Ближнє світло освітлює проїзну частину приблизно на 30 м попереду."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "150 m is far beyond dipped-beam range.",
+    "uk": "150 м значно перевищує дальність ближнього світла."
+   },
+   "b": {
+    "en": "100 m is the minimum range of main beams, not dipped beams.",
+    "uk": "100 м — мінімальна дальність дальнього світла, а не ближнього."
+   }
+  }
+ },
+ {
+  "id": "g04-0092",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum legally permitted gross weight for a two-axle vehicle is:",
+   "options": [
+    "19 tonnes.",
+    "26 tonnes.",
+    "32 tonnes."
+   ],
+   "explanation": "Portuguese weight rules allow up to 19 t for two-axle vehicles (26 t for three axles, 32 t for four)."
+  },
+  "uk": {
+   "q": "Максимально допустима законом повна маса двовісного транспортного засобу становить:",
+   "options": [
+    "19 тонн.",
+    "26 тонн.",
+    "32 тонни."
+   ],
+   "explanation": "Португальські правила щодо мас дозволяють до 19 т для двовісних транспортних засобів (26 т для тривісних, 32 т для чотиривісних)."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "26 t is the limit for three-axle vehicles.",
+    "uk": "26 т — межа для тривісних транспортних засобів."
+   },
+   "c": {
+    "en": "32 t is the limit for four-axle vehicles.",
+    "uk": "32 т — межа для чотиривісних транспортних засобів."
+   }
+  }
+ },
+ {
+  "id": "g04-0093",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum legally permitted gross weight for an articulated bus with 4 or more axles is:",
+   "options": [
+    "30 tonnes;",
+    "31 tonnes;",
+    "32 tonnes."
+   ],
+   "explanation": "Articulated buses with 4 or more axles are limited to 32 t gross weight."
+  },
+  "uk": {
+   "q": "Максимально допустима законом повна маса зчленованого автобуса з 4 або більше осями становить:",
+   "options": [
+    "30 тонн;",
+    "31 тонна;",
+    "32 тонни."
+   ],
+   "explanation": "Для зчленованих автобусів із 4 або більше осями обмеження повної маси — 32 т."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "30 t is below the 32 t allowed for articulated buses with 4 or more axles.",
+    "uk": "30 т менше за 32 т, дозволені для зчленованих автобусів із 4 або більше осями."
+   },
+   "b": {
+    "en": "31 t is below the 32 t allowed for articulated buses with 4 or more axles.",
+    "uk": "31 т менше за 32 т, дозволені для зчленованих автобусів із 4 або більше осями."
+   }
+  }
+ },
+ {
+  "id": "g04-0094",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum legally permitted gross weight for a 4-axle articulated bus is:",
+   "options": [
+    "31 tonnes;",
+    "32 tonnes;",
+    "33 tonnes."
+   ],
+   "explanation": "Articulated buses with 4 or more axles are limited to 32 t gross weight."
+  },
+  "uk": {
+   "q": "Максимально допустима законом повна маса чотиривісного зчленованого автобуса становить:",
+   "options": [
+    "31 тонна;",
+    "32 тонни;",
+    "33 тонни."
+   ],
+   "explanation": "Для зчленованих автобусів із 4 або більше осями обмеження повної маси — 32 т."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "31 t is below the 32 t allowed for a 4-axle articulated bus.",
+    "uk": "31 т менше за 32 т, дозволені для чотиривісного зчленованого автобуса."
+   },
+   "c": {
+    "en": "33 t exceeds the 32 t limit for articulated buses.",
+    "uk": "33 т перевищує межу 32 т для зчленованих автобусів."
+   }
+  }
+ },
+ {
+  "id": "g04-0095",
+  "answer": "b",
+  "confidence": "low",
+  "categories": [
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum legally permitted gross weight for a 5-axle articulated bus is:",
+   "options": [
+    "31 tonnes;",
+    "32 tonnes;",
+    "33 tonnes."
+   ],
+   "explanation": "The limit for articulated buses with 4 or more axles is 32 t, which also covers 5-axle ones."
+  },
+  "uk": {
+   "q": "Максимально допустима законом повна маса п'ятивісного зчленованого автобуса становить:",
+   "options": [
+    "31 тонна;",
+    "32 тонни;",
+    "33 тонни."
+   ],
+   "explanation": "Обмеження для зчленованих автобусів із 4 або більше осями — 32 т, що охоплює й п'ятивісні."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "31 t is below the 32 t allowed for articulated buses with 4 or more axles.",
+    "uk": "31 т менше за 32 т, дозволені для зчленованих автобусів із 4 або більше осями."
+   },
+   "c": {
+    "en": "33 t exceeds the 32 t limit for articulated buses.",
+    "uk": "33 т перевищує межу 32 т для зчленованих автобусів."
+   }
+  }
+ },
+ {
+  "id": "g04-0096",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum authorised towable gross weight for vehicles with a gross weight above 3500 kg is:",
+   "options": [
+    "3500 kg, if the trailer has an overrun (inertia) brake;",
+    "2500 kg, if the trailer has an overrun (inertia) brake;",
+    "3500 kg, if the trailer has a continuous braking system."
+   ],
+   "explanation": "Overrun (inertia) brakes are only permitted on trailers up to 3500 kg; heavier trailers need continuous braking, and with it they may weigh more than 3500 kg."
+  },
+  "uk": {
+   "q": "Максимально дозволена маса причепа, що буксирується, для автомобілів із повною масою понад 3500 кг становить:",
+   "options": [
+    "3500 кг, якщо причіп має інерційне гальмо;",
+    "2500 кг, якщо причіп має інерційне гальмо;",
+    "3500 кг, якщо причіп має систему безперервного гальмування."
+   ],
+   "explanation": "Інерційні гальма дозволені лише на причепах масою до 3500 кг; важчим причепам потрібне безперервне гальмування, і з ним вони можуть важити понад 3500 кг."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Overrun brakes are allowed on trailers up to 3500 kg, not just 2500 kg.",
+    "uk": "Інерційні гальма дозволені на причепах до 3500 кг, а не лише до 2500 кг."
+   },
+   "c": {
+    "en": "With continuous braking the towable weight is not capped at 3500 kg; that cap belongs to overrun brakes.",
+    "uk": "З безперервним гальмуванням маса причепа не обмежена 3500 кг; ця межа стосується інерційних гальм."
+   }
+  }
+ },
+ {
+  "id": "g04-0097",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "A",
+   "AM"
+  ],
+  "topic": "safe_driving",
+  "en": {
+   "q": "What is the 'service life' of a mid-range helmet, used normally and never dropped?",
+   "options": [
+    "The one indicated by the helmet manufacturer.",
+    "The one indicated by the manufacturer of each motorcycle.",
+    "4 years."
+   ],
+   "explanation": "Helmet lifespan depends on its materials and is set by the helmet manufacturer."
+  },
+  "uk": {
+   "q": "Який «термін служби» шолома середнього класу за звичайного використання і без падінь?",
+   "options": [
+    "Той, що вказаний виробником шолома.",
+    "Той, що вказаний виробником кожного мотоцикла.",
+    "4 роки."
+   ],
+   "explanation": "Термін служби шолома залежить від його матеріалів і визначається виробником шолома."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "The motorcycle manufacturer does not determine a helmet's service life.",
+    "uk": "Виробник мотоцикла не визначає термін служби шолома."
+   },
+   "c": {
+    "en": "There is no fixed legal 4-year lifespan; it depends on the helmet manufacturer.",
+    "uk": "Фіксованого законного терміну 4 роки немає; він залежить від виробника шолома."
+   }
+  }
+ },
+ {
+  "id": "g04-0098",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum legally permitted height for heavy passenger vehicles is:",
+   "options": [
+    "3.50 metres;",
+    "4.00 metres;",
+    "4.50 metres."
+   ],
+   "explanation": "The maximum height for vehicles, including buses, is 4 m."
+  },
+  "uk": {
+   "q": "Максимально допустима законом висота важких пасажирських автомобілів становить:",
+   "options": [
+    "3,50 метра;",
+    "4,00 метра;",
+    "4,50 метра."
+   ],
+   "explanation": "Максимальна висота транспортних засобів, зокрема автобусів, — 4 м."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "3.50 m is below the 4 m maximum height.",
+    "uk": "3,50 м менше за максимальну висоту 4 м."
+   },
+   "c": {
+    "en": "4.50 m exceeds the 4 m maximum height.",
+    "uk": "4,50 м перевищує максимальну висоту 4 м."
+   }
+  }
+ },
+ {
+  "id": "g04-0099",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum legally permitted height for articulated buses is:",
+   "options": [
+    "3.50 metres;",
+    "4.00 metres;",
+    "4.50 metres."
+   ],
+   "explanation": "The maximum height for vehicles, including articulated buses, is 4 m."
+  },
+  "uk": {
+   "q": "Максимально допустима законом висота зчленованих автобусів становить:",
+   "options": [
+    "3,50 метра;",
+    "4,00 метра;",
+    "4,50 метра."
+   ],
+   "explanation": "Максимальна висота транспортних засобів, зокрема зчленованих автобусів, — 4 м."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "3.50 m is below the 4 m maximum height.",
+    "uk": "3,50 м менше за максимальну висоту 4 м."
+   },
+   "c": {
+    "en": "4.50 m exceeds the 4 m maximum height.",
+    "uk": "4,50 м перевищує максимальну висоту 4 м."
+   }
+  }
+ },
+ {
+  "id": "g04-0100",
+  "answer": "a",
+  "confidence": "low",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "Abusive parking is considered to be this vehicle remaining in the same space for a period of:",
+   "options": [
+    "20 days.",
+    "10 days.",
+    "40 days."
+   ],
+   "explanation": "Uncertain: the current Highway Code sets 30 uninterrupted days on a public road for abusive parking, which is not among the options; 20 days is a best guess for the older rule."
+  },
+  "uk": {
+   "q": "Зловживанням стоянкою вважається перебування цього транспортного засобу на тому самому місці протягом:",
+   "options": [
+    "20 днів.",
+    "10 днів.",
+    "40 днів."
+   ],
+   "explanation": "Непевно: чинний Кодекс дорожнього руху встановлює для зловживання стоянкою 30 днів поспіль на дорозі загального користування, чого немає серед варіантів; 20 днів — найкраще припущення щодо старшої норми."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "10 days is too short to count as abusive parking on a public road.",
+    "uk": "10 днів замало, щоб вважатися зловживанням стоянкою на дорозі загального користування."
+   },
+   "c": {
+    "en": "40 days is longer than the legal threshold for abusive parking.",
+    "uk": "40 днів перевищує законний поріг для зловживання стоянкою."
+   }
+  }
+ },
+ {
+  "id": "g04-0101",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "In a built-up area the maximum legally permitted speed is:",
+   "options": [
+    "60 km/h.",
+    "50 km/h.",
+    "40 km/h"
+   ],
+   "explanation": "The general speed limit in built-up areas is 50 km/h."
+  },
+  "uk": {
+   "q": "У населеному пункті максимально дозволена законом швидкість становить:",
+   "options": [
+    "60 км/год.",
+    "50 км/год.",
+    "40 км/год"
+   ],
+   "explanation": "Загальне обмеження швидкості в населених пунктах — 50 км/год."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "60 km/h is above the general 50 km/h built-up area limit.",
+    "uk": "60 км/год перевищує загальне обмеження 50 км/год у населених пунктах."
+   },
+   "c": {
+    "en": "40 km/h applies to some vehicles (e.g. mopeds, heavy vehicles with trailers), not the general limit.",
+    "uk": "40 км/год стосується деяких транспортних засобів (наприклад, мопедів, важких із причепами), а не загального обмеження."
+   }
+  }
+ },
+ {
+  "id": "g04-0102",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "B"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "Outside built-up areas, what is the minimum permitted speed for a light passenger car?",
+   "options": [
+    "50 km/h.",
+    "One that allows the driver to act safely without obstructing traffic.",
+    "40 km/h, regardless of road conditions."
+   ],
+   "explanation": "Outside motorways there is no fixed minimum; drivers must not drive so slowly as to obstruct traffic without reason, while staying safe."
+  },
+  "uk": {
+   "q": "Яка мінімально дозволена швидкість для легкового пасажирського автомобіля поза населеними пунктами?",
+   "options": [
+    "50 км/год.",
+    "Та, що дозволяє водієві діяти безпечно, не створюючи перешкод для руху.",
+    "40 км/год незалежно від стану дороги."
+   ],
+   "explanation": "Поза автомагістралями фіксованого мінімуму немає; водій не повинен їхати так повільно, щоб без причини заважати руху, зберігаючи при цьому безпеку."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "50 km/h is the motorway minimum, not a minimum on other roads.",
+    "uk": "50 км/год — мінімум на автомагістралі, а не на інших дорогах."
+   },
+   "c": {
+    "en": "There is no fixed 40 km/h minimum, and conditions must always be considered.",
+    "uk": "Фіксованого мінімуму 40 км/год немає, і умови завжди треба враховувати."
+   }
+  }
+ },
+ {
+  "id": "g04-0103",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "At this location the maximum permitted speed is:",
+   "options": [
+    "90 km/h, for all vehicles.",
+    "70 km/h, for a heavy goods vehicle with a trailer.",
+    "40 km/h, for an agricultural machine."
+   ],
+   "explanation": "On an ordinary road outside built-up areas heavy goods vehicles with a trailer are limited to 70 km/h; limits differ by vehicle type, so 90 is not for all."
+  },
+  "uk": {
+   "q": "Максимально дозволена швидкість у цьому місці становить:",
+   "options": [
+    "90 км/год для всіх транспортних засобів.",
+    "70 км/год для важкого вантажного автомобіля з причепом.",
+    "40 км/год для сільськогосподарської машини."
+   ],
+   "explanation": "На звичайній дорозі поза населеними пунктами для важких вантажних автомобілів із причепом обмеження — 70 км/год; обмеження залежать від типу транспортного засобу, тож 90 — не для всіх."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Limits differ by vehicle type; heavy vehicles and those with trailers cannot do 90 km/h.",
+    "uk": "Обмеження залежать від типу транспортного засобу; важкі та з причепами не можуть їхати 90 км/год."
+   },
+   "c": {
+    "en": "Agricultural machines have much lower limits than 40 km/h.",
+    "uk": "Сільськогосподарські машини мають обмеження значно нижчі за 40 км/год."
+   }
+  }
+ },
+ {
+  "id": "g04-0104",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "B"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "I am driving a light passenger car inside a built-up area. What is the maximum legally permitted speed?",
+   "options": [
+    "60 km/h.",
+    "50 km/h.",
+    "40 km/h."
+   ],
+   "explanation": "Light passenger cars are limited to 50 km/h in built-up areas."
+  },
+  "uk": {
+   "q": "Я керую легковим пасажирським автомобілем у населеному пункті. Яка максимально дозволена законом швидкість?",
+   "options": [
+    "60 км/год.",
+    "50 км/год.",
+    "40 км/год."
+   ],
+   "explanation": "Для легкових пасажирських автомобілів у населених пунктах обмеження — 50 км/год."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "60 km/h exceeds the 50 km/h limit for built-up areas.",
+    "uk": "60 км/год перевищує обмеження 50 км/год у населених пунктах."
+   },
+   "c": {
+    "en": "40 km/h is not the limit for light cars in built-up areas.",
+    "uk": "40 км/год — не обмеження для легкових автомобілів у населених пунктах."
+   }
+  }
+ },
+ {
+  "id": "g04-0105",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "C"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "In a built-up area, what is the maximum speed for a heavy goods vehicle with a trailer?",
+   "options": [
+    "60 km/h.",
+    "50 km/h.",
+    "40 km/h."
+   ],
+   "explanation": "Heavy goods vehicles with a trailer or semi-trailer are limited to 40 km/h in built-up areas."
+  },
+  "uk": {
+   "q": "Яка максимальна швидкість для важкого вантажного автомобіля з причепом у населеному пункті?",
+   "options": [
+    "60 км/год.",
+    "50 км/год.",
+    "40 км/год."
+   ],
+   "explanation": "Для важких вантажних автомобілів із причепом або напівпричепом обмеження в населених пунктах — 40 км/год."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "60 km/h exceeds every built-up area limit for heavy vehicles.",
+    "uk": "60 км/год перевищує будь-яке обмеження для важких автомобілів у населених пунктах."
+   },
+   "b": {
+    "en": "50 km/h applies without a trailer; with a trailer it is 40 km/h.",
+    "uk": "50 км/год діє без причепа; з причепом — 40 км/год."
+   }
+  }
+ },
+ {
+  "id": "g04-0106",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "As a general rule, in a built-up area speed must be especially moderate and may not exceed:",
+   "options": [
+    "30 km/h.",
+    "50 km/h.",
+    "40 km/h."
+   ],
+   "explanation": "The general limit in built-up areas is 50 km/h."
+  },
+  "uk": {
+   "q": "Як правило, у населеному пункті швидкість має бути особливо помірною і не може перевищувати:",
+   "options": [
+    "30 км/год.",
+    "50 км/год.",
+    "40 км/год."
+   ],
+   "explanation": "Загальне обмеження в населених пунктах — 50 км/год."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "30 km/h applies only where signed (e.g. residential zones), not as the general rule.",
+    "uk": "30 км/год діє лише там, де є знак (наприклад, житлові зони), а не як загальне правило."
+   },
+   "c": {
+    "en": "40 km/h is not the general built-up area limit.",
+    "uk": "40 км/год не є загальним обмеженням у населених пунктах."
+   }
+  }
+ },
+ {
+  "id": "g04-0107",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "A",
+   "AM"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "A motorcycle with an engine capacity below 50 cm3 may not exceed, inside a built-up area, a maximum speed limit of:",
+   "options": [
+    "60 km/h.",
+    "50 km/h.",
+    "40 km/h."
+   ],
+   "explanation": "Motorcycles up to 50 cm3, like mopeds, are limited to 40 km/h inside built-up areas."
+  },
+  "uk": {
+   "q": "Мотоцикл з об'ємом двигуна менше 50 см3 не може перевищувати в населеному пункті максимальну швидкість:",
+   "options": [
+    "60 км/год.",
+    "50 км/год.",
+    "40 км/год."
+   ],
+   "explanation": "Мотоцикли до 50 см3, як і мопеди, обмежені 40 км/год у населених пунктах."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "60 km/h exceeds the built-up area limit for any motorcycle.",
+    "uk": "60 км/год перевищує обмеження в населених пунктах для будь-якого мотоцикла."
+   },
+   "b": {
+    "en": "50 km/h is for motorcycles over 50 cm3; small ones are limited to 40 km/h.",
+    "uk": "50 км/год — для мотоциклів понад 50 см3; малі обмежені 40 км/год."
+   }
+  }
+ },
+ {
+  "id": "g04-0108",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "A"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "As a general rule, any motorcycle may travel inside built-up areas at a speed of:",
+   "options": [
+    "60 km/h.",
+    "50 km/h.",
+    "40 km/h."
+   ],
+   "explanation": "The general limit for motorcycles in built-up areas is 50 km/h."
+  },
+  "uk": {
+   "q": "Як правило, будь-який мотоцикл може рухатися в населених пунктах зі швидкістю:",
+   "options": [
+    "60 км/год.",
+    "50 км/год.",
+    "40 км/год."
+   ],
+   "explanation": "Загальне обмеження для мотоциклів у населених пунктах — 50 км/год."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "60 km/h exceeds the 50 km/h built-up area limit.",
+    "uk": "60 км/год перевищує обмеження 50 км/год у населених пунктах."
+   },
+   "c": {
+    "en": "40 km/h applies only to motorcycles up to 50 cm3 and mopeds.",
+    "uk": "40 км/год стосується лише мотоциклів до 50 см3 і мопедів."
+   }
+  }
+ },
+ {
+  "id": "g04-0109",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "C"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "As a general rule, inside built-up areas a heavy goods vehicle without a trailer may not exceed a speed of:",
+   "options": [
+    "60 km/h.",
+    "50 km/h.",
+    "40 km/h."
+   ],
+   "explanation": "Heavy goods vehicles without a trailer are limited to 50 km/h in built-up areas (40 km/h with a trailer)."
+  },
+  "uk": {
+   "q": "Як правило, у населених пунктах важкий вантажний автомобіль без причепа не може перевищувати швидкість:",
+   "options": [
+    "60 км/год.",
+    "50 км/год.",
+    "40 км/год."
+   ],
+   "explanation": "Для важких вантажних автомобілів без причепа обмеження в населених пунктах — 50 км/год (з причепом — 40 км/год)."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "60 km/h exceeds the 50 km/h built-up area limit.",
+    "uk": "60 км/год перевищує обмеження 50 км/год у населених пунктах."
+   },
+   "c": {
+    "en": "40 km/h applies to heavy goods vehicles with a trailer, not without.",
+    "uk": "40 км/год стосується важких вантажних автомобілів із причепом, а не без нього."
+   }
+  }
+ },
+ {
+  "id": "g04-0110",
+  "answer": "b",
+  "confidence": "medium",
+  "categories": [
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "When travelling in this built-up area, what is the maximum permitted speed for a heavy passenger vehicle with a trailer?",
+   "options": [
+    "60 km/h.",
+    "50 km/h.",
+    "40 km/h."
+   ],
+   "explanation": "Heavy passenger vehicles, with or without a trailer, are limited to 50 km/h in built-up areas."
+  },
+  "uk": {
+   "q": "Яка максимально дозволена швидкість для важкого пасажирського автомобіля з причепом під час руху цим населеним пунктом?",
+   "options": [
+    "60 км/год.",
+    "50 км/год.",
+    "40 км/год."
+   ],
+   "explanation": "Для важких пасажирських автомобілів із причепом або без нього обмеження в населених пунктах — 50 км/год."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "60 km/h exceeds the 50 km/h built-up area limit.",
+    "uk": "60 км/год перевищує обмеження 50 км/год у населених пунктах."
+   },
+   "c": {
+    "en": "40 km/h is the limit for heavy goods vehicles with a trailer, not passenger vehicles.",
+    "uk": "40 км/год — обмеження для важких вантажних із причепом, а не пасажирських."
+   }
+  }
+ },
+ {
+  "id": "g04-0111",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "If I am driving an agricultural machine or motor cultivator, the maximum permitted speed inside built-up areas is:",
+   "options": [
+    "20 km/h.",
+    "30 km/h.",
+    "40 km/h."
+   ],
+   "explanation": "Agricultural machines and motor cultivators are limited to 20 km/h inside built-up areas."
+  },
+  "uk": {
+   "q": "Якщо я керую сільськогосподарською машиною або мотоблоком, максимально дозволена швидкість у населених пунктах становить:",
+   "options": [
+    "20 км/год.",
+    "30 км/год.",
+    "40 км/год."
+   ],
+   "explanation": "Для сільськогосподарських машин і мотоблоків обмеження в населених пунктах — 20 км/год."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "30 km/h is too high for agricultural machines inside built-up areas.",
+    "uk": "30 км/год забагато для сільськогосподарських машин у населених пунктах."
+   },
+   "c": {
+    "en": "40 km/h is the limit for mopeds, not agricultural machines.",
+    "uk": "40 км/год — обмеження для мопедів, а не сільськогосподарських машин."
+   }
+  }
+ },
+ {
+  "id": "g04-0112",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "Outside built-up areas, what minimum speed should be kept?",
+   "options": [
+    "One adapted to the conditions of the moment that does not obstruct traffic.",
+    "There is no minimum speed; the driver may drive at any speed.",
+    "40 km/h."
+   ],
+   "explanation": "Except on motorways, there is no fixed minimum, but drivers must not obstruct traffic by driving abnormally slowly without reason."
+  },
+  "uk": {
+   "q": "Якої мінімальної швидкості слід дотримуватися поза населеними пунктами?",
+   "options": [
+    "Тієї, що відповідає умовам на цей момент і не створює перешкод для руху.",
+    "Мінімальної швидкості немає, водій може їхати з будь-якою швидкістю.",
+    "40 км/год."
+   ],
+   "explanation": "За винятком автомагістралей, фіксованого мінімуму немає, але водій не повинен заважати руху, їдучи без причини надто повільно."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "Drivers may not drive abnormally slowly and obstruct traffic without reason.",
+    "uk": "Водії не можуть їхати ненормально повільно і без причини заважати руху."
+   },
+   "c": {
+    "en": "There is no fixed 40 km/h minimum outside built-up areas.",
+    "uk": "Фіксованого мінімуму 40 км/год поза населеними пунктами немає."
+   }
+  }
+ },
+ {
+  "id": "g04-0113",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "Inside built-up areas mopeds may reach a speed of:",
+   "options": [
+    "30 kilometres per hour.",
+    "50 kilometres per hour.",
+    "40 kilometres per hour."
+   ],
+   "explanation": "Mopeds are limited to 40 km/h inside built-up areas."
+  },
+  "uk": {
+   "q": "У населених пунктах мопеди можуть досягати швидкості:",
+   "options": [
+    "30 кілометрів на годину.",
+    "50 кілометрів на годину.",
+    "40 кілометрів на годину."
+   ],
+   "explanation": "Для мопедів обмеження в населених пунктах — 40 км/год."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "30 km/h is not the moped limit; it is 40 km/h.",
+    "uk": "30 км/год — не обмеження для мопедів; воно становить 40 км/год."
+   },
+   "b": {
+    "en": "50 km/h is the general limit for cars, not mopeds.",
+    "uk": "50 км/год — загальне обмеження для автомобілів, а не мопедів."
+   }
+  }
+ },
+ {
+  "id": "g04-0114",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum legally permitted gross weight for a three-axle vehicle is:",
+   "options": [
+    "26 tonnes;",
+    "32 tonnes;",
+    "40 tonnes."
+   ],
+   "explanation": "Three-axle motor vehicles are limited to 26 t gross weight."
+  },
+  "uk": {
+   "q": "Максимально допустима законом повна маса тривісного транспортного засобу становить:",
+   "options": [
+    "26 тонн;",
+    "32 тонни;",
+    "40 тонн."
+   ],
+   "explanation": "Для тривісних автомобілів обмеження повної маси — 26 т."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "32 t is the limit for four-axle vehicles.",
+    "uk": "32 т — межа для чотиривісних транспортних засобів."
+   },
+   "c": {
+    "en": "40 t is the limit for combinations of vehicles, not a single three-axle vehicle.",
+    "uk": "40 т — межа для автопоїздів, а не для одного тривісного транспортного засобу."
+   }
+  }
+ },
+ {
+  "id": "g04-0115",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "B"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "The maximum permitted speed for quadricycles is:",
+   "options": [
+    "60 km/h on motorways.",
+    "50 km/h on expressways.",
+    "45 km/h on other public roads."
+   ],
+   "explanation": "Quadricycles may not use motorways or expressways; on other roads outside built-up areas they are limited to 45 km/h."
+  },
+  "uk": {
+   "q": "Максимально дозволена швидкість для квадрициклів становить:",
+   "options": [
+    "60 км/год на автомагістралях.",
+    "50 км/год на дорогах для автомобілів і мотоциклів.",
+    "45 км/год на інших дорогах загального користування."
+   ],
+   "explanation": "Квадрицикли не можуть рухатися автомагістралями чи дорогами для автомобілів і мотоциклів; на інших дорогах поза населеними пунктами їхнє обмеження — 45 км/год."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Quadricycles are not allowed on motorways.",
+    "uk": "Квадрициклам рух автомагістралями заборонено."
+   },
+   "b": {
+    "en": "Quadricycles are not allowed on roads reserved for motor vehicles and motorcycles.",
+    "uk": "Квадрициклам рух дорогами для автомобілів і мотоциклів заборонено."
+   }
+  }
+ },
+ {
+  "id": "g04-0116",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "A"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "On a motorway, what is the minimum speed at which a motorcycle may travel?",
+   "options": [
+    "120 km/h.",
+    "50 km/h.",
+    "45 km/h."
+   ],
+   "explanation": "The minimum speed on motorways is 50 km/h for all vehicles."
+  },
+  "uk": {
+   "q": "Яка мінімальна швидкість, з якою мотоцикл може рухатися автомагістраллю?",
+   "options": [
+    "120 км/год.",
+    "50 км/год.",
+    "45 км/год."
+   ],
+   "explanation": "Мінімальна швидкість на автомагістралях — 50 км/год для всіх транспортних засобів."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "120 km/h is the motorway maximum, not the minimum.",
+    "uk": "120 км/год — максимум на автомагістралі, а не мінімум."
+   },
+   "c": {
+    "en": "45 km/h is not the motorway minimum; it is 50 km/h.",
+    "uk": "45 км/год — не мінімум на автомагістралі; він становить 50 км/год."
+   }
+  }
+ },
+ {
+  "id": "g04-0117",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "Abusive parking is the parking of a vehicle showing clear signs of abandonment for longer than:",
+   "options": [
+    "2 hours.",
+    "10 hours.",
+    "48 hours."
+   ],
+   "explanation": "A vehicle with clear signs of abandonment parked for more than 48 hours is abusively parked."
+  },
+  "uk": {
+   "q": "Зловживанням стоянкою вважається стоянка транспортного засобу з явними ознаками покинутості протягом понад:",
+   "options": [
+    "2 години.",
+    "10 годин.",
+    "48 годин."
+   ],
+   "explanation": "Транспортний засіб з явними ознаками покинутості, що стоїть понад 48 годин, вважається таким, що стоїть зі зловживанням."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "2 hours relates to time-limited parking, not abandoned vehicles.",
+    "uk": "2 години стосуються стоянки з обмеженням за часом, а не покинутих транспортних засобів."
+   },
+   "b": {
+    "en": "10 hours is not the legal threshold; it is 48 hours.",
+    "uk": "10 годин — не законний поріг; він становить 48 годин."
+   }
+  }
+ },
+ {
+  "id": "g04-0118",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "A vehicle is considered abusively parked in a car park when the usage fees have not been paid for:",
+   "options": [
+    "48 hours.",
+    "10 days.",
+    "5 days."
+   ],
+   "explanation": "Under the current Highway Code, a vehicle in a car park is abusively parked when fees corresponding to 5 days of use have not been paid."
+  },
+  "uk": {
+   "q": "Транспортний засіб вважається таким, що стоїть зі зловживанням на автостоянці, коли плату за користування не сплачено протягом:",
+   "options": [
+    "48 годин.",
+    "10 днів.",
+    "5 днів."
+   ],
+   "explanation": "Згідно з чинним Кодексом дорожнього руху транспортний засіб на автостоянці стоїть зі зловживанням, коли не сплачено плату за 5 днів користування."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "48 hours relates to abandoned vehicles, not unpaid car park fees.",
+    "uk": "48 годин стосуються покинутих транспортних засобів, а не несплати за автостоянку."
+   },
+   "b": {
+    "en": "Under current law the threshold is 5 days of unpaid fees, not 10.",
+    "uk": "Згідно з чинним законом поріг — 5 днів несплати, а не 10."
+   }
+  }
+ },
+ {
+  "id": "g04-0119",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "At the place indicated by the sign, I may not park less than:",
+   "options": [
+    "30 metres",
+    "25 metres before the stop",
+    "5 metres in front and 25 metres behind."
+   ],
+   "explanation": "The sign marks a bus stop; parking is prohibited less than 5 m in front of and 25 m behind public transport stop signs."
+  },
+  "uk": {
+   "q": "У місці, позначеному знаком, я не можу ставити транспортний засіб на стоянку ближче ніж:",
+   "options": [
+    "30 метрів",
+    "25 метрів перед зупинкою",
+    "5 метрів попереду і 25 метрів позаду."
+   ],
+   "explanation": "Знак позначає автобусну зупинку; стоянка заборонена ближче ніж 5 м попереду і 25 м позаду знаків зупинок громадського транспорту."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "There is no 30 m rule for bus stops.",
+    "uk": "Для автобусних зупинок немає правила 30 м."
+   },
+   "b": {
+    "en": "It is not 25 m before the stop; it is 25 m behind and 5 m in front of the sign.",
+    "uk": "Не 25 м перед зупинкою, а 25 м позаду і 5 м попереду знака."
+   }
+  }
+ },
+ {
+  "id": "g04-0120",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "On motorways, what is the minimum speed limit?",
+   "options": [
+    "30 km/h.",
+    "40 km/h",
+    "50 km/h"
+   ],
+   "explanation": "The minimum speed on motorways is 50 km/h."
+  },
+  "uk": {
+   "q": "Яке мінімальне обмеження швидкості на автомагістралях?",
+   "options": [
+    "30 км/год.",
+    "40 км/год",
+    "50 км/год"
+   ],
+   "explanation": "Мінімальна швидкість на автомагістралях — 50 км/год."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "30 km/h is not the motorway minimum.",
+    "uk": "30 км/год не є мінімумом на автомагістралі."
+   },
+   "b": {
+    "en": "40 km/h is not the motorway minimum; it is 50 km/h.",
+    "uk": "40 км/год не є мінімумом на автомагістралі; він становить 50 км/год."
+   }
+  }
+ },
+ {
+  "id": "g04-0121",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "C"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "The maximum permitted speed for heavy goods vehicles without a trailer is:",
+   "options": [
+    "90 km/h on expressways reserved for motor vehicles and motorcycles.",
+    "100 km/h on motorways.",
+    "50 km/h inside built-up areas."
+   ],
+   "explanation": "Heavy goods vehicles without a trailer are limited to 50 km/h in built-up areas, 80 km/h on expressways and 90 km/h on motorways."
+  },
+  "uk": {
+   "q": "Максимально дозволена швидкість для важких вантажних автомобілів без причепа становить:",
+   "options": [
+    "90 км/год на дорогах для автомобілів і мотоциклів.",
+    "100 км/год на автомагістралях.",
+    "50 км/год у населених пунктах."
+   ],
+   "explanation": "Для важких вантажних автомобілів без причепа обмеження — 50 км/год у населених пунктах, 80 км/год на дорогах для автомобілів і мотоциклів і 90 км/год на автомагістралях."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "Heavy goods vehicles are limited to 80 km/h on expressways, not 90.",
+    "uk": "Важкі вантажні автомобілі обмежені на дорогах для автомобілів і мотоциклів 80 км/год, а не 90."
+   },
+   "b": {
+    "en": "Heavy goods vehicles are limited to 90 km/h on motorways, not 100.",
+    "uk": "Важкі вантажні автомобілі обмежені на автомагістралях 90 км/год, а не 100."
+   }
+  }
+ },
+ {
+  "id": "g04-0122",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "C"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "I am travelling on a motorway. What is the minimum speed at which the heavy vehicle in front of me may travel?",
+   "options": [
+    "60 km/h, as indicated by the sign.",
+    "80 km/h, because it is intended for carrying goods.",
+    "50 km/h, like any other vehicle."
+   ],
+   "explanation": "The red-circle signs over the lanes are maximum limits, not minimums; the minimum on motorways is 50 km/h for every vehicle."
+  },
+  "uk": {
+   "q": "Я рухаюся автомагістраллю. Яка мінімальна швидкість, з якою може рухатися важкий транспортний засіб попереду мене?",
+   "options": [
+    "60 км/год, як вказує знак.",
+    "80 км/год, бо він призначений для перевезення вантажів.",
+    "50 км/год, як і будь-який інший транспортний засіб."
+   ],
+   "explanation": "Знаки з червоним колом над смугами — це максимальні обмеження, а не мінімальні; мінімум на автомагістралях — 50 км/год для всіх транспортних засобів."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The red-circle signs are maximum speeds, not minimums.",
+    "uk": "Знаки з червоним колом — максимальна швидкість, а не мінімальна."
+   },
+   "b": {
+    "en": "There is no special 80 km/h minimum for goods vehicles.",
+    "uk": "Особливого мінімуму 80 км/год для вантажних автомобілів немає."
+   }
+  }
+ },
+ {
+  "id": "g04-0123",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "A"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "What is the maximum speed at which a motorcycle over 50 cm3 may travel after the vertical sign?",
+   "options": [
+    "30 km/h.",
+    "40 km/h.",
+    "50 km/h."
+   ],
+   "explanation": "The sign shown is a 50 km/h speed limit, which applies to the motorcycle."
+  },
+  "uk": {
+   "q": "З якою максимальною швидкістю може рухатися мотоцикл з об'ємом двигуна понад 50 см3 після вертикального знака?",
+   "options": [
+    "30 км/год.",
+    "40 км/год.",
+    "50 км/год."
+   ],
+   "explanation": "Зображений знак — обмеження швидкості 50 км/год, яке стосується мотоцикла."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The sign shows 50, not 30.",
+    "uk": "Знак показує 50, а не 30."
+   },
+   "b": {
+    "en": "The sign sets 50 km/h, and a motorcycle over 50 cm3 is not restricted to 40 km/h.",
+    "uk": "Знак встановлює 50 км/год, а мотоцикл понад 50 см3 не обмежений 40 км/год."
+   }
+  }
+ },
+ {
+  "id": "g04-0124",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "In this situation, what is the maximum speed limit for the heavy vehicle travelling in the opposite direction?",
+   "options": [
+    "40 km/h.",
+    "45 km/h.",
+    "50 km/h."
+   ],
+   "explanation": "The oncoming vehicle is a bus without a trailer in a built-up area, so its limit is 50 km/h."
+  },
+  "uk": {
+   "q": "Яке максимальне обмеження швидкості в цій ситуації для важкого транспортного засобу, що рухається назустріч?",
+   "options": [
+    "40 км/год.",
+    "45 км/год.",
+    "50 км/год."
+   ],
+   "explanation": "Зустрічний транспортний засіб — автобус без причепа в населеному пункті, тож його обмеження — 50 км/год."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "40 km/h applies to heavy goods vehicles with trailers, not a bus without one.",
+    "uk": "40 км/год стосується важких вантажних із причепами, а не автобуса без причепа."
+   },
+   "b": {
+    "en": "45 km/h is not a legal limit in built-up areas.",
+    "uk": "45 км/год не є законним обмеженням у населених пунктах."
+   }
+  }
+ },
+ {
+  "id": "g04-0125",
+  "answer": "a",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "signs",
+  "en": {
+   "q": "The panel is intended to show the driver that the vehicle's maximum authorised speed is:",
+   "options": [
+    "40 km/h.",
+    "30 km/h.",
+    "50 km/h."
+   ],
+   "explanation": "The orange triangular slow-vehicle plate on the tractor indicates a vehicle whose maximum authorised speed is 40 km/h."
+  },
+  "uk": {
+   "q": "Табличка призначена повідомляти водія, що максимально дозволена швидкість транспортного засобу становить:",
+   "options": [
+    "40 км/год.",
+    "30 км/год.",
+    "50 км/год."
+   ],
+   "explanation": "Помаранчева трикутна табличка тихохідного транспортного засобу на тракторі вказує, що його максимально дозволена швидкість — 40 км/год."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "30 km/h is not the speed indicated by this slow-vehicle plate.",
+    "uk": "30 км/год — не та швидкість, яку позначає ця табличка тихохідного транспортного засобу."
+   },
+   "c": {
+    "en": "50 km/h is too high for a vehicle marked as slow-moving.",
+    "uk": "50 км/год забагато для транспортного засобу, позначеного як тихохідний."
+   }
+  }
+ },
+ {
+  "id": "g04-0126",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "Travelling in a built-up area, what is the maximum speed limit for the heavy passenger vehicle without a trailer in front of me?",
+   "options": [
+    "40 km/h.",
+    "45 km/h.",
+    "50 km/h."
+   ],
+   "explanation": "Heavy passenger vehicles without a trailer are limited to 50 km/h in built-up areas."
+  },
+  "uk": {
+   "q": "Яке максимальне обмеження швидкості для важкого пасажирського автомобіля без причепа, що їде переді мною в населеному пункті?",
+   "options": [
+    "40 км/год.",
+    "45 км/год.",
+    "50 км/год."
+   ],
+   "explanation": "Для важких пасажирських автомобілів без причепа обмеження в населених пунктах — 50 км/год."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "40 km/h applies to heavy goods vehicles with trailers.",
+    "uk": "40 км/год стосується важких вантажних із причепами."
+   },
+   "b": {
+    "en": "45 km/h is not a legal limit in built-up areas.",
+    "uk": "45 км/год не є законним обмеженням у населених пунктах."
+   }
+  }
+ },
+ {
+  "id": "g04-0127",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "Covering a distance of 250 km in 5 hours means that the average speed is:",
+   "options": [
+    "30 km/h;",
+    "40 km/h;",
+    "50 km/h."
+   ],
+   "explanation": "Average speed = distance / time = 250 km / 5 h = 50 km/h."
+  },
+  "uk": {
+   "q": "Подолання відстані 250 км за 5 годин означає, що середня швидкість становить:",
+   "options": [
+    "30 км/год;",
+    "40 км/год;",
+    "50 км/год."
+   ],
+   "explanation": "Середня швидкість = відстань / час = 250 км / 5 год = 50 км/год."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "250 / 5 = 50, not 30.",
+    "uk": "250 / 5 = 50, а не 30."
+   },
+   "b": {
+    "en": "250 / 5 = 50, not 40.",
+    "uk": "250 / 5 = 50, а не 40."
+   }
+  }
+ },
+ {
+  "id": "g04-0128",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "lights",
+  "en": {
+   "q": "Visibility is considered insufficient if the driver cannot see the carriageway across its full width for a distance of at least:",
+   "options": [
+    "150 metres.",
+    "75 metres.",
+    "50 metres"
+   ],
+   "explanation": "The Highway Code considers visibility insufficient when the carriageway cannot be seen across its full width for at least 50 m."
+  },
+  "uk": {
+   "q": "Видимість вважається недостатньою, якщо водій не бачить проїзну частину на всю ширину на відстані щонайменше:",
+   "options": [
+    "150 метрів.",
+    "75 метрів.",
+    "50 метрів"
+   ],
+   "explanation": "Кодекс дорожнього руху вважає видимість недостатньою, коли проїзну частину не видно на всю ширину щонайменше на 50 м."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "150 m is far more than the legal threshold of 50 m.",
+    "uk": "150 м значно перевищує законний поріг 50 м."
+   },
+   "b": {
+    "en": "75 m is not the legal threshold; it is 50 m.",
+    "uk": "75 м — не законний поріг; він становить 50 м."
+   }
+  }
+ },
+ {
+  "id": "g04-0129",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "I should know that it is prohibited to stop or park less than:",
+   "options": [
+    "20 metres before traffic lights if the height of the vehicles, including their load, would hide them.",
+    "20 metres in front of and behind traffic lights.",
+    "50 metres before traffic lights if the height of the vehicles, including their load, would hide them."
+   ],
+   "explanation": "Stopping and parking are prohibited less than 20 m before light signals when the vehicle's height (with load) would hide them from other drivers."
+  },
+  "uk": {
+   "q": "Я повинен знати, що заборонено зупинятися або ставити транспортний засіб на стоянку ближче ніж:",
+   "options": [
+    "20 метрів перед світлофорами, якщо висота транспортних засобів, включно з вантажем, їх закриває.",
+    "20 метрів попереду та позаду світлофорів.",
+    "50 метрів перед світлофорами, якщо висота транспортних засобів, включно з вантажем, їх закриває."
+   ],
+   "explanation": "Зупинка та стоянка заборонені ближче ніж за 20 м перед світлофорами, якщо висота транспортного засобу (з вантажем) закриває їх від інших водіїв."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "The ban applies only before the lights and only if the vehicle would hide them.",
+    "uk": "Заборона діє лише перед світлофорами і лише якщо транспортний засіб їх закриватиме."
+   },
+   "c": {
+    "en": "The distance is 20 m, not 50 m.",
+    "uk": "Відстань — 20 м, а не 50 м."
+   }
+  }
+ },
+ {
+  "id": "g04-0130",
+  "answer": "c",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "stopping_parking",
+  "en": {
+   "q": "The minimum distance allowed for stopping or parking behind a tram stop is:",
+   "options": [
+    "3 metres",
+    "5 metres",
+    "6 metres"
+   ],
+   "explanation": "Stopping or parking is prohibited less than 6 m behind stops of vehicles running on rails (trams)."
+  },
+  "uk": {
+   "q": "Мінімальна дозволена відстань для зупинки чи стоянки позаду трамвайної зупинки становить:",
+   "options": [
+    "3 метри",
+    "5 метрів",
+    "6 метрів"
+   ],
+   "explanation": "Зупинка чи стоянка заборонені ближче ніж за 6 м позаду зупинок рейкових транспортних засобів (трамваїв)."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "3 m is too short; the rule for tram stops is 6 m behind.",
+    "uk": "3 м замало; правило для трамвайних зупинок — 6 м позаду."
+   },
+   "b": {
+    "en": "5 m is the distance in front of public transport stops, not behind a tram stop.",
+    "uk": "5 м — відстань попереду зупинок громадського транспорту, а не позаду трамвайної зупинки."
+   }
+  }
+ },
+ {
+  "id": "g04-0131",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "C"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "A heavy goods vehicle with a 12-tonne gross weight and capacity to carry an 8-tonne payload has:",
+   "options": [
+    "4 tonnes of tare;",
+    "5 tonnes of tare;",
+    "6 tonnes of tare."
+   ],
+   "explanation": "Tare = gross weight − payload = 12 t − 8 t = 4 t."
+  },
+  "uk": {
+   "q": "Важкий вантажний автомобіль із повною масою 12 тонн і вантажопідйомністю 8 тонн має:",
+   "options": [
+    "4 тонни маси без навантаження;",
+    "5 тонн маси без навантаження;",
+    "6 тонн маси без навантаження."
+   ],
+   "explanation": "Маса без навантаження = повна маса − вантажопідйомність = 12 т − 8 т = 4 т."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "12 − 8 = 4, not 5.",
+    "uk": "12 − 8 = 4, а не 5."
+   },
+   "c": {
+    "en": "12 − 8 = 4, not 6.",
+    "uk": "12 − 8 = 4, а не 6."
+   }
+  }
+ },
+ {
+  "id": "g04-0132",
+  "answer": "a",
+  "confidence": "low",
+  "categories": [
+   "C",
+   "D"
+  ],
+  "topic": "vehicle",
+  "en": {
+   "q": "The maximum legally permitted gross weight on the front axle of a heavy vehicle is:",
+   "options": [
+    "7.5 tonnes;",
+    "6 tonnes;",
+    "6.5 tonnes."
+   ],
+   "explanation": "Best estimate: the front (steering) axle of a heavy vehicle is limited to about 7.5 t under the older Portuguese weight rules; the current regulation is not clearly matched by the options."
+  },
+  "uk": {
+   "q": "Максимально допустима законом маса на передню вісь важкого автомобіля становить:",
+   "options": [
+    "7,5 тонни;",
+    "6 тонн;",
+    "6,5 тонни."
+   ],
+   "explanation": "Найкраща оцінка: передня (керована) вісь важкого автомобіля за старшими португальськими правилами щодо мас обмежена приблизно 7,5 т; чинний регламент не має чіткого відповідника серед варіантів."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "6 t is below the expected front-axle limit.",
+    "uk": "6 т менше за очікувану межу для передньої осі."
+   },
+   "c": {
+    "en": "6.5 t is below the expected front-axle limit.",
+    "uk": "6,5 т менше за очікувану межу для передньої осі."
+   }
+  }
+ },
+ {
+  "id": "g04-0133",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "In this lane, I may travel at a speed of:",
+   "options": [
+    "45 km/h.",
+    "55 km/h.",
+    "60 km/h."
+   ],
+   "explanation": "This is a built-up area with a general 50 km/h limit, so only 45 km/h is permitted."
+  },
+  "uk": {
+   "q": "На цій смузі руху я можу рухатися зі швидкістю:",
+   "options": [
+    "45 км/год.",
+    "55 км/год.",
+    "60 км/год."
+   ],
+   "explanation": "Це населений пункт із загальним обмеженням 50 км/год, тож дозволено лише 45 км/год."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "55 km/h exceeds the 50 km/h built-up area limit.",
+    "uk": "55 км/год перевищує обмеження 50 км/год у населених пунктах."
+   },
+   "c": {
+    "en": "60 km/h exceeds the 50 km/h built-up area limit.",
+    "uk": "60 км/год перевищує обмеження 50 км/год у населених пунктах."
+   }
+  }
+ },
+ {
+  "id": "g04-0134",
+  "answer": "a",
+  "confidence": "high",
+  "categories": [
+   "A"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "Riding outside urban areas, what is the maximum speed limit for this motorcycle over 50 cm3?",
+   "options": [
+    "90 km/h.",
+    "70 km/h.",
+    "60 km/h."
+   ],
+   "explanation": "Motorcycles over 50 cm3 are limited to 90 km/h on ordinary roads outside built-up areas."
+  },
+  "uk": {
+   "q": "Яке максимальне обмеження швидкості поза містом для цього мотоцикла з об'ємом двигуна понад 50 см3?",
+   "options": [
+    "90 км/год.",
+    "70 км/год.",
+    "60 км/год."
+   ],
+   "explanation": "Для мотоциклів понад 50 см3 обмеження на звичайних дорогах поза населеними пунктами — 90 км/год."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "70 km/h is the limit for cars with trailers on ordinary roads, not motorcycles.",
+    "uk": "70 км/год — обмеження для автомобілів із причепами на звичайних дорогах, а не для мотоциклів."
+   },
+   "c": {
+    "en": "60 km/h is too low; motorcycles over 50 cm3 may do 90 km/h there.",
+    "uk": "60 км/год замало; мотоцикли понад 50 см3 можуть там їхати 90 км/год."
+   }
+  }
+ },
+ {
+  "id": "g04-0135",
+  "answer": "c",
+  "confidence": "medium",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "Only vehicles whose characteristics allow them to reach a speed on level ground above the following may use motorways:",
+   "options": [
+    "40 km/h.",
+    "50 km/h.",
+    "60 km/h."
+   ],
+   "explanation": "Vehicles that cannot exceed 60 km/h on level ground are prohibited from using motorways."
+  },
+  "uk": {
+   "q": "Автомагістралями можуть рухатися лише транспортні засоби, характеристики яких дозволяють розвивати на рівній ділянці швидкість понад:",
+   "options": [
+    "40 км/год.",
+    "50 км/год.",
+    "60 км/год."
+   ],
+   "explanation": "Транспортним засобам, що не можуть розвинути на рівній ділянці понад 60 км/год, рух автомагістралями заборонено."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "40 km/h is too low a design speed for motorway use.",
+    "uk": "40 км/год — замала конструктивна швидкість для руху автомагістраллю."
+   },
+   "b": {
+    "en": "50 km/h is the minimum travelling speed, but vehicles must be able to exceed 60 km/h to be allowed.",
+    "uk": "50 км/год — мінімальна швидкість руху, але для допуску транспортні засоби мають розвивати понад 60 км/год."
+   }
+  }
+ },
+ {
+  "id": "g04-0136",
+  "answer": "b",
+  "confidence": "high",
+  "categories": [
+   "AM",
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "At this location the maximum instantaneous speed limit is:",
+   "options": [
+    "30 km/h.",
+    "50 km/h.",
+    "60 km/h."
+   ],
+   "explanation": "The sign marks the end of the 30 km/h limit, so the general built-up-area limit of 50 km/h applies again."
+  },
+  "uk": {
+   "q": "Яке максимальне обмеження миттєвої швидкості в цьому місці?",
+   "options": [
+    "30 км/год.",
+    "50 км/год.",
+    "60 км/год."
+   ],
+   "explanation": "Знак позначає кінець обмеження 30 км/год, тож знову діє загальне обмеження для населених пунктів — 50 км/год."
+  },
+  "why_wrong": {
+   "a": {
+    "en": "The sign ends the 30 km/h limit, so 30 no longer applies.",
+    "uk": "Знак скасовує обмеження 30 км/год, тож 30 більше не діє."
+   },
+   "c": {
+    "en": "60 km/h exceeds the general 50 km/h built-up area limit.",
+    "uk": "60 км/год перевищує загальне обмеження 50 км/год у населених пунктах."
+   }
+  }
+ },
+ {
+  "id": "g04-0137",
+  "answer": "a",
+  "confidence": "low",
+  "categories": [
+   "B"
+  ],
+  "topic": "speed",
+  "en": {
+   "q": "At what speed may a light passenger car with a trailer travel outside built-up areas?",
+   "options": [
+    "100 km/h.",
+    "80 km/h.",
+    "60 km/h."
+   ],
+   "explanation": "Outside built-up areas a light car with a trailer may reach 100 km/h on motorways (80 km/h on expressways, 70 km/h on other roads); the question is ambiguous."
+  },
+  "uk": {
+   "q": "З якою швидкістю може рухатися легковий пасажирський автомобіль із причепом поза населеними пунктами?",
+   "options": [
+    "100 км/год.",
+    "80 км/год.",
+    "60 км/год."
+   ],
+   "explanation": "Поза населеними пунктами легковий автомобіль із причепом може розвивати 100 км/год на автомагістралях (80 км/год на дорогах для автомобілів і мотоциклів, 70 км/год на інших дорогах); питання неоднозначне."
+  },
+  "why_wrong": {
+   "b": {
+    "en": "80 km/h is the limit on expressways only; on motorways it may reach 100 km/h.",
+    "uk": "80 км/год — обмеження лише на дорогах для автомобілів і мотоциклів; на автомагістралях можна до 100 км/год."
+   },
+   "c": {
+    "en": "60 km/h is not a legal limit for a car with a trailer outside built-up areas.",
+    "uk": "60 км/год не є законним обмеженням для автомобіля з причепом поза населеними пунктами."
+   }
+  }
+ }
+]
